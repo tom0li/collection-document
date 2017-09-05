@@ -59,6 +59,7 @@
 ### Android
 * [Android启动过程的分析](http://www.4hou.com/mobile/7373.html)
 * [360加固宝加固分析和脱壳教程解析](https://mp.weixin.qq.com/s/xSe2Zrv9Ev4qRaN99YmnRA)
+* [AndroidManifest.xml文件安全探索](https://bbs.ichunqiu.com/thread-26612-1-1.html)
 
 
 ### DNS
