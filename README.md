@@ -53,6 +53,7 @@
 * [渗透神器系列 搜索引擎](https://thief.one/2017/05/19/1/)
 * [[红日团队]安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/99951.html)
 * [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
+* [WEB应用中的信息泄漏以及攻击方法](http://www.4hou.com/info/news/3926.html)
 
 ## 渗透
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
