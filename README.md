@@ -26,16 +26,47 @@
 * [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
+* [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
+
 
 ## SRC
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/read/1433.html)
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/2017/07/17/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
-* [安全帮“大型目标渗透－01信息搜集](https://xianzhi.aliyun.com/forum/read/1675.html)
 * [我的SRC之旅](https://mp.weixin.qq.com/s/2ORHnywrxXPexviUYk7Ccg)
 * [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 
+
+
+## 信息收集
+* [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/read/1629.html)
+* [tom0li漫谈信息收集]()
+* [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
+* [安全帮“大型目标渗透－01信息搜集](https://xianzhi.aliyun.com/forum/read/1675.html)
+* [浅谈Web渗透测试中的信息收集](http://www.freebuf.com/articles/web/142767.html)
+* [Kali Linux渗透基础知识整理（一）：信息搜集](http://www.freebuf.com/sectool/109944.html)
+* [渗透测试教程：如何侦查目标以及收集信息？嘶吼](https://xianzhi.aliyun.com/forum/read/1940.html)
+* [我眼中的渗透测试信息搜集](https://bbs.ichunqiu.com/thread-16020-1-1.html)
+* [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
+* [从phpinfo中能获取哪些敏感信息](http://www.am0s.com/penetration/322.html)
+* [透过F5获取服务器真实内网IP](https://threathunter.org/topic/5940c85d9c58e020408a79fe)
+* [渗透神器系列 搜索引擎](https://thief.one/2017/05/19/1/)
+* [[红日团队]安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/99951.html)
+* [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
+
+## 渗透
+* [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
+* [从目录信息泄露到渗透内网](https://xianzhi.aliyun.com/forum/read/1649.html)
+* [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/read/805.html)
+
+
+## 后渗透
+* [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
+* [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
+* [后渗透攻防的信息收集](https://www.secpulse.com/archives/51527.html)
+* [Windows 日志攻防之攻击篇](https://threathunter.org/topic/593eb1bbb33ad233198afcfa)
+* [从活动目录中获取域管理员权限的6种方法](http://www.4hou.com/technology/4256.html)
 ### XXE
 * [XXE (XML External Entity Injection) 漏洞实践](http://www.mottoin.com/101806.html)
 * [如何挖掘Uber网站的XXE注入漏洞](http://www.mottoin.com/86853.html)
