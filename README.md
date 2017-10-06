@@ -35,13 +35,12 @@
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/read/1433.html)
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/2017/07/17/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
 * [我的SRC之旅](https://mp.weixin.qq.com/s/2ORHnywrxXPexviUYk7Ccg)
-* [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
-
 
 
 ## 信息收集
 * [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/read/1629.html)
-* [tom0li漫谈信息收集]()
+* [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
+* [tom0li:漫谈信息收集]()
 * [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
 * [安全帮“大型目标渗透－01信息搜集](https://xianzhi.aliyun.com/forum/read/1675.html)
 * [浅谈Web渗透测试中的信息收集](http://www.freebuf.com/articles/web/142767.html)
