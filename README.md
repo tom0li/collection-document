@@ -35,7 +35,15 @@
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/read/1433.html)
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/2017/07/17/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
 * [我的SRC之旅](https://mp.weixin.qq.com/s/2ORHnywrxXPexviUYk7Ccg)
-
+* [浅析通过"监控"来辅助进行漏洞挖掘](https://bbs.ichunqiu.com/thread-28591-1-1.html)
+* [威胁情报-生存在SRC平台中的刷钱秘籍](https://bbs.ichunqiu.com/article-921-1.html)
+* [各大SRC中的CSRF技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=28448&highlight=src)
+* [YSRC众测之我的漏洞挖掘姿势](https://bbs.ichunqiu.com/article-655-1.html)
+* [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
+* [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
+* [SRC的漏洞分析](https://bbs.ichunqiu.com/thread-19745-1-1.html)
+* [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
+* []()
 
 ## 信息收集
 * [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/read/1629.html)
@@ -55,11 +63,14 @@
 * [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
 * [WEB应用中的信息泄漏以及攻击方法](http://www.4hou.com/info/news/3926.html)
 
+
 ## 渗透
+
+* [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
 * [从目录信息泄露到渗透内网](https://xianzhi.aliyun.com/forum/read/1649.html)
 * [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/read/805.html)
-
+* [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
 
 ## 后渗透
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
@@ -67,6 +78,7 @@
 * [后渗透攻防的信息收集](https://www.secpulse.com/archives/51527.html)
 * [Windows 日志攻防之攻击篇](https://threathunter.org/topic/593eb1bbb33ad233198afcfa)
 * [从活动目录中获取域管理员权限的6种方法](http://www.4hou.com/technology/4256.html)
+
 ### XXE
 * [XXE (XML External Entity Injection) 漏洞实践](http://www.mottoin.com/101806.html)
 * [如何挖掘Uber网站的XXE注入漏洞](http://www.mottoin.com/86853.html)
@@ -94,6 +106,9 @@
 
 ### DNS
 * [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
+
+### FUZZ
+* []()
 
 ### 其他
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
