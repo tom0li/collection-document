@@ -114,3 +114,8 @@
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
 * [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
+* [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
+* [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
+* [Android平台下二维码漏洞攻击杂谈](http://bobao.360.cn/learning/detail/2421.html)
+* [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
+
