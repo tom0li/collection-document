@@ -27,7 +27,7 @@
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
-
+* [安全应急姿势](http://rinige.com/index.php/archives/824/)
 
 ## SRC
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
