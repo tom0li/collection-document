@@ -181,4 +181,5 @@
 * [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
 * [Android平台下二维码漏洞攻击杂谈](http://bobao.360.cn/learning/detail/2421.html)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
+* [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
 
