@@ -62,6 +62,7 @@
 * [[红日团队]安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/99951.html)
 * [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
 * [WEB应用中的信息泄漏以及攻击方法](http://www.4hou.com/info/news/3926.html)
+* [实例演示如何科学的进行子域名收集](http://bobao.360.cn/learning/detail/4119.html)
 
 
 ## 渗透
