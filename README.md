@@ -43,7 +43,7 @@
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 * [SRC的漏洞分析](https://bbs.ichunqiu.com/thread-19745-1-1.html)
 * [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
-* []()
+* [看我如何发现谷歌漏洞跟踪管理平台漏洞获得$15600赏金](http://www.freebuf.com/articles/web/152893.html)
 
 ## 信息收集
 * [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/read/1629.html)
@@ -171,7 +171,7 @@
 * [从零开始学Android应用安全测试（Part2）](http://www.freebuf.com/news/topnews/60481.html)
 * [从零开始学Android应用安全测试（Part3）](http://www.freebuf.com/news/topnews/62750.html)
 * [从零开始学Android应用安全测试（Part4）](http://www.freebuf.com/news/topnews/63125.html)
-* []()
+* [360最新虚拟壳脱壳后完全修复详细解析](http://www.freebuf.com/articles/terminal/152617.html)
 * []()
 
 ### DNS
