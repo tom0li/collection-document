@@ -99,6 +99,12 @@
 * [神奇的Content-Type——在JSON中玩转XXE攻击](http://bobao.360.cn/learning/detail/360.html)
 * [XXE-DTD Cheat Sheet](https://web-in-security.blogspot.jp/2016/03/xxe-cheat-sheet.html)
 
+### jsonp
+
+* [JSONP注入解析](http://www.freebuf.com/articles/web/126347.html)
+* [利用JSONP跨域获取信息](http://bobao.360.cn/learning/detail/3848.html)
+* [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
+
 ### Android
 * [Android启动过程的分析](http://www.4hou.com/mobile/7373.html)
 * [360加固宝加固分析和脱壳教程解析](https://mp.weixin.qq.com/s/xSe2Zrv9Ev4qRaN99YmnRA)
