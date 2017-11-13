@@ -29,6 +29,11 @@
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
 * [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
+* [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
+* [Apache服务器安全配置](http://foreversong.cn/archives/789)
+* [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
+* [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
+
 
 ## SRC
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
@@ -45,6 +50,7 @@
 * [SRC的漏洞分析](https://bbs.ichunqiu.com/thread-19745-1-1.html)
 * [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
 * [看我如何发现谷歌漏洞跟踪管理平台漏洞获得$15600赏金](http://www.freebuf.com/articles/web/152893.html)
+* [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
 
 ## 信息收集
 * [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/read/1629.html)
@@ -100,6 +106,14 @@
 * [XXE漏洞利用的一些技巧](http://www.91ri.org/17052.html)
 * [神奇的Content-Type——在JSON中玩转XXE攻击](http://bobao.360.cn/learning/detail/360.html)
 * [XXE-DTD Cheat Sheet](https://web-in-security.blogspot.jp/2016/03/xxe-cheat-sheet.html)
+
+
+### xss
+
+* [前端防御从入门到弃坑--CSP变迁](https://paper.seebug.org/423/)
+* [XSS测试备忘录](http://momomoxiaoxi.com/2017/10/10/XSS/)
+
+
 
 ### jsonp
 
@@ -178,6 +192,13 @@
 
 ### DNS
 * [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
+* [DNS-Persist: 利用 DNS 协议进行远程控制通信](https://github.com/0x09AL/DNS-Persist)
+* [本地DNS攻击原理与实例](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485308&idx=1&sn=35ef757470ec4057babfb898c5ec5c19&chksm=ec1e3754db69be42b44976d6841842c7a42afc227d7dcd6c50bdbf4edcda028ae7cf90ada9a9#rd)
+* [error dns response](https://ripe75.ripe.net/presentations/20-A-curious-case-of-broken-DNS-responses-RIPE-75.pdf)
+* [DNS隧道检测平民解决方案](http://www.freebuf.com/articles/network/149328.html)
+* [DNS泛解析是怎么被黑客玩坏的](http://www.freebuf.com/news/133873.html)
+* [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
+* [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
 
 ### FUZZ
 * []()
@@ -191,4 +212,5 @@
 * [Android平台下二维码漏洞攻击杂谈](http://bobao.360.cn/learning/detail/2421.html)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
 * [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
+* [一道 CTF 题 get 到的新姿势](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485297&idx=1&sn=b9d5f80bcd37d1ce0596e1a2c251d9fb&chksm=ec1e3759db69be4f84913826e4b4e5d79461061e0f61a4eb8889aa65909e2ab314391d94f87c#rd)
 
