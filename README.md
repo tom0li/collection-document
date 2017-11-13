@@ -28,6 +28,7 @@
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
+* [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
 
 ## SRC
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
@@ -63,6 +64,7 @@
 * [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
 * [WEB应用中的信息泄漏以及攻击方法](http://www.4hou.com/info/news/3926.html)
 * [实例演示如何科学的进行子域名收集](http://bobao.360.cn/learning/detail/4119.html)
+* [挖掘漏洞的高级方法和思维](http://www.4hou.com/vulnerable/8376.html)
 
 
 ## 渗透
