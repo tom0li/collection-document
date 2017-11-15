@@ -53,7 +53,7 @@
 * [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
 
 ## 信息收集
-* [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/read/1629.html)
+* [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/topic/165/)
 * [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [tom0li:漫谈信息收集](https://tom0li.github.io/2017/09/25/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
