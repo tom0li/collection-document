@@ -15,6 +15,7 @@
 * [windows服务器安全配置策略](https://www.yesck.com/post/528/)
 * [15步打造一个安全的Linux服务器](https://tom0li.github.io/2017/02/09/2017-2-9-linux%E5%8A%A0%E5%9B%BA-%E7%BF%BB%E8%AF%91/)
 * [Tomcat7 加固清单](https://threathunter.org/topic/59911277ec721b1f1966e7eb)
+* [IIS服务器安全配置](http://foreversong.cn/archives/803)
 * [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
 * [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/read/1655.html)
 * [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
@@ -33,7 +34,7 @@
 * [Apache服务器安全配置](http://foreversong.cn/archives/789)
 * [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
 * [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
-
+* [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
 
 ## SRC
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
@@ -80,6 +81,7 @@
 * [从目录信息泄露到渗透内网](https://xianzhi.aliyun.com/forum/read/1649.html)
 * [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/read/805.html)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
+* [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 
 ## 后渗透
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
