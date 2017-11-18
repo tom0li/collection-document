@@ -5,7 +5,6 @@
 
 * [一个人的安全部](http://www.freebuf.com/articles/security-management/126254.html)
 * [没有钱的安全部之资产安全](http://www.jianshu.com/p/572431447613?from=timeline)
-* [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
 * [Linux基线加固](https://mp.weixin.qq.com/s/0nxiZw1NUoQTjxcd3zl6Zg)
 * [基线检查表&安全加固规范](https://xianzhi.aliyun.com/forum/read.php?tid=1702&displayMode=1&page=1&toread=1#tpc)
 * [浅谈linux安全加固](https://mp.weixin.qq.com/s/y8np-sFzik15x09536QA5w)
@@ -23,6 +22,7 @@
 * [Linux服务器应急事件溯源报告](http://cb.drops.wiki/drops/tips-12972.html)
 * [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
 * [应急响应小记](https://threathunter.org/topic/5943a99c1e3732874e23f996)
+* [应急响应小总结](http://www.aokisec.com/archives/80/)
 * [Web日志安全分析浅谈](https://xianzhi.aliyun.com/forum/read/1723.html)
 * [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
@@ -35,6 +35,7 @@
 * [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
 * [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
 * [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
+* [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
 
 ## SRC
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
