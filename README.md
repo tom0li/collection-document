@@ -96,8 +96,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/read/805.html)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
-
-
+* [渗透技巧之隐藏自己的工具](https://github.com/wangbooth/security_circle_2017/blob/master/51122255581554.md)
 
 
 ## 后渗透
