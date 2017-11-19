@@ -23,6 +23,7 @@
 * [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
 * [应急响应小记](https://threathunter.org/topic/5943a99c1e3732874e23f996)
 * [应急响应小总结](http://www.aokisec.com/archives/80/)
+* [大型互联网企业入侵检测实战总结](https://zhuanlan.zhihu.com/p/31154756)
 * [Web日志安全分析浅谈](https://xianzhi.aliyun.com/forum/read/1723.html)
 * [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
@@ -36,6 +37,16 @@
 * [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
 * [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
 * [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
+* [0xA1: 新官上任三把火](https://zhuanlan.zhihu.com/p/26485293)
+* [0xA2 应急响应、防御模型与SDL](https://zhuanlan.zhihu.com/p/26542790)
+* [0xA3 安全域划分和系统基本加固](https://zhuanlan.zhihu.com/p/26603906)
+* [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
+* [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
+* [0xB3 再谈应急响应Pt.1 unix主机应急响应
+elknot](https://zhuanlan.zhihu.com/p/29958172)
+* []()
+* []()
+
 
 ## SRC
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
@@ -47,12 +58,14 @@
 * [威胁情报-生存在SRC平台中的刷钱秘籍](https://bbs.ichunqiu.com/article-921-1.html)
 * [各大SRC中的CSRF技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=28448&highlight=src)
 * [YSRC众测之我的漏洞挖掘姿势](https://bbs.ichunqiu.com/article-655-1.html)
-* [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 * [SRC的漏洞分析](https://bbs.ichunqiu.com/thread-19745-1-1.html)
 * [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
 * [看我如何发现谷歌漏洞跟踪管理平台漏洞获得$15600赏金](http://www.freebuf.com/articles/web/152893.html)
 * [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
+
+* [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
+* [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
 
 ## 信息收集
 * [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/topic/165/)
@@ -83,6 +96,9 @@
 * [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/read/805.html)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
+
+
+
 
 ## 后渗透
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
