@@ -1,5 +1,28 @@
 # collection-document
-优质 安全文章 收藏  长期更新
+优质 安全文章 收藏  长期更新  awesome  先知因改版link 失效
+
+### github list
+
+* [information security Tools Box](https://github.com/tengzhangchao/Sec-Box)
+* [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists)
+* [各种安全相关思维导图整理收集-by-p牛](https://github.com/phith0n/Mind-Map)
+* [安全思维导图集合](https://github.com/SecWiki/sec-chart)
+* [Awesome Security](https://github.com/sbilly/awesome-security)
+* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
+* [awesome-yara](https://github.com/InQuest/awesome-yara)
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome)
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box)
+* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)
+* [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools)
+* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
+* [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
+* [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide)
+
 
 ## 安全部运维
 
@@ -49,6 +72,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 
 ## SRC
+
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/read/1433.html)
@@ -63,7 +87,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
 * [看我如何发现谷歌漏洞跟踪管理平台漏洞获得$15600赏金](http://www.freebuf.com/articles/web/152893.html)
 * [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
-
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
 
@@ -86,6 +109,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [WEB应用中的信息泄漏以及攻击方法](http://www.4hou.com/info/news/3926.html)
 * [实例演示如何科学的进行子域名收集](http://bobao.360.cn/learning/detail/4119.html)
 * [挖掘漏洞的高级方法和思维](http://www.4hou.com/vulnerable/8376.html)
+* [渗透测试工程师子域名收集指南](http://www.4hou.com/technology/8535.html)
 
 
 ## 渗透
