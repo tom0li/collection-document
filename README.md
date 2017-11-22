@@ -90,6 +90,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
+* [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
 
 ## 信息收集
 * [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/topic/165/)
@@ -122,7 +123,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/wangbooth/security_circle_2017/blob/master/51122255581554.md)
-
+* [白名单下载恶意代码的一个技巧](https://github.com/tom0li/security_circle/blob/master/28511224554581.md)
+* [白名单下载恶意代码](https://github.com/tom0li/security_circle/blob/master/51288554228124.md)
+* [一条命令实现无文件兼容性强的反弹后门,收集自强大的前乌云](https://github.com/tom0li/security_circle/blob/master/15288418585142.md)
 
 ## 后渗透
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
@@ -130,6 +133,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [后渗透攻防的信息收集](https://www.secpulse.com/archives/51527.html)
 * [Windows 日志攻防之攻击篇](https://threathunter.org/topic/593eb1bbb33ad233198afcfa)
 * [从活动目录中获取域管理员权限的6种方法](http://www.4hou.com/technology/4256.html)
+* [当服务器只开web服务并且防火墙不准服务器对外主动发起链接时](https://mp.weixin.qq.com/s/W5npN8YiqG-RBoq2mTv_2g)
 
 ### XXE
 * [XXE (XML External Entity Injection) 漏洞实践](http://www.mottoin.com/101806.html)
@@ -247,6 +251,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 ### FUZZ
 * []()
 
+### 远控
+* [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 ### 其他
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
@@ -254,7 +260,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
 * [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
-* [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
 * [一道 CTF 题 get 到的新姿势](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485297&idx=1&sn=b9d5f80bcd37d1ce0596e1a2c251d9fb&chksm=ec1e3759db69be4f84913826e4b4e5d79461061e0f61a4eb8889aa65909e2ab314391d94f87c#rd)
 * [iPhone锁屏却锁不住个人信息，iOS安全性真的很高吗？](http://www.freebuf.com/vuls/153848.html)
+* [弦哥从新加坡HITB黑客大会进口过来的黑魔法命令](https://github.com/tom0li/security_circle/blob/master/51115142241184.md)
+* [编程的重要性之 sqlmap 源码](https://github.com/tom0li/security_circle/blob/master/88511152424522.md)
 
