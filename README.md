@@ -1,7 +1,7 @@
 # collection-document  awesome  
-优质 安全文章 收藏  长期更新  
+优质 安全文章 收藏  长期更新  如果只fork不能接受更新
 
-### github list
+## github list
 
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box)
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
@@ -171,7 +171,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [利用JSONP跨域获取信息](http://bobao.360.cn/learning/detail/3848.html)
 * [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
 
-### Android
+## Android
 * [Android启动过程的分析](http://www.4hou.com/mobile/7373.html)
 * [360加固宝加固分析和脱壳教程解析](https://mp.weixin.qq.com/s/xSe2Zrv9Ev4qRaN99YmnRA)
 * [AndroidManifest.xml文件安全探索](https://bbs.ichunqiu.com/thread-26612-1-1.html)
@@ -251,7 +251,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
 * [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
 
-### FUZZ
+## FUZZ
 * []()
 
 ### 远控
