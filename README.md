@@ -23,7 +23,7 @@
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
 * [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
 * [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide)
-
+* [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes)
 
 ## 安全部运维
 
