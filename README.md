@@ -24,6 +24,9 @@
 * [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
 * [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide)
 * [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes)
+* [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes)
+* [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes)
+* [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 
 ## 安全部运维
 
