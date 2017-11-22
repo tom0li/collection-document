@@ -1,5 +1,6 @@
-# collection-document
-优质 安全文章 收藏  长期更新  awesome  先知因改版link 失效
+# collection-document  awesome  
+优质 安全文章 收藏  长期更新  
+先知因改版link 失效
 
 ### github list
 
@@ -67,7 +68,7 @@
 * [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
 * [0xB3 再谈应急响应Pt.1 unix主机应急响应
 elknot](https://zhuanlan.zhihu.com/p/29958172)
-* []()
+* [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
 * []()
 
 
@@ -230,7 +231,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [从零开始学Android应用安全测试（Part3）](http://www.freebuf.com/news/topnews/62750.html)
 * [从零开始学Android应用安全测试（Part4）](http://www.freebuf.com/news/topnews/63125.html)
 * [360最新虚拟壳脱壳后完全修复详细解析](http://www.freebuf.com/articles/terminal/152617.html)
-* []()
+* [Android平台下二维码漏洞攻击杂谈](http://bobao.360.cn/learning/detail/2421.html)
+* [Android脱壳圣战之—脱掉360加固壳(破解约友神器的钻石充值功能)](http://www.wjdiankong.cn/android%E8%84%B1%E5%A3%B3%E5%9C%A3%E6%88%98%E4%B9%8B-%E8%84%B1%E6%8E%89360%E5%8A%A0%E5%9B%BA%E5%A3%B3%E7%A0%B4%E8%A7%A3%E7%BA%A6%E5%8F%8B%E7%A5%9E%E5%99%A8%E7%9A%84%E9%92%BB%E7%9F%B3%E5%85%85/)
 
 ### DNS
 * [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
@@ -251,8 +253,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
 * [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
 * [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
-* [Android平台下二维码漏洞攻击杂谈](http://bobao.360.cn/learning/detail/2421.html)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
 * [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
 * [一道 CTF 题 get 到的新姿势](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485297&idx=1&sn=b9d5f80bcd37d1ce0596e1a2c251d9fb&chksm=ec1e3759db69be4f84913826e4b4e5d79461061e0f61a4eb8889aa65909e2ab314391d94f87c#rd)
+* [iPhone锁屏却锁不住个人信息，iOS安全性真的很高吗？](http://www.freebuf.com/vuls/153848.html)
 
