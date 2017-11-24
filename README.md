@@ -1,6 +1,7 @@
 # collection-document  awesome  
 ### 优质 安全文章 收藏  长期更新  如果只fork不能接受更新
 
+
 ## github list
 
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box)
@@ -270,4 +271,5 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [编程的重要性之 sqlmap 源码](https://github.com/tom0li/security_circle/blob/master/88511152424522.md)
 * [从面试题中学安全](http://www.myh0st.cn/index.php/archives/306/)
 * [自己的安全导航 （捂脸](https://tom0li.github.io/tags/)
+* [资讯400多个流行站点记录用户键击 或导致个人敏感信息泄露](http://bobao.360.cn/news/detail/4389.html)
 
