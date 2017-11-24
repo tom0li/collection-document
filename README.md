@@ -269,4 +269,5 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [弦哥从新加坡HITB黑客大会进口过来的黑魔法命令](https://github.com/tom0li/security_circle/blob/master/51115142241184.md)
 * [编程的重要性之 sqlmap 源码](https://github.com/tom0li/security_circle/blob/master/88511152424522.md)
 * [从面试题中学安全](http://www.myh0st.cn/index.php/archives/306/)
+* [自己的安全导航 （捂脸](https://tom0li.github.io/tags/)
 
