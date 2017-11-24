@@ -1,5 +1,5 @@
-# collection-document  awesome  
-优质 安全文章 收藏  长期更新  如果只fork不能接受更新
+# collection-document  awesome  
+### 优质 安全文章 收藏  长期更新  如果只fork不能接受更新
 
 ## github list
 
@@ -260,6 +260,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
 * [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
+* [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
 * [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
 * [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
@@ -267,4 +268,5 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [iPhone锁屏却锁不住个人信息，iOS安全性真的很高吗？](http://www.freebuf.com/vuls/153848.html)
 * [弦哥从新加坡HITB黑客大会进口过来的黑魔法命令](https://github.com/tom0li/security_circle/blob/master/51115142241184.md)
 * [编程的重要性之 sqlmap 源码](https://github.com/tom0li/security_circle/blob/master/88511152424522.md)
+* [从面试题中学安全](http://www.myh0st.cn/index.php/archives/306/)
 
