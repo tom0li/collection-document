@@ -130,6 +130,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [白名单下载恶意代码的一个技巧](https://github.com/tom0li/security_circle/blob/master/28511224554581.md)
 * [白名单下载恶意代码](https://github.com/tom0li/security_circle/blob/master/51288554228124.md)
 * [一条命令实现无文件兼容性强的反弹后门,收集自强大的前乌云](https://github.com/tom0li/security_circle/blob/master/15288418585142.md)
+* [渗透技巧——从github下载文件的多种方法](https://xianzhi.aliyun.com/forum/topic/1649/)
 
 ## 后渗透
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
