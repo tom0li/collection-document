@@ -105,7 +105,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ## SRC
 
-* [国外赏金之路](https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/)
+* [国外赏金之路](https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/) - 老司机赏金见解,历史赏金文章 list
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/topic/1214/)
