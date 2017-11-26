@@ -4,18 +4,44 @@
 
 ## github list
 
-* [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
-* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists)
 * [各种安全相关思维导图整理收集-by-p牛](https://github.com/phith0n/Mind-Map)
 * [安全思维导图集合](https://github.com/SecWiki/sec-chart)
-* [Awesome Security](https://github.com/sbilly/awesome-security)
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
-* [awesome-yara](https://github.com/InQuest/awesome-yara)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
-* [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+* [Kali Linux Tools](http://tools.kali.org/tools-listing) - List of tools present in Kali Linux.
+* [SecTools](http://sectools.org/) - Top 125 Network Security Tools.
+* [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
+* [C/C++ Programming](https://github.com/fffaraz/awesome-cpp) - One of the main language for open source security tools.
+* [.NET Programming](https://github.com/quozd/awesome-dotnet) - Software framework for Microsoft Windows platform development.
+* [Shell Scripting](https://github.com/alebcay/awesome-shell) - Command line frameworks, toolkits, guides and gizmos.
+* [Ruby Programming by @dreikanter](https://github.com/dreikanter/ruby-bookmarks) - The de-facto language for writing exploits.
+* [Ruby Programming by @markets](https://github.com/markets/awesome-ruby) - The de-facto language for writing exploits.
+* [Ruby Programming by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby) - The de-facto language for writing exploits.
+* [JavaScript Programming](https://github.com/sorrycc/awesome-javascript) - In-browser development and scripting.
+* [Node.js Programming by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs) - Curated list of delightful Node.js packages and resources.
+* [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools) - Lots of pentesting tools are written in Python.
+* [Python Programming by @svaksha](https://github.com/svaksha/pythonidae) - General Python programming.
+* [Python Programming by @vinta](https://github.com/vinta/awesome-python) - General Python programming.
+* [Android Security](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources.
+* [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
+* [AppSec](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
+* [CTFs](https://github.com/apsdehal/awesome-ctf) - Capture The Flag frameworks, libraries, etc.
+* [InfoSec § Hacking challenges](https://github.com/AnarchoTechNYC/meta/wiki/InfoSec#hacking-challenges) - Comprehensive directory of CTFs, wargames, hacking challenge websites, pentest practice lab exercises, and more.
+* [Hacking](https://github.com/carpedm20/awesome-hacking) - Tutorials, tools, and resources.
+* [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
+* [Infosec](https://github.com/onlurking/awesome-infosec) - Information security resources for pentesting, forensics, and more.
+* [Forensics](https://github.com/Cugu/awesome-forensics) - Free (mostly open source) forensic analysis tools and resources.
+* [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - Tools and resources for analysts.
+* [PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) - Tools for processing network traffic.
+* [Security](https://github.com/sbilly/awesome-security) - Software, libraries, documents, and other resources.
+* [Awesome Lockpicking](https://github.com/meitar/awesome-lockpicking) - Awesome guides, tools, and other resources about the security and compromise of locks, safes, and keys.
+* [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments.
+* [Security Talks](https://github.com/PaulSec/awesome-sec-talks) - Curated list of security conferences.
+* [OSINT](https://github.com/jivoi/awesome-osint) - Awesome OSINT list containing great resources.
+* [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
 * [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box)
 * [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)
 * [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning)
@@ -28,6 +54,7 @@
 * [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes)
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [information security Tools Box -by Nmask](https://github.com/tengzhangchao/Sec-Box)
+* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists)
 
 ## 安全部运维
 
