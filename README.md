@@ -4,10 +4,11 @@
 
 ## github list
 
-* [各种安全相关思维导图整理收集 -by p牛](https://github.com/phith0n/Mind-Map)
-* [安全思维导图集合 -by secwiki](https://github.com/SecWiki/sec-chart)
+* [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛
+* [安全思维导图集合](https://github.com/SecWiki/sec-chart)  - by secwiki
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
+* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
