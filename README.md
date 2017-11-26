@@ -4,12 +4,12 @@
 
 ## github list
 
-* [各种安全相关思维导图整理收集-by-p牛](https://github.com/phith0n/Mind-Map)
-* [安全思维导图集合](https://github.com/SecWiki/sec-chart)
-* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
-* [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+* [各种安全相关思维导图整理收集 -by p牛](https://github.com/phith0n/Mind-Map)
+* [安全思维导图集合 -by secwiki](https://github.com/SecWiki/sec-chart)
+* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Kali Linux Tools](http://tools.kali.org/tools-listing) - List of tools present in Kali Linux.
 * [SecTools](http://sectools.org/) - Top 125 Network Security Tools.
@@ -42,19 +42,19 @@
 * [Security Talks](https://github.com/PaulSec/awesome-sec-talks) - Curated list of security conferences.
 * [OSINT](https://github.com/jivoi/awesome-osint) - Awesome OSINT list containing great resources.
 * [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
-* [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box)
-* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)
-* [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning)
-* [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools)
-* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
+* [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners
+* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - by CHYbeta
+* [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
+* [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
+* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) 
 * [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
 * [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide)
-* [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes)
-* [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes)
-* [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes)
+* [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - by JnuSimba notes 
+* [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - notes
+* [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
-* [information security Tools Box -by Nmask](https://github.com/tengzhangchao/Sec-Box)
-* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists)
+* [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
+* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 
 ## 安全部运维
 
