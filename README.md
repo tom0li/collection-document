@@ -4,7 +4,6 @@
 
 ## github list
 
-* [information security Tools Box](https://github.com/tengzhangchao/Sec-Box)
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists)
 * [各种安全相关思维导图整理收集-by-p牛](https://github.com/phith0n/Mind-Map)
@@ -28,6 +27,7 @@
 * [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes)
 * [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes)
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
+* [information security Tools Box -by Nmask](https://github.com/tengzhangchao/Sec-Box)
 
 ## 安全部运维
 
@@ -125,12 +125,27 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [从目录信息泄露到渗透内网](https://xianzhi.aliyun.com/forum/topic/160/)
 * [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/topic/237/)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
+* [渗透实战中的反取证](https://www.t00ls.net/articles-42351.html)
+* [陪妹子玩游戏引起的风波](https://www.t00ls.net/articles-42078.html)
+* [攻破黑市最流行的钓鱼网站](https://www.t00ls.net/articles-41342.html)
+* [攻破黑市最流行的网站2](https://forum.90sec.org/forum.php?mod=viewthread&tid=10676&extra=page%3D1)
+* [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
+
+#### 技巧
+
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/wangbooth/security_circle_2017/blob/master/51122255581554.md)
 * [白名单下载恶意代码的一个技巧](https://github.com/tom0li/security_circle/blob/master/28511224554581.md)
 * [白名单下载恶意代码](https://github.com/tom0li/security_circle/blob/master/51288554228124.md)
 * [一条命令实现无文件兼容性强的反弹后门,收集自强大的前乌云](https://github.com/tom0li/security_circle/blob/master/15288418585142.md)
 * [渗透技巧——从github下载文件的多种方法](https://xianzhi.aliyun.com/forum/topic/1649/)
+* [强制通过VPN上网,VPN断线就断网](https://www.t00ls.net/articles-38739.html)
+* [https的app如何抓包](https://www.t00ls.net/thread-40042-1-1.html)
+* [ IIS7以上突破无脚本执行权限限制](https://forum.90sec.org/forum.php?mod=viewthread&tid=10562&extra=page%3D2)
+* [ACCESS无select SQL注射](https://forum.90sec.org/forum.php?mod=viewthread&tid=10663)
+* [修改过狗菜刀](https://forum.90sec.org/forum.php?mod=viewthread&tid=10544&extra=page%3D2)
+* [sql二次注入和截断联合使用](https://forum.90sec.org/forum.php?mod=viewthread&tid=10377&extra=page%3D3)
+* [sql二次注入和截断补充说明](https://forum.90sec.org/forum.php?mod=viewthread&tid=10383&extra=page%3D3)
 
 ## 后渗透
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
@@ -158,6 +173,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [XXE漏洞利用的一些技巧](http://www.91ri.org/17052.html)
 * [神奇的Content-Type——在JSON中玩转XXE攻击](http://bobao.360.cn/learning/detail/360.html)
 * [XXE-DTD Cheat Sheet](https://web-in-security.blogspot.jp/2016/03/xxe-cheat-sheet.html)
+* [通过编码绕过一些cms对于xxe的检测](https://forum.90sec.org/forum.php?mod=viewthread&tid=10334&extra=page%3D3)
 
 
 ### xss
@@ -274,4 +290,12 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [自己的安全导航 （捂脸](https://tom0li.github.io/tags/)
 * [资讯400多个流行站点记录用户键击 或导致个人敏感信息泄露](http://bobao.360.cn/news/detail/4389.html)
 * [代码审计知识星球精选](https://tricking.io)
+* [sqlmap源码分析](https://www.t00ls.net/viewthread.php?tid=41863&extra=page%3D1%26amp%3Borderby%3Drecommends%26amp%3Bfilter%3Drecommend)
+* [sqlmap源码分析一](https://lorexxar.cn/2016/08/09/sqlmap-source1/)
+* [sqlmap源码分析二](https://lorexxar.cn/2016/08/11/sqlmap-source2/)
+* [sqlmap源码分析三](https://lorexxar.cn/2016/08/16/sqlmap-source3/)
+* [sqlmap源码分析四](https://lorexxar.cn/2016/08/18/sqlmap-source4/)
+* [https劫持理解](https://forum.90sec.org/forum.php?mod=viewthread&tid=10378&extra=page%3D3)
+* []()
+
 
