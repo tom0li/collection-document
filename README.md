@@ -159,6 +159,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [攻破黑市最流行的钓鱼网站](https://www.t00ls.net/articles-41342.html)
 * [攻破黑市最流行的网站2](https://forum.90sec.org/forum.php?mod=viewthread&tid=10676&extra=page%3D1)
 * [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
+* [渗透记录1](https://www.secquan.org/Discuss/543)
+* [渗透记录2](https://www.secquan.org/Discuss/588)
 
 #### 技巧
 
