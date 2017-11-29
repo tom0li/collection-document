@@ -57,10 +57,28 @@
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 
-## 安全部运维
+## 安全部
+
+#### 建设
 
 * [一个人的安全部](http://www.freebuf.com/articles/security-management/126254.html)
 * [没有钱的安全部之资产安全](http://www.jianshu.com/p/572431447613?from=timeline)
+* [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
+* [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
+* [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
+* [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
+* [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
+* [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
+* [0xA1: 新官上任三把火](https://zhuanlan.zhihu.com/p/26485293)
+* [0xA2 应急响应、防御模型与SDL](https://zhuanlan.zhihu.com/p/26542790)
+* [0xA3 安全域划分和系统基本加固](https://zhuanlan.zhihu.com/p/26603906)
+* [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
+* [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
+* [0xB3 再谈应急响应Pt.1 unix主机应急响应
+elknot](https://zhuanlan.zhihu.com/p/29958172)
+* [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
+
+#### 加固
 
 * [Linux基线加固](https://mp.weixin.qq.com/s/0nxiZw1NUoQTjxcd3zl6Zg)
 * [基线检查表&安全加固规范](https://xianzhi.aliyun.com/forum/topic/1127/)
@@ -76,6 +94,8 @@
 * [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
 * [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
 
+#### 响应 溯源
+
 * [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140/)
 * [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
 * [应急tools](https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md)
@@ -89,21 +109,6 @@
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
-
-* [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
-* [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
-* [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
-* [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
-* [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
-* [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
-* [0xA1: 新官上任三把火](https://zhuanlan.zhihu.com/p/26485293)
-* [0xA2 应急响应、防御模型与SDL](https://zhuanlan.zhihu.com/p/26542790)
-* [0xA3 安全域划分和系统基本加固](https://zhuanlan.zhihu.com/p/26603906)
-* [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
-* [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
-* [0xB3 再谈应急响应Pt.1 unix主机应急响应
-elknot](https://zhuanlan.zhihu.com/p/29958172)
-* [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
 * []()
 
 
@@ -130,7 +135,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Web攻防之暴力破解 何足道版](https://mp.weixin.qq.com/s/_zzHPAeWvSp4ckDz0_PltQ)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 
-## 信息收集
+### 信息收集
+
 * [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/topic/165/)
 * [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [tom0li:漫谈信息收集](https://tom0li.github.io/2017/09/25/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
@@ -334,6 +340,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [sqlmap源码分析四](https://lorexxar.cn/2016/08/18/sqlmap-source4/)
 * [https劫持理解](https://forum.90sec.org/forum.php?mod=viewthread&tid=10378&extra=page%3D3)
 * [银行卡quickpass闪付芯片通过EVM/PBOC读取隐私信息](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25955&ctid=48)
-* []()
+* [txt文本文件去重及导入数据库处理](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25725&ctid=48)
 
 
