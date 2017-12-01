@@ -77,6 +77,8 @@
 * [0xB3 再谈应急响应Pt.1 unix主机应急响应
 elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
+* [企业安全中DevSecOps的一些思考](http://www.freebuf.com/articles/es/145567.html)
+* [企业安全经验 应急响应的战争](http://www.freebuf.com/articles/web/155314.html)
 
 #### 加固
 
@@ -163,6 +165,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
 * [从目录信息泄露到渗透内网](https://xianzhi.aliyun.com/forum/topic/160/)
 * [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/topic/237/)
+* [域渗透——利用SYSVOL还原组策略中保存的密码](https://xianzhi.aliyun.com/forum/topic/1653/)
+* [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
 * [渗透实战中的反取证](https://www.t00ls.net/articles-42351.html)
 * [陪妹子玩游戏引起的风波](https://www.t00ls.net/articles-42078.html)
@@ -341,5 +345,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [https劫持理解](https://forum.90sec.org/forum.php?mod=viewthread&tid=10378&extra=page%3D3)
 * [银行卡quickpass闪付芯片通过EVM/PBOC读取隐私信息](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25955&ctid=48)
 * [txt文本文件去重及导入数据库处理](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25725&ctid=48)
+* [解析U盘病毒传播之文件欺骗](http://www.freebuf.com/articles/terminal/155063.html)
 
 
