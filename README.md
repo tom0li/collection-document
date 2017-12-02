@@ -135,6 +135,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
 * [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
 * [Web攻防之暴力破解 何足道版](https://mp.weixin.qq.com/s/_zzHPAeWvSp4ckDz0_PltQ)
+* [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 
 ### 信息收集
