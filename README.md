@@ -164,6 +164,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
+* [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
 * [从目录信息泄露到渗透内网](https://xianzhi.aliyun.com/forum/topic/160/)
 * [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
@@ -352,5 +353,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [银行卡quickpass闪付芯片通过EVM/PBOC读取隐私信息](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25955&ctid=48)
 * [txt文本文件去重及导入数据库处理](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25725&ctid=48)
 * [解析U盘病毒传播之文件欺骗](http://www.freebuf.com/articles/terminal/155063.html)
+* [深度剖析：手机指纹的马奇诺防线](https://paper.seebug.org/471/)
 
 
