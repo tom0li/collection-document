@@ -111,7 +111,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
-* []()
+* [域名背后的真相，一个黑产团伙的沦陷](http://foreversong.cn/archives/882)
 
 
 ## SRC
@@ -132,6 +132,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [看我如何发现谷歌漏洞跟踪管理平台漏洞获得$15600赏金](http://www.freebuf.com/articles/web/152893.html)
 * [看我如何利用简单的配置错误“渗透”BBC新闻网](http://www.freebuf.com/news/155558.html)
 * [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
+* [新手上路 | 德国电信网站从LFI到命令执行漏洞](http://www.freebuf.com/articles/web/156950.html)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
 * [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
@@ -329,7 +330,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
 
 ## FUZZ
-* []()
+* [浅谈Fuzzing分析技术](http://www.freebuf.com/column/157277.html)
+* [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
+* [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
 
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
