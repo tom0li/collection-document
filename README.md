@@ -362,5 +362,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [txt文本文件去重及导入数据库处理](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25725&ctid=48)
 * [解析U盘病毒传播之文件欺骗](http://www.freebuf.com/articles/terminal/155063.html)
 * [深度剖析：手机指纹的马奇诺防线](https://paper.seebug.org/471/)
+* [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
+* [Burp 1.7.26](https://github.com/mxcxvn/BurpUnlimited/tree/master/release)
 
 
