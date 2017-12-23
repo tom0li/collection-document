@@ -190,6 +190,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [渗透技巧——从Admin权限切换到System权限](http://www.4hou.com/technology/8814.html)
 * [强制通过VPN上网,VPN断线就断网](https://www.t00ls.net/articles-38739.html)
 * [渗透技巧——Windows系统的帐户隐藏](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%B8%90%E6%88%B7%E9%9A%90%E8%97%8F/)
+* [渗透技巧——”隐藏”注册表的更多测试](http://www.4hou.com/penetration/9132.html)
 * [https的app如何抓包](https://www.t00ls.net/thread-40042-1-1.html)
 * [IIS7以上突破无脚本执行权限限制](https://forum.90sec.org/forum.php?mod=viewthread&tid=10562&extra=page%3D2)
 * [ACCESS无select SQL注射](https://forum.90sec.org/forum.php?mod=viewthread&tid=10663)
@@ -336,11 +337,20 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
+
 ### 其他
+
+#### tools
+
+* [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
+* [Burp 1.7.26](https://github.com/mxcxvn/BurpUnlimited/tree/master/release)
+* [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
+* [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
+* [XMind8 Pro版激活序列码与补丁](http://hacktech.cn/2017/12/22/Xmind-Patch-Crack.html)
+
+#### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
-* [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
-* [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
 * [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
 * [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
@@ -362,7 +372,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [txt文本文件去重及导入数据库处理](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25725&ctid=48)
 * [解析U盘病毒传播之文件欺骗](http://www.freebuf.com/articles/terminal/155063.html)
 * [深度剖析：手机指纹的马奇诺防线](https://paper.seebug.org/471/)
-* [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
-* [Burp 1.7.26](https://github.com/mxcxvn/BurpUnlimited/tree/master/release)
+* [网撸黑话+技巧大全 | 岂安低调分享](https://www.secpulse.com/archives/66549.html)
+
 
 
