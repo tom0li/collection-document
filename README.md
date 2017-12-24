@@ -319,6 +319,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [360最新虚拟壳脱壳后完全修复详细解析](http://www.freebuf.com/articles/terminal/152617.html)
 * [Android平台下二维码漏洞攻击杂谈](http://bobao.360.cn/learning/detail/2421.html)
 * [Android脱壳圣战之—脱掉360加固壳(破解约友神器的钻石充值功能)](http://www.wjdiankong.cn/android%E8%84%B1%E5%A3%B3%E5%9C%A3%E6%88%98%E4%B9%8B-%E8%84%B1%E6%8E%89360%E5%8A%A0%E5%9B%BA%E5%A3%B3%E7%A0%B4%E8%A7%A3%E7%BA%A6%E5%8F%8B%E7%A5%9E%E5%99%A8%E7%9A%84%E9%92%BB%E7%9F%B3%E5%85%85/)
+* [Android代码混淆技术总结](https://www.anquanke.com/post/id/85843)
 
 ### DNS
 * [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
