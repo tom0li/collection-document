@@ -4,7 +4,7 @@
 
 ## github list
 
-* [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛
+* [安全相关思维导图整理收集](https://github.com/CHYbeta/phith0n-Mind-Map) - by p牛 因p牛失效了,用CHYbeta的链接
 * [安全思维导图集合](https://github.com/SecWiki/sec-chart)  - by secwiki
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
@@ -137,6 +137,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
 * [那些年我们刷过的SRC之企业邮箱爆破](https://www.secquan.org/Discuss/262)
+* [利用漏洞中验证码绕过的小技巧](http://www.freebuf.com/column/156519.html)
 * [Web攻防之暴力破解 何足道版](https://mp.weixin.qq.com/s/_zzHPAeWvSp4ckDz0_PltQ)
 * [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
