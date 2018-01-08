@@ -140,6 +140,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [利用漏洞中验证码绕过的小技巧](http://www.freebuf.com/column/156519.html)
 * [Web攻防之暴力破解 何足道版](https://mp.weixin.qq.com/s/_zzHPAeWvSp4ckDz0_PltQ)
 * [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
+* [挖洞技巧：绕过短信&邮箱轰炸限制以及后续t](http://mp.weixin.qq.com/s/5OSLC2GOeYere9_lT2RwHw)
+* [逻辑漏洞之短信轰炸](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=27614&highlight=%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 
 
@@ -179,7 +181,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [攻破黑市最流行的网站2](https://forum.90sec.org/forum.php?mod=viewthread&tid=10676&extra=page%3D1)
 * [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
 * [渗透记录1](https://www.secquan.org/Discuss/543)
-* [渗透记录2](https://www.secquan.org/Discuss/588)
+* [渗透记录2](https://www.secquan.org/Discuss/588)t
 
 #### 技巧
 
@@ -378,6 +380,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [解析U盘病毒传播之文件欺骗](http://www.freebuf.com/articles/terminal/155063.html)
 * [深度剖析：手机指纹的马奇诺防线](https://paper.seebug.org/471/)
 * [网撸黑话+技巧大全 | 岂安低调分享](https://www.secpulse.com/archives/66549.html)
+* [国外14亿数据](http://www.03sec.com/3190.shtml)
 
 
 
