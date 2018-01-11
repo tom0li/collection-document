@@ -69,14 +69,6 @@
 * [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
 * [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
 * [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
-* [0xA1: 新官上任三把火](https://zhuanlan.zhihu.com/p/26485293)
-* [0xA2 应急响应、防御模型与SDL](https://zhuanlan.zhihu.com/p/26542790)
-* [0xA3 安全域划分和系统基本加固](https://zhuanlan.zhihu.com/p/26603906)
-* [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
-* [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
-* [0xB3 再谈应急响应Pt.1 unix主机应急响应
-elknot](https://zhuanlan.zhihu.com/p/29958172)
-* [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
 * [企业安全中DevSecOps的一些思考](http://www.freebuf.com/articles/es/145567.html)
 * [企业安全经验 应急响应的战争](http://www.freebuf.com/articles/web/155314.html)
 
@@ -113,6 +105,26 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
 * [域名背后的真相，一个黑产团伙的沦陷](http://foreversong.cn/archives/882)
 
+#### 综合
+
+* [企业安全实践(基础建设)之部分资产收集](http://www.freebuf.com/column/157085.html)
+* [企业安全实践(基础建设)之IP资产监控](http://www.freebuf.com/column/157496.html)
+* [企业安全实践(基础建设)之主动分布式WEB资产扫描](http://www.freebuf.com/column/157546.html)
+* [企业安全实践(基础建设)之被动扫描自动化(上)](http://www.freebuf.com/column/157635.html)
+* [企业安全实践(基础建设)之被动扫描自动化(中)](http://www.freebuf.com/column/157947.html)
+* [企业安全实践(基础建设)之被动扫描自动化(下)](http://www.freebuf.com/column/157996.html)
+* [企业安全实践(基础建设)之WEB安全检查](http://www.freebuf.com/column/158358.html)
+* [企业安全实践(基础建设)之HIDS（上）](http://www.freebuf.com/column/158358.html)
+* [企业安全实践(基础建设)之HIDS（下）](http://www.freebuf.com/column/158677.html)
+* [0xA1: 新官上任三把火](https://zhuanlan.zhihu.com/p/26485293)
+* [0xA2 应急响应、防御模型与SDL](https://zhuanlan.zhihu.com/p/26542790)
+* [0xA3 安全域划分和系统基本加固](https://zhuanlan.zhihu.com/p/26603906)
+* [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
+* [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
+* [0xB3 再谈应急响应Pt.1 unix主机应急响应
+elknot](https://zhuanlan.zhihu.com/p/29958172)
+* [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
+
 
 ## SRC
 
@@ -140,6 +152,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [利用漏洞中验证码绕过的小技巧](http://www.freebuf.com/column/156519.html)
 * [Web攻防之暴力破解 何足道版](https://mp.weixin.qq.com/s/_zzHPAeWvSp4ckDz0_PltQ)
 * [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
+* [挖洞技巧：如何绕过URL限制](https://www.secpulse.com/archives/67064.html)
+* [挖洞技巧：APP手势密码绕过思路总结](https://www.secpulse.com/archives/67070.html)
+* [挖洞技巧：支付漏洞之总结](https://www.secpulse.com/archives/67080.html)
 * [挖洞技巧：绕过短信&邮箱轰炸限制以及后续t](http://mp.weixin.qq.com/s/5OSLC2GOeYere9_lT2RwHw)
 * [逻辑漏洞之短信轰炸](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=27614&highlight=%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
@@ -181,7 +196,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [攻破黑市最流行的网站2](https://forum.90sec.org/forum.php?mod=viewthread&tid=10676&extra=page%3D1)
 * [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
 * [渗透记录1](https://www.secquan.org/Discuss/543)
-* [渗透记录2](https://www.secquan.org/Discuss/588)t
+* [渗透记录2](https://www.secquan.org/Discuss/588)
 
 #### 技巧
 
