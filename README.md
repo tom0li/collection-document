@@ -158,6 +158,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [挖洞技巧：绕过短信&邮箱轰炸限制以及后续t](http://mp.weixin.qq.com/s/5OSLC2GOeYere9_lT2RwHw)
 * [逻辑漏洞之短信轰炸](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=27614&highlight=%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
+* [一些逻辑](https://secvul.com/topics/924.html)
 
 
 ### 信息收集
@@ -180,6 +181,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [实例演示如何科学的进行子域名收集](http://bobao.360.cn/learning/detail/4119.html)
 * [挖掘漏洞的高级方法和思维](http://www.4hou.com/vulnerable/8376.html)
 * [渗透测试工程师子域名收集指南](http://www.4hou.com/technology/8535.html)
+* [Red Team 视角的信息收集技术](http://blkstone.github.io/2017/04/28/pentest-recon/)
 
 
 ## 渗透
