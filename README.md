@@ -197,6 +197,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
 * [渗透记录1](https://www.secquan.org/Discuss/543)
 * [渗透记录2](https://www.secquan.org/Discuss/588)
+* [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
 
 #### 技巧
 
