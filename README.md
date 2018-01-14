@@ -200,6 +200,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [渗透记录1](https://www.secquan.org/Discuss/543)
 * [渗透记录2](https://www.secquan.org/Discuss/588)
 * [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
+* [异地账号密码登陆qq邮箱](https://www.t00ls.net/viewthread.php?tid=42162&highlight=%E8%85%BE%E8%AE%AF)
 
 #### 技巧
 
