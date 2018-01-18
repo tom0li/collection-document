@@ -64,6 +64,7 @@
 * [没有钱的安全部之资产安全](http://www.jianshu.com/p/572431447613?from=timeline)
 * [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
 * [单枪匹马搞企业安全建设](https://xianzhi.aliyun.com/forum/topic/1916)
+* [“一个人”的互金企业安全建设总结](http://www.freebuf.com/articles/neopoints/158724.html)
 * [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
 * [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
 * [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
@@ -72,6 +73,14 @@
 * [企业安全中DevSecOps的一些思考](http://www.freebuf.com/articles/es/145567.html)
 * [企业安全经验 应急响应的战争](http://www.freebuf.com/articles/web/155314.html)
 * [企业安全项目架构实践分享](https://xianzhi.aliyun.com/forum/topic/1718)
+* [以溯源为目的蜜罐系统建设](http://www.4hou.com/technology/9687.html)
+* [蜜罐与内网安全从0到1（一](https://xianzhi.aliyun.com/forum/topic/998)
+* [蜜罐与内网安全从0到1（二）](https://xianzhi.aliyun.com/forum/topic/997)
+* [蜜罐与内网安全从0到1（三）](https://xianzhi.aliyun.com/forum/topic/996)
+* [蜜罐与内网安全从0到1（四）](https://xianzhi.aliyun.com/forum/topic/1730)
+* [蜜罐与内网安全从0到1（五）](https://xianzhi.aliyun.com/forum/topic/1955)
+* [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
+* []()
 
 #### 加固
 
@@ -125,6 +134,12 @@
 * [0xB3 再谈应急响应Pt.1 unix主机应急响应
 elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
+* [企业安全体系建设之路之系统安全篇](https://xianzhi.aliyun.com/forum/topic/1949)
+* [企业安全体系建设之路之网络安全篇](https://xianzhi.aliyun.com/forum/topic/1950)
+* [企业安全体系建设之路之产品安全篇](https://xianzhi.aliyun.com/forum/topic/1951)
+* []()
+* []()
+* []()
 
 
 ## SRC
@@ -202,7 +217,13 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [渗透记录1](https://www.secquan.org/Discuss/543)
 * [渗透记录2](https://www.secquan.org/Discuss/588)
 * [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
-* [异地账号密码登陆qq邮箱](https://www.t00ls.net/viewthread.php?tid=42162&highlight=%E8%85%BE%E8%AE%AF)
+* [异地账号密码登陆qq邮箱(好像没检测是否异地](https://www.t00ls.net/viewthread.php?tid=42162&highlight=%E8%85%BE%E8%AE%AF)
+* [高级持续渗透-第一季关于后门](https://www.secpulse.com/archives/66641.html)
+* [高级持续渗透-第二季关于后门](https://www.secpulse.com/archives/66673.html)
+* [高级持续渗透-第三季关于后门](https://www.secpulse.com/archives/66675.html)
+* [高级持续渗透-第四季关于后门](https://www.secpulse.com/archives/66661.html)
+* [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
+* [维持访问 WebShell](http://www.91ri.org/17340.html)
 
 #### 技巧
 
@@ -226,6 +247,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
 
 ## 后渗透
+* [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
 * [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
 * [Windows渗透常用命令](http://www.myh0st.cn/index.php/archives/261/)
@@ -240,7 +262,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [一篇文章精通PowerShell Empire 2.3（下）](http://bobao.360.cn/learning/detail/4761.html)
 * [Powershell攻击指南黑客后渗透之道系列——基础篇](https://www.anquanke.com/post/id/87976)
 * [Powershell攻击指南黑客后渗透之道系列——进阶利用](https://www.anquanke.com/post/id/88851)
-* []()
+
 
 ### XXE
 * [XXE (XML External Entity Injection) 漏洞实践](http://www.mottoin.com/101806.html)
@@ -348,6 +370,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [360最新虚拟壳脱壳后完全修复详细解析](http://www.freebuf.com/articles/terminal/152617.html)
 * [Android平台下二维码漏洞攻击杂谈](http://bobao.360.cn/learning/detail/2421.html)
 * [Android代码混淆技术总结](https://www.anquanke.com/post/id/85843)
+* [Android Accessibility点击劫持攻防](https://sec.xiaomi.com/article/36)
+* [Android逆向之旅—Android中分析某音短视频的数据请求加密协议(IDA动态调试SO)第一篇](http://www.wjdiankong.cn/android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85-android%E4%B8%AD%E5%88%86%E6%9E%90%E6%8A%96%E9%9F%B3%E5%92%8C%E7%81%AB%E5%B1%B1%E5%B0%8F%E8%A7%86%E9%A2%91%E7%9A%84%E6%95%B0%E6%8D%AE%E8%AF%B7%E6%B1%82/)
 
 ### DNS
 * [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
@@ -363,9 +387,14 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [浅谈Fuzzing分析技术](http://www.freebuf.com/column/157277.html)
 * [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
 * [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
+* [web敏感资产fuzz](http://www.cnnetarmy.com/web%e6%95%8f%e6%84%9f%e8%b5%84%e4%ba%a7fuzz/)
 
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
+
+### WAF
+* [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
+* [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
 
 ### 其他
 
