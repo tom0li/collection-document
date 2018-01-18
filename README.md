@@ -4,8 +4,7 @@
 
 ## github list
 
-* [安全相关思维导图整理收集](https://github.com/CHYbeta/phith0n-Mind-Map) - by p牛 因p牛失效了,用CHYbeta的链接
-* [安全思维导图集合](https://github.com/SecWiki/sec-chart)  - by secwiki
+* [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛 
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
@@ -64,6 +63,7 @@
 * [一个人的安全部](http://www.freebuf.com/articles/security-management/126254.html)
 * [没有钱的安全部之资产安全](http://www.jianshu.com/p/572431447613?from=timeline)
 * [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
+* [单枪匹马搞企业安全建设](https://xianzhi.aliyun.com/forum/topic/1916)
 * [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
 * [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
 * [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
@@ -71,6 +71,7 @@
 * [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
 * [企业安全中DevSecOps的一些思考](http://www.freebuf.com/articles/es/145567.html)
 * [企业安全经验 应急响应的战争](http://www.freebuf.com/articles/web/155314.html)
+* [企业安全项目架构实践分享](https://xianzhi.aliyun.com/forum/topic/1718)
 
 #### 加固
 
