@@ -5,6 +5,7 @@
 ## github list
 
 * [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛 
+* [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
@@ -137,7 +138,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [企业安全体系建设之路之系统安全篇](https://xianzhi.aliyun.com/forum/topic/1949)
 * [企业安全体系建设之路之网络安全篇](https://xianzhi.aliyun.com/forum/topic/1950)
 * [企业安全体系建设之路之产品安全篇](https://xianzhi.aliyun.com/forum/topic/1951)
-* []()
+* [SOC异闻录](https://www.anquanke.com/post/id/95231)
 * []()
 * []()
 
@@ -405,6 +406,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
 * [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
 * [XMind8 Pro版激活序列码与补丁](http://hacktech.cn/2017/12/22/Xmind-Patch-Crack.html)
+* [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
+* [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
 
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
