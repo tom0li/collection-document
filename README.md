@@ -181,14 +181,12 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ### 信息收集
 
-* [信息收集之SVN源代码社工获取及渗透实战](https://xianzhi.aliyun.com/forum/topic/165/)
 * [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [tom0li:漫谈信息收集](https://tom0li.github.io/2017/09/25/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
 * [安全帮“大型目标渗透－01信息搜集](https://xianzhi.aliyun.com/forum/topic/155/)
 * [浅谈Web渗透测试中的信息收集](http://www.freebuf.com/articles/web/142767.html)
 * [Kali Linux渗透基础知识整理（一）：信息搜集](http://www.freebuf.com/sectool/109944.html)
-* [渗透测试教程：如何侦查目标以及收集信息？嘶吼](https://xianzhi.aliyun.com/forum/topic/1065/)
 * [我眼中的渗透测试信息搜集](https://bbs.ichunqiu.com/thread-16020-1-1.html)
 * [从phpinfo中能获取哪些敏感信息](http://www.am0s.com/penetration/322.html)
 * [透过F5获取服务器真实内网IP](https://threathunter.org/topic/5940c85d9c58e020408a79fe)
