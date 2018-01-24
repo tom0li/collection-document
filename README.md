@@ -184,7 +184,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [tom0li:漫谈信息收集](https://tom0li.github.io/2017/09/25/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
-* [安全帮“大型目标渗透－01信息搜集](https://xianzhi.aliyun.com/forum/topic/155/)
 * [浅谈Web渗透测试中的信息收集](http://www.freebuf.com/articles/web/142767.html)
 * [Kali Linux渗透基础知识整理（一）：信息搜集](http://www.freebuf.com/sectool/109944.html)
 * [我眼中的渗透测试信息搜集](https://bbs.ichunqiu.com/thread-16020-1-1.html)
@@ -288,6 +287,12 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [前端防御从入门到弃坑--CSP变迁](https://paper.seebug.org/423/)
 * [XSS测试备忘录](http://momomoxiaoxi.com/2017/10/10/XSS/)
+* [记一次挖掘存储型XSS漏洞过程](http://www.secist.com/archives/5388.html)
+* [浅谈跨站脚本攻击与防御](https://thief.one/2017/05/31/1/)
+* [从瑞士军刀到变形金刚--XSS攻击面扩展](https://xianzhi.aliyun.com/forum/topic/96)
+* [渗透测试技巧之一个XSS引发的漏洞利用与思考](https://xianzhi.aliyun.com/forum/topic/1967)
+* []()
+* []()
 
 
 
