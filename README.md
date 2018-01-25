@@ -56,6 +56,7 @@
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
+* [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
 
 ## 安全部
 
