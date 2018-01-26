@@ -245,6 +245,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [sql二次注入和截断联合使用](https://forum.90sec.org/forum.php?mod=viewthread&tid=10377&extra=page%3D3)
 * [sql二次注入和截断补充说明](https://forum.90sec.org/forum.php?mod=viewthread&tid=10383&extra=page%3D3)
 * [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
+* [利用Host header attack进行社交工程攻击手法]-文章在90论坛
 
 ## 后渗透
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
