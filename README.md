@@ -442,6 +442,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [深度剖析：手机指纹的马奇诺防线](https://paper.seebug.org/471/)
 * [网撸黑话+技巧大全 | 岂安低调分享](https://www.secpulse.com/archives/66549.html)
 * [国外14亿数据](http://www.03sec.com/3190.shtml)
+* [全频带阻塞干扰](https://mp.weixin.qq.com/profile?src=3&timestamp=1517026869&ver=1&signature=27b9Qp1sD1-jXjUaBMm43J3*mypXmc9-9xpY15DE0Rbeh7jCbz9NEwaA9JLHltZ4SdmDeD9j3K78O3Uzs3Tvpw==)
 
 
 
