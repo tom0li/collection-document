@@ -56,7 +56,7 @@
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
-* [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
+* [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
 
 ## 安全部
 
@@ -294,8 +294,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [浅谈跨站脚本攻击与防御](https://thief.one/2017/05/31/1/)
 * [从瑞士军刀到变形金刚--XSS攻击面扩展](https://xianzhi.aliyun.com/forum/topic/96)
 * [渗透测试技巧之一个XSS引发的漏洞利用与思考](https://xianzhi.aliyun.com/forum/topic/1967)
-* []()
-* []()
+* [xss_bypass_Uppercase](http://idoge.cc/index.php/archives/27/)
+* [XSSpayload交流以及研究](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=31886&highlight=xss)
 
 
 
