@@ -404,6 +404,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
 
+## 代码审计
+* [代码审计知识星球精选](https://tricking.io)
+
 ### 其他
 
 #### tools
@@ -416,6 +419,15 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [XMind8 Pro版激活序列码与补丁](http://hacktech.cn/2017/12/22/Xmind-Patch-Crack.html)
 * [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 * [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
+
+#### Git
+
+* [Git各种错误操作撤销的方法](http://www.bugcode.cn/git_undo.html)
+
+#### 特别的wenxin号
+
+* [全频带阻塞干扰] - weixin公众号  -坚持以非正常体位探寻未知信号。关注无线安全、通信监听、商业反窃密、平行空间、非主流隐私保护、海外情报、犯罪防御、群氓效应、漂亮妹纸和科幻大刘。
+
 
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
@@ -430,7 +442,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [从面试题中学安全](http://www.myh0st.cn/index.php/archives/306/)
 * [自己的安全导航 （捂脸](https://tom0li.github.io/tags/)
 * [资讯400多个流行站点记录用户键击 或导致个人敏感信息泄露](http://bobao.360.cn/news/detail/4389.html)
-* [代码审计知识星球精选](https://tricking.io)
 * [sqlmap源码分析](https://www.t00ls.net/viewthread.php?tid=41863&extra=page%3D1%26amp%3Borderby%3Drecommends%26amp%3Bfilter%3Drecommend)
 * [sqlmap源码分析一](https://lorexxar.cn/2016/08/09/sqlmap-source1/)
 * [sqlmap源码分析二](https://lorexxar.cn/2016/08/11/sqlmap-source2/)
@@ -443,7 +454,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [深度剖析：手机指纹的马奇诺防线](https://paper.seebug.org/471/)
 * [网撸黑话+技巧大全 | 岂安低调分享](https://www.secpulse.com/archives/66549.html)
 * [国外14亿数据](http://www.03sec.com/3190.shtml)
-* [全频带阻塞干扰](https://mp.weixin.qq.com/profile?src=3&timestamp=1517026869&ver=1&signature=27b9Qp1sD1-jXjUaBMm43J3*mypXmc9-9xpY15DE0Rbeh7jCbz9NEwaA9JLHltZ4SdmDeD9j3K78O3Uzs3Tvpw==)
+
 
 
 
