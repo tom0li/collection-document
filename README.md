@@ -249,6 +249,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -感觉默认没开,需用ROOT权限开启
 
 ## 后渗透
+
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
 * [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
@@ -264,6 +265,13 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [一篇文章精通PowerShell Empire 2.3（下）](http://bobao.360.cn/learning/detail/4761.html)
 * [Powershell攻击指南黑客后渗透之道系列——基础篇](https://www.anquanke.com/post/id/87976)
 * [Powershell攻击指南黑客后渗透之道系列——进阶利用](https://www.anquanke.com/post/id/88851)
+
+##### hash 票据
+
+* [Windows下的密码hash——NTLM hash和Net-NTLM hash介绍](https://xianzhi.aliyun.com/forum/topic/1943)
+* [域渗透之hash与票据](https://mp.weixin.qq.com/s/ENStRpYspx5W974BKPzZtA)
+* [Kerberos的黄金票据详解](https://mp.weixin.qq.com/s/D1idV1cdZeTnpSiXkzD-XA)
+* [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 
 
 ### XXE
@@ -305,6 +313,34 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [JSONP注入解析](http://www.freebuf.com/articles/web/126347.html)
 * [利用JSONP跨域获取信息](http://bobao.360.cn/learning/detail/3848.html)
 * [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
+
+
+
+### DNS
+* [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
+* [DNS-Persist: 利用 DNS 协议进行远程控制通信](https://github.com/0x09AL/DNS-Persist)
+* [本地DNS攻击原理与实例](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485308&idx=1&sn=35ef757470ec4057babfb898c5ec5c19&chksm=ec1e3754db69be42b44976d6841842c7a42afc227d7dcd6c50bdbf4edcda028ae7cf90ada9a9#rd)
+* [error dns response](https://ripe75.ripe.net/presentations/20-A-curious-case-of-broken-DNS-responses-RIPE-75.pdf)
+* [DNS隧道检测平民解决方案](http://www.freebuf.com/articles/network/149328.html)
+* [DNS泛解析是怎么被黑客玩坏的](http://www.freebuf.com/news/133873.html)
+* [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
+* [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
+
+## FUZZ
+* [浅谈Fuzzing分析技术](http://www.freebuf.com/column/157277.html)
+* [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
+* [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
+* [web敏感资产fuzz](http://www.cnnetarmy.com/web%e6%95%8f%e6%84%9f%e8%b5%84%e4%ba%a7fuzz/)
+
+### 远控
+* [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
+
+### WAF
+* [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
+* [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
+
+## 代码审计
+* [代码审计知识星球精选](https://tricking.io)
 
 ## Android
 #### Android知识
@@ -380,32 +416,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Android代码混淆技术总结](https://www.anquanke.com/post/id/85843)
 * [Android Accessibility点击劫持攻防](https://sec.xiaomi.com/article/36)
 * [Android逆向之旅—Android中分析某音短视频的数据请求加密协议(IDA动态调试SO)第一篇](http://www.wjdiankong.cn/android%E9%80%86%E5%90%91%E4%B9%8B%E6%97%85-android%E4%B8%AD%E5%88%86%E6%9E%90%E6%8A%96%E9%9F%B3%E5%92%8C%E7%81%AB%E5%B1%B1%E5%B0%8F%E8%A7%86%E9%A2%91%E7%9A%84%E6%95%B0%E6%8D%AE%E8%AF%B7%E6%B1%82/)
-
-### DNS
-* [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
-* [DNS-Persist: 利用 DNS 协议进行远程控制通信](https://github.com/0x09AL/DNS-Persist)
-* [本地DNS攻击原理与实例](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485308&idx=1&sn=35ef757470ec4057babfb898c5ec5c19&chksm=ec1e3754db69be42b44976d6841842c7a42afc227d7dcd6c50bdbf4edcda028ae7cf90ada9a9#rd)
-* [error dns response](https://ripe75.ripe.net/presentations/20-A-curious-case-of-broken-DNS-responses-RIPE-75.pdf)
-* [DNS隧道检测平民解决方案](http://www.freebuf.com/articles/network/149328.html)
-* [DNS泛解析是怎么被黑客玩坏的](http://www.freebuf.com/news/133873.html)
-* [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
-* [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
-
-## FUZZ
-* [浅谈Fuzzing分析技术](http://www.freebuf.com/column/157277.html)
-* [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
-* [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
-* [web敏感资产fuzz](http://www.cnnetarmy.com/web%e6%95%8f%e6%84%9f%e8%b5%84%e4%ba%a7fuzz/)
-
-### 远控
-* [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
-
-### WAF
-* [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
-* [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
-
-## 代码审计
-* [代码审计知识星球精选](https://tricking.io)
 
 ### 其他
 
