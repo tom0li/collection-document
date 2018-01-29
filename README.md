@@ -246,7 +246,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [sql二次注入和截断补充说明](https://forum.90sec.org/forum.php?mod=viewthread&tid=10383&extra=page%3D3)
 * [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
 * [利用Host header attack进行社交工程攻击手法]-文章在90论坛
-* [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -感觉默认没开
+* [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -感觉默认没开,需用ROOT权限开启
 
 ## 后渗透
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
@@ -426,8 +426,11 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 #### 特别的wenxin号
 
-* [全频带阻塞干扰] - weixin公众号  -坚持以非正常体位探寻未知信号。关注无线安全、通信监听、商业反窃密、平行空间、非主流隐私保护、海外情报、犯罪防御、群氓效应、漂亮妹纸和科幻大刘。
+* [全频带阻塞干扰]  -坚持以非正常体位探寻未知信号。关注无线安全、通信监听、商业反窃密、平行空间、非主流隐私保护、海外情报、犯罪防御、群氓效应、漂亮妹纸和科幻大刘。
 
+#### JS
+
+* [关于网站强奸剪切板那点事](https://www.v2ex.com/t/426432)
 
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
