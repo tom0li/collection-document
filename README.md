@@ -442,11 +442,14 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [关于网站强奸剪切板那点事](https://www.v2ex.com/t/426432)
 
+#### 二维码
+
+* [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
+* [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
+
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
-* [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
-* [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
 * [一道 CTF 题 get 到的新姿势](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485297&idx=1&sn=b9d5f80bcd37d1ce0596e1a2c251d9fb&chksm=ec1e3759db69be4f84913826e4b4e5d79461061e0f61a4eb8889aa65909e2ab314391d94f87c#rd)
 * [iPhone锁屏却锁不住个人信息，iOS安全性真的很高吗？](http://www.freebuf.com/vuls/153848.html)
@@ -467,6 +470,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [深度剖析：手机指纹的马奇诺防线](https://paper.seebug.org/471/)
 * [网撸黑话+技巧大全 | 岂安低调分享](https://www.secpulse.com/archives/66549.html)
 * [国外14亿数据](http://www.03sec.com/3190.shtml)
+* [Word文件加密之后](https://www.secpulse.com/archives/67398.html)
 
 
 
