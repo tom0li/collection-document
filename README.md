@@ -82,6 +82,7 @@
 * [蜜罐与内网安全从0到1（五）](https://xianzhi.aliyun.com/forum/topic/1955)
 * [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
 * [ElastAlert监控日志告警Web攻击行为](http://www.freebuf.com/articles/web/160254.html)
+* [OSSIM分布式安装实践](https://www.secpulse.com/archives/67514.html)
 
 #### 加固
 
