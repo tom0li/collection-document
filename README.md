@@ -81,7 +81,7 @@
 * [蜜罐与内网安全从0到1（四）](https://xianzhi.aliyun.com/forum/topic/1730)
 * [蜜罐与内网安全从0到1（五）](https://xianzhi.aliyun.com/forum/topic/1955)
 * [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
-* []()
+* [ElastAlert监控日志告警Web攻击行为](http://www.freebuf.com/articles/web/160254.html)
 
 #### 加固
 
@@ -447,6 +447,11 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
 * [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
 
+#### 爬虫
+
+* [浅谈动态爬虫与去重](https://www.anquanke.com/post/id/85298)
+* [浅谈动态爬虫与去重(续)](https://www.anquanke.com/post/id/95294#h2-1)
+
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
@@ -471,6 +476,10 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [网撸黑话+技巧大全 | 岂安低调分享](https://www.secpulse.com/archives/66549.html)
 * [国外14亿数据](http://www.03sec.com/3190.shtml)
 * [Word文件加密之后](https://www.secpulse.com/archives/67398.html)
+* [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
+* [腾讯2017年度网络黑产威胁源研究报告](https://book.yunzhan365.com/odqt/yzzl/mobile/index.html)
+* []()
+* []()
 
 
 
