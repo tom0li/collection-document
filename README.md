@@ -55,6 +55,7 @@
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 * [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
 * [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
+* [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference)
 
 ## 安全部
 
