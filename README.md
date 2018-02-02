@@ -315,6 +315,10 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [利用JSONP跨域获取信息](http://bobao.360.cn/learning/detail/3848.html)
 * [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
 
+### ssi
+
+* [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
+
 
 
 ### DNS
