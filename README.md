@@ -18,9 +18,6 @@
 * [C/C++ Programming](https://github.com/fffaraz/awesome-cpp) - One of the main language for open source security tools.
 * [.NET Programming](https://github.com/quozd/awesome-dotnet) - Software framework for Microsoft Windows platform development.
 * [Shell Scripting](https://github.com/alebcay/awesome-shell) - Command line frameworks, toolkits, guides and gizmos.
-* [Ruby Programming by @dreikanter](https://github.com/dreikanter/ruby-bookmarks) - The de-facto language for writing exploits.
-* [Ruby Programming by @markets](https://github.com/markets/awesome-ruby) - The de-facto language for writing exploits.
-* [Ruby Programming by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby) - The de-facto language for writing exploits.
 * [JavaScript Programming](https://github.com/sorrycc/awesome-javascript) - In-browser development and scripting.
 * [Node.js Programming by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs) - Curated list of delightful Node.js packages and resources.
 * [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools) - Lots of pentesting tools are written in Python.
@@ -57,6 +54,7 @@
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 * [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
+* [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
 
 ## 安全部
 
