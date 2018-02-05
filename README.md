@@ -319,6 +319,11 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
 
+#### JS
+
+* [关于网站强奸剪切板那点事](https://www.v2ex.com/t/426432)
+* [引用外部脚本的隐患及防御](https://paper.seebug.org/527/)
+
 
 
 ### DNS
@@ -442,10 +447,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 #### 特别的wenxin号
 
 * [全频带阻塞干扰]  -坚持以非正常体位探寻未知信号。关注无线安全、通信监听、商业反窃密、平行空间、非主流隐私保护、海外情报、犯罪防御、群氓效应、漂亮妹纸和科幻大刘。
-
-#### JS
-
-* [关于网站强奸剪切板那点事](https://www.v2ex.com/t/426432)
 
 #### 二维码
 
