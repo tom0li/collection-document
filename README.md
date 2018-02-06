@@ -343,6 +343,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [钓鱼邮件初探：黑客是如何进行邮件伪造的](http://www.freebuf.com/sectool/92397.html)
 * [邮箱伪造](http://wps2015.org/drops/drops/%E9%82%AE%E7%AE%B1%E4%BC%AA%E9%80%A0%E8%AF%A6%E8%A7%A3.html)
 * [一封伪造邮件引发的“探索”（涉及钓鱼邮件、SPF和DKIM等）](http://www.freebuf.com/articles/web/138764.html)
+* [SPF 记录：原理、语法及配置方法简介](https://www.renfei.org/blog/introduction-to-spf.html)
 * [绕过DKIM验证，伪造钓鱼邮件](http://www.4hou.com/web/7857.html)
 
 ## FUZZ
