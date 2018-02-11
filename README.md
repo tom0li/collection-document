@@ -351,11 +351,13 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
 * [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
 * [web敏感资产fuzz](http://www.cnnetarmy.com/web%e6%95%8f%e6%84%9f%e8%b5%84%e4%ba%a7fuzz/)
+* [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?author=779)
 
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 
 ### WAF
+
 * [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
 
