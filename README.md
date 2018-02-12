@@ -85,7 +85,7 @@
 * [ElastAlert监控日志告警Web攻击行为](http://www.freebuf.com/articles/web/160254.html)
 * [OSSIM分布式安装实践](https://www.secpulse.com/archives/67514.html)
 * [企业信息安全团队建设](https://xianzhi.aliyun.com/forum/topic/1965)
-* []()
+* [一个人的安全部之ELK接收Paloalto日志并用钉钉告警](http://www.freebuf.com/articles/others-articles/161905.html)
 
 #### 加固
 
