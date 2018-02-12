@@ -66,6 +66,7 @@
 * [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
 * [单枪匹马搞企业安全建设](https://xianzhi.aliyun.com/forum/topic/1916)
 * [“一个人”的互金企业安全建设总结](http://www.freebuf.com/articles/neopoints/158724.html)
+* [低成本企业安全建设部分实践](https://xianzhi.aliyun.com/forum/topic/1996)
 * [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
 * [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
 * [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
@@ -83,6 +84,8 @@
 * [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
 * [ElastAlert监控日志告警Web攻击行为](http://www.freebuf.com/articles/web/160254.html)
 * [OSSIM分布式安装实践](https://www.secpulse.com/archives/67514.html)
+* [企业信息安全团队建设](https://xianzhi.aliyun.com/forum/topic/1965)
+* []()
 
 #### 加固
 
@@ -313,8 +316,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 ### jsonp
 
 * [JSONP注入解析](http://www.freebuf.com/articles/web/126347.html)
-* [利用JSONP跨域获取信息](http://bobao.360.cn/learning/detail/3848.html)
+* [利用JSONP跨域获取信息](https://xianzhi.aliyun.com/forum/topic/176)
 * [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
+* [浅谈跨域11](https://tom0li.github.io/2017/11/11/%E6%B5%85%E8%B0%88%E8%B7%A8%E5%9F%9F/)
 
 ### ssi
 
