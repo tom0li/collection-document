@@ -319,6 +319,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [利用JSONP跨域获取信息](https://xianzhi.aliyun.com/forum/topic/176)
 * [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
 * [浅谈跨域11](https://tom0li.github.io/2017/11/11/%E6%B5%85%E8%B0%88%E8%B7%A8%E5%9F%9F/)
+* [使用request merging bypass referer(jsonp) 检测](http://blog.neargle.com/2017/09/01/use-request-merging-to-bypass-referer-check/)
 
 ### ssi
 
