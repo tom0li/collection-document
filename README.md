@@ -340,6 +340,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [DNS泛解析是怎么被黑客玩坏的](http://www.freebuf.com/news/133873.html)
 * [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
 * [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
+* [Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
 
 #### 钓鱼
 
