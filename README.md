@@ -181,6 +181,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [逻辑漏洞之短信轰炸](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=27614&highlight=%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 * [一些逻辑](https://secvul.com/topics/924.html)
+* [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/)
 
 
 ### 信息收集
