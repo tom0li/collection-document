@@ -343,6 +343,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
 * [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
 * [Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
+* [Dns Auto Rebinding](http://www.thinkings.org/2017/06/25/dns-auto-rebinding.html)
 
 #### 钓鱼
 
