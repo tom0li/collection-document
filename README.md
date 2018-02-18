@@ -237,6 +237,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
 * [利用Host header attack进行社交工程攻击手法]-文章在90论坛
 * [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -感觉默认没开,需用ROOT权限开启
+* [渗透技巧 | Windows上传并执行恶意代码的N种姿势](https://mp.weixin.qq.com/s?__biz=MzUxOTYzMzU0NQ==&mid=2247483675&idx=1&sn=13cc49242df2b8cd7d08d4084af9621b&chksm=f9f7eefdce8067eba45e9fd4090f34703c2e101be06ae83dc7db53f24f343ab907545ab9d423&scene=21#wechat_redirect)
 
 ## 后渗透
 
