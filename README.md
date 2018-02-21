@@ -70,6 +70,7 @@
 * [OSSIM分布式安装实践](https://www.secpulse.com/archives/67514.html)
 * [企业信息安全团队建设](https://xianzhi.aliyun.com/forum/topic/1965)
 * [一个人的安全部之ELK接收Paloalto日志并用钉钉告警](http://www.freebuf.com/articles/others-articles/161905.html)
+* [账号安全的异常检测](https://mp.weixin.qq.com/s/qMjNURydlhzby9Qhs6RZhQ)
 
 #### 加固
 
@@ -141,6 +142,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [我的SRC之旅](https://mp.weixin.qq.com/s/2ORHnywrxXPexviUYk7Ccg)
 * [浅析通过"监控"来辅助进行漏洞挖掘](https://bbs.ichunqiu.com/thread-28591-1-1.html)
 * [威胁情报-生存在SRC平台中的刷钱秘籍](https://bbs.ichunqiu.com/article-921-1.html)
+* [威胁情报](https://mp.weixin.qq.com/s/v2MRx7qs70lpnW9n-mJ7_Q)
 * [各大SRC中的CSRF技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=28448&highlight=src)
 * [YSRC众测之我的漏洞挖掘姿势](https://bbs.ichunqiu.com/article-655-1.html)
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
@@ -168,6 +170,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [一些逻辑](https://secvul.com/topics/924.html)
 * [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
+* [众测备忘手册](https://mp.weixin.qq.com/s/4XPG37_lTZDzf60o3W_onA)
+* [Weblogic 常见漏洞环境的搭建及其利用](https://mp.weixin.qq.com/s/Ex5sOubp2p0TscUwWtxEzg)
 
 ### 信息收集
 
@@ -214,6 +218,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
 * [维持访问 WebShell](http://www.91ri.org/17340.html)
 
+
 #### 技巧
 
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
@@ -246,6 +251,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
 * [Windows渗透常用命令](http://www.myh0st.cn/index.php/archives/261/)
 * [Linux 机器的渗透测试命令备忘表](http://www.91ri.org/17575.html)
+* [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
 * [针对国内一大厂的后渗透 – 持续](http://www.91ri.org/17395.html)
 * [后渗透攻防的信息收集](https://www.secpulse.com/archives/51527.html)
 * [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/topic/237/)
@@ -297,8 +303,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [渗透测试技巧之一个XSS引发的漏洞利用与思考](https://xianzhi.aliyun.com/forum/topic/1967)
 * [xss_bypass_Uppercase](http://idoge.cc/index.php/archives/27/)
 * [XSSpayload交流以及研究](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=31886&highlight=xss)
-
-
+* [一次XSS突破的探险](https://mp.weixin.qq.com/s/bqhaRk5Fg1xIGTjbxxZvNw)
+* [香香的xss小记录（一）](https://mp.weixin.qq.com/s/S3KDp-XVzF-9pxTD2p9Cmw)
 
 ### jsonp
 
@@ -308,6 +314,15 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [浅谈跨域11](https://tom0li.github.io/2017/11/11/%E6%B5%85%E8%B0%88%E8%B7%A8%E5%9F%9F/)
 * [使用request merging bypass referer(jsonp) 检测](http://blog.neargle.com/2017/09/01/use-request-merging-to-bypass-referer-check/)
 
+### csrf 
+
+* [关于JSON CSRF的一些思考](https://mp.weixin.qq.com/s/kLRxHfzikhmV7NjpRJH6SA)
+
+### ssrf
+
+* [关于一些SSRF的技巧](https://mp.weixin.qq.com/s/3r_oBX8dfpDcEwLkAz26Ug)
+* [关于SSRF漏洞挖掘思路](https://mp.weixin.qq.com/s/HPNKYL4EvTOchVM1MvIIbw)
+
 ### ssi
 
 * [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
@@ -316,7 +331,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [关于网站强奸剪切板那点事](https://www.v2ex.com/t/426432)
 * [引用外部脚本的隐患及防御](https://paper.seebug.org/527/)
-
 
 
 ### DNS
