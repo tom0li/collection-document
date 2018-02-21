@@ -292,7 +292,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [XXE-DTD Cheat Sheet](https://web-in-security.blogspot.jp/2016/03/xxe-cheat-sheet.html)
 * [通过编码绕过一些cms对于xxe的检测](https://forum.90sec.org/forum.php?mod=viewthread&tid=10334&extra=page%3D3)
 
-
 ### xss
 
 * [前端防御从入门到弃坑--CSP变迁](https://paper.seebug.org/423/)
@@ -313,6 +312,25 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
 * [浅谈跨域11](https://tom0li.github.io/2017/11/11/%E6%B5%85%E8%B0%88%E8%B7%A8%E5%9F%9F/)
 * [使用request merging bypass referer(jsonp) 检测](http://blog.neargle.com/2017/09/01/use-request-merging-to-bypass-referer-check/)
+
+### tools
+
+* [工具| sqlmap payload修改之路](http://www.freebuf.com/column/161535.html)
+* [工具| sqlmap payload修改之路（下）](https://mp.weixin.qq.com/s/ZBJ2ZvXv1n4BcvhZFPRqRA)
+* [sqlmap源码分析](https://www.t00ls.net/viewthread.php?tid=41863&extra=page%3D1%26amp%3Borderby%3Drecommends%26amp%3Bfilter%3Drecommend)
+* [sqlmap源码分析一](https://lorexxar.cn/2016/08/09/sqlmap-source1/)
+* [sqlmap源码分析二](https://lorexxar.cn/2016/08/11/sqlmap-source2/)
+* [sqlmap源码分析三](https://lorexxar.cn/2016/08/16/sqlmap-source3/)
+* [sqlmap源码分析四](https://lorexxar.cn/2016/08/18/sqlmap-source4/)
+* [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
+* [Burp 1.7.26](https://github.com/mxcxvn/BurpUnlimited/tree/master/release)
+* [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
+* [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
+* [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
+* [XMind8 Pro版激活序列码与补丁](http://hacktech.cn/2017/12/22/Xmind-Patch-Crack.html)
+* [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
+* [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
+
 
 ### csrf 
 
@@ -451,17 +469,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ### 其他
 
-#### tools
-
-* [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
-* [Burp 1.7.26](https://github.com/mxcxvn/BurpUnlimited/tree/master/release)
-* [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
-* [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
-* [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
-* [XMind8 Pro版激活序列码与补丁](http://hacktech.cn/2017/12/22/Xmind-Patch-Crack.html)
-* [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
-* [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
-
 #### Git
 
 * [Git各种错误操作撤销的方法](http://www.bugcode.cn/git_undo.html)
@@ -491,11 +498,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [从面试题中学安全](http://www.myh0st.cn/index.php/archives/306/)
 * [自己的安全导航 （捂脸](https://tom0li.github.io/tags/)
 * [资讯400多个流行站点记录用户键击 或导致个人敏感信息泄露](http://bobao.360.cn/news/detail/4389.html)
-* [sqlmap源码分析](https://www.t00ls.net/viewthread.php?tid=41863&extra=page%3D1%26amp%3Borderby%3Drecommends%26amp%3Bfilter%3Drecommend)
-* [sqlmap源码分析一](https://lorexxar.cn/2016/08/09/sqlmap-source1/)
-* [sqlmap源码分析二](https://lorexxar.cn/2016/08/11/sqlmap-source2/)
-* [sqlmap源码分析三](https://lorexxar.cn/2016/08/16/sqlmap-source3/)
-* [sqlmap源码分析四](https://lorexxar.cn/2016/08/18/sqlmap-source4/)
 * [https劫持理解](https://forum.90sec.org/forum.php?mod=viewthread&tid=10378&extra=page%3D3)
 * [银行卡quickpass闪付芯片通过EVM/PBOC读取隐私信息](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25955&ctid=48)
 * [txt文本文件去重及导入数据库处理](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25725&ctid=48)
