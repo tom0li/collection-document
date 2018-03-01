@@ -173,6 +173,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [众测备忘手册](https://mp.weixin.qq.com/s/4XPG37_lTZDzf60o3W_onA)
 * [Weblogic 常见漏洞环境的搭建及其利用](https://mp.weixin.qq.com/s/Ex5sOubp2p0TscUwWtxEzg)
 * [Tomcat安全测试概要](https://mp.weixin.qq.com/s/_-AtrbMNROUFRbaime3NrA)
+* [Mysql数据库渗透及漏洞利用总结simeon](https://xianzhi.aliyun.com/forum/topic/1491)
 
 ### 信息收集
 
