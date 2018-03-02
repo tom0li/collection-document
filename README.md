@@ -266,6 +266,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [一篇文章精通PowerShell Empire 2.3（下）](http://bobao.360.cn/learning/detail/4761.html)
 * [Powershell攻击指南黑客后渗透之道系列——基础篇](https://www.anquanke.com/post/id/87976)
 * [Powershell攻击指南黑客后渗透之道系列——进阶利用](https://www.anquanke.com/post/id/88851)
+* [渗透的本质是信息搜集（第一季）](http://blog.csdn.net/micropoor/article/details/79400904)
 
 ##### hash 票据
 
