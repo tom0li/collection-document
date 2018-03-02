@@ -340,6 +340,10 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ### ssrf
 
+* [SSRF in Java](https://xianzhi.aliyun.com/forum/topic/206)
+
+### ssrf
+
 * [关于一些SSRF的技巧](https://mp.weixin.qq.com/s/3r_oBX8dfpDcEwLkAz26Ug)
 * [关于SSRF漏洞挖掘思路](https://mp.weixin.qq.com/s/HPNKYL4EvTOchVM1MvIIbw)
 
@@ -391,8 +395,24 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
 
 ## 代码审计
+
 * [代码审计知识星球精选](https://tricking.io)
 * [某开源商城前台Getshell](https://xianzhi.aliyun.com/forum/topic/2021)
+
+### Java
+
+* [JAVA反序列化安全实例解析](https://xianzhi.aliyun.com/forum/topic/350)
+* [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
+* [JAVA代码审计的一些Tips(附脚本)](https://xianzhi.aliyun.com/forum/topic/1633)
+* [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
+* [java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
+* [Java反序列化漏洞-金蛇剑之hibernate(下)](https://xianzhi.aliyun.com/forum/topic/2031)
+* [Java反序列化漏洞-玄铁重剑之CommonsCollection(上)](https://xianzhi.aliyun.com/forum/topic/2028)
+* [Java反序列化漏洞-玄铁重剑之CommonsCollection(下)](https://xianzhi.aliyun.com/forum/topic/2029)
+* [Java反序列化漏洞从入门到深入](https://xianzhi.aliyun.com/forum/topic/2041)
+* [Java反序列化备忘录](https://xianzhi.aliyun.com/forum/topic/2042)
+* [Java反序列化漏洞之殇](https://xianzhi.aliyun.com/forum/topic/2043)
+* [敏信Java代码审计-层层推进](https://xianzhi.aliyun.com/forum/topic/2074)
 
 ## Android
 #### Android知识
