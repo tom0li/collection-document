@@ -341,12 +341,12 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ### ssrf
 
-* [SSRF in Java](https://xianzhi.aliyun.com/forum/topic/206)
-
-### ssrf
-
 * [关于一些SSRF的技巧](https://mp.weixin.qq.com/s/3r_oBX8dfpDcEwLkAz26Ug)
 * [关于SSRF漏洞挖掘思路](https://mp.weixin.qq.com/s/HPNKYL4EvTOchVM1MvIIbw)
+* [SSRF in Java](https://xianzhi.aliyun.com/forum/topic/206)
+* [Dns Auto Rebinding](http://www.thinkings.org/2017/06/25/dns-auto-rebinding.html)
+* [通过DNS rebinding绕过同源策略攻击Transmission分析](https://www.anquanke.com/post/id/97366)
+* [Use DNS Rebinding to Bypass SSRF in Java](https://mp.weixin.qq.com/s/545el33HNI0rVi2BGVP5_Q)
 
 ### ssi
 
@@ -368,7 +368,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
 * [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
 * [Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
-* [Dns Auto Rebinding](http://www.thinkings.org/2017/06/25/dns-auto-rebinding.html)
+
 
 #### 钓鱼
 
