@@ -253,6 +253,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -感觉默认没开,需用ROOT权限开启
 * [渗透技巧 | Windows上传并执行恶意代码的N种姿势](https://mp.weixin.qq.com/s?__biz=MzUxOTYzMzU0NQ==&mid=2247483675&idx=1&sn=13cc49242df2b8cd7d08d4084af9621b&chksm=f9f7eefdce8067eba45e9fd4090f34703c2e101be06ae83dc7db53f24f343ab907545ab9d423&scene=21#wechat_redirect)
 * [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
+* [利用redis写webshell](https://www.leavesongs.com/PENETRATION/write-webshell-via-redis-server.html)
 
 ## 后渗透
 
