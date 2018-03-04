@@ -540,7 +540,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Word文件加密之后](https://www.secpulse.com/archives/67398.html)
 * [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
 * [腾讯2017年度网络黑产威胁源研究报告](https://book.yunzhan365.com/odqt/yzzl/mobile/index.html)
-* []()
+* [洗钱工具“手机充值卡”卡号卡密灰色行业套现洗白链](http://www.freebuf.com/column/163232.html)
 * []()
 
 
