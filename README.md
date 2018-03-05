@@ -151,6 +151,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [挖洞技巧：信息泄露之总结](https://www.secpulse.com/archives/67123.html)
 * [一些逻辑](https://secvul.com/topics/924.html)
 * [OSS对象存储上传解析漏洞](https://xianzhi.aliyun.com/forum/topic/2078)
+* [任意文件下载引发的思考](https://www.secpulse.com/archives/68522.html)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/2017/07/17/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
