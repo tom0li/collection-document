@@ -83,6 +83,7 @@
 * [windows服务器安全配置策略](https://www.yesck.com/post/528/)
 * [15步打造一个安全的Linux服务器](https://tom0li.github.io/2017/02/09/2017-2-9-linux%E5%8A%A0%E5%9B%BA-%E7%BF%BB%E8%AF%91/)
 * [Tomcat7 加固清单](https://threathunter.org/topic/59911277ec721b1f1966e7eb)
+* [Tomat安全设置和版本屏蔽](http://www.freebuf.com/column/163296.html)
 * [Apache服务器安全配置](http://foreversong.cn/archives/789)
 * [IIS服务器安全配置](http://foreversong.cn/archives/803)
 * [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
