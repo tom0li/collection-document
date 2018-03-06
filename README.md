@@ -523,6 +523,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [浅谈动态爬虫与去重](https://www.anquanke.com/post/id/85298)
 * [浅谈动态爬虫与去重(续)](https://www.anquanke.com/post/id/95294#h2-1)
+* [爬虫基础篇[Web 漏洞扫描器]](http://blog.fatezero.org/2018/03/05/web-scanner-crawler-01/)
 
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
