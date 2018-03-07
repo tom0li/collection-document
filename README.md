@@ -274,6 +274,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Powershell攻击指南黑客后渗透之道系列——基础篇](https://www.anquanke.com/post/id/87976)
 * [Powershell攻击指南黑客后渗透之道系列——进阶利用](https://www.anquanke.com/post/id/88851)
 * [渗透的本质是信息搜集（第一季）](http://blog.csdn.net/micropoor/article/details/79400904)
+* [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628)
 
 ## APT
 * [高级持续渗透-第一季关于后门](https://www.secpulse.com/archives/66641.html)
