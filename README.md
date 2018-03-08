@@ -222,6 +222,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [渗透记录2](https://www.secquan.org/Discuss/588)
 * [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
 * [Web黑盒渗透思路之猜想](http://www.freebuf.com/articles/web/161491.html)
+* [【老文】一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
 
 
