@@ -436,6 +436,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Java反序列化备忘录](https://xianzhi.aliyun.com/forum/topic/2042)
 * [Java反序列化漏洞之殇](https://xianzhi.aliyun.com/forum/topic/2043)
 * [敏信Java代码审计-层层推进](https://xianzhi.aliyun.com/forum/topic/2074)
+* [Java反序列化漏洞学习实践一：从Serializbale接口开始，先弹个计算器](http://www.polaris-lab.com/index.php/archives/447/)
+* [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
+* [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
 
 ## Android
 #### Android知识
