@@ -316,6 +316,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ### xss
 
+* [浅谈XSS—字符编码和浏览器解析原理](https://security.yirendai.com/news/share/26)
+* [level 3 HTML 中的野怪](http://xuelinf.github.io/2016/05/06/-level-3-HTML%E4%B8%AD%E7%9A%84%E9%87%8E%E6%80%AA-XSS%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF/)
 * [前端防御从入门到弃坑--CSP变迁](https://paper.seebug.org/423/)
 * [XSS测试备忘录](http://momomoxiaoxi.com/2017/10/10/XSS/)
 * [记一次挖掘存储型XSS漏洞过程](http://www.secist.com/archives/5388.html)
