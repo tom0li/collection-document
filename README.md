@@ -213,7 +213,6 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
 * [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
 * [从目录信息泄露到渗透内网](https://xianzhi.aliyun.com/forum/topic/160/)
-* [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
 * [渗透实战中的反取证](https://www.t00ls.net/articles-42351.html)
 * [陪妹子玩游戏引起的风波](https://www.t00ls.net/articles-42078.html)
@@ -230,6 +229,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 #### 技巧
 
+* [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/wangbooth/security_circle_2017/blob/master/51122255581554.md)
 * [白名单下载恶意代码的一个技巧](https://github.com/tom0li/security_circle/blob/master/28511224554581.md)
@@ -321,14 +321,15 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [level 3 HTML 中的野怪](http://xuelinf.github.io/2016/05/06/-level-3-HTML%E4%B8%AD%E7%9A%84%E9%87%8E%E6%80%AA-XSS%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF/)
 * [前端防御从入门到弃坑--CSP变迁](https://paper.seebug.org/423/)
 * [XSS测试备忘录](http://momomoxiaoxi.com/2017/10/10/XSS/)
-* [记一次挖掘存储型XSS漏洞过程](http://www.secist.com/archives/5388.html)
 * [浅谈跨站脚本攻击与防御](https://thief.one/2017/05/31/1/)
 * [从瑞士军刀到变形金刚--XSS攻击面扩展](https://xianzhi.aliyun.com/forum/topic/96)
 * [渗透测试技巧之一个XSS引发的漏洞利用与思考](https://xianzhi.aliyun.com/forum/topic/1967)
 * [xss_bypass_Uppercase](http://idoge.cc/index.php/archives/27/)
 * [XSSpayload交流以及研究](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=31886&highlight=xss)
+* [记一次挖掘存储型XSS漏洞过程](http://www.secist.com/archives/5388.html)
 * [一次XSS突破的探险](https://mp.weixin.qq.com/s/bqhaRk5Fg1xIGTjbxxZvNw)
 * [香香的xss小记录（一）](https://mp.weixin.qq.com/s/S3KDp-XVzF-9pxTD2p9Cmw)
+* [Black-Hole专辑](http://www.freebuf.com/author/Black-Hole?page=1) -细读
 
 ### jsonp
 
