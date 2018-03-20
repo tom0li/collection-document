@@ -211,6 +211,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 ## 渗透
 
 * [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
+* [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
 * [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
 * [从目录信息泄露到渗透内网](http://blog.51cto.com/simeon/1928354)
