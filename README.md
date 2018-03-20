@@ -261,6 +261,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 ## 内网
 
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
+* [Jboss引起的内网渗透](https://xianzhi.aliyun.com/forum/topic/8)
+* [JBoss引起的内网渗透-2](https://xianzhi.aliyun.com/forum/topic/2166)
 * [维持访问 WebShell](http://www.91ri.org/17340.html)
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
 * [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
