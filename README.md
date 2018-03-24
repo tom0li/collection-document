@@ -381,6 +381,11 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [通过DNS rebinding绕过同源策略攻击Transmission分析](https://www.anquanke.com/post/id/97366)
 * [Use DNS Rebinding to Bypass SSRF in Java](https://mp.weixin.qq.com/s/545el33HNI0rVi2BGVP5_Q)
 
+### sql
+* [MySql注入备忘录](https://chybeta.github.io/2017/07/21/MySql%E6%B3%A8%E5%85%A5%E5%A4%87%E5%BF%98%E5%BD%95/)
+* [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
+* [宽字节注入深度讲解](http://www.freebuf.com/column/165567.html)
+
 ### ssi
 
 * [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
