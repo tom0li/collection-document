@@ -72,6 +72,7 @@
 * [企业信息安全团队建设](https://xianzhi.aliyun.com/forum/topic/1965)
 * [一个人的安全部之ELK接收Paloalto日志并用钉钉告警](http://www.freebuf.com/articles/others-articles/161905.html)
 * [账号安全的异常检测](https://mp.weixin.qq.com/s/qMjNURydlhzby9Qhs6RZhQ)
+* [一般型网站日志接入大数据日志系统的实现](http://www.freebuf.com/column/166112.html)
 
 #### 加固
 
@@ -89,6 +90,7 @@
 * [IIS服务器安全配置](http://foreversong.cn/archives/803)
 * [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
 * [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
+* [浅谈Linux系统MySQL安全配置](https://mp.weixin.qq.com/s/0KrfdrjbcRdvSTKxoNHOcA)
 
 #### 响应 溯源
 
@@ -106,6 +108,7 @@
 * [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
+* [Tomcat日志如何记录POST数据](https://secvul.com/topics/1087.html)
 
 #### 威胁情报
 * [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
