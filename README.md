@@ -433,6 +433,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
 * [SQL注入 | 9种绕过Web应用程序防火墙的方式-基础](http://www.freebuf.com/articles/web/163783.html)
+* [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
 
 ## 代码审计
 
