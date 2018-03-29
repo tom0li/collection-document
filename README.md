@@ -386,6 +386,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
 * [宽字节注入深度讲解](http://www.freebuf.com/column/165567.html)
 
+### 文件包含
+* [php文件包含漏洞](https://chybeta.github.io/2017/10/08/php%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/)
+
 ### ssi
 
 * [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
