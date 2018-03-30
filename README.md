@@ -41,6 +41,7 @@
 * [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
 * [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference)
 * [www.polaris-lab.com_Paper](https://github.com/re4lity/SecPaper)
+* [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 ## 安全部
 
