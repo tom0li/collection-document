@@ -327,7 +327,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [浅谈XSS—字符编码和浏览器解析原理](https://security.yirendai.com/news/share/26)
 * [深入理解XSS编码--浏览器解析原理](https://xianzhi.aliyun.com/forum/topic/1556)
-* [level 3 HTML 中的野怪](http://xuelinf.github.io/2016/05/06/-level-3-HTML%E4%B8%AD%E7%9A%84%E9%87%8E%E6%80%AA-XSS%E5%8D%87%E7%BA%A7%E4%B9%8B%E8%B7%AF/)
+* [XSS常见利用代码及原理](http://wps2015.org/2016/12/12/usually-used-xss-code/)
 * [前端防御从入门到弃坑--CSP变迁](https://paper.seebug.org/423/)
 * [XSS测试备忘录](http://momomoxiaoxi.com/2017/10/10/XSS/)
 * [浅谈跨站脚本攻击与防御](https://thief.one/2017/05/31/1/)
