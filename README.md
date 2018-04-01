@@ -265,6 +265,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ## 内网
 
+* [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
 * [Jboss引起的内网渗透](https://xianzhi.aliyun.com/forum/topic/8)
 * [JBoss引起的内网渗透-2](https://xianzhi.aliyun.com/forum/topic/2166)
