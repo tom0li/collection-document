@@ -74,6 +74,10 @@
 * [一个人的安全部之ELK接收Paloalto日志并用钉钉告警](http://www.freebuf.com/articles/others-articles/161905.html)
 * [账号安全的异常检测](https://mp.weixin.qq.com/s/qMjNURydlhzby9Qhs6RZhQ)
 * [一般型网站日志接入大数据日志系统的实现](http://www.freebuf.com/column/166112.html)
+* [基础设施的攻击日志 – 第1部分：日志服务器的设置](https://www.secpulse.com/archives/70001.html)
+* [基础设施的攻击日志记录 – 第2部分：日志聚合](https://www.secpulse.com/archives/70016.html)
+* [基础设施攻击日志记录 – 第3部分：Graylog仪表板](https://www.secpulse.com/archives/70149.html)
+* [基础设施的攻击日志记录 – 第4部分：日志事件警报](https://www.secpulse.com/archives/70207.html)
 
 #### 加固
 
