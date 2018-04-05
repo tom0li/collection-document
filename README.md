@@ -447,6 +447,10 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [SQL注入 | 9种绕过Web应用程序防火墙的方式-基础](http://www.freebuf.com/articles/web/163783.html)
 * [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
 
+### IDS
+
+* [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
+
 ## 代码审计
 
 * [代码审计知识星球精选](https://tricking.io)
