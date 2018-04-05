@@ -448,6 +448,8 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [代码审计知识星球精选](https://tricking.io)
 * [连续使用过滤函数造成的安全问题总结](https://forum.90sec.org/thread-10917-1-1.html)
 * [某开源商城前台Getshell](https://xianzhi.aliyun.com/forum/topic/2021)
+* [PHP代码审计菜鸟笔记（一）](https://sosly.me/index.php/2018/04/02/php_daimashenji1/)
+* [PHP代码审计菜鸟笔记（二）](https://sosly.me/index.php/2018/04/03/php_daimashenji2/)
 
 ### Java
 
