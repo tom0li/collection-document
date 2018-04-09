@@ -42,6 +42,7 @@
 * [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference)
 * [www.polaris-lab.com_Paper](https://github.com/re4lity/SecPaper)
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+* [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
 
 ## 安全部
 
@@ -410,6 +411,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 
 ### DNS
+* [DNS域传送漏洞学习总结](https://larry.ngrep.me/2015/09/02/DNS-zone-transfer-studying/)
 * [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
 * [DNS-Persist: 利用 DNS 协议进行远程控制通信](https://github.com/0x09AL/DNS-Persist)
 * [本地DNS攻击原理与实例](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485308&idx=1&sn=35ef757470ec4057babfb898c5ec5c19&chksm=ec1e3754db69be42b44976d6841842c7a42afc227d7dcd6c50bdbf4edcda028ae7cf90ada9a9#rd)
