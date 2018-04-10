@@ -166,6 +166,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [OSS对象存储上传解析漏洞](https://xianzhi.aliyun.com/forum/topic/2078)
 * [任意文件下载引发的思考](https://www.secpulse.com/archives/68522.html)
 * [两种密码重置之综合利用](http://www.freebuf.com/articles/network/166520.html)
+* [任意用户密码重置](http://www.freebuf.com/articles/web/166667.html)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/2017/07/17/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
