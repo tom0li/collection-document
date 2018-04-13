@@ -397,6 +397,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [MySql注入备忘录](https://chybeta.github.io/2017/07/21/MySql%E6%B3%A8%E5%85%A5%E5%A4%87%E5%BF%98%E5%BD%95/)
 * [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
 * [宽字节注入深度讲解](http://www.freebuf.com/column/165567.html)
+* [基于mysql下的几种写shell方法](http://sh1yan.top/?p=190)
 
 ### 文件包含
 * [php文件包含漏洞](https://chybeta.github.io/2017/10/08/php%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/)
