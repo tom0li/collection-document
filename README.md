@@ -170,7 +170,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/2017/07/17/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
-* [Weblogic 常见漏洞环境的搭建及其利用](https://mp.weixin.qq.com/s/Ex5sOubp2p0TscUwWtxEzg)
+* [Weblogic 常见漏洞环境的搭建及其利用](http://liehu.tass.com.cn/archives/542)
 * [Tomcat安全测试概要](https://mp.weixin.qq.com/s/_-AtrbMNROUFRbaime3NrA)
 * [Mysql数据库渗透及漏洞利用总结simeon](https://xianzhi.aliyun.com/forum/topic/1491)
 * [攻击大数据应用：ZooKeeper](http://www.polaris-lab.com/index.php/archives/41/)
