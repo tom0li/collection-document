@@ -311,6 +311,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [metasploit在后渗透中的作用](https://www.secpulse.com/archives/69766.html)
 * [3gstudent/Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips)
 * [渗透测试中常见的小TIPS总结和整理](http://avfisher.win/archives/100)
+* [内网渗透思路整理与工具使用](https://www.anquanke.com/post/id/85827)
+* [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
+* [windows内网渗透杂谈](https://bl4ck.in/penetration/2017/03/20/windows%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%9D%82%E8%B0%88.html)
 
 ## APT
 * [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
