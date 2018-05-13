@@ -267,6 +267,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [SQL注入奇巧淫技——利用DNSLOG获取看不到的信息](http://foreversong.cn/archives/861)
 * [修改过狗菜刀](https://forum.90sec.org/forum.php?mod=viewthread&tid=10544&extra=page%3D2)
 * [Java版的中国菜刀修改](https://forum.90sec.com/t/topic/513)
+* [修改c刀](http://www.freebuf.com/articles/web/100432.html)
 * [sql二次注入和截断联合使用](https://forum.90sec.org/forum.php?mod=viewthread&tid=10377&extra=page%3D3)
 * [sql二次注入和截断补充说明](https://forum.90sec.org/forum.php?mod=viewthread&tid=10383&extra=page%3D3)
 * [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
@@ -276,6 +277,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
 * [利用redis写webshell](https://www.leavesongs.com/PENETRATION/write-webshell-via-redis-server.html)
 * [异地账号密码登陆qq邮箱(好像没检测是否异地](https://www.t00ls.net/viewthread.php?tid=42162&highlight=%E8%85%BE%E8%AE%AF)
+* [pentest-tips](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 
 ## 内网
 
@@ -318,6 +320,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [内网渗透思路整理与工具使用](https://www.anquanke.com/post/id/85827)
 * [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
 * [windows内网渗透杂谈](https://bl4ck.in/penetration/2017/03/20/windows%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%9D%82%E8%B0%88.html)
+* [60字节 - 无文件渗透测试实验](https://www.n0tr00t.com/2017/03/09/penetration-test-without-file.html)
 
 ## APT
 * [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
