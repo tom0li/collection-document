@@ -271,6 +271,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
+* [Active Directory中获取域管理员权限的攻击方法](https://xz.aliyun.com/t/115)
 * [Jboss引起的内网渗透](https://xz.aliyun.com/t/8#toc-2)
 * [JBoss引起的内网渗透-2](https://xz.aliyun.com/t/2166)
 * [JBoss引起的内网渗透-3](http://rcoil.me/2018/03/JBoss%E5%BC%95%E8%B5%B7%E7%9A%84%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F-3/)
@@ -282,6 +283,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [对国外某内网渗透的一次小结](https://forum.90sec.org/forum.php?mod=viewthread&tid=9264&highlight=%C4%DA%CD%F8)
 * [针对国内一大厂的后渗透 – 持续](https://wsygoogol.github.io/2018/01/11/%E9%92%88%E5%AF%B9%E5%9B%BD%E5%86%85%E4%B8%80%E5%A4%A7%E5%8E%82%E7%9A%84%E5%90%8E%E6%B8%97%E9%80%8F-%E2%80%93-%E6%8C%81%E7%BB%AD/)
 * [一次内网渗透--域渗透](https://forum.90sec.org/forum.php?mod=viewthread&tid=6516&highlight=%C4%DA%CD%F8)
+* [内网渗透思路探索 之新思路的探索与验证](https://paper.tuisec.win/detail/521f97451904b16)
 
 #### 代理转发
 * [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
@@ -347,20 +349,14 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [关于windows的RDP连接记录](http://rcoil.me/2018/05/%E5%85%B3%E4%BA%8Ewindows%E7%9A%84RDP%E8%BF%9E%E6%8E%A5%E8%AE%B0%E5%BD%95/)
 * [Rcoil内网渗透](http://rcoil.me/2017/06/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)
 * [3389user无法添加](http://www.91ri.org/5866.html)
+* [丢掉PSEXEC使用wmi来横向渗透](https://threathunter.org/topic/5940a6e59c58e020408a79ea)
+* [ ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
 
 ### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
 * [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628)
 * [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 * [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
-
-## APT
-* [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
-* [高级持续渗透-第一季关于后门](https://www.secpulse.com/archives/66641.html)
-* [高级持续渗透-第二季关于后门](https://www.secpulse.com/archives/66673.html)
-* [高级持续渗透-第三季关于后门](https://www.secpulse.com/archives/66675.html)
-* [高级持续渗透-第四季关于后门](https://www.secpulse.com/archives/66661.html)
-* [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
 
 ##### hash 票据
 
@@ -369,6 +365,13 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Kerberos的黄金票据详解](https://mp.weixin.qq.com/s/D1idV1cdZeTnpSiXkzD-XA)
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 
+## APT
+* [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
+* [高级持续渗透-第一季关于后门](https://www.secpulse.com/archives/66641.html)
+* [高级持续渗透-第二季关于后门](https://www.secpulse.com/archives/66673.html)
+* [高级持续渗透-第三季关于后门](https://www.secpulse.com/archives/66675.html)
+* [高级持续渗透-第四季关于后门](https://www.secpulse.com/archives/66661.html)
+* [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
 
 ### XXE
 * [XXE (XML External Entity Injection) 漏洞实践](http://www.mottoin.com/101806.html)
