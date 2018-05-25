@@ -1,6 +1,7 @@
-# collection-document  awesome  
-### 优质 安全文章 收藏  长期更新  如果只fork不能接受更新
+## [collection-document awesome](https://github.com/tom0li/collection-document/)
 
+> 优质 安全文章 收藏  长期更新  如果只fork不能接受更新
+------
 
 ## github list
 
@@ -43,6 +44,7 @@
 * [www.polaris-lab.com_Paper](https://github.com/re4lity/SecPaper)
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
+* [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
 
 ## 安全部
 
@@ -137,7 +139,7 @@
 * [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
 * [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
 * [0xB3 再谈应急响应Pt.1 unix主机应急响应
-elknot](https://zhuanlan.zhihu.com/p/29958172)
+  elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
 * [企业安全体系建设之路之系统安全篇](https://xianzhi.aliyun.com/forum/topic/1949)
 * [企业安全体系建设之路之网络安全篇](https://xianzhi.aliyun.com/forum/topic/1950)
@@ -189,7 +191,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 * [浅谈中间件漏洞与防护](https://thief.one/2017/05/25/1/)
 
-#### 国外SRC文章
+### 国外SRC文章
 
 * [国外赏金之路](https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/) - 老司机赏金见解,历史赏金文章 list
 * [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
@@ -243,6 +245,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Web黑盒渗透思路之猜想](http://www.freebuf.com/articles/web/161491.html)
 * [【老文】一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
+* [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
 
 #### 靶场
 * [vulhub](https://github.com/vulhub/vulhub)
@@ -266,8 +269,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [异地账号密码登陆qq邮箱(好像没检测是否异地](https://www.t00ls.net/viewthread.php?tid=42162&highlight=%E8%85%BE%E8%AE%AF)
 * [pentest-tips](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 * [维持访问 WebShell](http://www.91ri.org/17340.html)
+* [linux远程执行win命令SMB-winexe](https://github.com/tom0li/security_circle/blob/master/51112814181184.md)
 
-## 内网
+### 内网
 
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
@@ -284,6 +288,13 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [针对国内一大厂的后渗透 – 持续](https://wsygoogol.github.io/2018/01/11/%E9%92%88%E5%AF%B9%E5%9B%BD%E5%86%85%E4%B8%80%E5%A4%A7%E5%8E%82%E7%9A%84%E5%90%8E%E6%B8%97%E9%80%8F-%E2%80%93-%E6%8C%81%E7%BB%AD/)
 * [一次内网渗透--域渗透](https://forum.90sec.org/forum.php?mod=viewthread&tid=6516&highlight=%C4%DA%CD%F8)
 * [内网渗透思路探索 之新思路的探索与验证](https://paper.tuisec.win/detail/521f97451904b16)
+
+##### hash 票据
+
+* [Windows下的密码hash——NTLM hash和Net-NTLM hash介绍](https://xianzhi.aliyun.com/forum/topic/1943)
+* [域渗透之hash与票据](https://mp.weixin.qq.com/s/ENStRpYspx5W974BKPzZtA)
+* [Kerberos的黄金票据详解](https://mp.weixin.qq.com/s/D1idV1cdZeTnpSiXkzD-XA)
+* [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 
 #### 代理转发
 * [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
@@ -352,18 +363,11 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [丢掉PSEXEC使用wmi来横向渗透](https://threathunter.org/topic/5940a6e59c58e020408a79ea)
 * [ ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
 
-### 提权
+#### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
 * [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628)
 * [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 * [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
-
-##### hash 票据
-
-* [Windows下的密码hash——NTLM hash和Net-NTLM hash介绍](https://xianzhi.aliyun.com/forum/topic/1943)
-* [域渗透之hash与票据](https://mp.weixin.qq.com/s/ENStRpYspx5W974BKPzZtA)
-* [Kerberos的黄金票据详解](https://mp.weixin.qq.com/s/D1idV1cdZeTnpSiXkzD-XA)
-* [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 
 ## APT
 * [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
@@ -373,6 +377,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [高级持续渗透-第四季关于后门](https://www.secpulse.com/archives/66661.html)
 * [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
 
+## Web
 ### XXE
 * [XXE (XML External Entity Injection) 漏洞实践](http://www.mottoin.com/101806.html)
 * [如何挖掘Uber网站的XXE注入漏洞](http://www.mottoin.com/86853.html)
@@ -411,6 +416,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [一次XSS突破的探险](https://mp.weixin.qq.com/s/bqhaRk5Fg1xIGTjbxxZvNw)
 * [香香的xss小记录（一）](https://mp.weixin.qq.com/s/S3KDp-XVzF-9pxTD2p9Cmw)
 * [Black-Hole专辑](http://www.freebuf.com/author/Black-Hole?page=1) -细读
+* [内网xss蠕虫](https://woj.app/2173.html)
 
 ### jsonp
 
@@ -466,7 +472,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 
 * [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
 
-#### JS
+### JS
 
 * [关于网站强奸剪切板那点事](https://www.v2ex.com/t/426432)
 * [引用外部脚本的隐患及防御](https://paper.seebug.org/527/)
@@ -485,9 +491,9 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
 
 
-#### 钓鱼
+### 钓鱼
 
-###### 邮件伪造
+#### 邮件伪造
 
 * [钓鱼邮件初探：黑客是如何进行邮件伪造的](http://www.freebuf.com/sectool/92397.html)
 * [邮箱伪造](http://wps2015.org/drops/drops/%E9%82%AE%E7%AE%B1%E4%BC%AA%E9%80%A0%E8%AF%A6%E8%A7%A3.html)
@@ -502,10 +508,10 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [web敏感资产fuzz](http://www.cnnetarmy.com/web%e6%95%8f%e6%84%9f%e8%b5%84%e4%ba%a7fuzz/)
 * [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?author=779)
 
-### 远控
+## 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 
-### WAF
+## WAF
 
 * [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
@@ -513,7 +519,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [WAF攻防之SQL注入篇](http://galaxylab.org/waf%E6%94%BB%E9%98%B2%E4%B9%8Bsql%E6%B3%A8%E5%85%A5%E7%AF%87/)
 * [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
 
-### IDS
+## IDS
 
 * [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
 
@@ -543,7 +549,7 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
 
-### 其他
+## 其他
 
 #### Git
 
@@ -588,7 +594,5 @@ elknot](https://zhuanlan.zhihu.com/p/29958172)
 * [腾讯2017年度网络黑产威胁源研究报告](https://book.yunzhan365.com/odqt/yzzl/mobile/index.html)
 * [洗钱工具“手机充值卡”卡号卡密灰色行业套现洗白链](http://www.freebuf.com/column/163232.html)
 * [kali安装后](http://metaphors.name/coding/2018/03/10/Kali.html)
-
-
-
-
+* [md语法](https://github.com/guodongxiaren/README)
+* ​
