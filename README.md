@@ -290,6 +290,9 @@
 * [针对国内一大厂的后渗透 – 持续](https://wsygoogol.github.io/2018/01/11/%E9%92%88%E5%AF%B9%E5%9B%BD%E5%86%85%E4%B8%80%E5%A4%A7%E5%8E%82%E7%9A%84%E5%90%8E%E6%B8%97%E9%80%8F-%E2%80%93-%E6%8C%81%E7%BB%AD/)
 * [一次内网渗透--域渗透](https://forum.90sec.org/forum.php?mod=viewthread&tid=6516&highlight=%C4%DA%CD%F8)
 * [内网渗透思路探索 之新思路的探索与验证](https://paper.tuisec.win/detail/521f97451904b16)
+* [初级域渗透系列 - 01. 基本介绍&信息获取](https://paper.tuisec.win/detail/2a7446285e7d085)
+* [初级域渗透系列 - 02. 常见攻击方法 - 1](https://paper.tuisec.win/detail/fc1086dabbc9002)
+* [初级域渗透系列 03. 常见攻击方法](https://paper.tuisec.win/detail/cd49c17ca23cece)
 
 ##### hash 票据
 
@@ -297,6 +300,7 @@
 * [域渗透之hash与票据](https://mp.weixin.qq.com/s/ENStRpYspx5W974BKPzZtA)
 * [Kerberos的黄金票据详解](https://mp.weixin.qq.com/s/D1idV1cdZeTnpSiXkzD-XA)
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
+* [域hash值的导出技巧大全](https://www.t00ls.net/viewthread.php?tid=40118&highlight=hash)
 
 #### 代理转发
 * [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
@@ -363,7 +367,8 @@
 * [Rcoil内网渗透](http://rcoil.me/2017/06/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)
 * [3389user无法添加](http://www.91ri.org/5866.html)
 * [丢掉PSEXEC使用wmi来横向渗透](https://threathunter.org/topic/5940a6e59c58e020408a79ea)
-* [ ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
+* [ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
+* [域渗透之Exchange Server](https://paper.tuisec.win/detail/203cfd7605f41af)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
