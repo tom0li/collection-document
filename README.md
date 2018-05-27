@@ -45,6 +45,7 @@
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
+* [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
 
 ## 安全部
 
@@ -275,6 +276,7 @@
 
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
+* [内网安全检查/渗透总结](https://xz.aliyun.com/t/2354)
 * [Active Directory中获取域管理员权限的攻击方法](https://xz.aliyun.com/t/115)
 * [Jboss引起的内网渗透](https://xz.aliyun.com/t/8#toc-2)
 * [JBoss引起的内网渗透-2](https://xz.aliyun.com/t/2166)
@@ -518,6 +520,7 @@
 * [SQL注入 | 9种绕过Web应用程序防火墙的方式-基础](http://www.freebuf.com/articles/web/163783.html)
 * [WAF攻防之SQL注入篇](http://galaxylab.org/waf%E6%94%BB%E9%98%B2%E4%B9%8Bsql%E6%B3%A8%E5%85%A5%E7%AF%87/)
 * [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
+* [构造免杀的asp一句话木马](https://xz.aliyun.com/t/2356)
 
 ## IDS
 
