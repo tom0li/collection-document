@@ -173,7 +173,7 @@
 * [通用性业务逻辑组合拳劫持你的权限](https://www.anquanke.com/post/id/106961)
 
 ### 总结
-* [tom0li: 逻辑漏洞小结](https://tom0li.github.io/2017/07/17/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
+* [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
 * [Weblogic 常见漏洞环境的搭建及其利用](http://liehu.tass.com.cn/archives/542)
 * [Tomcat安全测试概要](https://blog.formsec.cn/2018/02/23/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%89%E5%85%A8-TOMCAT%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E6%A6%82%E8%A6%81/)
 * [Mysql数据库渗透及漏洞利用总结simeon](https://xianzhi.aliyun.com/forum/topic/1491)
@@ -207,7 +207,7 @@
 ### 信息收集
 
 * [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
-* [tom0li:漫谈信息收集](https://tom0li.github.io/2017/09/25/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
+* [tom0li:漫谈信息收集](https://tom0li.github.io/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
 * [浅谈Web渗透测试中的信息收集](http://www.freebuf.com/articles/web/142767.html)
 * [Kali Linux渗透基础知识整理（一）：信息搜集](http://www.freebuf.com/sectool/109944.html)
@@ -301,6 +301,7 @@
 * [Kerberos的黄金票据详解](https://mp.weixin.qq.com/s/D1idV1cdZeTnpSiXkzD-XA)
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 * [域hash值的导出技巧大全](https://www.t00ls.net/viewthread.php?tid=40118&highlight=hash)
+* [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
 
 #### 代理转发
 * [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
@@ -322,6 +323,7 @@
 * [Powershell攻击指南黑客后渗透之道系列——基础篇](https://www.anquanke.com/post/id/87976)
 * [Powershell攻击指南黑客后渗透之道系列——进阶利用](https://www.anquanke.com/post/id/88851)
 * [Powershell攻击指南黑客后渗透之道系列——实战篇](https://www.anquanke.com/post/id/89362)
+* [nishang-ps](http://www.4hou.com/technology/5962.html)
 
 #### 内网收集
 * [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
@@ -369,6 +371,7 @@
 * [丢掉PSEXEC使用wmi来横向渗透](https://threathunter.org/topic/5940a6e59c58e020408a79ea)
 * [ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
 * [域渗透之Exchange Server](https://paper.tuisec.win/detail/203cfd7605f41af)
+* [域渗透——Skeleton Key](https://paper.tuisec.win/detail/ae1a9ecf9625209)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
@@ -424,6 +427,7 @@
 * [香香的xss小记录（一）](https://mp.weixin.qq.com/s/S3KDp-XVzF-9pxTD2p9Cmw)
 * [Black-Hole专辑](http://www.freebuf.com/author/Black-Hole?page=1) -细读
 * [内网xss蠕虫](https://woj.app/2173.html)
+* [攻破黑市之拿下吃鸡DNF等游戏钓鱼站群](http://www.freebuf.com/articles/web/172330.html)
 
 ### jsonp
 
@@ -603,4 +607,4 @@
 * [洗钱工具“手机充值卡”卡号卡密灰色行业套现洗白链](http://www.freebuf.com/column/163232.html)
 * [kali安装后](http://metaphors.name/coding/2018/03/10/Kali.html)
 * [md语法](https://github.com/guodongxiaren/README)
-* ​
+* [请求方法问题](http://www.freebuf.com/articles/web/172695.html )
