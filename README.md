@@ -313,7 +313,7 @@
 
 #### 内网平台
 * [内网剑客三结义](http://www.5ecurity.cn/index.php/archives/227/)
-* [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
+
 * [Metasploit域渗透测试全程实录（终结篇）](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=16655&highlight=Metasploit%E5%9F%9F%E6%B8%97)
 * [metasploit在后渗透中的作用](https://www.secpulse.com/archives/69766.html)
 * [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
@@ -324,6 +324,7 @@
 * [Powershell攻击指南黑客后渗透之道系列——进阶利用](https://www.anquanke.com/post/id/88851)
 * [Powershell攻击指南黑客后渗透之道系列——实战篇](https://www.anquanke.com/post/id/89362)
 * [nishang-ps](http://www.4hou.com/technology/5962.html)
+* [Empire实战域渗透](http://www.4hou.com/technology/4704.html)
 
 #### 内网收集
 * [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
@@ -358,6 +359,7 @@
 * [渗透技巧 | Windows上传并执行恶意代码的N种姿势](https://mp.weixin.qq.com/s?__biz=MzUxOTYzMzU0NQ==&mid=2247483675&idx=1&sn=13cc49242df2b8cd7d08d4084af9621b&chksm=f9f7eefdce8067eba45e9fd4090f34703c2e101be06ae83dc7db53f24f343ab907545ab9d423&scene=21#wechat_redirect)
 * [域渗透——利用SYSVOL还原组策略中保存的密码](https://xianzhi.aliyun.com/forum/topic/1653/)
 * [Windows 日志攻防之攻击篇](https://threathunter.org/topic/593eb1bbb33ad233198afcfa)
+* [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
 * [从活动目录中获取域管理员权限的6种方法](http://www.4hou.com/technology/4256.html)
 * [当服务器只开web服务并且防火墙不准服务器对外主动发起链接时](https://mp.weixin.qq.com/s/W5npN8YiqG-RBoq2mTv_2g)
 * [3gstudent/Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips)
