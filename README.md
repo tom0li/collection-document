@@ -242,9 +242,9 @@
 * [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
 * [渗透记录1](https://www.secquan.org/Discuss/543)
 * [渗透记录2](https://www.secquan.org/Discuss/588)
-* [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
 * [Web黑盒渗透思路之猜想](http://www.freebuf.com/articles/web/161491.html)
 * [【老文】一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
+* [渗透Hacking Team过程](https://xz.aliyun.com/t/2146)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
 * [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
 
@@ -271,6 +271,7 @@
 * [pentest-tips](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 * [维持访问 WebShell](http://www.91ri.org/17340.html)
 * [linux远程执行win命令SMB-winexe](https://github.com/tom0li/security_circle/blob/master/51112814181184.md)
+* [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
 
 ### 内网
 
@@ -293,6 +294,7 @@
 * [初级域渗透系列 - 01. 基本介绍&信息获取](https://paper.tuisec.win/detail/2a7446285e7d085)
 * [初级域渗透系列 - 02. 常见攻击方法 - 1](https://paper.tuisec.win/detail/fc1086dabbc9002)
 * [初级域渗透系列 03. 常见攻击方法](https://paper.tuisec.win/detail/cd49c17ca23cece)
+* [渗透测试学习笔记之综合渗透案例一](https://mp.weixin.qq.com/s/sKXWjgaViYsCjG33-5Ey8Q)
 
 ##### hash 票据
 
@@ -430,6 +432,7 @@
 * [Black-Hole专辑](http://www.freebuf.com/author/Black-Hole?page=1) -细读
 * [内网xss蠕虫](https://woj.app/2173.html)
 * [攻破黑市之拿下吃鸡DNF等游戏钓鱼站群](http://www.freebuf.com/articles/web/172330.html)
+* [上传Word文件形成存储型XSS路径](http://www.freebuf.com/articles/web/173250.html)
 
 ### jsonp
 
