@@ -203,6 +203,7 @@
 * [新手上路 | 德国电信网站从LFI到命令执行漏洞](http://www.freebuf.com/articles/web/156950.html)
 * [Taking over Facebook accounts using Free Basics partner portal](https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover)
 * [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/)
+* [挖洞经验 | 看我如何免费获取价值€120的会员资格](http://www.freebuf.com/articles/web/172438.html)
 
 ### 信息收集
 
@@ -277,6 +278,7 @@
 
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
+* [tom0li:内网备忘录](https://tom0li.github.io/%E5%86%85%E7%BD%91%E5%A4%87%E5%BF%98%E5%BD%95/)
 * [内网安全检查/渗透总结](https://xz.aliyun.com/t/2354)
 * [Active Directory中获取域管理员权限的攻击方法](https://xz.aliyun.com/t/115)
 * [Jboss引起的内网渗透](https://xz.aliyun.com/t/8#toc-2)
@@ -315,7 +317,6 @@
 
 #### 内网平台
 * [内网剑客三结义](http://www.5ecurity.cn/index.php/archives/227/)
-
 * [Metasploit域渗透测试全程实录（终结篇）](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=16655&highlight=Metasploit%E5%9F%9F%E6%B8%97)
 * [metasploit在后渗透中的作用](https://www.secpulse.com/archives/69766.html)
 * [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
@@ -480,9 +481,13 @@
 * [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
 * [宽字节注入深度讲解](http://www.freebuf.com/column/165567.html)
 * [基于mysql下的几种写shell方法](http://sh1yan.top/?p=190)
+* [MSSQL 注入攻击与防御](https://www.anquanke.com/post/id/86011)
 
 ### 文件包含
 * [php文件包含漏洞](https://chybeta.github.io/2017/10/08/php%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/)
+
+### 上传
+* [上传漏洞的靶场](https://github.com/c0ny1/upload-labs)
 
 ### ssi
 
