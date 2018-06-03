@@ -9,11 +9,8 @@
 * [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
-* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
-* [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
-* [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
 * [Android Security](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources.
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
 * [AppSec](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
@@ -30,21 +27,17 @@
 * [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
 * [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) 
-* [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
 * [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide)
 * [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - by JnuSimba notes 
 * [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - notes
 * [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
-* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 * [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
 * [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
 * [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference)
 * [www.polaris-lab.com_Paper](https://github.com/re4lity/SecPaper)
-* [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
-* [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
 * [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
 
 ## 安全部
@@ -150,6 +143,9 @@
 
 ## SRC
 
+* [bugbountyguide](https://github.com/EdOverflow/bugbountyguide)
+* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+* [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/topic/1214/)
@@ -231,6 +227,11 @@
 ## 渗透
 
 * [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
+* [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
+* [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
+* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
+* [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
 * [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
 * [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
@@ -385,6 +386,7 @@
 * [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
 
 ## APT
+* [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
 * [高级持续渗透-第一季关于后门](https://www.secpulse.com/archives/66641.html)
 * [高级持续渗透-第二季关于后门](https://www.secpulse.com/archives/66673.html)
@@ -576,6 +578,7 @@
 #### Git
 
 * [Git各种错误操作撤销的方法](http://www.bugcode.cn/git_undo.html)
+* [Git的tip](https://github.com/521xueweihan/git-tips)
 
 #### 特别的wenxin号
 
