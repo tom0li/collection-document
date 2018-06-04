@@ -93,6 +93,7 @@
 * [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
 * [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
 * [浅谈Linux系统MySQL安全配置](https://mp.weixin.qq.com/s/0KrfdrjbcRdvSTKxoNHOcA)
+* [Hardening Ubuntu](https://github.com/konstruktoid/hardening)
 
 #### 响应 溯源
 
