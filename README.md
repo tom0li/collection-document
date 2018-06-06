@@ -75,6 +75,7 @@
 * [基础设施的攻击日志记录 – 第2部分：日志聚合](https://www.secpulse.com/archives/70016.html)
 * [基础设施攻击日志记录 – 第3部分：Graylog仪表板](https://www.secpulse.com/archives/70149.html)
 * [基础设施的攻击日志记录 – 第4部分：日志事件警报](https://www.secpulse.com/archives/70207.html)
+* [宜信防火墙自动化运维之路](http://www.freebuf.com/articles/security-management/166895.html)
 
 #### 加固
 
@@ -94,6 +95,7 @@
 * [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
 * [浅谈Linux系统MySQL安全配置](https://mp.weixin.qq.com/s/0KrfdrjbcRdvSTKxoNHOcA)
 * [Hardening Ubuntu](https://github.com/konstruktoid/hardening)
+* [Tomcat Config Security](https://joychou.org/operations/tomcat-config-security.html)
 
 #### 响应 溯源
 
@@ -250,6 +252,7 @@
 * [渗透Hacking Team过程](https://xz.aliyun.com/t/2146)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
 * [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
+* [渗透测试学习笔记之综合渗透案例一](https://www.secpulse.com/archives/72464.html)
 
 #### 靶场
 * [vulhub](https://github.com/vulhub/vulhub)
@@ -341,6 +344,7 @@
 * [黑客游走于企业windows内网的几种姿势](https://paper.tuisec.win/detail/4973d8fa7741cb3)
 * [内网渗透测试定位技术总结](http://www.mottoin.com/92978.html)
 * [内网渗透——网络环境的判断](https://paper.tuisec.win/detail/bc7c4b2c3145d47)
+* [PowerView](http://www.freebuf.com/sectool/173366.html)
 
 #### 内网技巧
 * [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
@@ -543,6 +547,10 @@
 * [WAF攻防之SQL注入篇](http://galaxylab.org/waf%E6%94%BB%E9%98%B2%E4%B9%8Bsql%E6%B3%A8%E5%85%A5%E7%AF%87/)
 * [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
 * [构造免杀的asp一句话木马](https://xz.aliyun.com/t/2356)
+* [Bypass D盾_IIS防火墙SQL注入防御（多姿势）](http://www.cnblogs.com/xiaozi/p/7357937.html)
+* [SQL注入ByPass的一些小技巧](https://mp.weixin.qq.com/s/fSBZPkO0-HNYfLgmYWJKCg)
+* [Bypass 360主机卫士SQL注入防御（多姿势）](https://www.t00ls.net/thread-45943-1-1.html)
+* [不包含数字字母的WebShell](http://www.freebuf.com/articles/web/173579.html)
 
 ## IDS
 
