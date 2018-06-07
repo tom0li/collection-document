@@ -551,6 +551,9 @@
 * [SQL注入ByPass的一些小技巧](https://mp.weixin.qq.com/s/fSBZPkO0-HNYfLgmYWJKCg)
 * [Bypass 360主机卫士SQL注入防御（多姿势）](https://www.t00ls.net/thread-45943-1-1.html)
 * [不包含数字字母的WebShell](http://www.freebuf.com/articles/web/173579.html)
+* [php一句话木马检测绕过研究](https://www.t00ls.net/viewthread.php?tid=45816)
+* [利用php特性过D盾，一句话和大马都可使用](https://www.t00ls.net/viewthread.php?tid=44388)
+* []()
 
 ## IDS
 
