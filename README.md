@@ -281,6 +281,7 @@
 * [linux远程执行win命令SMB-winexe](https://github.com/tom0li/security_circle/blob/master/51112814181184.md)
 * [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
 * [渗透技巧--浅析web暴力猜解](https://mp.weixin.qq.com/s/dSIFoBdr44BLc7TrPR8u8Q)
+* [奇技淫巧 | 上传web.config文件获取远程代码执行权限](http://www.freebuf.com/articles/web/173831.html)
 
 ### 内网
 
@@ -403,6 +404,7 @@
 * [高级持续渗透-第三季关于后门](https://www.secpulse.com/archives/66675.html)
 * [高级持续渗透-第四季关于后门](https://www.secpulse.com/archives/66661.html)
 * [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
+* [一次红队之旅](https://xz.aliyun.com/t/2389)
 
 ## Web
 ### XXE
