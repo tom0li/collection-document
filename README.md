@@ -191,6 +191,7 @@
 * [逻辑漏洞之短信轰炸](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=27614&highlight=%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8)
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 * [浅谈中间件漏洞与防护](https://thief.one/2017/05/25/1/)
+* [一个登陆框引起的血案](http://www.freebuf.com/articles/web/174408.html)
 
 ### 国外SRC文章
 
@@ -347,6 +348,7 @@
 * [内网渗透测试定位技术总结](http://www.mottoin.com/92978.html)
 * [内网渗透——网络环境的判断](https://paper.tuisec.win/detail/bc7c4b2c3145d47)
 * [PowerView](http://www.freebuf.com/sectool/173366.html)
+* [WMI在渗透测试中的重要性](https://www.secpulse.com/archives/72493.html)
 
 #### 内网技巧
 * [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
