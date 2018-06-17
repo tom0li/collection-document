@@ -143,6 +143,7 @@
 * [企业安全体系建设之路之产品安全篇](https://xianzhi.aliyun.com/forum/topic/1951)
 * [SOC异闻录](https://www.anquanke.com/post/id/95231)
 * [开源软件创建SOC的一份清单](http://www.freebuf.com/articles/network/169632.html)
+* [开源SOC的设计与实践](http://www.freebuf.com/articles/network/173282.html)
 
 ## SRC
 
@@ -207,14 +208,13 @@
 ### 信息收集
 
 * [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
-* [tom0li:漫谈信息收集](https://tom0li.github.io/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
+* [tom0li:浅谈信息收集](https://tom0li.github.io/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 * [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
 * [浅谈Web渗透测试中的信息收集](http://www.freebuf.com/articles/web/142767.html)
 * [Kali Linux渗透基础知识整理（一）：信息搜集](http://www.freebuf.com/sectool/109944.html)
 * [我眼中的渗透测试信息搜集](https://bbs.ichunqiu.com/thread-16020-1-1.html)
 * [从phpinfo中能获取哪些敏感信息](http://www.am0s.com/penetration/322.html)
 * [透过F5获取服务器真实内网IP](https://threathunter.org/topic/5940c85d9c58e020408a79fe)
-* [渗透神器系列 搜索引擎](https://thief.one/2017/05/19/1/)
 * [[红日团队]安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/99951.html)
 * [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
 * [WEB应用中的信息泄漏以及攻击方法](http://www.4hou.com/info/news/3926.html)
@@ -222,9 +222,10 @@
 * [挖掘漏洞的高级方法和思维](http://www.4hou.com/vulnerable/8376.html)
 * [渗透测试工程师子域名收集指南](http://www.4hou.com/technology/8535.html)
 * [Red Team 视角的信息收集技术](http://blkstone.github.io/2017/04/28/pentest-recon/)
+* [渗透神器系列 搜索引擎](https://thief.one/2017/05/19/1/)
 * [Google Hacking Database](https://github.com/K0rz3n/GoogleHacking-Page/blob/master/Google%20Hacking%20Database.md)
 * [Google Hacking](https://github.com/K0rz3n/GoogleHacking-Page/blob/master/Basic%20knowledge.md)
-* [搜索引擎](https://thief.one/2017/05/19/1/)
+* [Shodan自动化利用](https://xz.aliyun.com/t/2070)
 
 
 ## 渗透
@@ -278,6 +279,7 @@
 * [维持访问 WebShell](http://www.91ri.org/17340.html)
 * [linux远程执行win命令SMB-winexe](https://github.com/tom0li/security_circle/blob/master/51112814181184.md)
 * [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
+* [渗透技巧--浅析web暴力猜解](https://mp.weixin.qq.com/s/dSIFoBdr44BLc7TrPR8u8Q)
 
 ### 内网
 
@@ -383,6 +385,7 @@
 * [ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
 * [域渗透之Exchange Server](https://paper.tuisec.win/detail/203cfd7605f41af)
 * [域渗透——Skeleton Key](https://paper.tuisec.win/detail/ae1a9ecf9625209)
+* [动手打造Bypass UAC自动化测试小工具，可绕过最新版Win10](http://www.freebuf.com/sectool/114592.html)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
@@ -632,4 +635,7 @@
 * [洗钱工具“手机充值卡”卡号卡密灰色行业套现洗白链](http://www.freebuf.com/column/163232.html)
 * [kali安装后](http://metaphors.name/coding/2018/03/10/Kali.html)
 * [md语法](https://github.com/guodongxiaren/README)
-* [请求方法问题](http://www.freebuf.com/articles/web/172695.html )
+* [请求方法问题](http://www.freebuf.com/articles/web/172695.html)
+* [Python工具分析风险数据](https://www.secpulse.com/archives/66377.html)
+* [技术讨论 | 构建一个小巧的来电显示迷惑工具](http://www.freebuf.com/sectool/173730.html)
+* [https://developers.google.com/machine-learning/crash-course/?hl=zh-cn](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
