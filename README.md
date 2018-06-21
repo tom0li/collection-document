@@ -273,6 +273,7 @@
 * [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
 * [利用Host header attack进行社交工程攻击手法]-文章在90论坛
 * [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -感觉默认没开,需用ROOT权限开启
+* [phpmyadmin4.8.1后台getshell](https://www.secpulse.com/archives/72817.html)
 * [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
 * [利用redis写webshell](https://www.leavesongs.com/PENETRATION/write-webshell-via-redis-server.html)
 * [异地账号密码登陆qq邮箱(好像没检测是否异地](https://www.t00ls.net/viewthread.php?tid=42162&highlight=%E8%85%BE%E8%AE%AF)
