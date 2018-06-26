@@ -396,6 +396,7 @@
 * [域渗透之Exchange Server](https://paper.tuisec.win/detail/203cfd7605f41af)
 * [域渗透——Skeleton Key](https://paper.tuisec.win/detail/ae1a9ecf9625209)
 * [动手打造Bypass UAC自动化测试小工具，可绕过最新版Win10](http://www.freebuf.com/sectool/114592.html)
+* [Metasploit – Sessions Command 使用技巧](https://www.secpulse.com/archives/72890.html)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
