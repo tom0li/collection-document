@@ -227,6 +227,9 @@
 * [Google Hacking Database](https://github.com/K0rz3n/GoogleHacking-Page/blob/master/Google%20Hacking%20Database.md)
 * [Google Hacking](https://github.com/K0rz3n/GoogleHacking-Page/blob/master/Basic%20knowledge.md)
 * [Shodan自动化利用](https://xz.aliyun.com/t/2070)
+* [Shodan在渗透测试及漏洞挖掘中的一些用法](https://www.cnblogs.com/miaodaren/p/7904484.html)
+* [Shodan的http.favicon.hash语法详解与使用技巧](https://www.cnblogs.com/miaodaren/p/9177379.html)
+* [Shodan手册](https://b404.gitbooks.io/shodan-manual/)
 
 
 ## 渗透
