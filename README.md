@@ -285,6 +285,7 @@
 * [渗透技巧--浅析web暴力猜解](https://mp.weixin.qq.com/s/dSIFoBdr44BLc7TrPR8u8Q)
 * [奇技淫巧 | 上传web.config文件获取远程代码执行权限](http://www.freebuf.com/articles/web/173831.html)
 * [无效HTTP请求绕过Lighttpd重写规则](https://www.anquanke.com/post/id/148328)
+* [相对持久的绕过方法和一点想法_已被杀](http://www.freebuf.com/articles/network/175097.html)
 
 ### 内网
 
