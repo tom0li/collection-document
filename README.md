@@ -240,6 +240,7 @@
 * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
+* [API 接口渗透测试](https://xz.aliyun.com/t/2412)
 * [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
 * [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
@@ -456,6 +457,7 @@
 * [内网xss蠕虫](https://woj.app/2173.html)
 * [攻破黑市之拿下吃鸡DNF等游戏钓鱼站群](http://www.freebuf.com/articles/web/172330.html)
 * [上传Word文件形成存储型XSS路径](http://www.freebuf.com/articles/web/173250.html)
+* [老歌新唱|PUNYCODE再利用](http://www.lz1y.cn/archives/1469.html)
 
 ### jsonp
 
