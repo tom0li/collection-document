@@ -1,6 +1,6 @@
 ## [collection-document awesome](https://github.com/tom0li/collection-document/)
 
-> 优质 安全文章 收藏  长期更新  如果只fork不能接受更新
+> 优质安全文章收藏  长期更新  如果只fork不能接受更新
 ------
 
 ## github list
@@ -653,3 +653,7 @@
 * [Python工具分析风险数据](https://www.secpulse.com/archives/66377.html)
 * [技术讨论 | 构建一个小巧的来电显示迷惑工具](http://www.freebuf.com/sectool/173730.html)
 * [https://developers.google.com/machine-learning/crash-course/?hl=zh-cn](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
+
+## Acknowledgments
+---
+* @[neargle](https://github.com/neargle)
