@@ -240,6 +240,7 @@
 * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
+* [渗透测试工具备忘录](https://xz.aliyun.com/t/2482#toc-67)
 * [API 接口渗透测试](https://xz.aliyun.com/t/2412)
 * [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
 * [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
@@ -467,6 +468,9 @@
 * [浅谈跨域11](https://tom0li.github.io/2017/11/11/%E6%B5%85%E8%B0%88%E8%B7%A8%E5%9F%9F/)
 * [使用request merging bypass referer(jsonp) 检测](http://blog.neargle.com/2017/09/01/use-request-merging-to-bypass-referer-check/)
 
+### CORS
+* [JSONP与CORS漏洞挖掘](https://www.anquanke.com/post/id/97671)
+
 ### tools
 
 * [工具| sqlmap payload修改之路](http://www.freebuf.com/column/161535.html)
@@ -499,6 +503,7 @@
 * [Dns Auto Rebinding](http://www.thinkings.org/2017/06/25/dns-auto-rebinding.html)
 * [通过DNS rebinding绕过同源策略攻击Transmission分析](https://www.anquanke.com/post/id/97366)
 * [Use DNS Rebinding to Bypass SSRF in Java](https://mp.weixin.qq.com/s/545el33HNI0rVi2BGVP5_Q)
+* [SSRF漏洞的挖掘经验](https://sobug.com/article/detail/11)
 
 ### sql
 * [MySql注入备忘录](https://chybeta.github.io/2017/07/21/MySql%E6%B3%A8%E5%85%A5%E5%A4%87%E5%BF%98%E5%BD%95/)
