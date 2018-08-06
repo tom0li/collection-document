@@ -181,6 +181,7 @@
 * [林林总总的Host Header Attack](https://mp.weixin.qq.com/s?__biz=MzI2NjUwNjU4OA==&mid=2247483858&idx=1&sn=2170052e99a41de3f98a6f1729dba764&chksm=ea8c59e1ddfbd0f7267095ae6da027661993b9d98b06a7d3d1f4c5e11a42cfa741ed7b21826b&scene=0#rd)
 * [Redis未授权访问漏洞的重现与利用](http://www.freebuf.com/vuls/162035.html)
 * [Redis安全总结](https://bl4ck.in/categories/2015/11/17/Redis%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93.html)
+* [Redis在Windows环境下Getshell]()
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 * [各大SRC中的CSRF技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=28448&highlight=src)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
@@ -658,6 +659,7 @@
 * [Python工具分析风险数据](https://www.secpulse.com/archives/66377.html)
 * [技术讨论 | 构建一个小巧的来电显示迷惑工具](http://www.freebuf.com/sectool/173730.html)
 * [https://developers.google.com/machine-learning/crash-course/?hl=zh-cn](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
+* [远程定位追踪联网车辆以及利用思路分析](http://www.freebuf.com/vuls/178604.html)
 
 ## Acknowledgments
 ---
