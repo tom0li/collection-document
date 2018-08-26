@@ -40,6 +40,13 @@
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
 * [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
 
+## 预警&研究
+### ImageMagick
+---
+* [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
+* [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
+* [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
+
 ## 安全部
 
 #### 建设
@@ -664,4 +671,5 @@
 
 ## Acknowledgments
 ---
-* @[neargle](https://github.com/neargle)
+* [tom0li](https://github.com/tom0li)
+* [neargle](https://github.com/neargle)
