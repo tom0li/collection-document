@@ -47,6 +47,14 @@
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
 
+### WordPress
+---
+* [CVE-2017-8295: WordPress 2.3-4.8.3 任意密码重置/HOST头注入漏洞利用](http://www.vulnspy.com/cn-cve-2017-8295-unauthorized-password-reset-vulnerability/cve-2017-8295:_wordpress_2.3-4.8.3_%E4%BB%BB%E6%84%8F%E5%AF%86%E7%A0%81%E9%87%8D%E7%BD%AE/host%E5%A4%B4%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/)
+
+### 杂
+---
+* [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
+
 ## 安全部
 
 #### 建设
@@ -671,5 +679,5 @@
 
 ## Acknowledgments
 ---
-* [tom0li](https://github.com/tom0li)
-* [neargle](https://github.com/neargle)
+* @[tom0li](https://github.com/tom0li)
+* @[neargle](https://github.com/neargle)
