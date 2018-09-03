@@ -277,6 +277,7 @@
 * [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
 * [渗透测试学习笔记之综合渗透案例一](https://www.secpulse.com/archives/72464.html)
 * [记一次对某企业的渗透测试实战](https://bbs.ichunqiu.com/thread-41946-1-1.html)
+* [Exploit Singapore Hotels: ezxcess.antlabs.com](https://paper.tuisec.win/detail/06b238bc27b9c90)
 
 #### 靶场
 * [vulhub](https://github.com/vulhub/vulhub)
