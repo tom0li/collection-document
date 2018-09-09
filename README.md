@@ -91,6 +91,7 @@
 * [基础设施攻击日志记录 – 第3部分：Graylog仪表板](https://www.secpulse.com/archives/70149.html)
 * [基础设施的攻击日志记录 – 第4部分：日志事件警报](https://www.secpulse.com/archives/70207.html)
 * [宜信防火墙自动化运维之路](http://www.freebuf.com/articles/security-management/166895.html)
+* [证书锁定](https://www.secpulse.com/archives/75212.html)
 
 #### 加固
 
