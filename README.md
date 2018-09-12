@@ -1,7 +1,7 @@
-## Project Description
+# Project Description
 ---
-Collection of quality safety articles
-> ### [collection-document awesome](https://github.com/tom0li/collection-document/)
+# Collection of quality safety articles
+> #### [collection-document awesome](https://github.com/tom0li/collection-document/)
 ---
 
 Table of Contents
@@ -495,6 +495,7 @@ Table of Contents
 * [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
 * [一次红队之旅](https://xz.aliyun.com/t/2389)
 * [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
+* [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
 
 ## Web
 ### XXE
