@@ -1,9 +1,69 @@
-## [collection-document awesome](https://github.com/tom0li/collection-document/)
+## Project Description
+---
+Collection of quality safety articles
+> ### [collection-document awesome](https://github.com/tom0li/collection-document/)
+---
 
-> 优质安全文章收藏  长期更新  如果只fork不能接受更新
-------
+Table of Contents
+=================
 
-## github list
+   * [Github-list](#github-list)
+   * [预警&amp;研究](#预警研究)
+      * [ImageMagick](#imagemagick)
+      * [WordPress](#wordpress)
+      * [杂](#杂)
+   * [安全部](#安全部)
+      * [建设](#建设)
+      * [加固](#加固)
+      * [响应 溯源](#响应-溯源)
+      * [威胁情报](#威胁情报)
+      * [综合](#综合)
+   * [SRC](#src)
+      * [总结](#总结)
+      * [国外SRC文章](#国外src文章)
+      * [信息收集](#信息收集)
+   * [渗透](#渗透)
+      * [靶场](#靶场)
+      * [技巧](#技巧)
+   * [内网](#内网)
+      * [hash 票据](#hash-票据)
+      * [代理转发](#代理转发)
+      * [内网平台](#内网平台)
+      * [内网收集](#内网收集)
+      * [内网技巧](#内网技巧)
+      * [提权](#提权)
+   * [APT](#apt)
+   * [Web](#web)
+      * [XXE](#xxe)
+      * [XSS](#XSS)
+      * [Jsonp](#Jsonp)
+      * [CORS](#cors)
+      * [tools](#tools)
+      * [CSRF](#CSRF)
+      * [SSRF](#SSRF)
+      * [SQL](#SQL)
+      * [文件包含](#文件包含)
+      * [上传](#上传)
+      * [SSI](#SSI)
+      * [JS](#js)
+      * [DNS](#dns)
+      * [钓鱼](#钓鱼)
+         * [邮件伪造](#邮件伪造)
+   * [FUZZ](#fuzz)
+   * [远控](#远控)
+   * [WAF](#waf)
+   * [IDS](#ids)
+   * [代码审计](#代码审计)
+      * [Java](#java)
+   * [其他](#其他)
+      * [Git](#git)
+      * [特别的wenxin号](#特别的wenxin号)
+      * [二维码](#二维码)
+      * [爬虫](#爬虫)
+      * [科普](#科普)
+   * [Acknowledgments](#acknowledgments)
+
+## Github-list
 
 * [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛 
 * [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
@@ -335,7 +395,7 @@
 * [初级域渗透系列 03. 常见攻击方法](https://paper.tuisec.win/detail/cd49c17ca23cece)
 * [渗透测试学习笔记之综合渗透案例一](https://mp.weixin.qq.com/s/sKXWjgaViYsCjG33-5Ey8Q)
 
-##### hash 票据
+#### hash 票据
 
 * [Windows下的密码hash——NTLM hash和Net-NTLM hash介绍](https://xianzhi.aliyun.com/forum/topic/1943)
 * [域渗透之hash与票据](https://mp.weixin.qq.com/s/ENStRpYspx5W974BKPzZtA)
@@ -434,6 +494,7 @@
 * [高级持续渗透-第四季关于后门](https://www.secpulse.com/archives/66661.html)
 * [高级持续渗透-第五季关于后门](https://www.secpulse.com/archives/66705.html)
 * [一次红队之旅](https://xz.aliyun.com/t/2389)
+* [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
 
 ## Web
 ### XXE
@@ -456,7 +517,7 @@
 * [XXE-DTD Cheat Sheet](https://web-in-security.blogspot.jp/2016/03/xxe-cheat-sheet.html)
 * [通过编码绕过一些cms对于xxe的检测](https://forum.90sec.org/forum.php?mod=viewthread&tid=10334&extra=page%3D3)
 
-### xss
+### XSS
 
 * [浅谈XSS—字符编码和浏览器解析原理](https://security.yirendai.com/news/share/26)
 * [深入理解XSS编码--浏览器解析原理](https://xianzhi.aliyun.com/forum/topic/1556)
@@ -479,7 +540,7 @@
 * [上传Word文件形成存储型XSS路径](http://www.freebuf.com/articles/web/173250.html)
 * [老歌新唱|PUNYCODE再利用](http://www.lz1y.cn/archives/1469.html)
 
-### jsonp
+### Jsonp
 
 * [JSONP注入解析](http://www.freebuf.com/articles/web/126347.html)
 * [利用JSONP跨域获取信息](https://xianzhi.aliyun.com/forum/topic/176)
@@ -510,11 +571,11 @@
 * [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
 * [XMind8 Pro版激活序列码与补丁](http://hacktech.cn/2017/12/22/Xmind-Patch-Crack.html)
 
-### csrf 
+### CSRF
 
 * [关于JSON CSRF的一些思考](https://mp.weixin.qq.com/s/kLRxHfzikhmV7NjpRJH6SA)
 
-### ssrf
+### SSRF
 
 * [关于一些SSRF的技巧](https://mp.weixin.qq.com/s/3r_oBX8dfpDcEwLkAz26Ug)
 * [关于SSRF漏洞挖掘思路](https://mp.weixin.qq.com/s/HPNKYL4EvTOchVM1MvIIbw)
@@ -524,7 +585,7 @@
 * [Use DNS Rebinding to Bypass SSRF in Java](https://mp.weixin.qq.com/s/545el33HNI0rVi2BGVP5_Q)
 * [SSRF漏洞的挖掘经验](https://sobug.com/article/detail/11)
 
-### sql
+### SQL
 * [MySql注入备忘录](https://chybeta.github.io/2017/07/21/MySql%E6%B3%A8%E5%85%A5%E5%A4%87%E5%BF%98%E5%BD%95/)
 * [浅析白盒审计中的字符编码及SQL注入](https://www.leavesongs.com/PENETRATION/mutibyte-sql-inject.html)
 * [宽字节注入深度讲解](http://www.freebuf.com/column/165567.html)
@@ -537,7 +598,7 @@
 ### 上传
 * [上传漏洞的靶场](https://github.com/c0ny1/upload-labs)
 
-### ssi
+### SSI
 
 * [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
 
@@ -678,6 +739,11 @@
 * [技术讨论 | 构建一个小巧的来电显示迷惑工具](http://www.freebuf.com/sectool/173730.html)
 * [https://developers.google.com/machine-learning/crash-course/?hl=zh-cn](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
 * [远程定位追踪联网车辆以及利用思路分析](http://www.freebuf.com/vuls/178604.html)
+
+## How to contribute?
+---
+We welcome everyone to contribute,you can open an issue for this if you have some new idea about this project or you have found some quality safety articles,and then I will add your name to Acknowledgments.
+
 
 ## Acknowledgments
 ---
