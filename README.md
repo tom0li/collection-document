@@ -179,9 +179,8 @@ Table of Contents
 * [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140/)
 * [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
 * [应急tools](https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md)
-* [Linux服务器应急事件溯源报告](http://cb.drops.wiki/drops/tips-12972.html)
-* [应急响应小记](https://threathunter.org/topic/5943a99c1e3732874e23f996)
-* [应急响应小总结](http://www.aokisec.com/archives/80/)
+* [Linux服务器应急事件溯源报告](http://wooyun.jozxing.cc/static/drops/tips-12972.html)
+* [应急响应小记连接已挂](https://threathunter.org/topic/5943a99c1e3732874e23f996)
 * [大型互联网企业入侵检测实战总结](https://zhuanlan.zhihu.com/p/31154756)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
@@ -624,7 +623,7 @@ Table of Contents
 
 
 ### 钓鱼
-
+* [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
 #### 邮件伪造
 
 * [钓鱼邮件初探：黑客是如何进行邮件伪造的](http://www.freebuf.com/sectool/92397.html)
