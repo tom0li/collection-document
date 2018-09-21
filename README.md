@@ -552,6 +552,7 @@ Table of Contents
 ### CORS
 * [JSONP与CORS漏洞挖掘](https://www.anquanke.com/post/id/97671)
 * [浅谈CORS可能产生的漏洞](https://pediy.com/thread-225058.htm)
+* [cors安全完全指南](https://xz.aliyun.com/t/2745#toc-4)
 
 ### tools
 
