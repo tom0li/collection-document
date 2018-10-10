@@ -33,6 +33,8 @@ Table of Contents
       * [内网技巧](#内网技巧)
       * [提权](#提权)
    * [APT](#apt)
+      * [钓鱼](#钓鱼)
+         * [邮件伪造](#邮件伪造)
    * [Web](#web)
       * [XXE](#xxe)
       * [XSS](#XSS)
@@ -44,11 +46,12 @@ Table of Contents
       * [SQL](#SQL)
       * [文件包含](#文件包含)
       * [上传](#上传)
+      * [任意文件读取](#任意文件读取)
       * [SSI](#SSI)
+      * [SSTI](#SSTI)
       * [JS](#js)
       * [DNS](#dns)
-      * [钓鱼](#钓鱼)
-         * [邮件伪造](#邮件伪造)
+
    * [FUZZ](#fuzz)
    * [远控](#远控)
    * [WAF](#waf)
@@ -496,6 +499,15 @@ Table of Contents
 * [一次红队之旅](https://xz.aliyun.com/t/2389)
 * [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
 * [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
+### 钓鱼
+* [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
+#### 邮件伪造
+
+* [钓鱼邮件初探：黑客是如何进行邮件伪造的](http://www.freebuf.com/sectool/92397.html)
+* [邮箱伪造](http://wps2015.org/drops/drops/%E9%82%AE%E7%AE%B1%E4%BC%AA%E9%80%A0%E8%AF%A6%E8%A7%A3.html)
+* [一封伪造邮件引发的“探索”（涉及钓鱼邮件、SPF和DKIM等）](http://www.freebuf.com/articles/web/138764.html)
+* [SPF 记录：原理、语法及配置方法简介](https://www.renfei.org/blog/introduction-to-spf.html)
+* [绕过DKIM验证，伪造钓鱼邮件](http://www.4hou.com/web/7857.html)
 
 ## Web
 ### XXE
@@ -601,9 +613,20 @@ Table of Contents
 ### 上传
 * [上传漏洞的靶场](https://github.com/c0ny1/upload-labs)
 
+### 任意文件读取
+
+* [新型任意文件读取漏洞的研究](https://www.leavesongs.com/PENETRATION/arbitrary-files-read-via-static-requests.html)
+* [一个任意文件读取漏洞记录](http://xdxd.love/2016/05/23/%E4%B8%80%E4%B8%AA%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
+* [任意文件读取的常用字典](http://blkstone.github.io/2017/12/18/arbitary-file-read-exploit/)
+
 ### SSI
 
 * [服务器端包含注入SSI分析总结](https://www.secpulse.com/archives/66934.html)
+
+### SSTI
+
+* [Flask Jinja2开发中遇到的的服务端注入问题研究](http://www.freebuf.com/articles/web/136118.html)
+* [FlaskJinja2 开发中遇到的的服务端注入问题研究 II](http://www.freebuf.com/articles/web/136180.html)
 
 ### JS
 
@@ -622,17 +645,6 @@ Table of Contents
 * [DNS Tunneling及相关实现](http://www.freebuf.com/sectool/112076.html)
 * [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
 * [Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
-
-
-### 钓鱼
-* [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
-#### 邮件伪造
-
-* [钓鱼邮件初探：黑客是如何进行邮件伪造的](http://www.freebuf.com/sectool/92397.html)
-* [邮箱伪造](http://wps2015.org/drops/drops/%E9%82%AE%E7%AE%B1%E4%BC%AA%E9%80%A0%E8%AF%A6%E8%A7%A3.html)
-* [一封伪造邮件引发的“探索”（涉及钓鱼邮件、SPF和DKIM等）](http://www.freebuf.com/articles/web/138764.html)
-* [SPF 记录：原理、语法及配置方法简介](https://www.renfei.org/blog/introduction-to-spf.html)
-* [绕过DKIM验证，伪造钓鱼邮件](http://www.4hou.com/web/7857.html)
 
 ## FUZZ
 * [浅谈Fuzzing分析技术](http://www.freebuf.com/column/157277.html)
