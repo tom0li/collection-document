@@ -105,6 +105,7 @@ Table of Contents
 * [物联网安全百科](https://github.com/yaseng/iot-security-wiki) -by  伏宸安全实验室
 
 ## 预警&研究
+* [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
 ### ImageMagick
 ---
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
