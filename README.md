@@ -119,6 +119,7 @@ Table of Contents
 ### 杂
 ---
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
+* [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
 
 ## 安全部
 
@@ -559,8 +560,8 @@ Table of Contents
 
 * [JSONP注入解析](http://www.freebuf.com/articles/web/126347.html)
 * [利用JSONP跨域获取信息](https://xianzhi.aliyun.com/forum/topic/176)
-* [漫谈同源策略攻防](http://bobao.360.cn/learning/detail/3848.html)
-* [浅谈跨域11](https://tom0li.github.io/2017/11/11/%E6%B5%85%E8%B0%88%E8%B7%A8%E5%9F%9F/)
+* [漫谈同源策略攻防](https://www.anquanke.com/post/id/86078)
+* [浅谈跨域11](https://tom0li.github.io/%E6%B5%85%E8%B0%88%E8%B7%A8%E5%9F%9F/)
 * [使用request merging bypass referer(jsonp) 检测](http://blog.neargle.com/2017/09/01/use-request-merging-to-bypass-referer-check/)
 
 ### CORS
