@@ -358,6 +358,7 @@ Table of Contents
 * [修改过狗菜刀](https://forum.90sec.org/forum.php?mod=viewthread&tid=10544&extra=page%3D2)
 * [Java版的中国菜刀修改](https://forum.90sec.com/t/topic/513)
 * [修改c刀](http://www.freebuf.com/articles/web/100432.html)
+* [菜刀HTTP流量中转代理过WAF](https://xz.aliyun.com/t/2739)
 * [sql二次注入和截断联合使用](https://forum.90sec.org/forum.php?mod=viewthread&tid=10377&extra=page%3D3)
 * [sql二次注入和截断补充说明](https://forum.90sec.org/forum.php?mod=viewthread&tid=10383&extra=page%3D3)
 * [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
