@@ -180,6 +180,7 @@ Table of Contents
 * [浅谈Linux系统MySQL安全配置](https://mp.weixin.qq.com/s/0KrfdrjbcRdvSTKxoNHOcA)
 * [Hardening Ubuntu](https://github.com/konstruktoid/hardening)
 * [Tomcat Config Security](https://joychou.org/operations/tomcat-config-security.html)
+* [安全运维中基线检查的自动化之ansible工具巧用](https://bbs.ichunqiu.com/thread-46896-1-1.html?from=snew)
 
 #### 响应 溯源
 
