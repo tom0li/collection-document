@@ -356,6 +356,8 @@ Table of Contents
 #### 技巧
 
 * [https的app如何抓包](https://www.t00ls.net/thread-40042-1-1.html)
+* [如何使用Xposed+JustTrustMe来突破SSL Pinning](https://bbs.pediy.com/thread-226435.htm)
+* [Frida.Android.Practice (ssl unpinning)](https://github.com/WooyunDota/DroidDrops/blob/master/2018/Frida.Android.Practice.md)
 * [IIS7以上突破无脚本执行权限限制](https://forum.90sec.org/forum.php?mod=viewthread&tid=10562&extra=page%3D2)
 * [ACCESS无select SQL注射](https://forum.90sec.org/forum.php?mod=viewthread&tid=10663)
 * [SQL注入奇巧淫技——利用DNSLOG获取看不到的信息](http://foreversong.cn/archives/861)
