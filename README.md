@@ -85,15 +85,14 @@ Table of Contents
 * [Security Talks](https://github.com/PaulSec/awesome-sec-talks) - Curated list of security conferences.
 * [OSINT](https://github.com/jivoi/awesome-osint) - Awesome OSINT list containing great resources.
 * [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
-* [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners
-* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - by CHYbeta
-* [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
-* [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) 
 * [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide)
+* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - by CHYbeta
+* [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
 * [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - by JnuSimba notes 
 * [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - notes
 * [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
+* [Security Knowledge Structure](https://github.com/JoyChou93/sks)
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
 * [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
@@ -102,7 +101,11 @@ Table of Contents
 * [www.polaris-lab.com_Paper](https://github.com/re4lity/SecPaper)
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
 * [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
+* [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners
+* [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 * [物联网安全百科](https://github.com/yaseng/iot-security-wiki) -by  伏宸安全实验室
+* [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
@@ -172,7 +175,7 @@ Table of Contents
 * [windows服务器安全配置策略](https://www.yesck.com/post/528/)
 * [15步打造一个安全的Linux服务器](https://tom0li.github.io/2017/02/09/2017-2-9-linux%E5%8A%A0%E5%9B%BA-%E7%BF%BB%E8%AF%91/)
 * [Tomcat7 加固清单](https://threathunter.org/topic/59911277ec721b1f1966e7eb)
-* [Tomat安全设置和版本屏蔽](http://www.freebuf.com/column/163296.html)
+* [Tomcat安全设置和版本屏蔽](http://www.freebuf.com/column/163296.html)
 * [Apache服务器安全配置](http://foreversong.cn/archives/789)
 * [IIS服务器安全配置](http://foreversong.cn/archives/803)
 * [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
@@ -181,6 +184,7 @@ Table of Contents
 * [Hardening Ubuntu](https://github.com/konstruktoid/hardening)
 * [Tomcat Config Security](https://joychou.org/operations/tomcat-config-security.html)
 * [安全运维中基线检查的自动化之ansible工具巧用](https://bbs.ichunqiu.com/thread-46896-1-1.html?from=snew)
+* [https://github.com/netxfly/sec_check](https://github.com/netxfly/sec_check)
 
 #### 响应 溯源
 
@@ -667,7 +671,7 @@ Table of Contents
 
 ## 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
-
+* [QuasarRAT](https://github.com/quasar/QuasarRAT)
 ## WAF
 
 * [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
@@ -713,6 +717,7 @@ Table of Contents
 * [Java反序列化漏洞学习实践一：从Serializbale接口开始，先弹个计算器](http://www.polaris-lab.com/index.php/archives/447/)
 * [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
+* [Java漏洞代码](https://github.com/JoyChou93/java-sec-code)
 
 ## 其他
 
