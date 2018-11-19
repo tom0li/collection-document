@@ -664,12 +664,13 @@ Table of Contents
 * [Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
 
 ## FUZZ
-* [浅谈Fuzzing分析技术](http://www.freebuf.com/column/157277.html)
 * [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
 * [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
-* [web敏感资产fuzz](http://www.cnnetarmy.com/web%e6%95%8f%e6%84%9f%e8%b5%84%e4%ba%a7fuzz/)
-* [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?author=779)
+* [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?p=15613)
 * [我的Web应用安全模糊测试之路](https://gh0st.cn/archives/2018-07-25/1)
+* [Wfuzz初上手](https://www.secpulse.com/archives/78638.html)
+* [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
+* [Wfuzz高阶功法](https://gh0st.cn/archives/2018-10-28/3)
 
 ## 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
