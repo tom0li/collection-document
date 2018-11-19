@@ -391,6 +391,7 @@ Table of Contents
 
 ### 内网
 
+* [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
 * [tom0li:内网备忘录](https://tom0li.github.io/%E5%86%85%E7%BD%91%E5%A4%87%E5%BF%98%E5%BD%95/)
@@ -594,13 +595,13 @@ Table of Contents
 * [诸神之眼nmap定制化之初识NSE](http://www.freebuf.com/column/164388.html)
 * [诸神之眼nmap定制化之NSE进阶](http://www.freebuf.com/column/165252.html)
 * [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
-* [Burp 1.7.31](https://github.com/tom0li/burp)
+* [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions)
 * [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
 * [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
 * [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
 * [nmap](http://www.polaris-lab.com/index.php/archives/390/)
 * [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
-* [XMind8 Pro版激活序列码与补丁](http://hacktech.cn/2017/12/22/Xmind-Patch-Crack.html)
+
 
 ### CSRF
 
