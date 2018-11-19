@@ -669,6 +669,7 @@ Table of Contents
 * [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
 * [web敏感资产fuzz](http://www.cnnetarmy.com/web%e6%95%8f%e6%84%9f%e8%b5%84%e4%ba%a7fuzz/)
 * [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?author=779)
+* [我的Web应用安全模糊测试之路](https://gh0st.cn/archives/2018-07-25/1)
 
 ## 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
