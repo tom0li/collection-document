@@ -548,7 +548,7 @@ Table of Contents
 * [通过编码绕过一些cms对于xxe的检测](https://forum.90sec.org/forum.php?mod=viewthread&tid=10334&extra=page%3D3)
 
 ### XSS
-
+* [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
 * [浅谈XSS—字符编码和浏览器解析原理](https://security.yirendai.com/news/share/26)
 * [深入理解XSS编码--浏览器解析原理](https://xianzhi.aliyun.com/forum/topic/1556)
 * [XSS常见利用代码及原理](http://wps2015.org/2016/12/12/usually-used-xss-code/)
