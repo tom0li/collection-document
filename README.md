@@ -625,6 +625,9 @@ Table of Contents
 * [宽字节注入深度讲解](http://www.freebuf.com/column/165567.html)
 * [基于mysql下的几种写shell方法](http://sh1yan.top/?p=190)
 * [MSSQL 注入攻击与防御](https://www.anquanke.com/post/id/86011)
+* [MSSQL DBA权限获取WEBSHELL的过程](http://liehu.tass.com.cn/archives/608)
+* [SQLite手工注入Getshell技巧](http://liehu.tass.com.cn/archives/762)
+
 
 ### 文件包含
 * [php文件包含漏洞](https://chybeta.github.io/2017/10/08/php%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/)
