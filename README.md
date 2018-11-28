@@ -570,6 +570,7 @@ Table of Contents
 * [Black-Hole专辑](http://www.freebuf.com/author/Black-Hole?page=1) -细读
 * [内网xss蠕虫](https://woj.app/2173.html)
 * [攻破黑市之拿下吃鸡DNF等游戏钓鱼站群](http://www.freebuf.com/articles/web/172330.html)
+* [前端安全系列（一）：如何防止XSS攻击？](https://segmentfault.com/a/1190000016551188)
 * [上传Word文件形成存储型XSS路径](http://www.freebuf.com/articles/web/173250.html)
 * [老歌新唱|PUNYCODE再利用](http://www.lz1y.cn/archives/1469.html)
 
