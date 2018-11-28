@@ -741,9 +741,9 @@ Table of Contents
 #### 二维码
 
 * [微信Netting-QRLJacking分析利用-扫我二维码获取你的账号权限](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25923&highlight=%E4%BA%8C%E7%BB%B4%E7%A0%81)
-* [通过二维码传输IP数据](http://www.mottoin.com/92345.html)
+* [Android平台下二维码漏洞攻击杂谈](https://wooyun.js.org/drops/Android%E5%B9%B3%E5%8F%B0%E4%B8%8B%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%BC%8F%E6%B4%9E%E6%94%BB%E5%87%BB%E6%9D%82%E8%B0%88.html)
 * [二维码登陆的常见缺陷剖析](https://www.t00ls.net/thread-45152-1-1.html)
-* [ 二维码安全-淘宝例子](https://www.t00ls.net/thread-45618-1-1.html)
+* [二维码安全-淘宝例子](https://www.t00ls.net/thread-45618-1-1.html)
 
 #### 爬虫
 
