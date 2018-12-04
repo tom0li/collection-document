@@ -35,6 +35,7 @@ Table of Contents
    * [APT](#apt)
       * [钓鱼](#钓鱼)
          * [邮件伪造](#邮件伪造)
+      * [远控](#远控)
    * [Web](#web)
       * [XXE](#xxe)
       * [XSS](#XSS)
@@ -53,7 +54,6 @@ Table of Contents
       * [DNS](#dns)
 
    * [FUZZ](#fuzz)
-   * [远控](#远控)
    * [WAF](#waf)
    * [IDS](#ids)
    * [代码审计](#代码审计)
@@ -519,15 +519,21 @@ Table of Contents
 * [一次红队之旅](https://xz.aliyun.com/t/2389)
 * [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
 * [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
+
 ### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
+
 #### 邮件伪造
 
-* [钓鱼邮件初探：黑客是如何进行邮件伪造的](http://www.freebuf.com/sectool/92397.html)
-* [邮箱伪造](http://wps2015.org/drops/drops/%E9%82%AE%E7%AE%B1%E4%BC%AA%E9%80%A0%E8%AF%A6%E8%A7%A3.html)
 * [一封伪造邮件引发的“探索”（涉及钓鱼邮件、SPF和DKIM等）](http://www.freebuf.com/articles/web/138764.html)
 * [SPF 记录：原理、语法及配置方法简介](https://www.renfei.org/blog/introduction-to-spf.html)
+* [邮件伪造技术与检测](https://www.secpulse.com/archives/78738.html)
+* [伪造电子邮件以及制造电子邮件炸弹的攻防探讨](https://www.freebuf.com/sectool/184555.html)
 * [绕过DKIM验证，伪造钓鱼邮件](http://www.4hou.com/web/7857.html)
+
+### 远控
+* [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
+* [QuasarRAT](https://github.com/quasar/QuasarRAT)
 
 ## Web
 ### XXE
@@ -679,9 +685,6 @@ Table of Contents
 * [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
 * [Wfuzz高阶功法](https://gh0st.cn/archives/2018-10-28/3)
 
-## 远控
-* [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
-* [QuasarRAT](https://github.com/quasar/QuasarRAT)
 ## WAF
 
 * [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
