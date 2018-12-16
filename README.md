@@ -256,9 +256,8 @@ Table of Contents
 * [一些逻辑](https://secvul.com/topics/924.html)
 * [OSS对象存储上传解析漏洞](https://xianzhi.aliyun.com/forum/topic/2078)
 * [任意文件下载引发的思考](https://www.secpulse.com/archives/68522.html)
-* [两种密码重置之综合利用](http://www.freebuf.com/articles/network/166520.html)
-* [任意用户密码重置](http://www.freebuf.com/articles/web/166667.html)
 * [通用性业务逻辑组合拳劫持你的权限](https://www.anquanke.com/post/id/106961)
+* [组合漏洞导致的账号劫持](https://xz.aliyun.com/t/3514)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
