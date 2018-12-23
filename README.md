@@ -389,6 +389,7 @@ Table of Contents
 * [无效HTTP请求绕过Lighttpd重写规则](https://www.anquanke.com/post/id/148328)
 * [相对持久的绕过方法和一点想法_已被杀](http://www.freebuf.com/articles/network/175097.html)
 * [渗透技巧之SSH篇](http://drops.xmd5.com/static/drops/tips-1951.html)
+* [无需sendmail：巧用LD_PRELOAD突破disable_functions](https://www.freebuf.com/articles/web/192052.html)
 
 ### 内网
 
@@ -682,6 +683,7 @@ Table of Contents
 * [Wfuzz初上手](https://www.secpulse.com/archives/78638.html)
 * [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
 * [Wfuzz高阶功法](https://gh0st.cn/archives/2018-10-28/3)
+* [Wfuzz高阶功法](https://www.secpulse.com/archives/83173.html)
 
 ## WAF
 
