@@ -396,6 +396,7 @@ Table of Contents
 * [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
+* [DarthSidious-Chinese](https://github.com/crazywa1ker/DarthSidious-Chinese)
 * [tom0li:内网备忘录](https://tom0li.github.io/%E5%86%85%E7%BD%91%E5%A4%87%E5%BF%98%E5%BD%95/)
 * [内网安全检查/渗透总结](https://xz.aliyun.com/t/2354)
 * [Active Directory中获取域管理员权限的攻击方法](https://xz.aliyun.com/t/115)
