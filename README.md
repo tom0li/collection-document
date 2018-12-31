@@ -758,6 +758,10 @@ Table of Contents
 * [浅谈动态爬虫与去重(续)](https://www.anquanke.com/post/id/95294#h2-1)
 * [爬虫基础篇[Web 漏洞扫描器]](http://blog.fatezero.org/2018/03/05/web-scanner-crawler-01/)
 
+#### 学术
+
+* [安全学术圈2018年度总结](https://mp.weixin.qq.com/s/eQ5os0Fdb498BoQLKUDmrA) - 微信号安全学术圈
+
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
