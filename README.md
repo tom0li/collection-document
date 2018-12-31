@@ -404,6 +404,7 @@ Table of Contents
 * [JBoss引起的内网渗透-2](https://xz.aliyun.com/t/2166)
 * [JBoss引起的内网渗透-3](http://rcoil.me/2018/03/JBoss%E5%BC%95%E8%B5%B7%E7%9A%84%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F-3/)
 * [Linux内网渗透](https://thief.one/2017/08/09/2/)
+* [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
 * [Weblogic引发的血案](http://hone.cool/2018/03/29/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88/)
 * [Weblogic引发的血案-2](http://hone.cool/2018/04/03/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88-2/)
 * [Weblogic引发的血案-3](http://hone.cool/2018/04/12/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88-3/)
@@ -417,6 +418,7 @@ Table of Contents
 * [初级域渗透系列 03. 常见攻击方法](https://paper.tuisec.win/detail/cd49c17ca23cece)
 * [渗透测试学习笔记之综合渗透案例一](https://mp.weixin.qq.com/s/sKXWjgaViYsCjG33-5Ey8Q)
 * [一个人的武林：内网渗透测试思路（二）](https://www.secpulse.com/archives/76810.html)
+
 
 #### hash 票据
 
