@@ -170,13 +170,13 @@ Table of Contents
 * [基线检查表&安全加固规范](https://xianzhi.aliyun.com/forum/topic/1127/)
 * [浅谈linux安全加固](https://mp.weixin.qq.com/s/y8np-sFzik15x09536QA5w)
 * [CentOS 7 主机加固](http://www.cnblogs.com/xiaoxiaoleo/p/6678727.html)
-* [APACHE 常见加固](http://www.0xmh.com/apache-%E5%B8%B8%E8%A7%81%E5%8A%A0%E5%9B%BA/?utm_source=tuicool&utm_medium=referral)
+* [APACHE 常见加固](http://cncc.bingj.com/cache.aspx?q=APACHE+%E5%B8%B8%E8%A7%81%E5%8A%A0%E5%9B%BA++0xmh&d=4797622048333774&mkt=zh-CN&setlang=zh-CN&w=WrFf2nH3PRyFtNxa6T7D-zazauskMnwg)
+* [Apache服务器安全配置](http://webcache.googleusercontent.com/search?q=cache:GZSS-N0OXY8J:foreversong.cn/archives/789+&cd=1&hl=zh-CN&ct=clnk&gl=sg&lr=lang_en%7Clang_zh-CN)
 * [GNU/Linux安全基线与加固](http://cb.drops.wiki/drops/tips-2621.html)
 * [windows服务器安全配置策略](https://www.yesck.com/post/528/)
-* [15步打造一个安全的Linux服务器](https://tom0li.github.io/2017/02/09/2017-2-9-linux%E5%8A%A0%E5%9B%BA-%E7%BF%BB%E8%AF%91/)
+* [15步打造一个安全的Linux服务器](https://www.freebuf.com/articles/system/121540.html)
 * [Tomcat7 加固清单](https://threathunter.org/topic/59911277ec721b1f1966e7eb)
 * [Tomcat安全设置和版本屏蔽](http://www.freebuf.com/column/163296.html)
-* [Apache服务器安全配置](http://foreversong.cn/archives/789)
 * [IIS服务器安全配置](http://foreversong.cn/archives/803)
 * [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
 * [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
@@ -196,7 +196,7 @@ Table of Contents
 * [大型互联网企业入侵检测实战总结](https://zhuanlan.zhihu.com/p/31154756)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
-* [域名背后的真相，一个黑产团伙的沦陷](http://foreversong.cn/archives/882)
+* [域名背后的真相，一个黑产团伙的沦陷](https://www.freebuf.com/articles/terminal/127228.html)
 * [Web日志安全分析浅谈](https://xianzhi.aliyun.com/forum/topic/1121/)
 * [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
@@ -263,6 +263,7 @@ Table of Contents
 * [一些逻辑](https://secvul.com/topics/924.html)
 * [一个登陆框引起的血案](http://www.freebuf.com/articles/web/174408.html)
 
+
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
 * [Weblogic 常见漏洞环境的搭建及其利用](http://liehu.tass.com.cn/archives/542)
@@ -283,7 +284,7 @@ Table of Contents
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 * [浅谈中间件漏洞与防护](https://thief.one/2017/05/25/1/)
 * [NFS的攻击与防御](http://www.4hou.com/system/8069.html)
-
+* [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
 
 ### 国外SRC文章
 
