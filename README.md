@@ -419,7 +419,7 @@ Table of Contents
 * [初级域渗透系列 03. 常见攻击方法](https://paper.tuisec.win/detail/cd49c17ca23cece)
 * [渗透测试学习笔记之综合渗透案例一](https://mp.weixin.qq.com/s/sKXWjgaViYsCjG33-5Ey8Q)
 * [一个人的武林：内网渗透测试思路（二）](https://www.secpulse.com/archives/76810.html)
-
+* [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
 
 #### hash 票据
 
