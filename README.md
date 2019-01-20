@@ -262,7 +262,7 @@ Table of Contents
 * [各大SRC中的CSRF技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=28448&highlight=src)
 * [一些逻辑](https://secvul.com/topics/924.html)
 * [一个登陆框引起的血案](http://www.freebuf.com/articles/web/174408.html)
-
+* [OAuth回调参数漏洞案例解析](https://03i0.com/2018/04/01/OAuth%E5%9B%9E%E8%B0%83%E5%8F%82%E6%95%B0%E6%BC%8F%E6%B4%9E%E6%A1%88%E4%BE%8B%E8%A7%A3%E6%9E%90/)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
@@ -406,6 +406,7 @@ Table of Contents
 * [JBoss引起的内网渗透-3](http://rcoil.me/2018/03/JBoss%E5%BC%95%E8%B5%B7%E7%9A%84%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F-3/)
 * [Linux内网渗透](https://thief.one/2017/08/09/2/)
 * [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
+* [Exchange在渗透测试中的利用](https://evi1cg.me/archives/Exchange_Hack.html)
 * [Weblogic引发的血案](http://hone.cool/2018/03/29/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88/)
 * [Weblogic引发的血案-2](http://hone.cool/2018/04/03/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88-2/)
 * [Weblogic引发的血案-3](http://hone.cool/2018/04/12/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88-3/)
@@ -696,14 +697,16 @@ Table of Contents
 * [SQL注入 | 9种绕过Web应用程序防火墙的方式-基础](http://www.freebuf.com/articles/web/163783.html)
 * [WAF攻防之SQL注入篇](http://galaxylab.org/waf%E6%94%BB%E9%98%B2%E4%B9%8Bsql%E6%B3%A8%E5%85%A5%E7%AF%87/)
 * [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
-* [构造免杀的asp一句话木马](https://xz.aliyun.com/t/2356)
-* [Bypass D盾_IIS防火墙SQL注入防御（多姿势）](http://www.cnblogs.com/xiaozi/p/7357937.html)
 * [SQL注入ByPass的一些小技巧](https://mp.weixin.qq.com/s/fSBZPkO0-HNYfLgmYWJKCg)
+* [在HTTP协议层面绕过WAF](https://www.freebuf.com/news/193659.html)
+* [利用分块传输吊打所有WAF](https://www.anquanke.com/post/id/169738)
+* [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
 * [Bypass 360主机卫士SQL注入防御（多姿势）](https://www.t00ls.net/thread-45943-1-1.html)
+* [Bypass D盾_IIS防火墙SQL注入防御（多姿势）](http://www.cnblogs.com/xiaozi/p/7357937.html)
 * [不包含数字字母的WebShell](http://www.freebuf.com/articles/web/173579.html)
 * [php一句话木马检测绕过研究](https://www.t00ls.net/viewthread.php?tid=45816)
 * [利用php特性过D盾，一句话和大马都可使用](https://www.t00ls.net/viewthread.php?tid=44388)
-* []()
+* [构造免杀的asp一句话木马](https://xz.aliyun.com/t/2356)
 
 ## IDS
 
