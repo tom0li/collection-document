@@ -67,7 +67,7 @@ Table of Contents
    * [Acknowledgments](#acknowledgments)
 
 ## Github-list
-
+----
 * [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛 
 * [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
@@ -106,6 +106,25 @@ Table of Contents
 * [物联网安全百科](https://github.com/yaseng/iot-security-wiki) -by  伏宸安全实验室
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference#xssi)
+----
+开发
+
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+* [Java学习+面试指南 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
+* [Python Cheat Sheet ](https://github.com/crazyguitar/pysheeet)
+* [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
+* [web, 前端, javascript, nodejs, electron, babel, webpack, rollup, react, vue ...](https://github.com/senntyou/blogs)
+* [关于Python的面试题](https://github.com/taizilongxu/interview_python)
+----
+杂
+
+* [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
+* [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+* [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+* [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+* [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
