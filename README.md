@@ -106,7 +106,8 @@ Table of Contents
 * [物联网安全百科](https://github.com/yaseng/iot-security-wiki) -by  伏宸安全实验室
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
-* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference#xssi)
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
 ----
 开发
 
