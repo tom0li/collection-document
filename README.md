@@ -283,6 +283,9 @@ Table of Contents
 * [一些逻辑](https://secvul.com/topics/924.html)
 * [一个登陆框引起的血案](http://www.freebuf.com/articles/web/174408.html)
 * [OAuth回调参数漏洞案例解析](https://03i0.com/2018/04/01/OAuth%E5%9B%9E%E8%B0%83%E5%8F%82%E6%95%B0%E6%BC%8F%E6%B4%9E%E6%A1%88%E4%BE%8B%E8%A7%A3%E6%9E%90/)
+* [子域名接管指南](https://www.secpulse.com/archives/95304.html)
+* [Subdomain Takeover](https://www.secpulse.com/archives/94973.html)
+* [Subdomain Takeover/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
