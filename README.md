@@ -18,9 +18,9 @@ Table of Contents
       * [响应 溯源](#响应-溯源)
       * [威胁情报](#威胁情报)
       * [综合](#综合)
-   * [SRC](#src)
+   * [Bug Bounty](#Bug_Bounty )
       * [总结](#总结)
-      * [国外SRC文章](#国外src文章)
+      * [国外Bug Bounty文章](#国外Bug Bounty文章)
       * [信息收集](#信息收集)
    * [渗透](#渗透)
       * [靶场](#靶场)
@@ -107,7 +107,7 @@ Table of Contents
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
-* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+
 ----
 开发
 
@@ -253,11 +253,12 @@ Table of Contents
 * [开源软件创建SOC的一份清单](http://www.freebuf.com/articles/network/169632.html)
 * [开源SOC的设计与实践](http://www.freebuf.com/articles/network/173282.html)
 
-## SRC
+## Bug Bounty
 
 * [bugbountyguide](https://github.com/EdOverflow/bugbountyguide)
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/topic/1214/)
