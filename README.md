@@ -18,9 +18,9 @@ Table of Contents
       * [响应 溯源](#响应-溯源)
       * [威胁情报](#威胁情报)
       * [综合](#综合)
-   * [Bug Bounty](#Bug_Bounty )
+   * [Bug_Bounty](#Bug_Bounty )
       * [总结](#总结)
-      * [国外Bug Bounty文章](#国外Bug Bounty文章)
+      * [国外Bug_Bounty文章](#国外Bug_Bounty文章)
       * [信息收集](#信息收集)
    * [渗透](#渗透)
       * [靶场](#靶场)
@@ -253,7 +253,7 @@ Table of Contents
 * [开源软件创建SOC的一份清单](http://www.freebuf.com/articles/network/169632.html)
 * [开源SOC的设计与实践](http://www.freebuf.com/articles/network/173282.html)
 
-## Bug Bounty
+## Bug_Bounty
 
 * [bugbountyguide](https://github.com/EdOverflow/bugbountyguide)
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
@@ -310,7 +310,7 @@ Table of Contents
 * [NFS的攻击与防御](http://www.4hou.com/system/8069.html)
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
 
-### 国外SRC文章
+### 国外Bug_Bounty文章
 
 * [国外赏金之路](https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/) - 老司机赏金见解,历史赏金文章 list
 * [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
