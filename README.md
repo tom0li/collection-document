@@ -255,7 +255,7 @@ Table of Contents
 
 ## Bug_Bounty
 
-* [bugbountyguide](https://github.com/EdOverflow/bugbountyguide)
+* [bugbountyguide](https://bugbountyguide.com/#)
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
@@ -422,6 +422,7 @@ Table of Contents
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
 * [DarthSidious-Chinese](https://github.com/crazywa1ker/DarthSidious-Chinese)
+* [Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
 * [tom0li:内网备忘录](https://tom0li.github.io/%E5%86%85%E7%BD%91%E5%A4%87%E5%BF%98%E5%BD%95/)
 * [内网安全检查/渗透总结](https://xz.aliyun.com/t/2354)
 * [Active Directory中获取域管理员权限的攻击方法](https://xz.aliyun.com/t/115)
