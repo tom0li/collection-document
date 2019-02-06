@@ -68,38 +68,23 @@ Table of Contents
 
 ## Github-list
 ----
-* [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛 
-* [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
-* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Android Security](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources.
-* [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
-* [AppSec](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
-* [Hacking](https://github.com/carpedm20/awesome-hacking) - Tutorials, tools, and resources.
-* [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
-* [Infosec](https://github.com/onlurking/awesome-infosec) - Information security resources for pentesting, forensics, and more.
 * [Security](https://github.com/sbilly/awesome-security) - Software, libraries, documents, and other resources.
-* [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments.
+* [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference)
 * [Security Talks](https://github.com/PaulSec/awesome-sec-talks) - Curated list of security conferences.
 * [OSINT](https://github.com/jivoi/awesome-osint) - Awesome OSINT list containing great resources.
-* [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
-* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) 
-* [macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide)
 * [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - by CHYbeta
 * [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
 * [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - by JnuSimba notes 
 * [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - notes
 * [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
 * [Security Knowledge Structure](https://github.com/JoyChou93/sks)
-* [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
-* [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
 * [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
-* [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference)
 * [www.polaris-lab.com_Paper](https://github.com/re4lity/SecPaper)
-* [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
 * [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
 * [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners
 * [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
@@ -107,6 +92,7 @@ Table of Contents
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+* [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
 
 ----
 开发
@@ -119,13 +105,25 @@ Table of Contents
 * [web, 前端, javascript, nodejs, electron, babel, webpack, rollup, react, vue ...](https://github.com/senntyou/blogs)
 * [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 ----
-杂
+其它
 
 * [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
 * [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
+* [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments.
+* [A collection of web attack payloads](https://github.com/foospidy/payloads)
+* [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛 
+* [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
+* [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) - HackerOne Reports
+* [AppSec](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
+* [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
+* [Infosec](https://github.com/onlurking/awesome-infosec) - Information security resources for pentesting, forensics, and more.
+* [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
+* [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+* [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
+* [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
@@ -183,6 +181,7 @@ Table of Contents
 * [基础设施的攻击日志记录 – 第4部分：日志事件警报](https://www.secpulse.com/archives/70207.html)
 * [宜信防火墙自动化运维之路](http://www.freebuf.com/articles/security-management/166895.html)
 * [证书锁定](https://www.secpulse.com/archives/75212.html)
+* [中通内部安全通讯实践](https://xz.aliyun.com/t/3759)
 
 #### 加固
 
@@ -208,6 +207,7 @@ Table of Contents
 
 #### 响应 溯源
 
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 * [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140/)
 * [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
 * [应急tools](https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md)
@@ -259,6 +259,7 @@ Table of Contents
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+* [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/topic/1214/)
@@ -446,6 +447,7 @@ Table of Contents
 * [渗透测试学习笔记之综合渗透案例一](https://mp.weixin.qq.com/s/sKXWjgaViYsCjG33-5Ey8Q)
 * [一个人的武林：内网渗透测试思路（二）](https://www.secpulse.com/archives/76810.html)
 * [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
+* [内网渗透知识基础及流程](https://www.anquanke.com/post/id/170471)
 
 #### hash 票据
 
