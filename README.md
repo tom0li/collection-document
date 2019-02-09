@@ -449,6 +449,7 @@ Table of Contents
 * [一个人的武林：内网渗透测试思路（二）](https://www.secpulse.com/archives/76810.html)
 * [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
 * [内网渗透知识基础及流程](https://www.anquanke.com/post/id/170471)
+* [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
 
 #### hash 票据
 
@@ -458,6 +459,7 @@ Table of Contents
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 * [域hash值的导出技巧大全](https://www.t00ls.net/viewthread.php?tid=40118&highlight=hash)
 * [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
+* [NTLM-Relay](https://mp.weixin.qq.com/s/1LpgGx3-YA5aR0Mx9iryCQ)
 
 #### 代理转发
 * [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
@@ -612,7 +614,7 @@ Table of Contents
 * [攻破黑市之拿下吃鸡DNF等游戏钓鱼站群](http://www.freebuf.com/articles/web/172330.html)
 * [前端安全系列（一）：如何防止XSS攻击？](https://segmentfault.com/a/1190000016551188)
 * [上传Word文件形成存储型XSS路径](http://www.freebuf.com/articles/web/173250.html)
-* [老歌新唱|PUNYCODE再利用](http://www.lz1y.cn/archives/1469.html)
+* [PUNYCODE](https://www.lz1y.cn/2018/07/18/Punycode/)
 
 ### Jsonp
 
