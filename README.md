@@ -323,6 +323,7 @@ Table of Contents
 * [Taking over Facebook accounts using Free Basics partner portal](https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover)
 * [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/)
 * [挖洞经验 | 看我如何免费获取价值€120的会员资格](http://www.freebuf.com/articles/web/172438.html)
+* [Scrutiny on the bug bounty](https://xz.aliyun.com/t/3935)
 
 ### 信息收集
 
@@ -541,6 +542,7 @@ Table of Contents
 
 ## APT
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+* [论高级威胁的本质和攻击力量化研究](http://www.vxjump.net/files/aptr/aptr.txt)
 * [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
 * [高级持续渗透-第一季关于后门](https://www.secpulse.com/archives/66641.html)
 * [高级持续渗透-第二季关于后门](https://www.secpulse.com/archives/66673.html)
@@ -565,6 +567,7 @@ Table of Contents
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 * [QuasarRAT](https://github.com/quasar/QuasarRAT)
+* [Ping Power — ICMP Tunnel](https://medium.com/bugbountywriteup/ping-power-icmp-tunnel-31e2abb2aaea)
 
 ## Web
 ### XXE
@@ -824,6 +827,7 @@ Table of Contents
 * [https://developers.google.com/machine-learning/crash-course/?hl=zh-cn](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
 * [远程定位追踪联网车辆以及利用思路分析](http://www.freebuf.com/vuls/178604.html)
 * [智能锁具攻防系列一初探](https://future-sec.com/intelligent-lock-attack-and-defense-1.html)
+* [ivideo](https://github.com/phobal/ivideo)
 
 ## How to contribute?
 ---
