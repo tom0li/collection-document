@@ -109,6 +109,7 @@ Table of Contents
 
 * [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
 * [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+* [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
@@ -359,6 +360,7 @@ Table of Contents
 * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
+* [Micropoor](https://github.com/Micropoor/Micro8)
 * [渗透测试工具备忘录](https://xz.aliyun.com/t/2482#toc-67)
 * [API 接口渗透测试](https://xz.aliyun.com/t/2412)
 * [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
