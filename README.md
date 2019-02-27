@@ -379,6 +379,7 @@ Table of Contents
 * [【老文】一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
 * [渗透Hacking Team过程](https://xz.aliyun.com/t/2146)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
+* [浅析反向代理](https://www.anquanke.com/post/id/150436)
 * [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
 * [渗透测试学习笔记之综合渗透案例一](https://www.secpulse.com/archives/72464.html)
 * [记一次对某企业的渗透测试实战](https://bbs.ichunqiu.com/thread-41946-1-1.html)
@@ -472,7 +473,8 @@ Table of Contents
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
 
 #### 内网平台
-* [内网剑客三结义](http://www.5ecurity.cn/index.php/archives/227/)
+* [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
+* [渗透利器Cobalt Strike - 第1篇 功能及使用](https://xz.aliyun.com/t/3975)
 * [Metasploit域渗透测试全程实录（终结篇）](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=16655&highlight=Metasploit%E5%9F%9F%E6%B8%97)
 * [metasploit在后渗透中的作用](https://www.secpulse.com/archives/69766.html)
 * [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
