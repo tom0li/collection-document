@@ -110,6 +110,7 @@ Table of Contents
 * [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
 * [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
 * [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+* [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview)
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
@@ -301,7 +302,7 @@ Table of Contents
 * [JBoss高危漏洞分析](https://mp.weixin.qq.com/s/Kjw_abH6a-ifXdQmbc5Pug)
 * [Redis未授权访问漏洞的重现与利用](http://www.freebuf.com/vuls/162035.html)
 * [Redis安全总结](https://bl4ck.in/categories/2015/11/17/Redis%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93.html)
-* [Redis在Windows环境下Getshell]()
+* [Redis在Windows环境下Getshell](https://uknowsec.cn/posts/notes/Redis%E5%9C%A8Windows%E7%8E%AF%E5%A2%83%E4%B8%8BGetshell.html)
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
@@ -311,6 +312,7 @@ Table of Contents
 * [浅谈中间件漏洞与防护](https://thief.one/2017/05/25/1/)
 * [NFS的攻击与防御](http://www.4hou.com/system/8069.html)
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
+* [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
 
 ### 国外Bug_Bounty文章
 
@@ -475,6 +477,8 @@ Table of Contents
 #### 内网平台
 * [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
 * [渗透利器Cobalt Strike - 第1篇 功能及使用](https://xz.aliyun.com/t/3975)
+* [Cobalt strike3.0使用手册](https://evi1cg.me/archives/Cobalt_strike.html)
+* [Cobalt Strike上手学习](https://rcoil.me/2018/04/Cobalt%20Strike%E5%AD%A6%E4%B9%A0/)
 * [Metasploit域渗透测试全程实录（终结篇）](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=16655&highlight=Metasploit%E5%9F%9F%E6%B8%97)
 * [metasploit在后渗透中的作用](https://www.secpulse.com/archives/69766.html)
 * [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
@@ -558,6 +562,7 @@ Table of Contents
 * [一次红队之旅](https://xz.aliyun.com/t/2389)
 * [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
 * [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
+* [https://huntingday.github.io](https://huntingday.github.io)
 
 ### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
