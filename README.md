@@ -224,6 +224,7 @@ Table of Contents
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
 * [Tomcat日志如何记录POST数据](https://secvul.com/topics/1087.html)
+* [邮件钓鱼攻击与溯源](https://www.freebuf.com/vuls/195090.html)
 
 #### 威胁情报
 * [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
@@ -838,6 +839,7 @@ Table of Contents
 * [https://developers.google.com/machine-learning/crash-course/?hl=zh-cn](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
 * [远程定位追踪联网车辆以及利用思路分析](http://www.freebuf.com/vuls/178604.html)
 * [智能锁具攻防系列一初探](https://future-sec.com/intelligent-lock-attack-and-defense-1.html)
+* [那些年走过的信安面试路](https://www.freebuf.com/articles/neopoints/196337.html)
 * [ivideo](https://github.com/phobal/ivideo)
 
 ## How to contribute?
