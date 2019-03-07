@@ -314,6 +314,7 @@ Table of Contents
 * [NFS的攻击与防御](http://www.4hou.com/system/8069.html)
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
 * [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
+* [Whitepaper: Security Cookies](https://www.netsparker.com/security-cookies-whitepaper/)
 
 ### 国外Bug_Bounty文章
 
@@ -388,6 +389,7 @@ Table of Contents
 * [记一次对某企业的渗透测试实战](https://bbs.ichunqiu.com/thread-41946-1-1.html)
 * [Exploit Singapore Hotels: ezxcess.antlabs.com](https://paper.tuisec.win/detail/06b238bc27b9c90)
 
+
 #### 靶场
 * [vulhub](https://github.com/vulhub/vulhub)
 
@@ -456,6 +458,7 @@ Table of Contents
 * [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
 * [内网渗透知识基础及流程](https://www.anquanke.com/post/id/170471)
 * [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
+* [红队后渗透测试中的文件传输技巧](https://paper.seebug.org/834/)
 
 #### hash 票据
 
