@@ -660,6 +660,7 @@ Table of Contents
 * [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
 * [nmap](http://www.polaris-lab.com/index.php/archives/390/)
 * [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
+* [从MySQL出发的反击之路](https://xz.aliyun.com/t/3277)
 
 
 ### CSRF
