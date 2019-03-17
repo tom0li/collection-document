@@ -27,7 +27,7 @@ Table of Contents
       * [技巧](#技巧)
    * [内网](#内网)
       * [Exchange](#Exchange)
-      * [hash ticket Credential](#hash-票据)
+      * [hash ticket Credential](#hash-ticket-Credential)
       * [代理转发](#代理转发)
       * [内网平台](#内网平台)
       * [内网收集](#内网收集)
@@ -331,6 +331,7 @@ Table of Contents
 * [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/)
 * [挖洞经验 | 看我如何免费获取价值€120的会员资格](http://www.freebuf.com/articles/web/172438.html)
 * [Scrutiny on the bug bounty](https://xz.aliyun.com/t/3935)
+* [1hack0/Facebook-Bug-Bounty-Write-ups](https://github.com/1hack0/Facebook-Bug-Bounty-Write-ups)
 
 ### 信息收集
 
