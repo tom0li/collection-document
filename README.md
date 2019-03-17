@@ -26,7 +26,8 @@ Table of Contents
       * [靶场](#靶场)
       * [技巧](#技巧)
    * [内网](#内网)
-      * [hash 票据](#hash-票据)
+      * [Exchange](#Exchange)
+      * [hash ticket Credential](#hash-票据)
       * [代理转发](#代理转发)
       * [内网平台](#内网平台)
       * [内网收集](#内网收集)
@@ -315,6 +316,7 @@ Table of Contents
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
 * [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
 * [Whitepaper: Security Cookies](https://www.netsparker.com/security-cookies-whitepaper/)
+* [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
 
 ### 国外Bug_Bounty文章
 
@@ -440,8 +442,6 @@ Table of Contents
 * [JBoss引起的内网渗透-2](https://xz.aliyun.com/t/2166)
 * [JBoss引起的内网渗透-3](http://rcoil.me/2018/03/JBoss%E5%BC%95%E8%B5%B7%E7%9A%84%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F-3/)
 * [Linux内网渗透](https://thief.one/2017/08/09/2/)
-* [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
-* [Exchange在渗透测试中的利用](https://evi1cg.me/archives/Exchange_Hack.html)
 * [Weblogic引发的血案](http://hone.cool/2018/03/29/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88/)
 * [Weblogic引发的血案-2](http://hone.cool/2018/04/03/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88-2/)
 * [Weblogic引发的血案-3](http://hone.cool/2018/04/12/Weblogic%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88-3/)
@@ -458,9 +458,15 @@ Table of Contents
 * [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
 * [内网渗透知识基础及流程](https://www.anquanke.com/post/id/170471)
 * [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
-* [红队后渗透测试中的文件传输技巧](https://paper.seebug.org/834/)
 
-#### hash 票据
+#### Exchange
+* [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
+* [Exchange在渗透测试中的利用](https://evi1cg.me/archives/Exchange_Hack.html)
+* [Microsoft Exchange漏洞记录(撸向域控) - CVE-2018-8581](https://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581.html)
+* [利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控](https://xax007.github.io/2019-01-26-pwn-domain-admin-via-exchange-ssrf/)
+* [Microsoft Exchange漏洞分析](http://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581_2.html)
+
+#### hash ticket Credential
 
 * [Windows下的密码hash——NTLM hash和Net-NTLM hash介绍](https://xianzhi.aliyun.com/forum/topic/1943)
 * [域渗透之hash与票据](https://mp.weixin.qq.com/s/ENStRpYspx5W974BKPzZtA)
@@ -469,6 +475,9 @@ Table of Contents
 * [域hash值的导出技巧大全](https://www.t00ls.net/viewthread.php?tid=40118&highlight=hash)
 * [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
 * [NTLM-Relay](https://mp.weixin.qq.com/s/1LpgGx3-YA5aR0Mx9iryCQ)
+* [Practical guide to NTLM Relaying in 2017](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
+* [The worst of both worlds: Combining NTLM Relaying and Kerberos delegation](https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/)
+* [红队与理论：Credential Relay 与 EPA](https://paper.seebug.org/844/)
 
 #### 代理转发
 * [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
@@ -509,6 +518,7 @@ Table of Contents
 * [WMI在渗透测试中的重要性](https://www.secpulse.com/archives/72493.html)
 
 #### 内网技巧
+* [红队后渗透测试中的文件传输技巧](https://paper.seebug.org/834/)
 * [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/tom0li/security_circle/blob/master/51122255581554.md)
