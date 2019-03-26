@@ -558,6 +558,8 @@ Table of Contents
 * [域渗透——Skeleton Key](https://paper.tuisec.win/detail/ae1a9ecf9625209)
 * [动手打造Bypass UAC自动化测试小工具，可绕过最新版Win10](http://www.freebuf.com/sectool/114592.html)
 * [Metasploit – Sessions Command 使用技巧](https://www.secpulse.com/archives/72890.html)
+* [渗透技巧——利用图标文件获取连接文件服务器的NTLMv2 Hash](https://xz.aliyun.com/t/1977)
+* [在 Windows 环境中使用 Responder 窃取 NTLMv2 哈希并利用](https://xz.aliyun.com/t/3560)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
@@ -856,6 +858,7 @@ Table of Contents
 * [智能锁具攻防系列一初探](https://future-sec.com/intelligent-lock-attack-and-defense-1.html)
 * [那些年走过的信安面试路](https://www.freebuf.com/articles/neopoints/196337.html)
 * [ivideo](https://github.com/phobal/ivideo)
+* [baidu云盘](https://github.com/cool2528/baiduCDP)
 
 ## How to contribute?
 ---
