@@ -261,6 +261,7 @@ Table of Contents
 
 * [bugbountyguide](https://bugbountyguide.com/#)
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+* [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
