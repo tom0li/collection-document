@@ -561,6 +561,8 @@ Table of Contents
 * [Metasploit – Sessions Command 使用技巧](https://www.secpulse.com/archives/72890.html)
 * [渗透技巧——利用图标文件获取连接文件服务器的NTLMv2 Hash](https://xz.aliyun.com/t/1977)
 * [在 Windows 环境中使用 Responder 窃取 NTLMv2 哈希并利用](https://xz.aliyun.com/t/3560)
+* [DoubleAgent](https://github.com/Cybellum/DoubleAgent) -后渗透对杀软进行注入
+* [Extracting NTLM Hashes from keytab files](https://paper.tuisec.win/detail/ceac9f167bf27de)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
@@ -860,6 +862,7 @@ Table of Contents
 * [那些年走过的信安面试路](https://www.freebuf.com/articles/neopoints/196337.html)
 * [ivideo](https://github.com/phobal/ivideo)
 * [baidu云盘](https://github.com/cool2528/baiduCDP)
+* [偷U盘文件的神器](https://github.com/kenvix/USBCopyer)
 
 ## How to contribute?
 ---
