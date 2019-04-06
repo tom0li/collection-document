@@ -467,6 +467,7 @@ Table of Contents
 * [Microsoft Exchange漏洞记录(撸向域控) - CVE-2018-8581](https://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581.html)
 * [利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控](https://xax007.github.io/2019-01-26-pwn-domain-admin-via-exchange-ssrf/)
 * [Microsoft Exchange漏洞分析](http://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581_2.html)
+* [Microsoft Exchange 任意用户伪造漏洞（CVE-2018-8581）分析](https://paper.seebug.org/804/)
 
 #### hash ticket Credential
 
@@ -563,6 +564,8 @@ Table of Contents
 * [在 Windows 环境中使用 Responder 窃取 NTLMv2 哈希并利用](https://xz.aliyun.com/t/3560)
 * [DoubleAgent](https://github.com/Cybellum/DoubleAgent) -后渗透对杀软进行注入
 * [Extracting NTLM Hashes from keytab files](https://paper.tuisec.win/detail/ceac9f167bf27de)
+* [离线导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E7%A6%BB%E7%BA%BF%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
+* [渗透技巧——利用Masterkey离线导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%88%A9%E7%94%A8Masterkey%E7%A6%BB%E7%BA%BF%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
