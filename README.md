@@ -401,6 +401,7 @@ Table of Contents
 
 * [https的app如何抓包](https://www.t00ls.net/thread-40042-1-1.html)
 * [如何使用Xposed+JustTrustMe来突破SSL Pinning](https://bbs.pediy.com/thread-226435.htm)
+* [BurpSuite多重代理](https://www.anquanke.com/post/id/85925)
 * [Frida.Android.Practice (ssl unpinning)](https://github.com/WooyunDota/DroidDrops/blob/master/2018/Frida.Android.Practice.md)
 * [IIS7以上突破无脚本执行权限限制](https://forum.90sec.org/forum.php?mod=viewthread&tid=10562&extra=page%3D2)
 * [ACCESS无select SQL注射](https://forum.90sec.org/forum.php?mod=viewthread&tid=10663)
@@ -568,6 +569,7 @@ Table of Contents
 * [渗透技巧——利用Masterkey离线导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%88%A9%E7%94%A8Masterkey%E7%A6%BB%E7%BA%BF%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
 * [域渗透——Kerberoasting](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Kerberoasting/)
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
+* [老牌工具 PsExec 一个琐碎的细节](https://paper.seebug.org/503/)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
@@ -844,7 +846,6 @@ Table of Contents
 * [弦哥从新加坡HITB黑客大会进口过来的黑魔法命令](https://github.com/tom0li/security_circle/blob/master/51115142241184.md)
 * [编程的重要性之 sqlmap 源码](https://github.com/tom0li/security_circle/blob/master/88511152424522.md)
 * [从面试题中学安全](http://www.myh0st.cn/index.php/archives/306/)
-* [自己的安全导航 （捂脸](https://tom0li.github.io/tags/)
 * [资讯400多个流行站点记录用户键击 或导致个人敏感信息泄露](http://bobao.360.cn/news/detail/4389.html)
 * [https劫持理解](https://forum.90sec.org/forum.php?mod=viewthread&tid=10378&extra=page%3D3)
 * [银行卡quickpass闪付芯片通过EVM/PBOC读取隐私信息](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25955&ctid=48)
@@ -868,6 +869,7 @@ Table of Contents
 * [ivideo](https://github.com/phobal/ivideo)
 * [baidu云盘](https://github.com/cool2528/baiduCDP)
 * [偷U盘文件的神器](https://github.com/kenvix/USBCopyer)
+* [Hard_winGuide.md](https://github.com/CHEF-KOCH/HWAB/blob/master/Guide.md)
 
 ## How to contribute?
 ---
