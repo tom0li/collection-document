@@ -10,7 +10,6 @@ Table of Contents
    * [Github-list](#github-list)
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
-      * [WordPress](#wordpress)
       * [杂](#杂)
    * [安全部](#安全部)
       * [建设](#建设)
@@ -136,10 +135,6 @@ Table of Contents
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
-
-### WordPress
----
-* [CVE-2017-8295: WordPress 2.3-4.8.3 任意密码重置/HOST头注入漏洞利用](http://www.vulnspy.com/cn-cve-2017-8295-unauthorized-password-reset-vulnerability/cve-2017-8295:_wordpress_2.3-4.8.3_%E4%BB%BB%E6%84%8F%E5%AF%86%E7%A0%81%E9%87%8D%E7%BD%AE/host%E5%A4%B4%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/)
 
 ### 杂
 ---
@@ -318,6 +313,7 @@ Table of Contents
 * [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
 * [Whitepaper: Security Cookies](https://www.netsparker.com/security-cookies-whitepaper/)
 * [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
+* [OOB](https://www.freebuf.com/articles/web/201013.html)
 
 ### 国外Bug_Bounty文章
 
@@ -430,6 +426,7 @@ Table of Contents
 * [相对持久的绕过方法和一点想法_已被杀](http://www.freebuf.com/articles/network/175097.html)
 * [渗透技巧之SSH篇](http://drops.xmd5.com/static/drops/tips-1951.html)
 * [无需sendmail：巧用LD_PRELOAD突破disable_functions](https://www.freebuf.com/articles/web/192052.html)
+* [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/)
 
 ### 内网
 
@@ -590,6 +587,7 @@ Table of Contents
 * [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
 * [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
 * [https://huntingday.github.io](https://huntingday.github.io)
+* [渗透测试实战第三版](https://github.com/tom0li/collection-document/blob/master/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88).pdf)
 
 ### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
