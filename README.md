@@ -48,6 +48,8 @@ Table of Contents
       * [文件包含](#文件包含)
       * [上传](#上传)
       * [任意文件读取](#任意文件读取)
+      * [Web缓存欺骗](#Web缓存欺骗)
+      * [Web缓存投毒](#Web缓存投毒)
       * [SSI](#SSI)
       * [SSTI](#SSTI)
       * [JS](#js)
@@ -648,7 +650,7 @@ Table of Contents
 * [攻破黑市之拿下吃鸡DNF等游戏钓鱼站群](http://www.freebuf.com/articles/web/172330.html)
 * [前端安全系列（一）：如何防止XSS攻击？](https://segmentfault.com/a/1190000016551188)
 * [上传Word文件形成存储型XSS路径](http://www.freebuf.com/articles/web/173250.html)
-* [PUNYCODE](https://www.lz1y.cn/2018/07/18/Punycode/)
+* [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons)
 
 ### Jsonp
 
@@ -719,6 +721,13 @@ Table of Contents
 * [新型任意文件读取漏洞的研究](https://www.leavesongs.com/PENETRATION/arbitrary-files-read-via-static-requests.html)
 * [一个任意文件读取漏洞记录](http://xdxd.love/2016/05/23/%E4%B8%80%E4%B8%AA%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 * [任意文件读取的常用字典](http://blkstone.github.io/2017/12/18/arbitary-file-read-exploit/)
+
+### Web缓存欺骗
+* [Web Cache欺骗攻击](https://websec.readthedocs.io/zh/latest/vuln/webcache.html)
+* [Web缓存欺骗测试](https://www.freebuf.com/articles/web/161670.html)
+
+### Web缓存投毒
+* [Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning)
 
 ### SSI
 
