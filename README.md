@@ -62,7 +62,7 @@ Table of Contents
       * [Java](#java)
    * [其他](#其他)
       * [Git](#git)
-      * [特别的wenxin号](#特别的wenxin号)
+      * [特别的wx号](#特别的wx号)
       * [二维码](#二维码)
       * [爬虫](#爬虫)
       * [科普](#科普)
@@ -106,6 +106,7 @@ Table of Contents
 * [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
 * [web, 前端, javascript, nodejs, electron, babel, webpack, rollup, react, vue ...](https://github.com/senntyou/blogs)
 * [关于Python的面试题](https://github.com/taizilongxu/interview_python)
+* [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 ----
 其它
 
@@ -128,6 +129,8 @@ Table of Contents
 * [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 * [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
+* [996.Leave](https://github.com/623637646/996.Leave)
+* [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
@@ -223,6 +226,7 @@ Table of Contents
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
 * [Tomcat日志如何记录POST数据](https://secvul.com/topics/1087.html)
 * [邮件钓鱼攻击与溯源](https://www.freebuf.com/vuls/195090.html)
+* [应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes) - Bypass007
 
 #### 威胁情报
 * [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
@@ -253,6 +257,7 @@ Table of Contents
 * [SOC异闻录](https://www.anquanke.com/post/id/95231)
 * [开源软件创建SOC的一份清单](http://www.freebuf.com/articles/network/169632.html)
 * [开源SOC的设计与实践](http://www.freebuf.com/articles/network/173282.html)
+* [F5 BIG-IP Security Cheatsheet](https://github.com/dnkolegov/bigipsecurity)
 
 ## Bug_Bounty
 
@@ -569,6 +574,7 @@ Table of Contents
 * [域渗透——Kerberoasting](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Kerberoasting/)
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 * [老牌工具 PsExec 一个琐碎的细节](https://paper.seebug.org/503/)
+* [域渗透之使用CrackMapExec拿到我们想要的东西](https://www.anquanke.com/post/id/84980)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
@@ -601,6 +607,7 @@ Table of Contents
 * [邮件伪造技术与检测](https://www.secpulse.com/archives/78738.html)
 * [伪造电子邮件以及制造电子邮件炸弹的攻防探讨](https://www.freebuf.com/sectool/184555.html)
 * [绕过DKIM验证，伪造钓鱼邮件](http://www.4hou.com/web/7857.html)
+* [Best Practices on Email Protection: SPF, DKIM and DMARC](https://wiki.zimbra.com/wiki/Best_Practices_on_Email_Protection:_SPF,_DKIM_and_DMARC)
 
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
@@ -823,7 +830,7 @@ Table of Contents
 * [Git各种错误操作撤销的方法](http://www.bugcode.cn/git_undo.html)
 * [Git的tip](https://github.com/521xueweihan/git-tips)
 
-#### 特别的wenxin号
+#### 特别的wx号
 
 * [全频带阻塞干扰]  -坚持以非正常体位探寻未知信号。关注无线安全、通信监听、商业反窃密、平行空间、非主流隐私保护、海外情报、犯罪防御、群氓效应、漂亮妹纸和科幻大刘。
 
@@ -877,6 +884,7 @@ Table of Contents
 * [baidu云盘](https://github.com/cool2528/baiduCDP)
 * [偷U盘文件的神器](https://github.com/kenvix/USBCopyer)
 * [Hard_winGuide.md](https://github.com/CHEF-KOCH/HWAB/blob/master/Guide.md)
+* [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
 
 ## How to contribute?
 ---
