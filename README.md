@@ -212,11 +212,10 @@ Table of Contents
 
 * [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 * [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140/)
-* [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
 * [应急tools](https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md)
 * [Linux服务器应急事件溯源报告](http://wooyun.jozxing.cc/static/drops/tips-12972.html)
-* [应急响应小记连接已挂](https://threathunter.org/topic/5943a99c1e3732874e23f996)
-* [大型互联网企业入侵检测实战总结](https://zhuanlan.zhihu.com/p/31154756)
+* [应急响应小记链接已挂](https://threathunter.org/topic/5943a99c1e3732874e23f996)
+* [大型互联网企业入侵检测实战总结](https://xz.aliyun.com/t/1626/)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
 * [域名背后的真相，一个黑产团伙的沦陷](https://www.freebuf.com/articles/terminal/127228.html)
@@ -227,6 +226,8 @@ Table of Contents
 * [Tomcat日志如何记录POST数据](https://secvul.com/topics/1087.html)
 * [邮件钓鱼攻击与溯源](https://www.freebuf.com/vuls/195090.html)
 * [应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes) - Bypass007
+* [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
+* [IP 定位逆向追踪溯源访客真实身份调查取证](https://lcx.cc/post/4595/)
 
 #### 威胁情报
 * [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
