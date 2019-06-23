@@ -218,16 +218,17 @@ Table of Contents
 * [大型互联网企业入侵检测实战总结](https://xz.aliyun.com/t/1626/)
 * [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
 * [安全应急姿势](http://rinige.com/index.php/archives/824/)
-* [域名背后的真相，一个黑产团伙的沦陷](https://www.freebuf.com/articles/terminal/127228.html)
 * [Web日志安全分析浅谈](https://xianzhi.aliyun.com/forum/topic/1121/)
 * [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
 * [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
 * [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
 * [Tomcat日志如何记录POST数据](https://secvul.com/topics/1087.html)
-* [邮件钓鱼攻击与溯源](https://www.freebuf.com/vuls/195090.html)
+* [邮件钓鱼攻击与溯源](https://4hou.win/wordpress/?p=28874)
 * [应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes) - Bypass007
 * [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
 * [IP 定位逆向追踪溯源访客真实身份调查取证](https://lcx.cc/post/4595/)
+* [域名背后的真相，一个黑产团伙的沦陷](https://www.freebuf.com/articles/terminal/127228.html)
+* [看我如何从54G日志中溯源web应用攻击路径](https://paper.tuisec.win/detail/a56f79f0d7126f5)
 
 #### 威胁情报
 * [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
@@ -597,6 +598,7 @@ Table of Contents
 * [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
 * [https://huntingday.github.io](https://huntingday.github.io)
 * [渗透测试实战第三版](https://github.com/tom0li/collection-document/blob/master/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88).pdf)
+* [RemTeam攻击技巧和安全防御](https://xz.aliyun.com/t/4602)
 
 ### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
