@@ -317,6 +317,7 @@ Table of Contents
 * [登录加密算法破解秘籍](http://liehu.tass.com.cn/archives/1016) 
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 * [浅谈中间件漏洞与防护](https://thief.one/2017/05/25/1/)
+* [中间件漏洞](https://www.t00ls.net/viewthread.php?tid=51654&highlight=%E4%B8%AD%E9%97%B4%E4%BB%B6)
 * [NFS的攻击与防御](http://www.4hou.com/system/8069.html)
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
 * [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
@@ -397,6 +398,7 @@ Table of Contents
 * [渗透测试学习笔记之综合渗透案例一](https://www.secpulse.com/archives/72464.html)
 * [记一次对某企业的渗透测试实战](https://bbs.ichunqiu.com/thread-41946-1-1.html)
 * [Exploit Singapore Hotels: ezxcess.antlabs.com](https://paper.tuisec.win/detail/06b238bc27b9c90)
+* [ssrf内网漫游](https://github.com/r35tart/Penetration_Testing_Case/blob/master/%E4%BD%8E%E5%8D%B1SSRF%E6%8F%90%E6%9D%83%E8%BF%9B%E5%86%85%E7%BD%91.pdf)
 
 
 #### 靶场
@@ -752,6 +754,10 @@ Table of Contents
 
 * [关于网站强奸剪切板那点事](https://www.v2ex.com/t/426432)
 * [引用外部脚本的隐患及防御](https://paper.seebug.org/527/)
+* [两次前端绕过渗透小结](https://www.freebuf.com/articles/web/158508.html)
+* [如何对经前端加密后的数据进行爆破](https://www.freebuf.com/articles/web/184455.html)
+* [对登录中账号密码进行加密之后再传输的爆破的思路和方式](https://www.freebuf.com/articles/web/127888.html)
+* []()
 
 
 ### DNS
