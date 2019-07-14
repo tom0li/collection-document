@@ -504,6 +504,7 @@ Table of Contents
 * [渗透利器Cobalt Strike - 第1篇 功能及使用](https://xz.aliyun.com/t/3975)
 * [Cobalt strike3.0使用手册](https://evi1cg.me/archives/Cobalt_strike.html)
 * [Cobalt Strike上手学习](https://rcoil.me/2018/04/Cobalt%20Strike%E5%AD%A6%E4%B9%A0/)
+* [渗透利器Cobalt Strike - 第2篇 APT级的全面免杀与企业纵深防御体系的对抗](https://xz.aliyun.com/t/4191)
 * [Metasploit域渗透测试全程实录（终结篇）](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=16655&highlight=Metasploit%E5%9F%9F%E6%B8%97)
 * [metasploit在后渗透中的作用](https://www.secpulse.com/archives/69766.html)
 * [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
