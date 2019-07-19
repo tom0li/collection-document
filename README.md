@@ -1,7 +1,11 @@
 # Project Description
 ---
 ### Collection of quality safety articles
-> #### [collection-document awesome](https://github.com/tom0li/collection-document/)
+> #### [collection-document awesome](https://github.com/tom0li/collection-document/)  
+Some are inconvenient to release.  
+Some forget update,can see me star.  
+Author: [tom0li]  
+Blog: https://tom0li.github.io
 ---
 
 Table of Contents
@@ -91,6 +95,7 @@ Table of Contents
 * [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners
 * [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 * [物联网安全百科](https://github.com/yaseng/iot-security-wiki) -by  伏宸安全实验室
+* [Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note)
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
@@ -310,6 +315,7 @@ Table of Contents
 * [Redis未授权访问漏洞的重现与利用](http://www.freebuf.com/vuls/162035.html)
 * [Redis安全总结](https://bl4ck.in/categories/2015/11/17/Redis%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93.html)
 * [Redis在Windows环境下Getshell](https://uknowsec.cn/posts/notes/Redis%E5%9C%A8Windows%E7%8E%AF%E5%A2%83%E4%B8%8BGetshell.html)
+* [Redis未授权访问在windows下的利用](https://www.anquanke.com/post/id/170360#h3-4)
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
