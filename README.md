@@ -2,11 +2,12 @@
 ---
 ### Collection of quality safety articles
 > #### [collection-document awesome](https://github.com/tom0li/collection-document/)  
-
+```
 Some are inconvenient to release.  
 Some forget update,can see me star.  
 Author: [tom0li]  
 Blog: https://tom0li.github.io
+```
 ---
 
 Table of Contents
@@ -147,6 +148,7 @@ Table of Contents
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
+* [imagemagick 邂逅 getimagesize 的那点事儿](https://paper.seebug.org/969/)
 ### Fastjson
 * [fastjson反序列化利用](https://lazydog.me/post/fastjson-JdbcRowSetImpl-rce-exploit.html)
 * [FastJson =< 1.2.47 反序列化漏洞浅析](https://bithack.io/forum/393)
@@ -154,8 +156,7 @@ Table of Contents
 * [Fastjson反序列化漏洞调试分析](https://www.angelwhu.com/blog/?p=552)
 * [FastJson 反序列化学习](http://www.lmxspace.com/2019/06/29/FastJson-%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%AD%A6%E4%B9%A0/)
 * [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
-* []()
-* []()
+
 
 ### 杂
 ---
