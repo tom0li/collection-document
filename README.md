@@ -2,6 +2,7 @@
 ---
 ### Collection of quality safety articles
 > #### [collection-document awesome](https://github.com/tom0li/collection-document/)  
+
 Some are inconvenient to release.  
 Some forget update,can see me star.  
 Author: [tom0li]  
@@ -14,6 +15,7 @@ Table of Contents
    * [Github-list](#github-list)
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
+      * [Fastjson](#Fastjson)
       * [杂](#杂)
    * [安全部](#安全部)
       * [建设](#建设)
@@ -145,6 +147,15 @@ Table of Contents
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
+### Fastjson
+* [fastjson反序列化利用](https://lazydog.me/post/fastjson-JdbcRowSetImpl-rce-exploit.html)
+* [FastJson =< 1.2.47 反序列化漏洞浅析](https://bithack.io/forum/393)
+* [FASTJSON反序列化之基于JNDI利用方式](https://manning23.github.io/2018/03/01/Fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96jndi%E5%88%A9%E7%94%A8%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/)
+* [Fastjson反序列化漏洞调试分析](https://www.angelwhu.com/blog/?p=552)
+* [FastJson 反序列化学习](http://www.lmxspace.com/2019/06/29/FastJson-%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%AD%A6%E4%B9%A0/)
+* [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
+* []()
+* []()
 
 ### 杂
 ---
