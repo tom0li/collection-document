@@ -720,7 +720,7 @@ Table of Contents
 ### CSRF
 
 * [关于JSON CSRF的一些思考](https://mp.weixin.qq.com/s/kLRxHfzikhmV7NjpRJH6SA)
-
+* [谈谈Json格式下的CSRF攻击](https://www.freebuf.com/articles/web/206407.html)
 ### SSRF
 
 * [关于一些SSRF的技巧](https://mp.weixin.qq.com/s/3r_oBX8dfpDcEwLkAz26Ug)
@@ -812,6 +812,7 @@ Table of Contents
 * [在HTTP协议层面绕过WAF](https://www.freebuf.com/news/193659.html)
 * [利用分块传输吊打所有WAF](https://www.anquanke.com/post/id/169738)
 * [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
+* [对过WAF的一些认知](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
 * [Bypass 360主机卫士SQL注入防御（多姿势）](https://www.t00ls.net/thread-45943-1-1.html)
 * [Bypass D盾_IIS防火墙SQL注入防御（多姿势）](http://www.cnblogs.com/xiaozi/p/7357937.html)
 * [不包含数字字母的WebShell](http://www.freebuf.com/articles/web/173579.html)
