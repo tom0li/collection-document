@@ -314,6 +314,7 @@ Table of Contents
 * [子域名接管指南](https://www.secpulse.com/archives/95304.html)
 * [Subdomain Takeover](https://www.secpulse.com/archives/94973.html)
 * [Subdomain Takeover/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
+* [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
@@ -777,7 +778,8 @@ Table of Contents
 * [两次前端绕过渗透小结](https://www.freebuf.com/articles/web/158508.html)
 * [如何对经前端加密后的数据进行爆破](https://www.freebuf.com/articles/web/184455.html)
 * [对登录中账号密码进行加密之后再传输的爆破的思路和方式](https://www.freebuf.com/articles/web/127888.html)
-* []()
+
+  
 
 
 ### DNS
@@ -884,12 +886,10 @@ Table of Contents
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
 * [在百度网盘上看到上万条车主个人信息，企业、政府高官信息、各种数据](https://bbs.ichunqiu.com/article-798-1.html)
-* [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
 * [一道 CTF 题 get 到的新姿势](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247485297&idx=1&sn=b9d5f80bcd37d1ce0596e1a2c251d9fb&chksm=ec1e3759db69be4f84913826e4b4e5d79461061e0f61a4eb8889aa65909e2ab314391d94f87c#rd)
 * [iPhone锁屏却锁不住个人信息，iOS安全性真的很高吗？](http://www.freebuf.com/vuls/153848.html)
 * [弦哥从新加坡HITB黑客大会进口过来的黑魔法命令](https://github.com/tom0li/security_circle/blob/master/51115142241184.md)
 * [编程的重要性之 sqlmap 源码](https://github.com/tom0li/security_circle/blob/master/88511152424522.md)
-* [从面试题中学安全](http://www.myh0st.cn/index.php/archives/306/)
 * [资讯400多个流行站点记录用户键击 或导致个人敏感信息泄露](http://bobao.360.cn/news/detail/4389.html)
 * [https劫持理解](https://forum.90sec.org/forum.php?mod=viewthread&tid=10378&extra=page%3D3)
 * [银行卡quickpass闪付芯片通过EVM/PBOC读取隐私信息](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25955&ctid=48)
@@ -902,14 +902,13 @@ Table of Contents
 * [腾讯2017年度网络黑产威胁源研究报告](https://book.yunzhan365.com/odqt/yzzl/mobile/index.html)
 * [洗钱工具“手机充值卡”卡号卡密灰色行业套现洗白链](http://www.freebuf.com/column/163232.html)
 * [kali安装后](http://metaphors.name/coding/2018/03/10/Kali.html)
-* [md语法](https://github.com/guodongxiaren/README)
 * [请求方法问题](http://www.freebuf.com/articles/web/172695.html)
 * [Python工具分析风险数据](https://www.secpulse.com/archives/66377.html)
 * [技术讨论 | 构建一个小巧的来电显示迷惑工具](http://www.freebuf.com/sectool/173730.html)
-* [https://developers.google.com/machine-learning/crash-course/?hl=zh-cn](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
+* [google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
 * [远程定位追踪联网车辆以及利用思路分析](http://www.freebuf.com/vuls/178604.html)
 * [智能锁具攻防系列一初探](https://future-sec.com/intelligent-lock-attack-and-defense-1.html)
-* [那些年走过的信安面试路](https://www.freebuf.com/articles/neopoints/196337.html)
+* [我的世界观](https://mp.weixin.qq.com/s?__biz=MzA3NTEzMTUwNA==&mid=200044901&idx=1&sn=2a40b65874b54f7d2c80303ee6558d9b#rd)
 * [ivideo](https://github.com/phobal/ivideo)
 * [baidu云盘](https://github.com/cool2528/baiduCDP)
 * [偷U盘文件的神器](https://github.com/kenvix/USBCopyer)
