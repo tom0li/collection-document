@@ -514,10 +514,13 @@ Table of Contents
 #### 代理转发
 * [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
 * [渗透测试技巧之内网穿透方式与思路总结](https://xz.aliyun.com/t/1623)
-* [ew](https://mp.weixin.qq.com/s/VBiwJmpfIcRpdhwwWt2Ciw)
 * [通过双重跳板漫游隔离内网](https://paper.tuisec.win/detail/60e44a10243185a)
 * [一款突破内网防火墙神器ngrok](https://paper.tuisec.win/detail/75e46a067d7b6f8)
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
+* [ew](https://mp.weixin.qq.com/s/VBiwJmpfIcRpdhwwWt2Ciw)
+* [代理工具](https://github.com/Dliv3/Venom) 端口复用、游走内网
+* [win IIS端口复用](https://www.secrss.com/articles/12696)
+* [iptables端口复用](https://threathunter.org/topic/594545184ea5b2f5516e2033)
 
 #### 内网平台
 * [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
