@@ -103,6 +103,8 @@ Table of Contents
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
+* [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - 安全相关的内容
+* [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 
 ----
 开发
@@ -115,6 +117,9 @@ Table of Contents
 * [web, 前端, javascript, nodejs, electron, babel, webpack, rollup, react, vue ...](https://github.com/senntyou/blogs)
 * [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 * [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+* [interview_internal_reference](https://github.com/0voice/interview_internal_reference) 
+* [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+* [python3-source-code-analysis](https://github.com/flaggo/python3-source-code-analysis)
 ----
 其它
 
@@ -139,10 +144,15 @@ Table of Contents
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
 * [996.Leave](https://github.com/623637646/996.Leave)
 * [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
+* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - mac软件
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) - mac软件
+* [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 杂
+
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
 * [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
+
 ### ImageMagick
 ---
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
@@ -189,6 +199,11 @@ Table of Contents
 * [蜜罐与内网安全从0到1（四）](https://xianzhi.aliyun.com/forum/topic/1730)
 * [蜜罐与内网安全从0到1（五）](https://xianzhi.aliyun.com/forum/topic/1955)
 * [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
+* [Real-timeDetectionAD](https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2
+https://bithack.io/forum/505) - 域内蜜罐
+* [HFish](https://bithack.io/forum/505) - 蜜罐框架
+* [opencanary_web](https://github.com/p1r06u3/opencanary_web)
+* [tpotce](https://github.com/dtag-dev-sec/tpotce/)
 * [ElastAlert监控日志告警Web攻击行为](http://www.freebuf.com/articles/web/160254.html)
 * [OSSIM分布式安装实践](https://www.secpulse.com/archives/67514.html)
 * [企业信息安全团队建设](https://xianzhi.aliyun.com/forum/topic/1965)
@@ -343,6 +358,7 @@ Table of Contents
 * [Whitepaper: Security Cookies](https://www.netsparker.com/security-cookies-whitepaper/)
 * [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
 * [OOB](https://www.freebuf.com/articles/web/201013.html)
+* [solr-injection](https://github.com/artsploit/solr-injection#introduction)
 
 ### 国外Bug_Bounty文章
 
@@ -496,6 +512,7 @@ Table of Contents
 * [利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控](https://xax007.github.io/2019-01-26-pwn-domain-admin-via-exchange-ssrf/)
 * [Microsoft Exchange漏洞分析](http://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581_2.html)
 * [Microsoft Exchange 任意用户伪造漏洞（CVE-2018-8581）分析](https://paper.seebug.org/804/)
+* [PrivExchange](https://github.com/dirkjanm/PrivExchange) - tools
 
 #### hash ticket Credential
 
@@ -523,6 +540,7 @@ Table of Contents
 * [iptables端口复用](https://threathunter.org/topic/594545184ea5b2f5516e2033)
 
 #### 内网平台
+* [Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki)
 * [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
 * [渗透利器Cobalt Strike - 第1篇 功能及使用](https://xz.aliyun.com/t/3975)
 * [Cobalt strike3.0使用手册](https://evi1cg.me/archives/Cobalt_strike.html)
@@ -552,6 +570,7 @@ Table of Contents
 * [内网渗透——网络环境的判断](https://paper.tuisec.win/detail/bc7c4b2c3145d47)
 * [PowerView](http://www.freebuf.com/sectool/173366.html)
 * [WMI在渗透测试中的重要性](https://www.secpulse.com/archives/72493.html)
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 
 #### 内网技巧
 * [红队后渗透测试中的文件传输技巧](https://paper.seebug.org/834/)
@@ -627,7 +646,7 @@ Table of Contents
 * [RemTeam攻击技巧和安全防御](https://xz.aliyun.com/t/4602)
 
 ### 钓鱼
-* [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html)
+* [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html) - 用于获取用户字典
 
 #### 邮件伪造
 
@@ -637,6 +656,7 @@ Table of Contents
 * [伪造电子邮件以及制造电子邮件炸弹的攻防探讨](https://www.freebuf.com/sectool/184555.html)
 * [绕过DKIM验证，伪造钓鱼邮件](http://www.4hou.com/web/7857.html)
 * [Best Practices on Email Protection: SPF, DKIM and DMARC](https://wiki.zimbra.com/wiki/Best_Practices_on_Email_Protection:_SPF,_DKIM_and_DMARC)
+* [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
 
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
