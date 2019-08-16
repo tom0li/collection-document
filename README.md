@@ -504,6 +504,7 @@ https://bithack.io/forum/505) - 域内蜜罐
 * [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
 * [内网渗透知识基础及流程](https://www.anquanke.com/post/id/170471)
 * [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
+* [kerberos](https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf)
 
 #### Exchange
 * [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
@@ -622,6 +623,7 @@ https://bithack.io/forum/505) - 域内蜜罐
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 * [老牌工具 PsExec 一个琐碎的细节](https://paper.seebug.org/503/)
 * [域渗透之使用CrackMapExec拿到我们想要的东西](https://www.anquanke.com/post/id/84980)
+* [Kerberos协议探索系列之委派篇](https://www.anquanke.com/post/id/173477)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
