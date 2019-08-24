@@ -147,11 +147,14 @@ Table of Contents
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - mac软件
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) - mac软件
 * [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 杂
+* [隐私](https://github.com/No-Github/Digital-Privacy)
 
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
 * [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
+* [fortigate-ssl-vpn](http://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html) -orange
+* [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 
 ### ImageMagick
 ---
