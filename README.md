@@ -202,8 +202,7 @@ Table of Contents
 * [蜜罐与内网安全从0到1（四）](https://xianzhi.aliyun.com/forum/topic/1730)
 * [蜜罐与内网安全从0到1（五）](https://xianzhi.aliyun.com/forum/topic/1955)
 * [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
-* [Real-timeDetectionAD](https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2
-https://bithack.io/forum/505) - 域内蜜罐
+* [Real-timeDetectionAD](https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2) - https://bithack.io/forum/505 - 域内蜜罐
 * [HFish](https://bithack.io/forum/505) - 蜜罐框架
 * [opencanary_web](https://github.com/p1r06u3/opencanary_web)
 * [tpotce](https://github.com/dtag-dev-sec/tpotce/)
@@ -760,6 +759,8 @@ https://bithack.io/forum/505) - 域内蜜罐
 * [通过DNS rebinding绕过同源策略攻击Transmission分析](https://www.anquanke.com/post/id/97366)
 * [Use DNS Rebinding to Bypass SSRF in Java](https://mp.weixin.qq.com/s/545el33HNI0rVi2BGVP5_Q)
 * [SSRF漏洞的挖掘经验](https://sobug.com/article/detail/11)
+* [了解SSRF](https://xz.aliyun.com/t/2115)
+* [SSRF&redis](https://xz.aliyun.com/t/5665)
 
 ### SQL
 * [MySql注入备忘录](https://chybeta.github.io/2017/07/21/MySql%E6%B3%A8%E5%85%A5%E5%A4%87%E5%BF%98%E5%BD%95/)
