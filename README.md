@@ -761,6 +761,7 @@ Table of Contents
 * [SSRF漏洞的挖掘经验](https://sobug.com/article/detail/11)
 * [了解SSRF](https://xz.aliyun.com/t/2115)
 * [SSRF&redis](https://xz.aliyun.com/t/5665)
+* [gopher-attack-surfaces](https://blog.chaitin.cn/gopher-attack-surfaces/)
 
 ### SQL
 * [MySql注入备忘录](https://chybeta.github.io/2017/07/21/MySql%E6%B3%A8%E5%85%A5%E5%A4%87%E5%BF%98%E5%BD%95/)
