@@ -427,7 +427,7 @@ Table of Contents
 * [渗透记录1](https://www.secquan.org/Discuss/543)
 * [渗透记录2](https://www.secquan.org/Discuss/588)
 * [Web黑盒渗透思路之猜想](http://www.freebuf.com/articles/web/161491.html)
-* [【老文】一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
+* [老文一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
 * [渗透Hacking Team过程](https://xz.aliyun.com/t/2146)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
 * [浅析反向代理](https://www.anquanke.com/post/id/150436)
@@ -436,6 +436,8 @@ Table of Contents
 * [记一次对某企业的渗透测试实战](https://bbs.ichunqiu.com/thread-41946-1-1.html)
 * [Exploit Singapore Hotels: ezxcess.antlabs.com](https://paper.tuisec.win/detail/06b238bc27b9c90)
 * [ssrf内网漫游](https://github.com/r35tart/Penetration_Testing_Case/blob/master/%E4%BD%8E%E5%8D%B1SSRF%E6%8F%90%E6%9D%83%E8%BF%9B%E5%86%85%E7%BD%91.pdf)
+* [渗透记录1](https://www.freebuf.com/vuls/211842.html)
+* [渗透记录2](https://www.freebuf.com/vuls/211847.html)
 
 
 #### 靶场
@@ -808,8 +810,6 @@ Table of Contents
 * [两次前端绕过渗透小结](https://www.freebuf.com/articles/web/158508.html)
 * [如何对经前端加密后的数据进行爆破](https://www.freebuf.com/articles/web/184455.html)
 * [对登录中账号密码进行加密之后再传输的爆破的思路和方式](https://www.freebuf.com/articles/web/127888.html)
-
-  
 
 
 ### DNS
