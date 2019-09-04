@@ -155,6 +155,8 @@ Table of Contents
 * [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
 * [fortigate-ssl-vpn](http://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html) -orange
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
+* [Webmin <=1.920 远程命令执行漏洞 -CVE-2019-15107](https://xz.aliyun.com/t/6040) - 精炼
+* [Webmin CVE-2019-15642](https://twitter.com/chybeta/status/1167617571287289856)
 
 ### ImageMagick
 ---
@@ -180,7 +182,7 @@ Table of Contents
 
 #### 建设
 
-* [Enterprise_Security_Build--Open_Source](https://github.com/bloodzer0/Enterprise_Security_Build--Open_Source)
+* [Enterprise_Security_Build--Open_Source](https://bloodzer0.github.io)
 * [一个人的安全部](http://www.freebuf.com/articles/security-management/126254.html)
 * [没有钱的安全部之资产安全](http://www.jianshu.com/p/572431447613?from=timeline)
 * [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
@@ -746,6 +748,7 @@ Table of Contents
 * [nmap](http://www.polaris-lab.com/index.php/archives/390/)
 * [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
 * [从MySQL出发的反击之路](https://xz.aliyun.com/t/3277)
+* [https://github.com/BloodHoundAD/BloodHound/issues/267](https://github.com/BloodHoundAD/BloodHound/issues/267) -xss
 
 
 ### CSRF
