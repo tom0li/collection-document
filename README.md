@@ -105,11 +105,16 @@ Table of Contents
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
 * [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - 安全相关的内容
 * [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
+* [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - good
+* [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+* [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+* [reverse-interview](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 
 ----
 开发
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 * [Java学习+面试指南 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 * [Python Cheat Sheet ](https://github.com/crazyguitar/pysheeet)
@@ -120,13 +125,11 @@ Table of Contents
 * [interview_internal_reference](https://github.com/0voice/interview_internal_reference) 
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 * [python3-source-code-analysis](https://github.com/flaggo/python3-source-code-analysis)
+
 ----
 其它
 
 * [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
-* [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
-* [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
-* [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview)
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 * [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
@@ -147,7 +150,8 @@ Table of Contents
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - mac软件
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) - mac软件
 * [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 杂
-* [隐私](https://github.com/No-Github/Digital-Privacy)
+* [保护隐私](https://github.com/No-Github/Digital-Privacy)
+* [ruanyf](https://github.com/ruanyf/weekly) - 科技爱好者周刊
 
 
 ## 预警&研究
@@ -484,6 +488,7 @@ Table of Contents
 
 * [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
+* [uknowsec / Active-Directory-Pentest-Notes](https://github.com/uknowsec/Active-Directory-Pentest-Notes)
 * [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
 * [DarthSidious-Chinese](https://github.com/crazywa1ker/DarthSidious-Chinese)
 * [Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
@@ -691,6 +696,10 @@ Table of Contents
 * [神奇的Content-Type——在JSON中玩转XXE攻击](http://bobao.360.cn/learning/detail/360.html)
 * [XXE-DTD Cheat Sheet](https://web-in-security.blogspot.jp/2016/03/xxe-cheat-sheet.html)
 * [通过编码绕过一些cms对于xxe的检测](https://forum.90sec.org/forum.php?mod=viewthread&tid=10334&extra=page%3D3)
+* [利用EXCEL进行XXE攻击](https://xz.aliyun.com/t/3741)
+* [利用 EXCEL 文件进行 XXE 攻击的漏洞分析](https://www.jishuwen.com/d/2inW)
+* [EXCEL依赖库](https://www.cnblogs.com/iyiyang/articles/10055824.html)
+* [一篇文章带你深入理解漏洞之 XXE 漏洞](https://xz.aliyun.com/t/3357)
 
 ### XSS
 * [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
@@ -887,6 +896,7 @@ Table of Contents
 * [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
 * [Java漏洞代码](https://github.com/JoyChou93/java-sec-code)
+* [apache-shiro-java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
 
 ## 其他
 
