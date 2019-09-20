@@ -225,6 +225,7 @@ Table of Contents
 * [宜信防火墙自动化运维之路](http://www.freebuf.com/articles/security-management/166895.html)
 * [证书锁定](https://www.secpulse.com/archives/75212.html)
 * [中通内部安全通讯实践](https://xz.aliyun.com/t/3759)
+* [那些年我们堵住的洞 – OpenRASP纪实](https://anquan.baidu.com/article/855)
 
 #### 加固
 
@@ -483,6 +484,7 @@ Table of Contents
 * [渗透技巧之SSH篇](http://drops.xmd5.com/static/drops/tips-1951.html)
 * [无需sendmail：巧用LD_PRELOAD突破disable_functions](https://www.freebuf.com/articles/web/192052.html)
 * [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/)
+* [一次攻击内网rmi服务的深思](https://forum.90sec.com/t/topic/388/1)
 
 ### 内网
 
@@ -699,6 +701,7 @@ Table of Contents
 * [利用EXCEL进行XXE攻击](https://xz.aliyun.com/t/3741)
 * [利用 EXCEL 文件进行 XXE 攻击的漏洞分析](https://www.jishuwen.com/d/2inW)
 * [EXCEL依赖库](https://www.cnblogs.com/iyiyang/articles/10055824.html)
+* [上传DOC文件XXE](https://www.03sec.com/2916.shtml)
 * [一篇文章带你深入理解漏洞之 XXE 漏洞](https://xz.aliyun.com/t/3357)
 
 ### XSS
