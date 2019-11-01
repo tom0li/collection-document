@@ -99,6 +99,7 @@ Table of Contents
 * [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 * [物联网安全百科](https://github.com/yaseng/iot-security-wiki) -by  伏宸安全实验室
 * [Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note)
+* [2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) - by 404notf0und
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
@@ -109,6 +110,7 @@ Table of Contents
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - good
 * [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+* [CS基础](https://github.com/selfboot/CS_Offer/)
 * [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [reverse-interview](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 
@@ -155,12 +157,13 @@ Table of Contents
 
 
 ## 预警&研究
-* [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017)
+* [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
 * [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
 * [fortigate-ssl-vpn](http://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html) -orange
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 * [Webmin <=1.920 远程命令执行漏洞 -CVE-2019-15107](https://xz.aliyun.com/t/6040) - 精炼
 * [Webmin CVE-2019-15642](https://twitter.com/chybeta/status/1167617571287289856)
+* [PPT大全](http://www.vipread.com/)
 
 ### ImageMagick
 ---
@@ -754,6 +757,7 @@ Table of Contents
 * [诸神之眼nmap定制化之NSE进阶](http://www.freebuf.com/column/165252.html)
 * [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
 * [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions)
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads 大全
 * [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
 * [论如何反击用AWVS的黑客](http://www.freebuf.com/news/136476.html)
 * [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
@@ -883,7 +887,6 @@ Table of Contents
 
 ### Java
 
-* [JAVA反序列化安全实例解析](https://xianzhi.aliyun.com/forum/topic/350)
 * [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
 * [JAVA代码审计的一些Tips(附脚本)](https://xianzhi.aliyun.com/forum/topic/1633)
 * [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
@@ -960,7 +963,9 @@ Table of Contents
 * [偷U盘文件的神器](https://github.com/kenvix/USBCopyer)
 * [Hard_winGuide.md](https://github.com/CHEF-KOCH/HWAB/blob/master/Guide.md)
 * [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
-* [道哥的黑板报]() - 思考很深的年轻人 真正的大牛 
+* [red-team-and-the-next](https://devco.re/blog/2019/10/24/evolution-of-DEVCORE-red-team-and-the-next/) -by DEVCORE
+* [道哥的黑板报](https://zhuanlan.zhihu.com/taosay) - 思考很深的年轻人 真正的大牛 
+
 
 ## How to contribute?
 ---
