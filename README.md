@@ -163,6 +163,10 @@ Table of Contents
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 * [Webmin <=1.920 远程命令执行漏洞 -CVE-2019-15107](https://xz.aliyun.com/t/6040) - 精炼
 * [Webmin CVE-2019-15642](https://twitter.com/chybeta/status/1167617571287289856)
+* [浅析常见Debug调试器的安全隐患](https://security.tencent.com/index.php/blog/msg/137)
+* [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
+* [从 0 开始入门 Chrome Ext 安全（一） -- 了解一个 Chrome Ext](https://paper.seebug.org/1082/)
+* [从 0 开始入门 Chrome Ext 安全（二） -- 安全的 Chrome Ext](https://paper.seebug.org/1092/)
 * [PPT大全](http://www.vipread.com/)
 
 ### ImageMagick
@@ -184,6 +188,7 @@ Table of Contents
 ---
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
 * [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
+* [服务器开放debug安全内容](https://security.tencent.com/index.php/blog/msg/137 )
 
 ## 安全部
 
@@ -341,6 +346,7 @@ Table of Contents
 * [子域名接管指南](https://www.secpulse.com/archives/95304.html)
 * [Subdomain Takeover](https://www.secpulse.com/archives/94973.html)
 * [Subdomain Takeover/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
+* [Subdomain-takeover](https://echocipher.github.io/2019/08/14/Subdomain-takeover/)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
 
 ### 总结
@@ -419,13 +425,12 @@ Table of Contents
 * [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
 * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Awesome Pentest Cheat Sheets.
-* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists) 
+* [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists)
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
 * [Micropoor](https://github.com/Micropoor/Micro8)
 * [渗透测试工具备忘录](https://xz.aliyun.com/t/2482#toc-67)
 * [API 接口渗透测试](https://xz.aliyun.com/t/2412)
 * [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
-* [web渗透基本流程小结](https://klionsec.github.io/2017/05/20/web-pentest-options/)
 * [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
 * [从目录信息泄露到渗透内网](http://blog.51cto.com/simeon/1928354)
 * [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
@@ -488,6 +493,9 @@ Table of Contents
 * [无需sendmail：巧用LD_PRELOAD突破disable_functions](https://www.freebuf.com/articles/web/192052.html)
 * [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/)
 * [一次攻击内网rmi服务的深思](https://forum.90sec.com/t/topic/388/1)
+* [2个思路](https://xz.aliyun.com/t/6587) - 读取连接mysql客户端系统信息,上传
+* [JNI技术绕过rasp防护实现jsp webshell](https://mp.weixin.qq.com/s?__biz=MzA5Mzg3NTUwNQ==&mid=2447804425&idx=1&sn=91515259ee4d8a204d40e0aee8177f58)
+* [结合直接系统调用和sRDI来绕过AV / EDR](https://bbs.pediy.com/thread-253564.htm)
 
 ### 内网
 
@@ -640,6 +648,7 @@ Table of Contents
 * [老牌工具 PsExec 一个琐碎的细节](https://paper.seebug.org/503/)
 * [域渗透之使用CrackMapExec拿到我们想要的东西](https://www.anquanke.com/post/id/84980)
 * [Kerberos协议探索系列之委派篇](https://www.anquanke.com/post/id/173477)
+* [通过RDP反向攻击mstsc](https://paper.seebug.org/1074/)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
