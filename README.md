@@ -1,6 +1,6 @@
 # Project Description
 ---
-### Collection of quality safety articles
+### Collection of quality safety articles(To be rebuilt)
 > #### [collection-document awesome](https://github.com/tom0li/collection-document/)  
 ```
 Some are inconvenient to release.  
