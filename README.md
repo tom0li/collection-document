@@ -5,6 +5,8 @@
 ```
 Some are inconvenient to release.  
 Some forget update,can see me star.  
+以前的链接中大多不是优质的。
+因精力有限，缓慢更新。
 Author: [tom0li]  
 Blog: https://tom0li.github.io
 ```
@@ -26,7 +28,6 @@ Table of Contents
       * [综合](#综合)
    * [Bug_Bounty](#Bug_Bounty )
       * [总结](#总结)
-      * [国外Bug_Bounty文章](#国外Bug_Bounty文章)
       * [信息收集](#信息收集)
    * [渗透](#渗透)
       * [靶场](#靶场)
@@ -158,12 +159,12 @@ Table of Contents
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
+* [Top-10-web-hacking-techniques-of-2018](https://portswigger.net/research/top-10-web-hacking-techniques-of-2018)
 * [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
 * [fortigate-ssl-vpn](http://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html) -orange
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 * [Webmin <=1.920 远程命令执行漏洞 -CVE-2019-15107](https://xz.aliyun.com/t/6040) - 精炼
 * [Webmin CVE-2019-15642](https://twitter.com/chybeta/status/1167617571287289856)
-* [浅析常见Debug调试器的安全隐患](https://security.tencent.com/index.php/blog/msg/137)
 * [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
 * [从 0 开始入门 Chrome Ext 安全（一） -- 了解一个 Chrome Ext](https://paper.seebug.org/1082/)
 * [从 0 开始入门 Chrome Ext 安全（二） -- 安全的 Chrome Ext](https://paper.seebug.org/1092/)
@@ -312,10 +313,9 @@ Table of Contents
 
 ## Bug_Bounty
 
-* [bugbountyguide](https://bugbountyguide.com/#)
+* [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - 类似乌云漏洞库。
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-* [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
-* [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+* [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) 
 * [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
@@ -333,8 +333,9 @@ Table of Contents
 * [挖洞技巧：支付漏洞之总结](https://www.secpulse.com/archives/67080.html)
 * [挖洞技巧：绕过短信&邮箱轰炸限制以及后续](http://mp.weixin.qq.com/s/5OSLC2GOeYere9_lT2RwHw)
 * [挖洞技巧：信息泄露之总结](https://www.secpulse.com/archives/67123.html)
-* [OSS对象存储上传解析漏洞](https://xianzhi.aliyun.com/forum/topic/2078)
+* [阿里云oss key利用](https://www.t00ls.net/viewthread.php?tid=52875&highlight=oss)
 * [任意文件下载引发的思考](https://www.secpulse.com/archives/68522.html)
+* [任意文件Getshell](https://xz.aliyun.com/t/6958)
 * [通用性业务逻辑组合拳劫持你的权限](https://www.anquanke.com/post/id/106961)
 * [组合漏洞导致的账号劫持](https://xz.aliyun.com/t/3514)
 * [我的通行你的证](https://lvwei.me/passport.html#toc_0)
@@ -348,10 +349,22 @@ Table of Contents
 * [Subdomain Takeover/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
 * [Subdomain-takeover](https://echocipher.github.io/2019/08/14/Subdomain-takeover/)
 * [过期链接劫持的利用方法探讨](http://www.freebuf.com/articles/web/151836.html)
+* [国外赏金之路](https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/) - 老司机赏金见解,历史赏金文章 list
+* [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
+* [看我如何发现谷歌漏洞跟踪管理平台漏洞获得$15600赏金](http://www.freebuf.com/articles/web/152893.html)
+* [看我如何利用简单的配置错误“渗透”BBC新闻网](http://www.freebuf.com/news/155558.html)
+* [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
+* [我是如何挖掘热门“约P软件”漏洞的](http://www.freebuf.com/articles/web/157391.html)
+* [新手上路 | 德国电信网站从LFI到命令执行漏洞](http://www.freebuf.com/articles/web/156950.html)
+* [Taking over Facebook accounts using Free Basics partner portal](https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover)
+* [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/)
+* [挖洞经验 | 看我如何免费获取价值€120的会员资格](http://www.freebuf.com/articles/web/172438.html)
+* [Scrutiny on the bug bounty](https://xz.aliyun.com/t/3935)
+* [1hack0/Facebook-Bug-Bounty-Write-ups](https://github.com/1hack0/Facebook-Bug-Bounty-Write-ups)
 
 ### 总结
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
-* [Weblogic 常见漏洞环境的搭建及其利用](http://liehu.tass.com.cn/archives/542)
+* [Web中间件常见漏洞总结](https://www.t00ls.net/viewthread.php?tid=51654&highlight=%E4%B8%AD%E9%97%B4%E4%BB%B6)
 * [Tomcat安全测试概要](https://blog.formsec.cn/2018/02/23/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%89%E5%85%A8-TOMCAT%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E6%A6%82%E8%A6%81/)
 * [那些年让我们心惊胆战的IIS漏洞](https://www.secpulse.com/archives/82410.html)
 * [Mysql数据库渗透及漏洞利用总结simeon](https://xianzhi.aliyun.com/forum/topic/1491)
@@ -369,7 +382,6 @@ Table of Contents
 * [登录加密算法破解秘籍](http://liehu.tass.com.cn/archives/1016) 
 * [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 * [浅谈中间件漏洞与防护](https://thief.one/2017/05/25/1/)
-* [中间件漏洞](https://www.t00ls.net/viewthread.php?tid=51654&highlight=%E4%B8%AD%E9%97%B4%E4%BB%B6)
 * [NFS的攻击与防御](http://www.4hou.com/system/8069.html)
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
 * [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
@@ -377,21 +389,6 @@ Table of Contents
 * [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
 * [OOB](https://www.freebuf.com/articles/web/201013.html)
 * [solr-injection](https://github.com/artsploit/solr-injection#introduction)
-
-### 国外Bug_Bounty文章
-
-* [国外赏金之路](https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/) - 老司机赏金见解,历史赏金文章 list
-* [记一次失败的0元单的挖掘历程与一处成功的XSS案例](https://bbs.ichunqiu.com/article-636-1.html)
-* [看我如何发现谷歌漏洞跟踪管理平台漏洞获得$15600赏金](http://www.freebuf.com/articles/web/152893.html)
-* [看我如何利用简单的配置错误“渗透”BBC新闻网](http://www.freebuf.com/news/155558.html)
-* [分享一个近期遇到的逻辑漏洞案例](http://www.freebuf.com/vuls/151196.html)
-* [我是如何挖掘热门“约P软件”漏洞的](http://www.freebuf.com/articles/web/157391.html)
-* [新手上路 | 德国电信网站从LFI到命令执行漏洞](http://www.freebuf.com/articles/web/156950.html)
-* [Taking over Facebook accounts using Free Basics partner portal](https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover)
-* [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/)
-* [挖洞经验 | 看我如何免费获取价值€120的会员资格](http://www.freebuf.com/articles/web/172438.html)
-* [Scrutiny on the bug bounty](https://xz.aliyun.com/t/3935)
-* [1hack0/Facebook-Bug-Bounty-Write-ups](https://github.com/1hack0/Facebook-Bug-Bounty-Write-ups)
 
 ### 信息收集
 
@@ -895,7 +892,7 @@ Table of Contents
 * [PHP代码审计菜鸟笔记（二）](https://sosly.me/index.php/2018/04/03/php_daimashenji2/)
 
 ### Java
-
+* [javasec.org](https://javasec.org/) -by 园长
 * [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
 * [JAVA代码审计的一些Tips(附脚本)](https://xianzhi.aliyun.com/forum/topic/1633)
 * [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
