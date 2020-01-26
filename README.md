@@ -19,7 +19,7 @@ Table of Contents
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
    * [代码审计-JAVA](#代码审计-JAVA)
-      * [反序列化](#反序列化)
+      * [反序列化-其他](#反序列化-其他)
       * [Fastjson](#Fastjson)
       * [模版注入](#模版注入)
    * [安全部](#安全部)
@@ -186,7 +186,7 @@ Table of Contents
 * [代码审计知识星球精选](https://tricking.io)
 * [连续使用过滤函数造成的安全问题总结](https://forum.90sec.org/thread-10917-1-1.html)
 
-### 反序列化
+### 反序列化-其他
 * [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
 * [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
 * [java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
