@@ -18,15 +18,17 @@ Table of Contents
    * [Github-list](#github-list)
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
+   * [代码审计-JAVA](#代码审计-JAVA)
+      * [反序列化](#反序列化)
       * [Fastjson](#Fastjson)
-      * [杂](#杂)
+      * [模版注入](#模版注入)
    * [安全部](#安全部)
       * [建设](#建设)
       * [加固](#加固)
       * [响应 溯源](#响应-溯源)
       * [威胁情报](#威胁情报)
       * [综合](#综合)
-   * [Bug_Bounty](#Bug_Bounty )
+   * [Bug_Bounty](#Bug_Bounty)
       * [总结](#总结)
       * [信息收集](#信息收集)
    * [渗透](#渗透)
@@ -66,8 +68,6 @@ Table of Contents
    * [FUZZ](#fuzz)
    * [WAF](#waf)
    * [IDS](#ids)
-   * [代码审计](#代码审计)
-      * [Java](#java)
    * [其他](#其他)
       * [Git](#git)
       * [特别的wx号](#特别的wx号)
@@ -156,10 +156,10 @@ Table of Contents
 * [保护隐私](https://github.com/No-Github/Digital-Privacy)
 * [ruanyf](https://github.com/ruanyf/weekly) - 科技爱好者周刊
 
-
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
 * [Top-10-web-hacking-techniques-of-2018](https://portswigger.net/research/top-10-web-hacking-techniques-of-2018)
+* [PPT大全](http://www.vipread.com/)
 * [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
 * [fortigate-ssl-vpn](http://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html) -orange
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
@@ -168,14 +168,39 @@ Table of Contents
 * [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
 * [从 0 开始入门 Chrome Ext 安全（一） -- 了解一个 Chrome Ext](https://paper.seebug.org/1082/)
 * [从 0 开始入门 Chrome Ext 安全（二） -- 安全的 Chrome Ext](https://paper.seebug.org/1092/)
-* [PPT大全](http://www.vipread.com/)
-
+* [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
+* [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
+* [服务器开放debug安全内容](https://security.tencent.com/index.php/blog/msg/137)
 ### ImageMagick
 ---
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
 * [imagemagick 邂逅 getimagesize 的那点事儿](https://paper.seebug.org/969/)
+
+## 代码审计-JAVA
+* [javasec.org](https://javasec.org/) -by 园长
+* [JAVA代码审计的一些Tips(附脚本)](https://xianzhi.aliyun.com/forum/topic/1633)
+* [敏信Java代码审计-层层推进](https://xianzhi.aliyun.com/forum/topic/2074)
+* [Java漏洞代码](https://github.com/JoyChou93/java-sec-code)
+* [代码审计知识星球精选](https://tricking.io)
+* [连续使用过滤函数造成的安全问题总结](https://forum.90sec.org/thread-10917-1-1.html)
+
+### 反序列化
+* [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
+* [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
+* [java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
+* [Java反序列化漏洞-金蛇剑之hibernate(下)](https://xianzhi.aliyun.com/forum/topic/2031)
+* [Java反序列化漏洞-玄铁重剑之CommonsCollection(上)](https://xianzhi.aliyun.com/forum/topic/2028)
+* [Java反序列化漏洞-玄铁重剑之CommonsCollection(下)](https://xianzhi.aliyun.com/forum/topic/2029)
+* [Java反序列化漏洞从入门到深入](https://xianzhi.aliyun.com/forum/topic/2041)
+* [Java反序列化备忘录](https://xianzhi.aliyun.com/forum/topic/2042)
+* [Java反序列化漏洞之殇](https://xianzhi.aliyun.com/forum/topic/2043)
+* [Java反序列化漏洞学习实践一：从Serializbale接口开始，先弹个计算器](http://www.polaris-lab.com/index.php/archives/447/)
+* [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
+* [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
+* [apache-shiro-java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
+
 ### Fastjson
 * [fastjson反序列化利用](https://lazydog.me/post/fastjson-JdbcRowSetImpl-rce-exploit.html)
 * [FastJson =< 1.2.47 反序列化漏洞浅析](https://bithack.io/forum/393)
@@ -184,12 +209,9 @@ Table of Contents
 * [FastJson 反序列化学习](http://www.lmxspace.com/2019/06/29/FastJson-%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%AD%A6%E4%B9%A0/)
 * [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
 
-
-### 杂
----
-* [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
-* [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
-* [服务器开放debug安全内容](https://security.tencent.com/index.php/blog/msg/137 )
+### 模版注入
+* [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
+* [Apache solr Velocity模版远程命令执行漏洞分析](http://gv7.me/articles/2019/apache-solr-velocity-rce-20191031/)
 
 ## 安全部
 
@@ -235,6 +257,8 @@ Table of Contents
 * [证书锁定](https://www.secpulse.com/archives/75212.html)
 * [中通内部安全通讯实践](https://xz.aliyun.com/t/3759)
 * [那些年我们堵住的洞 – OpenRASP纪实](https://anquan.baidu.com/article/855)
+* [源头之战，不断升级的攻防对抗技术 —— 软件供应链攻击防御探索](https://security.tencent.com/index.php/blog/msg/140)
+* [网络空间安全时代的红蓝对抗建设](https://security.tencent.com/index.php/blog/msg/139)
 
 #### 加固
 
@@ -784,11 +808,11 @@ Table of Contents
 * [SSRF in Java](https://xianzhi.aliyun.com/forum/topic/206)
 * [Dns Auto Rebinding](http://www.thinkings.org/2017/06/25/dns-auto-rebinding.html)
 * [通过DNS rebinding绕过同源策略攻击Transmission分析](https://www.anquanke.com/post/id/97366)
-* [Use DNS Rebinding to Bypass SSRF in Java](https://mp.weixin.qq.com/s/545el33HNI0rVi2BGVP5_Q)
 * [SSRF漏洞的挖掘经验](https://sobug.com/article/detail/11)
 * [了解SSRF](https://xz.aliyun.com/t/2115)
 * [SSRF&redis](https://xz.aliyun.com/t/5665)
 * [gopher-attack-surfaces](https://blog.chaitin.cn/gopher-attack-surfaces/)
+* [Use DNS Rebinding to Bypass SSRF in Java](https://paper.seebug.org/390)
 
 ### SQL
 * [MySql注入备忘录](https://chybeta.github.io/2017/07/21/MySql%E6%B3%A8%E5%85%A5%E5%A4%87%E5%BF%98%E5%BD%95/)
@@ -882,33 +906,6 @@ Table of Contents
 
 * [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
 * [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
-
-## 代码审计
-
-* [代码审计知识星球精选](https://tricking.io)
-* [连续使用过滤函数造成的安全问题总结](https://forum.90sec.org/thread-10917-1-1.html)
-* [某开源商城前台Getshell](https://xianzhi.aliyun.com/forum/topic/2021)
-* [PHP代码审计菜鸟笔记（一）](https://sosly.me/index.php/2018/04/02/php_daimashenji1/)
-* [PHP代码审计菜鸟笔记（二）](https://sosly.me/index.php/2018/04/03/php_daimashenji2/)
-
-### Java
-* [javasec.org](https://javasec.org/) -by 园长
-* [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
-* [JAVA代码审计的一些Tips(附脚本)](https://xianzhi.aliyun.com/forum/topic/1633)
-* [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
-* [java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
-* [Java反序列化漏洞-金蛇剑之hibernate(下)](https://xianzhi.aliyun.com/forum/topic/2031)
-* [Java反序列化漏洞-玄铁重剑之CommonsCollection(上)](https://xianzhi.aliyun.com/forum/topic/2028)
-* [Java反序列化漏洞-玄铁重剑之CommonsCollection(下)](https://xianzhi.aliyun.com/forum/topic/2029)
-* [Java反序列化漏洞从入门到深入](https://xianzhi.aliyun.com/forum/topic/2041)
-* [Java反序列化备忘录](https://xianzhi.aliyun.com/forum/topic/2042)
-* [Java反序列化漏洞之殇](https://xianzhi.aliyun.com/forum/topic/2043)
-* [敏信Java代码审计-层层推进](https://xianzhi.aliyun.com/forum/topic/2074)
-* [Java反序列化漏洞学习实践一：从Serializbale接口开始，先弹个计算器](http://www.polaris-lab.com/index.php/archives/447/)
-* [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
-* [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
-* [Java漏洞代码](https://github.com/JoyChou93/java-sec-code)
-* [apache-shiro-java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
 
 ## 其他
 
