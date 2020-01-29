@@ -210,6 +210,7 @@ Table of Contents
 * [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
 
 ### 模版注入
+* [Apache Solr Injection Research](https://github.com/veracode-research/solr-injection#introduction)
 * [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
 * [Apache solr Velocity模版远程命令执行漏洞分析](http://gv7.me/articles/2019/apache-solr-velocity-rce-20191031/)
 
