@@ -794,6 +794,8 @@ Table of Contents
 * [nmap](http://www.polaris-lab.com/index.php/archives/390/)
 * [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
 * [从MySQL出发的反击之路](https://xz.aliyun.com/t/3277)
+* [Mysql Client 任意文件读取攻击链拓展](https://paper.seebug.org/1112/)
+* [恶意MySQL Server读取MySQL Client端文件](http://scz.617.cn/network/202001101612.txt)
 * [https://github.com/BloodHoundAD/BloodHound/issues/267](https://github.com/BloodHoundAD/BloodHound/issues/267) -xss
 
 
@@ -876,12 +878,13 @@ Table of Contents
 ## FUZZ
 * [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
 * [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
+* [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/)
 * [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?p=15613)
 * [我的Web应用安全模糊测试之路](https://gh0st.cn/archives/2018-07-25/1)
 * [Wfuzz初上手](https://www.secpulse.com/archives/78638.html)
 * [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
-* [Wfuzz高阶功法](https://gh0st.cn/archives/2018-10-28/3)
-* [Wfuzz高阶功法](https://www.secpulse.com/archives/83173.html)
+* [Wfuzz高阶功法1](https://gh0st.cn/archives/2018-10-28/3)
+* [Wfuzz高阶功法2](https://www.secpulse.com/archives/83173.html)
 
 ## WAF
 
