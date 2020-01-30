@@ -17,6 +17,7 @@ Table of Contents
 
    * [Github-list](#github-list)
    * [预警&amp;研究](#预警研究)
+      * [Shiro](#Shiro)
       * [ImageMagick](#imagemagick)
    * [代码审计-JAVA](#代码审计-JAVA)
       * [反序列化-其他](#反序列化-其他)
@@ -176,7 +177,7 @@ Table of Contents
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
-* [imagemagick 邂逅 getimagesize 的那点事儿](https://paper.seebug.org/969/)
+* [Imagemagick 邂逅 getimagesize 的那点事儿](https://paper.seebug.org/969/)
 
 ## 代码审计-JAVA
 * [javasec.org](https://javasec.org/) -by 园长
@@ -187,6 +188,7 @@ Table of Contents
 * [连续使用过滤函数造成的安全问题总结](https://forum.90sec.org/thread-10917-1-1.html)
 
 ### 反序列化-其他
+---
 * [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
 * [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
 * [java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
@@ -201,7 +203,14 @@ Table of Contents
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
 * [apache-shiro-java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
 
+### Shiro
+---
+* [apache-shiro-java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
+* [从一次开发漏洞看shiro的正确使用](https://xz.aliyun.com/t/5287)
+* [Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞](https://paper.seebug.org/shiro-rememberme-1-2-4/)
+* [强网杯“彩蛋”——Shiro 1.2.4(SHIRO-550)漏洞之发散性思考](https://blog.zsxsoft.com/post/35)
 ### Fastjson
+---
 * [fastjson反序列化利用](https://lazydog.me/post/fastjson-JdbcRowSetImpl-rce-exploit.html)
 * [FastJson =< 1.2.47 反序列化漏洞浅析](https://bithack.io/forum/393)
 * [FASTJSON反序列化之基于JNDI利用方式](https://manning23.github.io/2018/03/01/Fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96jndi%E5%88%A9%E7%94%A8%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/)
@@ -210,6 +219,7 @@ Table of Contents
 * [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
 
 ### 模版注入
+---
 * [Apache Solr Injection Research](https://github.com/veracode-research/solr-injection#introduction)
 * [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
 * [Apache solr Velocity模版远程命令执行漏洞分析](http://gv7.me/articles/2019/apache-solr-velocity-rce-20191031/)
