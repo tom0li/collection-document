@@ -20,6 +20,7 @@ Table of Contents
       * [ImageMagick](#imagemagick)
    * [代码审计-JAVA](#代码审计-JAVA)
       * [反序列化-其他](#反序列化-其他)
+      * [RMI](#RMI)
       * [Shiro](#Shiro)
       * [Fastjson](#Fastjson)
       * [模版注入](#模版注入)
@@ -191,7 +192,7 @@ Table of Contents
 ---
 * [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
 * [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
-* [java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
+* [Java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
 * [Java反序列化漏洞-金蛇剑之hibernate(下)](https://xianzhi.aliyun.com/forum/topic/2031)
 * [Java反序列化漏洞-玄铁重剑之CommonsCollection(上)](https://xianzhi.aliyun.com/forum/topic/2028)
 * [Java反序列化漏洞-玄铁重剑之CommonsCollection(下)](https://xianzhi.aliyun.com/forum/topic/2029)
@@ -201,7 +202,10 @@ Table of Contents
 * [Java反序列化漏洞学习实践一：从Serializbale接口开始，先弹个计算器](http://www.polaris-lab.com/index.php/archives/447/)
 * [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
-* [apache-shiro-java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
+
+### RMI
+---
+* [attacking-java-rmi-services-after-jep-290](https://mogwailabs.de/blog/2019/03/attacking-java-rmi-services-after-jep-290/)
 
 ### Shiro
 ---
