@@ -452,7 +452,8 @@ Table of Contents
 * [Shodan自动化利用](https://xz.aliyun.com/t/2070)
 * [Shodan在渗透测试及漏洞挖掘中的一些用法](https://www.cnblogs.com/miaodaren/p/7904484.html)
 * [Shodan的http.favicon.hash语法详解与使用技巧](https://www.cnblogs.com/miaodaren/p/9177379.html)
-* [Shodan手册](https://b404.gitbooks.io/shodan-manual/)
+* [Shodan手册](https://b404.gitbooks.io/shodan-manual/) - 中文
+* [Shodan手册](https://community.turgensec.com/shodan-pentesting-guide) dorks
 
 
 ## 渗透
@@ -685,6 +686,9 @@ Table of Contents
 * [域渗透之使用CrackMapExec拿到我们想要的东西](https://www.anquanke.com/post/id/84980)
 * [Kerberos协议探索系列之委派篇](https://www.anquanke.com/post/id/173477)
 * [通过RDP反向攻击mstsc](https://paper.seebug.org/1074/)
+* [远程提取凭证](https://beta.hackndo.com/remote-lsass-dump-passwords/)
+* [重新思考凭证盗窃](https://labs.f-secure.com/blog/rethinking-credential-theft)
+
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
