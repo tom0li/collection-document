@@ -573,12 +573,12 @@ Table of Contents
 * [Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
 * [tom0li:内网备忘录](https://tom0li.github.io/%E5%86%85%E7%BD%91%E5%A4%87%E5%BF%98%E5%BD%95/)
 * [对国外某内网渗透的一次小结](https://forum.90sec.org/forum.php?mod=viewthread&tid=9264&highlight=%C4%DA%CD%F8) - 老文新手练手入门
-* [针对国内一大厂的后渗透 – 持续](https://wsygoogol.github.io/2018/01/11/%E9%92%88%E5%AF%B9%E5%9B%BD%E5%86%85%E4%B8%80%E5%A4%A7%E5%8E%82%E7%9A%84%E5%90%8E%E6%B8%97%E9%80%8F-%E2%80%93-%E6%8C%81%E7%BB%AD/)
-* [渗透测试学习笔记之综合渗透案例一](https://mp.weixin.qq.com/s/sKXWjgaViYsCjG33-5Ey8Q)
+* [针对国内一大厂的后渗透 – 持续](https://wsygoogol.github.io/2018/01/11/%E9%92%88%E5%AF%B9%E5%9B%BD%E5%86%85%E4%B8%80%E5%A4%A7%E5%8E%82%E7%9A%84%E5%90%8E%E6%B8%97%E9%80%8F-%E2%80%93-%E6%8C%81%E7%BB%AD/) - 入门实战
 * [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
 * [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
 * [kerberos](https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf)
 * [内网渗透记录](https://paper.seebug.org/1144) 关键词：委派、relay、bypassAV、webdev XXE -by A-TEAM
+* [Windows内网渗透入门](https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA) 
 
 #### Exchange
 * [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
@@ -591,11 +591,7 @@ Table of Contents
 
 #### hash ticket Credential
 
-* [Windows下的密码hash——NTLM hash和Net-NTLM hash介绍](https://xianzhi.aliyun.com/forum/topic/1943)
-* [域渗透之hash与票据](https://mp.weixin.qq.com/s/ENStRpYspx5W974BKPzZtA)
-* [Kerberos的黄金票据详解](https://mp.weixin.qq.com/s/D1idV1cdZeTnpSiXkzD-XA)
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
-* [域hash值的导出技巧大全](https://www.t00ls.net/viewthread.php?tid=40118&highlight=hash)
 * [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
 * [NTLM-Relay](https://mp.weixin.qq.com/s/1LpgGx3-YA5aR0Mx9iryCQ)
 * [Practical guide to NTLM Relaying in 2017](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
@@ -609,22 +605,16 @@ Table of Contents
 * [通过双重跳板漫游隔离内网](https://paper.tuisec.win/detail/60e44a10243185a)
 * [一款突破内网防火墙神器ngrok](https://paper.tuisec.win/detail/75e46a067d7b6f8)
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
-* [ew](https://mp.weixin.qq.com/s/VBiwJmpfIcRpdhwwWt2Ciw)
 * [代理工具](https://github.com/Dliv3/Venom) 端口复用、游走内网
 * [win IIS端口复用](https://www.secrss.com/articles/12696)
 * [iptables端口复用](https://threathunter.org/topic/594545184ea5b2f5516e2033)
 
 #### 内网平台
-* [Cobalt_Strike_wiki](https://github.com/aleenzz/Cobalt_Strike_wiki)
+
 * [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
-* [渗透利器Cobalt Strike - 第1篇 功能及使用](https://xz.aliyun.com/t/3975)
-* [Cobalt strike3.0使用手册](https://evi1cg.me/archives/Cobalt_strike.html)
-* [Cobalt Strike上手学习](https://rcoil.me/2018/04/Cobalt%20Strike%E5%AD%A6%E4%B9%A0/)
 * [渗透利器Cobalt Strike - 第2篇 APT级的全面免杀与企业纵深防御体系的对抗](https://xz.aliyun.com/t/4191)
-* [Metasploit域渗透测试全程实录（终结篇）](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=16655&highlight=Metasploit%E5%9F%9F%E6%B8%97)
-* [metasploit在后渗透中的作用](https://www.secpulse.com/archives/69766.html)
+* [CobaltStrike修改指南]()
 * [Metasploit驰骋内网直取域管首级](https://www.anquanke.com/post/id/85518)
-* [Metasploit 「永恒之蓝」两种模块的利弊](https://www.bodkin.ren/index.php/archives/555/)
 * [一篇文章精通PowerShell Empire 2.3（上）](http://bobao.360.cn/learning/detail/4760.html)
 * [一篇文章精通PowerShell Empire 2.3（下）](http://bobao.360.cn/learning/detail/4761.html)
 * [Powershell攻击指南黑客后渗透之道系列——基础篇](https://www.anquanke.com/post/id/87976)
@@ -632,20 +622,6 @@ Table of Contents
 * [Powershell攻击指南黑客后渗透之道系列——实战篇](https://www.anquanke.com/post/id/89362)
 * [nishang-ps](http://www.4hou.com/technology/5962.html)
 * [Empire实战域渗透](http://www.4hou.com/technology/4704.html)
-
-#### 内网收集
-* [Windows环境下的信息收集](https://mp.weixin.qq.com/s/37xtTdjVetMg5P1WaJvYvA)
-* [Windows渗透常用命令](http://www.myh0st.cn/index.php/archives/261/)
-* [渗透的本质是信息搜集（第一季）](http://blog.csdn.net/micropoor/article/details/79400904)
-* [后渗透攻防的信息收集](https://www.secpulse.com/archives/51527.html)
-* [域渗透基础简单信息收集 基础篇](https://xianzhi.aliyun.com/forum/topic/237/)
-* [Linux 机器的渗透测试命令备忘表](http://www.91ri.org/17575.html)
-* [黑客游走于企业windows内网的几种姿势](https://paper.tuisec.win/detail/4973d8fa7741cb3)
-* [内网渗透测试定位技术总结](http://www.mottoin.com/92978.html)
-* [内网渗透——网络环境的判断](https://paper.tuisec.win/detail/bc7c4b2c3145d47)
-* [PowerView](http://www.freebuf.com/sectool/173366.html)
-* [WMI在渗透测试中的重要性](https://www.secpulse.com/archives/72493.html)
-* [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 
 #### 内网技巧
 * [红队后渗透测试中的文件传输技巧](https://paper.seebug.org/834/)
@@ -679,7 +655,6 @@ Table of Contents
 * [windows内网渗透杂谈](https://bl4ck.in/penetration/2017/03/20/windows%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%9D%82%E8%B0%88.html)
 * [60字节 - 无文件渗透测试实验](https://www.n0tr00t.com/2017/03/09/penetration-test-without-file.html)
 * [关于windows的RDP连接记录](http://rcoil.me/2018/05/%E5%85%B3%E4%BA%8Ewindows%E7%9A%84RDP%E8%BF%9E%E6%8E%A5%E8%AE%B0%E5%BD%95/)
-* [Rcoil内网渗透](http://rcoil.me/2017/06/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)
 * [3389user无法添加](http://www.91ri.org/5866.html)
 * [丢掉PSEXEC使用wmi来横向渗透](https://threathunter.org/topic/5940a6e59c58e020408a79ea)
 * [ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
@@ -694,7 +669,6 @@ Table of Contents
 * [离线导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E7%A6%BB%E7%BA%BF%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
 * [渗透技巧——利用Masterkey离线导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%88%A9%E7%94%A8Masterkey%E7%A6%BB%E7%BA%BF%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
 * [域渗透——Kerberoasting](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Kerberoasting/)
-* [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 * [老牌工具 PsExec 一个琐碎的细节](https://paper.seebug.org/503/)
 * [域渗透之使用CrackMapExec拿到我们想要的东西](https://www.anquanke.com/post/id/84980)
 * [Kerberos协议探索系列之委派篇](https://www.anquanke.com/post/id/173477)
@@ -702,7 +676,10 @@ Table of Contents
 * [远程提取凭证](https://beta.hackndo.com/remote-lsass-dump-passwords/)
 * [重新思考凭证盗窃](https://labs.f-secure.com/blog/rethinking-credential-theft)
 * [Ghost potato实际利用](https://www.lz1y.cn/2019/11/19/Ghost-potato%E5%AE%9E%E9%99%85%E5%88%A9%E7%94%A8/)
-
+* [PowerView](http://www.freebuf.com/sectool/173366.html)
+* [WMI在渗透测试中的重要性](https://www.secpulse.com/archives/72493.html)
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound)
+* [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
