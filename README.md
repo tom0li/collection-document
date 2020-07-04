@@ -244,6 +244,8 @@ Table of Contents
 ---
 * [Java RMI入门](http://scz.617.cn/network/202003121717.txt)
 * [attacking-java-rmi-services-after-jep-290](https://mogwailabs.de/blog/2019/03/attacking-java-rmi-services-after-jep-290/)
+* [针对RMI服务的九重攻击 - 上](https://xz.aliyun.com/t/7930)
+* [针对RMI服务的九重攻击 - 下](https://xz.aliyun.com/t/7932)
 
 ### Shiro
 ---
@@ -306,6 +308,7 @@ Table of Contents
 * [zuozuovera-Blog](https://www.zuozuovera.com/)
 
 ## 数据安全
+* [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
 * [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
 
 ## 安全部
