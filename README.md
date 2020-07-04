@@ -5,8 +5,9 @@
 ```
 Some are inconvenient to release.  
 Some forget update,can see me star.  
-以前的链接中大多不是优质的。
-因精力有限，缓慢更新。
+以前的链接中大多不是优质的  
+渗透测试部分不再更新  
+因精力有限，缓慢更新  
 Author: [tom0li]  
 Blog: https://tom0li.github.io
 ```
@@ -15,17 +16,29 @@ Blog: https://tom0li.github.io
 Table of Contents
 =================
 
-   * [Github-list](#github-list)
+   * [Github-list](#Github-list)
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
       * [VPN](#VPN)
+      * [AV&amp;EDR](#AV-EDR)
    * [代码审计-JAVA](#代码审计-JAVA)
       * [反序列化-其他](#反序列化-其他)
       * [RMI](#RMI)
       * [Shiro](#Shiro)
       * [Fastjson](#Fastjson)
+      * [Dubbo](#Dubbo)
+      * [CAS](#CAS)
       * [模版注入](#模版注入)
+   * [云安全](#云安全)
+      * [云基础知识](#云基础知识)
+      * [攻](#攻)
+      * [云原生安全](#云原生安全)
+   * [AI-for-Security](#AI-for-Security)
+   * [数据安全](#数据安全)
    * [安全部](#安全部)
+      * [RASP](#RASP)
+      * [零信任](#零信任)
+      * [DevSecOps](#DevSecOps)
       * [建设](#建设)
       * [加固](#加固)
       * [响应 溯源](#响应-溯源)
@@ -89,28 +102,20 @@ Table of Contents
 * [An Information Security Reference That Doesn't Suck](https://github.com/rmusser01/Infosec_Reference)
 * [Security Talks](https://github.com/PaulSec/awesome-sec-talks) - Curated list of security conferences.
 * [OSINT](https://github.com/jivoi/awesome-osint) - Awesome OSINT list containing great resources.
-* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - by CHYbeta
-* [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
-* [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - by JnuSimba notes 
-* [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - notes
-* [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
-* [Security Knowledge Structure](https://github.com/JoyChou93/sks)
-* [information security Tools Box](https://github.com/tengzhangchao/Sec-Box) - by Nmask
-* [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
-* [www.polaris-lab.com_Paper](https://github.com/re4lity/SecPaper)
-* [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
 * [The toolbox of open source scanners](https://github.com/We5ter/Scanners-Box) - The toolbox of open source scanners
 * [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
-* [物联网安全百科](https://github.com/yaseng/iot-security-wiki) -by  伏宸安全实验室
-* [Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note)
-* [2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) - by 404notf0und
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
 * [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - 安全相关的内容
 * [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
-* [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
+* [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - by CHYbeta
+* [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
+* [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - by JnuSimba notes 
+* [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) - notes
+* [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
+* [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
 * [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - good
@@ -139,9 +144,9 @@ Table of Contents
 * [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
-* [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
+* [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
 * [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments.
-* [A collection of web attack payloads](https://github.com/foospidy/payloads)
+* [A collection of web attack payloads](https://github.com/foospidy/payloads) payloads集
 * [安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map) - by p牛 
 * [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) - HackerOne Reports
@@ -151,12 +156,11 @@ Table of Contents
 * [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
 * [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 * [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 
-* [Web安全中比较好的文章](https://github.com/spoock1024/web-security)
+* [2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) - by 404notf0und
 * [996.Leave](https://github.com/623637646/996.Leave)
-* [对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
+* [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - mac软件
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) - mac软件
-* [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 杂
 * [保护隐私](https://github.com/No-Github/Digital-Privacy)
 * [ruanyf](https://github.com/ruanyf/weekly) - 科技爱好者周刊
 
@@ -169,7 +173,6 @@ Table of Contents
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 * [Webmin <=1.920 远程命令执行漏洞 -CVE-2019-15107](https://xz.aliyun.com/t/6040) - 精炼
 * [Webmin CVE-2019-15642](https://twitter.com/chybeta/status/1167617571287289856)
-* [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
 * [从 0 开始入门 Chrome Ext 安全（一） -- 了解一个 Chrome Ext](https://paper.seebug.org/1082/)
 * [从 0 开始入门 Chrome Ext 安全（二） -- 安全的 Chrome Ext](https://paper.seebug.org/1092/)
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
@@ -201,6 +204,15 @@ Table of Contents
 #### Citrix Gateway/ADC
 * [Citrix Gateway/ADC 远程代码执行漏洞分析](https://blog.riskivy.com/citrix-gateway-adc-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 
+### AV&EDR
+* [exploiting-almost-every-antivirus-software](https://www.rack911labs.com/research/exploiting-almost-every-antivirus-software/) 反制av，使用链接方式借av高权限达到任意文件删除
+* [Bypassing Windows Defender Runtime Scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/)
+* [Engineering antivirus evasion](https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/)
+* [Bypass Windows DefenderAttack Surface Reduction](https://data.hackinn.com/ppt/OffensiveCon2019/Bypass%20Windows%20Exploit%20Guard%20ASR.pdf)
+* [Defender 扫描文件名问题](http://2016.eicar.org/85-0-Download.html)
+* [Vulnserver Exploit vs Windows Defender Exploit Guard](https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html)
+* [Lets-create-an-edr-and-bypass](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
+
 ## 代码审计-JAVA
 ---
 * [javasec.org](https://javasec.org/) -by 园长
@@ -208,7 +220,7 @@ Table of Contents
 * [敏信Java代码审计-层层推进](https://xianzhi.aliyun.com/forum/topic/2074)
 * [Java漏洞代码](https://github.com/JoyChou93/java-sec-code)
 * [代码审计知识星球精选](https://tricking.io)
-* [连续使用过滤函数造成的安全问题总结](https://forum.90sec.org/thread-10917-1-1.html)
+* [Spring Boot Vulnerability Exploit CheckList](https://github.com/LandGrey/SpringBootVulExploit)
 
 ### 反序列化-其他
 ---
@@ -224,9 +236,13 @@ Table of Contents
 * [Java反序列化漏洞学习实践一：从Serializbale接口开始，先弹个计算器](http://www.polaris-lab.com/index.php/archives/447/)
 * [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
+* [tomcat不出网回显](https://xz.aliyun.com/t/7535)
+* [Java 反序列化回显的多种姿势](https://xz.aliyun.com/t/7740)
+* [半自动化挖掘request实现多种中间件回显](http://gv7.me/articles/2020/semi-automatic-mining-request-implements-multiple-middleware-echo/)
 
 ### RMI
 ---
+* [Java RMI入门](http://scz.617.cn/network/202003121717.txt)
 * [attacking-java-rmi-services-after-jep-290](https://mogwailabs.de/blog/2019/03/attacking-java-rmi-services-after-jep-290/)
 
 ### Shiro
@@ -248,15 +264,69 @@ Table of Contents
 * [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
 * [通过dnslog探测fastjson的几种方法](http://gv7.me/articles/2020/several-ways-to-detect-fastjson-through-dnslog/)
 
+### Dubbo
+---
+* [Dubbo2.7.7反序列化漏洞绕过分析](https://mp.weixin.qq.com/s/jKM-Z2BTFfk_Ro1rJAxg5w) 云鼎实验室
+
+### CAS
+---
+* [Apereo CAS 4.X execution参数反序列化漏洞分析](https://xz.aliyun.com/t/7032)
+* [Apereo CAS 反序列化漏洞分析及回显利用](https://www.anquanke.com/post/id/197086)
+
 ### 模版注入
 ---
 * [Apache Solr Injection Research](https://github.com/veracode-research/solr-injection#introduction)
 * [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
 * [Apache solr Velocity模版远程命令执行漏洞分析](http://gv7.me/articles/2019/apache-solr-velocity-rce-20191031/)
 
-## 安全部
+## 云安全
+### 云基础知识
+---
+* [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
 
-#### 建设
+### 攻
+---
+* [Red Teaming for Cloud ](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
+* [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
+
+### 云原生安全
+---
+* [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
+* [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
+* [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
+
+## AI-for-Security
+---
+包含文本检测、入侵检测、Web安全检测、二进制安全等
+* [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) 数据安全 - by 404notf0und
+* [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
+* [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
+* [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
+* [cdxy-Blog](https://www.cdxy.me/) 
+* [zuozuovera-Blog](https://www.zuozuovera.com/)
+
+## 数据安全
+* [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
+
+## 安全部
+---
+安全方案
+### RASP
+---
+* [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
+
+### 零信任
+---
+* [张欧：数字银行可信网络实践](https://mp.weixin.qq.com/s/VRG9LEbGTxhpMmCUTUSA8w) 零信任理念
+* [零信任下代理工具](https://github.com/mandatoryprogrammer/CursedChrome/blob/master/README.md) 把chrome作为代理，可以通过chrome访问受害者可以访问web服务
+
+### DevSecOps
+---
+* [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
+
+---
+旧
+### 建设
 
 * [Enterprise_Security_Build--Open_Source](https://bloodzer0.github.io)
 * [一个人的安全部](http://www.freebuf.com/articles/security-management/126254.html)
@@ -380,11 +450,12 @@ Table of Contents
 ## Bug_Bounty
 
 * [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - 类似乌云漏洞库。
+* [hackone-hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&querystring=&page=1) 如果看完就不用看下面的Bug_Bounty
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+* [Recon](https://www.youtube.com/watch?v=p4JgIu1mceI&feature=youtu.be)
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) 
-* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) 
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
-* [hackone-hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&querystring=&page=1)
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/topic/1214/)
@@ -442,6 +513,7 @@ Table of Contents
 * [Redis安全总结](https://bl4ck.in/categories/2015/11/17/Redis%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93.html)
 * [Redis在Windows环境下Getshell](https://uknowsec.cn/posts/notes/Redis%E5%9C%A8Windows%E7%8E%AF%E5%A2%83%E4%B8%8BGetshell.html)
 * [Redis未授权访问在windows下的利用](https://www.anquanke.com/post/id/170360#h3-4)
+* [Redis主从](https://github.com/tom0li/collection-document/blob/master/15-redis-post-exploitation.pdf)
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
@@ -458,21 +530,7 @@ Table of Contents
 * [solr-injection](https://github.com/artsploit/solr-injection#introduction)
 
 ### 信息收集
-
-* [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
-* [tom0li:浅谈信息收集](https://tom0li.github.io/%E6%BC%AB%E8%B0%88%E5%89%8D%E6%9C%9F%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
-* [透过cdn找目标真实ip](https://klionsec.github.io/2014/12/13/bypasscdn/)
-* [浅谈Web渗透测试中的信息收集](http://www.freebuf.com/articles/web/142767.html)
-* [Kali Linux渗透基础知识整理（一）：信息搜集](http://www.freebuf.com/sectool/109944.html)
-* [我眼中的渗透测试信息搜集](https://bbs.ichunqiu.com/thread-16020-1-1.html)
-* [从phpinfo中能获取哪些敏感信息](http://www.am0s.com/penetration/322.html)
-* [透过F5获取服务器真实内网IP](https://threathunter.org/topic/5940c85d9c58e020408a79fe)
-* [[红日团队]安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/99951.html)
-* [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
-* [WEB应用中的信息泄漏以及攻击方法](http://www.4hou.com/info/news/3926.html)
-* [实例演示如何科学的进行子域名收集](http://bobao.360.cn/learning/detail/4119.html)
-* [挖掘漏洞的高级方法和思维](http://www.4hou.com/vulnerable/8376.html)
-* [渗透测试工程师子域名收集指南](http://www.4hou.com/technology/8535.html)
+---
 * [Red Team 视角的信息收集技术](http://blkstone.github.io/2017/04/28/pentest-recon/)
 * [渗透神器系列 搜索引擎](https://thief.one/2017/05/19/1/)
 * [Google Hacking Database](https://github.com/K0rz3n/GoogleHacking-Page/blob/master/Google%20Hacking%20Database.md)
@@ -482,6 +540,7 @@ Table of Contents
 * [Shodan的http.favicon.hash语法详解与使用技巧](https://www.cnblogs.com/miaodaren/p/9177379.html)
 * [Shodan手册](https://b404.gitbooks.io/shodan-manual/) - 中文
 * [Shodan手册](https://community.turgensec.com/shodan-pentesting-guide) dorks
+* [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
 
 
 ## 渗透
@@ -493,6 +552,7 @@ Table of Contents
 * [Pentesting checklists for various engagements](https://github.com/netbiosX/Checklists)
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
 * [Micropoor](https://github.com/Micropoor/Micro8)
+* [渗透测试实战第三版](https://github.com/tom0li/collection-document/blob/master/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88).pdf)
 * [渗透测试工具备忘录](https://xz.aliyun.com/t/2482#toc-67)
 * [API 接口渗透测试](https://xz.aliyun.com/t/2412)
 * [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
@@ -690,15 +750,10 @@ Table of Contents
 ## APT
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [论高级威胁的本质和攻击力量化研究](http://www.vxjump.net/files/aptr/aptr.txt)
-* [Whats APT：浅谈APT攻击](http://www.freebuf.com/column/160412.html)
 * [APT 分析及 TTPs 提取](https://paper.seebug.org/1132/)
-* [一次红队之旅](https://xz.aliyun.com/t/2389)
-* [Web应用安全测试前期情报收集方法与工具的介绍](http://www.freebuf.com/sectool/174417.html)
-* [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
-* [MITRE | ATT&CK 中文站](https://huntingday.github.io)
-* [渗透测试实战第三版](https://github.com/tom0li/collection-document/blob/master/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88).pdf)
-* [RemTeam攻击技巧和安全防御](https://xz.aliyun.com/t/4602)
-* [隐私保护]()
+* [MITRE | ATT&CK 中文站](https://huntingday.github.io) 不再更新
+* [OffensiveCon会议](https://www.offensivecon.org/) 不再一一展示
+* [ATT&CK](https://attack.mitre.org/matrices/enterprise/)
 
 ### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html) - 用于获取用户字典
@@ -720,8 +775,9 @@ Table of Contents
 * [内网钓鱼]()
 ```
 RMI反序列化
-win远程连接漏洞CVE-2019-1333
+WIN远程连接漏洞CVE-2019-1333
 Mysql读文件&反序列化
+Dubbo反序列化
 恶意vpn
 恶意控件
 笔记软件rce
@@ -760,6 +816,7 @@ AWVS钓鱼
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 * [QuasarRAT](https://github.com/quasar/QuasarRAT)
 * [Ping Power — ICMP Tunnel](https://medium.com/bugbountywriteup/ping-power-icmp-tunnel-31e2abb2aaea)
+* [CS]()
 
 ## Web
 ### XXE
@@ -1019,6 +1076,11 @@ AWVS钓鱼
 * [初级域渗透系列 - 02. 常见攻击方法 - 1](https://paper.tuisec.win/detail/fc1086dabbc9002)
 * [初级域渗透系列 03. 常见攻击方法](https://paper.tuisec.win/detail/cd49c17ca23cece)
 * [内网渗透知识基础及流程](https://www.anquanke.com/post/id/170471)
+* [RemTeam攻击技巧和安全防御](https://xz.aliyun.com/t/4602)
+* [Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note)
+* [Web安全中比较好的文章](https://github.com/spoock1024/web-security) - 主要是新人入门方向
+* [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
+* [一次红队之旅](https://xz.aliyun.com/t/2389) 入门
 * [linux-suid-privilege-escalation](https://www.leavesongs.com/PENETRATION/linux-suid-privilege-escalation.html)
 * [Hard_winGuide.md](https://github.com/CHEF-KOCH/HWAB/blob/master/Guide.md)
 * [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
