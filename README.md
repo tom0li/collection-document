@@ -224,8 +224,7 @@ Table of Contents
 
 ### 反序列化-其他
 ---
-* [Java序列化和反序列化](https://xianzhi.aliyun.com/forum/topic/1825)
-* [Java反序列化漏洞分析](https://xianzhi.aliyun.com/forum/topic/136)
+* [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet#java-native-serialization-binary)
 * [Java反序列化漏洞-金蛇剑之hibernate(上)](https://xianzhi.aliyun.com/forum/topic/2030)
 * [Java反序列化漏洞-金蛇剑之hibernate(下)](https://xianzhi.aliyun.com/forum/topic/2031)
 * [Java反序列化漏洞-玄铁重剑之CommonsCollection(上)](https://xianzhi.aliyun.com/forum/topic/2028)
@@ -265,6 +264,7 @@ Table of Contents
 * [FastJson 反序列化学习](http://www.lmxspace.com/2019/06/29/FastJson-%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E5%AD%A6%E4%B9%A0/)
 * [浅谈Fastjson RCE漏洞的绕过史](https://www.freebuf.com/vuls/208339.html)
 * [通过dnslog探测fastjson的几种方法](http://gv7.me/articles/2020/several-ways-to-detect-fastjson-through-dnslog/)
+* [fastjson 1.2.68 autotype bypass gadget 的一种挖掘思路](https://hackcrowd.com/forum_detail/828)
 
 ### Dubbo
 ---
