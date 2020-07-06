@@ -177,7 +177,7 @@ Table of Contents
 * [从 0 开始入门 Chrome Ext 安全（二） -- 安全的 Chrome Ext](https://paper.seebug.org/1092/)
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
 * [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
-* [服务器开放debug安全内容](https://security.tencent.com/index.php/blog/msg/137)
+* [Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf) -Orange 打开的潘多拉魔盒
 
 ### ImageMagick
 ---
@@ -528,6 +528,7 @@ Table of Contents
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
 * [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
 * [Whitepaper: Security Cookies](https://www.netsparker.com/security-cookies-whitepaper/)
+* [服务器开放debug安全内容](https://security.tencent.com/index.php/blog/msg/137)
 * [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
 * [OOB](https://www.freebuf.com/articles/web/201013.html)
 * [solr-injection](https://github.com/artsploit/solr-injection#introduction)
