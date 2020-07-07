@@ -28,7 +28,8 @@ Table of Contents
       * [Fastjson](#Fastjson)
       * [Dubbo](#Dubbo)
       * [CAS](#CAS)
-      * [模版注入](#模版注入)
+      * [Solr模版注入](#Solr模版注入)
+      * [Spring](#Spring)
    * [云安全](#云安全)
       * [云基础知识](#云基础知识)
       * [攻](#攻)
@@ -205,6 +206,7 @@ Table of Contents
 * [Citrix Gateway/ADC 远程代码执行漏洞分析](https://blog.riskivy.com/citrix-gateway-adc-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 
 ### AV&EDR
+---
 * [exploiting-almost-every-antivirus-software](https://www.rack911labs.com/research/exploiting-almost-every-antivirus-software/) 反制av，使用链接方式借av高权限达到任意文件删除
 * [Bypassing Windows Defender Runtime Scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/)
 * [Engineering antivirus evasion](https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/)
@@ -220,7 +222,6 @@ Table of Contents
 * [敏信Java代码审计-层层推进](https://xianzhi.aliyun.com/forum/topic/2074)
 * [Java漏洞代码](https://github.com/JoyChou93/java-sec-code)
 * [代码审计知识星球精选](https://tricking.io)
-* [Spring Boot Vulnerability Exploit CheckList](https://github.com/LandGrey/SpringBootVulExploit)
 
 ### 反序列化-其他
 ---
@@ -238,6 +239,7 @@ Table of Contents
 * [tomcat不出网回显](https://xz.aliyun.com/t/7535)
 * [Java 反序列化回显的多种姿势](https://xz.aliyun.com/t/7740)
 * [半自动化挖掘request实现多种中间件回显](http://gv7.me/articles/2020/semi-automatic-mining-request-implements-multiple-middleware-echo/)
+* [Java 后反序列化漏洞利用思路](http://rui0.cn/archives/1338)
 
 ### RMI
 ---
@@ -254,6 +256,7 @@ Table of Contents
 * [强网杯“彩蛋”——Shiro 1.2.4(SHIRO-550)漏洞之发散性思考](https://blog.zsxsoft.com/post/35)
 * [Shiro 721 Padding Oracle攻击漏洞分析](https://www.anquanke.com/post/id/193165#h2-14)
 * [Shiro权限绕过漏洞分析](https://www.freebuf.com/vuls/231909.html)
+* [Java代码执行漏洞中类动态加载的应用](https://mp.weixin.qq.com/s?__biz=MzAwNzk0NTkxNw==&mid=2247484622&idx=1&sn=8ec625711dcf87f0b6abe67483f0534d) 不出网注册filter reGeorg代理
 
 ### Fastjson
 ---
@@ -275,11 +278,15 @@ Table of Contents
 * [Apereo CAS 4.X execution参数反序列化漏洞分析](https://xz.aliyun.com/t/7032)
 * [Apereo CAS 反序列化漏洞分析及回显利用](https://www.anquanke.com/post/id/197086)
 
-### 模版注入
+### Solr模版注入
 ---
 * [Apache Solr Injection Research](https://github.com/veracode-research/solr-injection#introduction)
 * [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
 * [Apache solr Velocity模版远程命令执行漏洞分析](http://gv7.me/articles/2019/apache-solr-velocity-rce-20191031/)
+
+### Spring
+---
+* [Spring Boot Vulnerability Exploit CheckList](https://github.com/LandGrey/SpringBootVulExploit)
 
 ## 云安全
 ### 云基础知识
@@ -782,6 +789,7 @@ RMI反序列化
 WIN远程连接漏洞CVE-2019-1333
 Mysql读文件&反序列化
 Dubbo反序列化
+IDE反序列化
 恶意vpn
 恶意控件
 笔记软件rce
