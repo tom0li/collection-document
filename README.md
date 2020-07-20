@@ -134,6 +134,7 @@ Table of Contents
 * [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
 * [web, 前端, javascript, nodejs, electron, babel, webpack, rollup, react, vue ...](https://github.com/senntyou/blogs)
 * [关于Python的面试题](https://github.com/taizilongxu/interview_python)
+* [算法手记](https://github.com/labuladong/fucking-algorithm)
 * [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 * [interview_internal_reference](https://github.com/0voice/interview_internal_reference) 
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
@@ -633,6 +634,7 @@ Table of Contents
 * [2个思路](https://xz.aliyun.com/t/6587) - 读取连接mysql客户端系统信息,上传
 * [JNI技术绕过rasp防护实现jsp webshell](https://mp.weixin.qq.com/s?__biz=MzA5Mzg3NTUwNQ==&mid=2447804425&idx=1&sn=91515259ee4d8a204d40e0aee8177f58)
 * [结合直接系统调用和sRDI来绕过AV / EDR](https://bbs.pediy.com/thread-253564.htm)
+* [FB Django Debug Stacktrace RCE](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)
 
 ### 内网
 
@@ -751,6 +753,7 @@ Table of Contents
 * [WMI在渗透测试中的重要性](https://www.secpulse.com/archives/72493.html)
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
+* [Antimalware Scan Interface Provider for Persistence](https://b4rtik.github.io/posts/antimalware-scan-interface-provider-for-persistence/) 通过AMSI Provider Persistence 
 
 #### 提权
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
@@ -823,6 +826,7 @@ AWVS钓鱼
 * [绕过DKIM验证，伪造钓鱼邮件](http://www.4hou.com/web/7857.html)
 * [Best Practices on Email Protection: SPF, DKIM and DMARC](https://wiki.zimbra.com/wiki/Best_Practices_on_Email_Protection:_SPF,_DKIM_and_DMARC)
 * [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
+* [Gsuite SMTP inject](https://www.ehpus.com/post/smtp-injection-in-gsuite)
 
 ### 远控
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
