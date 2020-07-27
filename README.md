@@ -40,6 +40,11 @@ Table of Contents
       * [RASP](#RASP)
       * [零信任](#零信任)
       * [DevSecOps](#DevSecOps)
+      * [IDS](#IDS)
+      * [WAF](#WAF)
+         * [WAF建设指南](#WAF建设指南)
+         * [BypassWAF](#BypassWAF)
+      * [Webshell检测](#Webshell检测)
       * [建设](#建设)
       * [加固](#加固)
       * [响应 溯源](#响应-溯源)
@@ -83,11 +88,8 @@ Table of Contents
       * [DNS](#dns)
 
    * [FUZZ](#fuzz)
-   * [WAF](#waf)
-   * [IDS](#ids)
    * [其他](#其他)
       * [Git](#git)
-      * [特别的wx号](#特别的wx号)
       * [二维码](#二维码)
       * [爬虫](#爬虫)
       * [科普](#科普)
@@ -304,6 +306,7 @@ Table of Contents
 * [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
 * [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
 * [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
+* [云原生带来的云安全机遇](https://www.freebuf.com/articles/network/242950.html) 云原生安全非技术市场概况
 
 ## AI-for-Security
 ---
@@ -334,6 +337,36 @@ Table of Contents
 ### DevSecOps
 ---
 * [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
+
+### IDS
+--
+* [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
+* [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
+* [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
+
+### WAF
+---
+#### WAF建设指南
+---
+* [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651199346&idx=1&sn=99f470d46554149beebb8f89fbcb1578&chksm=bd2cf2d48a5b7bc2b3aecb501855cc2efedc60f6f01026543ac2df5fa138ab2bf424fc5ab2b0&scene=21#wechat_redirect)
+* [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
+
+#### BypassWAF
+旧
+---
+* [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
+* [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
+* [SQL注入ByPass的一些小技巧](https://mp.weixin.qq.com/s/fSBZPkO0-HNYfLgmYWJKCg)
+* [在HTTP协议层面绕过WAF](https://www.freebuf.com/news/193659.html)
+* [利用分块传输吊打所有WAF](https://www.anquanke.com/post/id/169738)
+* [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
+* [对过WAF的一些认知](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
+* [WAF Bypass之webshell上传jsp与tomcat](https://www.anquanke.com/post/id/210630#)
+
+### Webshell检测
+---
+* [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
+* [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
 
 ---
 旧
@@ -979,7 +1012,6 @@ AWVS钓鱼
 * [如何对经前端加密后的数据进行爆破](https://www.freebuf.com/articles/web/184455.html)
 * [对登录中账号密码进行加密之后再传输的爆破的思路和方式](https://www.freebuf.com/articles/web/127888.html)
 
-
 ### DNS
 * [DNS域传送漏洞学习总结](https://larry.ngrep.me/2015/09/02/DNS-zone-transfer-studying/)
 * [利用Python实现DGA域名检测](http://www.freebuf.com/articles/web/145981.html)
@@ -1003,41 +1035,12 @@ AWVS钓鱼
 * [Wfuzz高阶功法1](https://gh0st.cn/archives/2018-10-28/3)
 * [Wfuzz高阶功法2](https://www.secpulse.com/archives/83173.html)
 
-## WAF
-
-* [命令注入之Web应用防火墙绕过技巧](https://bbs.ichunqiu.com/thread-32708-1-1.html)
-* [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
-* [SQL注入 | 9种绕过Web应用程序防火墙的方式-基础](http://www.freebuf.com/articles/web/163783.html)
-* [WAF攻防之SQL注入篇](http://galaxylab.org/waf%E6%94%BB%E9%98%B2%E4%B9%8Bsql%E6%B3%A8%E5%85%A5%E7%AF%87/)
-* [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
-* [SQL注入ByPass的一些小技巧](https://mp.weixin.qq.com/s/fSBZPkO0-HNYfLgmYWJKCg)
-* [在HTTP协议层面绕过WAF](https://www.freebuf.com/news/193659.html)
-* [利用分块传输吊打所有WAF](https://www.anquanke.com/post/id/169738)
-* [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
-* [对过WAF的一些认知](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
-* [Bypass 360主机卫士SQL注入防御（多姿势）](https://www.t00ls.net/thread-45943-1-1.html)
-* [Bypass D盾_IIS防火墙SQL注入防御（多姿势）](http://www.cnblogs.com/xiaozi/p/7357937.html)
-* [不包含数字字母的WebShell](http://www.freebuf.com/articles/web/173579.html)
-* [php一句话木马检测绕过研究](https://www.t00ls.net/viewthread.php?tid=45816)
-* [利用php特性过D盾，一句话和大马都可使用](https://www.t00ls.net/viewthread.php?tid=44388)
-* [构造免杀的asp一句话木马](https://xz.aliyun.com/t/2356)
-
-## IDS
-
-* [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
-* [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
-* [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
-
 ## 其他
 
 #### Git
 
 * [Git各种错误操作撤销的方法](http://www.bugcode.cn/git_undo.html)
 * [Git的tip](https://github.com/521xueweihan/git-tips)
-
-#### 特别的wx号
-
-* [全频带阻塞干扰]  -坚持以非正常体位探寻未知信号。关注无线安全、通信监听、商业反窃密、平行空间、非主流隐私保护、海外情报、犯罪防御、群氓效应、漂亮妹纸和科幻大刘。
 
 #### 二维码
 
