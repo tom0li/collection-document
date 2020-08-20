@@ -306,7 +306,7 @@ Table of Contents
 * [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
 * [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
 * [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
-* [云原生带来的云安全机遇](https://www.freebuf.com/articles/network/242950.html) 云原生安全非技术市场概况
+* [云原生带来的云安全机遇](https://www.freebuf.com/articles/network/242950.html) 云原生安全市场概况(非技术)
 
 ## AI-for-Security
 ---
@@ -315,12 +315,13 @@ Table of Contents
 * [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
 * [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
 * [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
-* [cdxy-Blog](https://www.cdxy.me/) 
+* [cdxy-Blog](https://www.cdxy.me/) 太帅了
 * [zuozuovera-Blog](https://www.zuozuovera.com/)
 
 ## 数据安全
 * [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
 * [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
+* [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
 
 ## 安全部
 ---
@@ -352,6 +353,7 @@ Table of Contents
 * [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
 
 #### BypassWAF
+---
 旧
 ---
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
