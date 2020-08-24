@@ -364,11 +364,14 @@ Table of Contents
 * [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
 * [对过WAF的一些认知](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
 * [WAF Bypass之webshell上传jsp与tomcat](https://www.anquanke.com/post/id/210630#)
+* [JSP Webshell那些事 -- 攻击篇](https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w)
+* [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
 
 ### Webshell检测
 ---
 * [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
-* [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
+* [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
+* []
 
 ---
 旧
