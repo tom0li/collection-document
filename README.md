@@ -39,6 +39,7 @@ Table of Contents
    * [数据安全](#数据安全)
    * [安全部](#安全部)
       * [RASP](#RASP)
+      * [IAST](#IAST)
       * [零信任](#零信任)
       * [DevSecOps](#DevSecOps)
       * [IDS](#IDS)
@@ -46,6 +47,7 @@ Table of Contents
          * [WAF建设指南](#WAF建设指南)
          * [BypassWAF](#BypassWAF)
       * [Webshell检测](#Webshell检测)
+      * [域内安全检测](#域内安全检测)
       * [建设](#建设)
       * [加固](#加固)
       * [响应 溯源](#响应-溯源)
@@ -332,6 +334,10 @@ Table of Contents
 * [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
 * [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
 
+### IAST
+---
+* [聊聊对目前Passive IAST的思考](http://rui0.cn/archives/1175)
+
 ### 零信任
 ---
 * [张欧：数字银行可信网络实践](https://mp.weixin.qq.com/s/VRG9LEbGTxhpMmCUTUSA8w) 零信任理念
@@ -374,6 +380,10 @@ Table of Contents
 * [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
 * [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
 * []
+
+### 域内安全检测
+---
+* [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
 
 ---
 旧
