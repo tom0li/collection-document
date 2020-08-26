@@ -298,10 +298,11 @@ Table of Contents
 ### 云基础知识
 ---
 * [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
+* [阿里云安全白皮书]()
 
 ### 攻
 ---
-* [Red Teaming for Cloud ](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
+* [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
 * [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
 
 ### 云原生安全
