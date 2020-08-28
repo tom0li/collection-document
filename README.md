@@ -200,7 +200,7 @@ Table of Contents
 * [深信服前台RCE由于没公开不附链接]()
 
 #### Pulse
-* [Pulse-secure-read-passwd](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html) read passwd -by orange
+* [Pulse-secure-read-passwd-to-rce](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html) rce -by orange
 * [Pulse Connect Secure RCE CVE-2020-8218)](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/) 
 
 #### Palo
