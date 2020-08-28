@@ -200,7 +200,8 @@ Table of Contents
 * [深信服前台RCE由于没公开不附链接]()
 
 #### Pulse
-* [Pulse-secure-rce](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html)
+* [Pulse-secure-read-passwd](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html) read passwd -by orange
+* [Pulse Connect Secure RCE CVE-2020-8218)](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/) 
 
 #### Palo
 * [Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!](https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html)
@@ -298,7 +299,7 @@ Table of Contents
 ### 云基础知识
 ---
 * [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
-* [阿里云安全白皮书]()
+* [阿里云安全白皮书](https://github.com/tom0li/collection-document/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 ### 攻
 ---
