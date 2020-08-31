@@ -200,8 +200,8 @@ Table of Contents
 * [深信服前台RCE由于没公开不附链接]()
 
 #### Pulse
-* [Pulse-secure-read-passwd-to-rce](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html) rce -by orange
-* [Pulse Connect Secure RCE CVE-2020-8218)](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/) 
+* [Pulse-secure-read-passwd-to-rce](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html)  -by orange
+* [Pulse Connect Secure RCE CVE-2020-8218](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/) 
 
 #### Palo
 * [Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!](https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html)
@@ -576,7 +576,7 @@ Table of Contents
 * [Redis安全总结](https://bl4ck.in/categories/2015/11/17/Redis%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93.html)
 * [Redis在Windows环境下Getshell](https://uknowsec.cn/posts/notes/Redis%E5%9C%A8Windows%E7%8E%AF%E5%A2%83%E4%B8%8BGetshell.html)
 * [Redis未授权访问在windows下的利用](https://www.anquanke.com/post/id/170360#h3-4)
-* [Redis主从](https://github.com/tom0li/collection-document/blob/master/15-redis-post-exploitation.pdf)
+* [Redis主从利用ppt](https://github.com/tom0li/collection-document/blob/master/15-redis-post-exploitation.pdf)
 * [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
 * [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
 * [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
@@ -687,6 +687,7 @@ Table of Contents
 * [JNI技术绕过rasp防护实现jsp webshell](https://mp.weixin.qq.com/s?__biz=MzA5Mzg3NTUwNQ==&mid=2447804425&idx=1&sn=91515259ee4d8a204d40e0aee8177f58)
 * [结合直接系统调用和sRDI来绕过AV / EDR](https://bbs.pediy.com/thread-253564.htm)
 * [FB Django Debug Stacktrace RCE](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)
+* [Redis on Windows 出网利用探索](https://xz.aliyun.com/t/8153) 太帅了
 
 ### 内网
 
