@@ -31,28 +31,27 @@ Table of Contents
       * [CAS](#CAS)
       * [Solr模版注入](#Solr模版注入)
       * [Spring](#Spring)
-   * [云安全](#云安全)
-      * [云基础知识](#云基础知识)
-      * [攻](#攻)
-      * [云原生安全](#云原生安全)
-   * [AI-for-Security](#AI-for-Security)
-   * [数据安全](#数据安全)
-   * [安全部](#安全部)
-      * [RASP](#RASP)
-      * [IAST](#IAST)
-      * [零信任](#零信任)
-      * [DevSecOps](#DevSecOps)
-      * [IDS](#IDS)
-      * [WAF](#WAF)
-         * [WAF建设指南](#WAF建设指南)
-         * [BypassWAF](#BypassWAF)
-      * [Webshell检测](#Webshell检测)
-      * [域内安全检测](#域内安全检测)
-      * [建设](#建设)
-      * [加固](#加固)
-      * [响应 溯源](#响应-溯源)
-      * [威胁情报](#威胁情报)
-      * [综合](#综合)
+   * [安全](#安全)
+      * [安全list](#安全list)
+      * [云安全](#云安全)
+         * [云基础知识](#云基础知识)
+         * [云原生安全](#云原生安全)
+         * [云上攻防](#云上攻防)
+      * [新安全方案](#新安全方案)
+         * [构建下一代安全](#构建下一代安全)
+         * [零信任](#零信任)
+         * [DevSecOps](#DevSecOps)
+      * [安全检测](#安全检测)
+         * [RASP](#RASP)
+         * [IDS](#IDS)
+         * [HIDS](#HIDS)
+         * [WAF](#WAF)
+            * [WAF建设指南](#WAF建设指南)
+            * [BypassWAF](#BypassWAF)
+         * [Webshell检测](#Webshell检测)
+         * [域内恶意行为检测](#域内恶意行为检测)
+         * [流量检测](#流量检测)
+      * [数据安全](#数据安全)
    * [Bug_Bounty](#Bug_Bounty)
       * [总结](#总结)
       * [信息收集](#信息收集)
@@ -295,27 +294,9 @@ Table of Contents
 ---
 * [Spring Boot Vulnerability Exploit CheckList](https://github.com/LandGrey/SpringBootVulExploit)
 
-## 云安全
-### 云基础知识
+## 安全
+### 安全list
 ---
-* [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
-* [阿里云安全白皮书](https://github.com/tom0li/collection-document/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
-
-### 攻
----
-* [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
-* [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
-
-### 云原生安全
----
-* [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
-* [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
-* [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
-* [云原生带来的云安全机遇](https://www.freebuf.com/articles/network/242950.html) 云原生安全市场概况(非技术)
-
-## AI-for-Security
----
-包含文本检测、入侵检测、Web安全检测、二进制安全等
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) 数据安全 - by 404notf0und
 * [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
 * [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
@@ -323,47 +304,61 @@ Table of Contents
 * [cdxy-Blog](https://www.cdxy.me/) 太帅了
 * [zuozuovera-Blog](https://www.zuozuovera.com/)
 
-## 数据安全
-* [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
-* [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
-* [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
-
-## 安全部
+### 云安全
+#### 云基础知识
 ---
-安全方案
-### RASP
----
-* [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
-* [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
+* [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
 
-### IAST
+#### 云原生安全
 ---
-* [聊聊对目前Passive IAST的思考](http://rui0.cn/archives/1175)
+* [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
+* [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
+* [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
+* [云原生带来的云安全机遇](https://www.freebuf.com/articles/network/242950.html) 云原生安全市场概况(非技术)
+* [阿里云安全白皮书](https://github.com/tom0li/collection-document/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
-### 零信任
+#### 云上攻防
+---
+* [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
+* [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
+
+### 新安全方案
+#### 构建下一代安全
+---
+* [弹性安全网络 - 构建下一代安全的互联网](https://mp.weixin.qq.com/s/epFSC88J7LF3BGwQdoZ-Rg)
+
+#### 零信任
 ---
 * [张欧：数字银行可信网络实践](https://mp.weixin.qq.com/s/VRG9LEbGTxhpMmCUTUSA8w) 零信任理念
 * [零信任下代理工具](https://github.com/mandatoryprogrammer/CursedChrome/blob/master/README.md) 把chrome作为代理，可以通过chrome访问受害者可以访问web服务
 
-### DevSecOps
+#### DevSecOps
 ---
 * [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
 
-### IDS
+### 安全检测
+#### RASP
+---
+* [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
+* [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
+
+#### IDS
 ---
 * [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
 * [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
 * [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
 
-### WAF
+#### HIDS
 ---
-#### WAF建设指南
+* [分布式HIDS集群架构设计](https://www.cnxct.com/distributed-hids-cluster-architecture-design/) 美团技术团队
+
+#### WAF
+---
+##### WAF建设指南
 ---
 * [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651199346&idx=1&sn=99f470d46554149beebb8f89fbcb1578&chksm=bd2cf2d48a5b7bc2b3aecb501855cc2efedc60f6f01026543ac2df5fa138ab2bf424fc5ab2b0&scene=21#wechat_redirect)
 
-#### BypassWAF
----
-旧
+##### BypassWAF
 ---
 * [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
@@ -377,141 +372,26 @@ Table of Contents
 * [JSP Webshell那些事 -- 攻击篇](https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w)
 * [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
 
-### Webshell检测
+#### Webshell检测
 ---
 * [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
 * [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
 * [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
 
-### 域内安全检测
+#### 域内恶意行为检测
 ---
 * [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
 
+#### 流量检测
+* [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
+
+### 数据安全
 ---
-旧
-### 建设
-
-* [Enterprise_Security_Build--Open_Source](https://bloodzer0.github.io)
-* [一个人的安全部](http://www.freebuf.com/articles/security-management/126254.html)
-* [没有钱的安全部之资产安全](http://www.jianshu.com/p/572431447613?from=timeline)
-* [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
-* [单枪匹马搞企业安全建设](https://xianzhi.aliyun.com/forum/topic/1916)
-* [“一个人”的互金企业安全建设总结](http://www.freebuf.com/articles/neopoints/158724.html)
-* [低成本企业安全建设部分实践](https://xianzhi.aliyun.com/forum/topic/1996)
-* [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
-* [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
-* [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
-* [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
-* [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
-* [企业安全中DevSecOps的一些思考](http://www.freebuf.com/articles/es/145567.html)
-* [企业安全经验 应急响应的战争](http://www.freebuf.com/articles/web/155314.html)
-* [企业安全项目架构实践分享](https://xianzhi.aliyun.com/forum/topic/1718)
-* [以溯源为目的蜜罐系统建设](http://www.4hou.com/technology/9687.html)
-* [蜜罐与内网安全从0到1（一）](https://xianzhi.aliyun.com/forum/topic/998)
-* [蜜罐与内网安全从0到1（二）](https://xianzhi.aliyun.com/forum/topic/997)
-* [蜜罐与内网安全从0到1（三）](https://xianzhi.aliyun.com/forum/topic/996)
-* [蜜罐与内网安全从0到1（四）](https://xianzhi.aliyun.com/forum/topic/1730)
-* [蜜罐与内网安全从0到1（五）](https://xianzhi.aliyun.com/forum/topic/1955)
-* [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
-* [蜜罐调研与内网安全](https://xz.aliyun.com/t/7294)
-* [Real-timeDetectionAD](https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2) - https://bithack.io/forum/505 - 域内蜜罐
-* [HFish](https://bithack.io/forum/505) - 蜜罐框架
-* [opencanary_web](https://github.com/p1r06u3/opencanary_web)
-* [tpotce](https://github.com/dtag-dev-sec/tpotce/)
-* [ElastAlert监控日志告警Web攻击行为](http://www.freebuf.com/articles/web/160254.html)
-* [OSSIM分布式安装实践](https://www.secpulse.com/archives/67514.html)
-* [企业信息安全团队建设](https://xianzhi.aliyun.com/forum/topic/1965)
-* [一个人的安全部之ELK接收Paloalto日志并用钉钉告警](http://www.freebuf.com/articles/others-articles/161905.html)
-* [账号安全的异常检测](https://mp.weixin.qq.com/s/qMjNURydlhzby9Qhs6RZhQ)
-* [一般型网站日志接入大数据日志系统的实现](http://www.freebuf.com/column/166112.html)
-* [基础设施的攻击日志 – 第1部分：日志服务器的设置](https://www.secpulse.com/archives/70001.html)
-* [基础设施的攻击日志记录 – 第2部分：日志聚合](https://www.secpulse.com/archives/70016.html)
-* [基础设施攻击日志记录 – 第3部分：Graylog仪表板](https://www.secpulse.com/archives/70149.html)
-* [基础设施的攻击日志记录 – 第4部分：日志事件警报](https://www.secpulse.com/archives/70207.html)
-* [宜信防火墙自动化运维之路](http://www.freebuf.com/articles/security-management/166895.html)
-* [证书锁定](https://www.secpulse.com/archives/75212.html)
-* [中通内部安全通讯实践](https://xz.aliyun.com/t/3759)
-* [那些年我们堵住的洞 – OpenRASP纪实](https://anquan.baidu.com/article/855)
-* [源头之战，不断升级的攻防对抗技术 —— 软件供应链攻击防御探索](https://security.tencent.com/index.php/blog/msg/140)
-* [网络空间安全时代的红蓝对抗建设](https://security.tencent.com/index.php/blog/msg/139)
-
-#### 加固
-
-* [Linux基线加固](https://mp.weixin.qq.com/s/0nxiZw1NUoQTjxcd3zl6Zg)
-* [基线检查表&安全加固规范](https://xianzhi.aliyun.com/forum/topic/1127/)
-* [浅谈linux安全加固](https://mp.weixin.qq.com/s/y8np-sFzik15x09536QA5w)
-* [CentOS 7 主机加固](http://www.cnblogs.com/xiaoxiaoleo/p/6678727.html)
-* [APACHE 常见加固](http://cncc.bingj.com/cache.aspx?q=APACHE+%E5%B8%B8%E8%A7%81%E5%8A%A0%E5%9B%BA++0xmh&d=4797622048333774&mkt=zh-CN&setlang=zh-CN&w=WrFf2nH3PRyFtNxa6T7D-zazauskMnwg)
-* [Apache服务器安全配置](http://webcache.googleusercontent.com/search?q=cache:GZSS-N0OXY8J:foreversong.cn/archives/789+&cd=1&hl=zh-CN&ct=clnk&gl=sg&lr=lang_en%7Clang_zh-CN)
-* [GNU/Linux安全基线与加固](http://cb.drops.wiki/drops/tips-2621.html)
-* [windows服务器安全配置策略](https://www.yesck.com/post/528/)
-* [15步打造一个安全的Linux服务器](https://www.freebuf.com/articles/system/121540.html)
-* [Tomcat7 加固清单](https://threathunter.org/topic/59911277ec721b1f1966e7eb)
-* [Tomcat安全设置和版本屏蔽](http://www.freebuf.com/column/163296.html)
-* [IIS服务器安全配置](http://foreversong.cn/archives/803)
-* [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
-* [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
-* [浅谈Linux系统MySQL安全配置](https://mp.weixin.qq.com/s/0KrfdrjbcRdvSTKxoNHOcA)
-* [Hardening Ubuntu](https://github.com/konstruktoid/hardening)
-* [Tomcat Config Security](https://joychou.org/operations/tomcat-config-security.html)
-* [安全运维中基线检查的自动化之ansible工具巧用](https://bbs.ichunqiu.com/thread-46896-1-1.html?from=snew)
-* [https://github.com/netxfly/sec_check](https://github.com/netxfly/sec_check)
-
-#### 响应 溯源
-
-* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
-* [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140/)
-* [应急tools](https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md)
-* [Linux服务器应急事件溯源报告](http://wooyun.jozxing.cc/static/drops/tips-12972.html)
-* [应急响应小记链接已挂](https://threathunter.org/topic/5943a99c1e3732874e23f996)
-* [大型互联网企业入侵检测实战总结](https://xz.aliyun.com/t/1626/)
-* [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
-* [安全应急姿势](http://rinige.com/index.php/archives/824/)
-* [Web日志安全分析浅谈](https://xianzhi.aliyun.com/forum/topic/1121/)
-* [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
-* [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
-* [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
-* [Tomcat日志如何记录POST数据](https://secvul.com/topics/1087.html)
-* [邮件钓鱼攻击与溯源](https://4hou.win/wordpress/?p=28874)
-* [应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes) - Bypass007
-* [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
-* [IP 定位逆向追踪溯源访客真实身份调查取证](https://lcx.cc/post/4595/)
-* [域名背后的真相，一个黑产团伙的沦陷](https://www.freebuf.com/articles/terminal/127228.html)
-* [看我如何从54G日志中溯源web应用攻击路径](https://paper.tuisec.win/detail/a56f79f0d7126f5)
-
-#### 威胁情报
-* [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
-* [ClickHouse与威胁日志分析](http://www.freebuf.com/column/164671.html)
-
-#### 综合
-
-* [企业安全实践(基础建设)之部分资产收集](http://www.freebuf.com/column/157085.html)
-* [企业安全实践(基础建设)之IP资产监控](http://www.freebuf.com/column/157496.html)
-* [企业安全实践(基础建设)之主动分布式WEB资产扫描](http://www.freebuf.com/column/157546.html)
-* [企业安全实践(基础建设)之被动扫描自动化(上)](http://www.freebuf.com/column/157635.html)
-* [企业安全实践(基础建设)之被动扫描自动化(中)](http://www.freebuf.com/column/157947.html)
-* [企业安全实践(基础建设)之被动扫描自动化(下)](http://www.freebuf.com/column/157996.html)
-* [企业安全实践(基础建设)之WEB安全检查](http://www.freebuf.com/column/158358.html)
-* [企业安全实践(基础建设)之HIDS（上）](http://www.freebuf.com/column/158449.html)
-* [企业安全实践(基础建设)之HIDS（下）](http://www.freebuf.com/column/158677.html)
-* [0xA1: 新官上任三把火](https://zhuanlan.zhihu.com/p/26485293)
-* [0xA2 应急响应、防御模型与SDL](https://zhuanlan.zhihu.com/p/26542790)
-* [0xA3 安全域划分和系统基本加固](https://zhuanlan.zhihu.com/p/26603906)
-* [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
-* [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
-* [0xB3 再谈应急响应Pt.1 unix主机应急响应
-  elknot](https://zhuanlan.zhihu.com/p/29958172)
-* [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
-* [企业安全体系建设之路之系统安全篇](https://xianzhi.aliyun.com/forum/topic/1949)
-* [企业安全体系建设之路之网络安全篇](https://xianzhi.aliyun.com/forum/topic/1950)
-* [企业安全体系建设之路之产品安全篇](https://xianzhi.aliyun.com/forum/topic/1951)
-* [SOC异闻录](https://www.anquanke.com/post/id/95231)
-* [开源软件创建SOC的一份清单](http://www.freebuf.com/articles/network/169632.html)
-* [开源SOC的设计与实践](http://www.freebuf.com/articles/network/173282.html)
-* [F5 BIG-IP Security Cheatsheet](https://github.com/dnkolegov/bigipsecurity)
+* [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
+* [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
 
 ## Bug_Bounty
-
+---
 * [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - 类似乌云漏洞库。
 * [hackone-hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&querystring=&page=1) 如果看完就不用看下面的Bug_Bounty
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
@@ -1125,6 +1005,128 @@ AWVS钓鱼
 * [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
 * [red-team-and-the-next](https://devco.re/blog/2019/10/24/evolution-of-DEVCORE-red-team-and-the-next/) -by DEVCORE
 * [道哥的黑板报](https://zhuanlan.zhihu.com/taosay) - 思考很深的年轻人 真正的大牛 
+---
+旧
+### 建设
+
+* [Enterprise_Security_Build--Open_Source](https://bloodzer0.github.io)
+* [一个人的安全部](http://www.freebuf.com/articles/security-management/126254.html)
+* [没有钱的安全部之资产安全](http://www.jianshu.com/p/572431447613?from=timeline)
+* [一个人的企业安全建设实践](https://xianzhi.aliyun.com/forum/topic/1568/)
+* [单枪匹马搞企业安全建设](https://xianzhi.aliyun.com/forum/topic/1916)
+* [“一个人”的互金企业安全建设总结](http://www.freebuf.com/articles/neopoints/158724.html)
+* [低成本企业安全建设部分实践](https://xianzhi.aliyun.com/forum/topic/1996)
+* [饿了么运维基础设施进化史](https://mp.weixin.qq.com/s?__biz=MzA4Nzg5Nzc5OA==&mid=2651668800&idx=1&sn=615af5f120d1298475aaf4825009cb30&chksm=8bcb82e9bcbc0bff6309d9bbaf69cfc591624206b846e00d5004a68182c934dab921b7c25794&scene=38#wechat_redirect)
+* [B站日志系统的前世今生](https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg)
+* [爱奇艺业务安全风控体系的建设实践](https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg)
+* [美团外卖自动化业务运维系统建设](https://tech.meituan.com/digger_share.html)
+* [携程安全自动化测试之路](http://techshow.ctrip.com/archives/2315.html)
+* [企业安全中DevSecOps的一些思考](http://www.freebuf.com/articles/es/145567.html)
+* [企业安全经验 应急响应的战争](http://www.freebuf.com/articles/web/155314.html)
+* [企业安全项目架构实践分享](https://xianzhi.aliyun.com/forum/topic/1718)
+* [以溯源为目的蜜罐系统建设](http://www.4hou.com/technology/9687.html)
+* [蜜罐与内网安全从0到1（一）](https://xianzhi.aliyun.com/forum/topic/998)
+* [蜜罐与内网安全从0到1（二）](https://xianzhi.aliyun.com/forum/topic/997)
+* [蜜罐与内网安全从0到1（三）](https://xianzhi.aliyun.com/forum/topic/996)
+* [蜜罐与内网安全从0到1（四）](https://xianzhi.aliyun.com/forum/topic/1730)
+* [蜜罐与内网安全从0到1（五）](https://xianzhi.aliyun.com/forum/topic/1955)
+* [企业安全建设—模块化蜜罐平台的设计思路与想法](https://xianzhi.aliyun.com/forum/topic/1885)
+* [蜜罐调研与内网安全](https://xz.aliyun.com/t/7294)
+* [Real-timeDetectionAD](https://github.com/sisoc-tokyo/Real-timeDetectionAD_ver2) - https://bithack.io/forum/505 - 域内蜜罐
+* [HFish](https://bithack.io/forum/505) - 蜜罐框架
+* [opencanary_web](https://github.com/p1r06u3/opencanary_web)
+* [tpotce](https://github.com/dtag-dev-sec/tpotce/)
+* [ElastAlert监控日志告警Web攻击行为](http://www.freebuf.com/articles/web/160254.html)
+* [OSSIM分布式安装实践](https://www.secpulse.com/archives/67514.html)
+* [企业信息安全团队建设](https://xianzhi.aliyun.com/forum/topic/1965)
+* [一个人的安全部之ELK接收Paloalto日志并用钉钉告警](http://www.freebuf.com/articles/others-articles/161905.html)
+* [账号安全的异常检测](https://mp.weixin.qq.com/s/qMjNURydlhzby9Qhs6RZhQ)
+* [一般型网站日志接入大数据日志系统的实现](http://www.freebuf.com/column/166112.html)
+* [基础设施的攻击日志 – 第1部分：日志服务器的设置](https://www.secpulse.com/archives/70001.html)
+* [基础设施的攻击日志记录 – 第2部分：日志聚合](https://www.secpulse.com/archives/70016.html)
+* [基础设施攻击日志记录 – 第3部分：Graylog仪表板](https://www.secpulse.com/archives/70149.html)
+* [基础设施的攻击日志记录 – 第4部分：日志事件警报](https://www.secpulse.com/archives/70207.html)
+* [宜信防火墙自动化运维之路](http://www.freebuf.com/articles/security-management/166895.html)
+* [证书锁定](https://www.secpulse.com/archives/75212.html)
+* [中通内部安全通讯实践](https://xz.aliyun.com/t/3759)
+* [那些年我们堵住的洞 – OpenRASP纪实](https://anquan.baidu.com/article/855)
+* [源头之战，不断升级的攻防对抗技术 —— 软件供应链攻击防御探索](https://security.tencent.com/index.php/blog/msg/140)
+* [网络空间安全时代的红蓝对抗建设](https://security.tencent.com/index.php/blog/msg/139)
+
+#### 加固
+
+* [Linux基线加固](https://mp.weixin.qq.com/s/0nxiZw1NUoQTjxcd3zl6Zg)
+* [基线检查表&安全加固规范](https://xianzhi.aliyun.com/forum/topic/1127/)
+* [浅谈linux安全加固](https://mp.weixin.qq.com/s/y8np-sFzik15x09536QA5w)
+* [CentOS 7 主机加固](http://www.cnblogs.com/xiaoxiaoleo/p/6678727.html)
+* [APACHE 常见加固](http://cncc.bingj.com/cache.aspx?q=APACHE+%E5%B8%B8%E8%A7%81%E5%8A%A0%E5%9B%BA++0xmh&d=4797622048333774&mkt=zh-CN&setlang=zh-CN&w=WrFf2nH3PRyFtNxa6T7D-zazauskMnwg)
+* [Apache服务器安全配置](http://webcache.googleusercontent.com/search?q=cache:GZSS-N0OXY8J:foreversong.cn/archives/789+&cd=1&hl=zh-CN&ct=clnk&gl=sg&lr=lang_en%7Clang_zh-CN)
+* [GNU/Linux安全基线与加固](http://cb.drops.wiki/drops/tips-2621.html)
+* [windows服务器安全配置策略](https://www.yesck.com/post/528/)
+* [15步打造一个安全的Linux服务器](https://www.freebuf.com/articles/system/121540.html)
+* [Tomcat7 加固清单](https://threathunter.org/topic/59911277ec721b1f1966e7eb)
+* [Tomcat安全设置和版本屏蔽](http://www.freebuf.com/column/163296.html)
+* [IIS服务器安全配置](http://foreversong.cn/archives/803)
+* [企业常见服务漏洞检测&修复整理](http://www.mottoin.com/92742.html)
+* [运维安全概述](http://cb.drops.wiki/drops/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8-8169.html)
+* [浅谈Linux系统MySQL安全配置](https://mp.weixin.qq.com/s/0KrfdrjbcRdvSTKxoNHOcA)
+* [Hardening Ubuntu](https://github.com/konstruktoid/hardening)
+* [Tomcat Config Security](https://joychou.org/operations/tomcat-config-security.html)
+* [安全运维中基线检查的自动化之ansible工具巧用](https://bbs.ichunqiu.com/thread-46896-1-1.html?from=snew)
+* [https://github.com/netxfly/sec_check](https://github.com/netxfly/sec_check)
+
+#### 响应 溯源
+
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools and resources for security incident response, aimed to help security analysts and DFIR teams.
+* [黑客入侵应急分析手工排查](https://xianzhi.aliyun.com/forum/topic/1140/)
+* [应急tools](https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md)
+* [Linux服务器应急事件溯源报告](http://wooyun.jozxing.cc/static/drops/tips-12972.html)
+* [应急响应小记链接已挂](https://threathunter.org/topic/5943a99c1e3732874e23f996)
+* [大型互联网企业入侵检测实战总结](https://xz.aliyun.com/t/1626/)
+* [Linux应急响应姿势浅谈](http://bobao.360.cn/learning/detail/4481.html)
+* [安全应急姿势](http://rinige.com/index.php/archives/824/)
+* [Web日志安全分析浅谈](https://xianzhi.aliyun.com/forum/topic/1121/)
+* [域名劫持事件发生后的应急响应策略](http://www.freebuf.com/articles/security-management/118425.html)
+* [我的日志分析之道：简单的Web日志分析脚本 ](http://www.freebuf.com/sectool/126698.html)
+* [攻击检测和防范方法之日志分析](http://www.freebuf.com/articles/web/109001.html)
+* [Tomcat日志如何记录POST数据](https://secvul.com/topics/1087.html)
+* [邮件钓鱼攻击与溯源](https://4hou.win/wordpress/?p=28874)
+* [应急响应实战笔记](https://github.com/Bypass007/Emergency-Response-Notes) - Bypass007
+* [某云用户网站入侵应急响应](http://www.freebuf.com/articles/network/134372.html)
+* [IP 定位逆向追踪溯源访客真实身份调查取证](https://lcx.cc/post/4595/)
+* [域名背后的真相，一个黑产团伙的沦陷](https://www.freebuf.com/articles/terminal/127228.html)
+* [看我如何从54G日志中溯源web应用攻击路径](https://paper.tuisec.win/detail/a56f79f0d7126f5)
+
+#### 威胁情报
+* [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
+* [ClickHouse与威胁日志分析](http://www.freebuf.com/column/164671.html)
+
+#### 综合
+
+* [企业安全实践(基础建设)之部分资产收集](http://www.freebuf.com/column/157085.html)
+* [企业安全实践(基础建设)之IP资产监控](http://www.freebuf.com/column/157496.html)
+* [企业安全实践(基础建设)之主动分布式WEB资产扫描](http://www.freebuf.com/column/157546.html)
+* [企业安全实践(基础建设)之被动扫描自动化(上)](http://www.freebuf.com/column/157635.html)
+* [企业安全实践(基础建设)之被动扫描自动化(中)](http://www.freebuf.com/column/157947.html)
+* [企业安全实践(基础建设)之被动扫描自动化(下)](http://www.freebuf.com/column/157996.html)
+* [企业安全实践(基础建设)之WEB安全检查](http://www.freebuf.com/column/158358.html)
+* [企业安全实践(基础建设)之HIDS（上）](http://www.freebuf.com/column/158449.html)
+* [企业安全实践(基础建设)之HIDS（下）](http://www.freebuf.com/column/158677.html)
+* [0xA1: 新官上任三把火](https://zhuanlan.zhihu.com/p/26485293)
+* [0xA2 应急响应、防御模型与SDL](https://zhuanlan.zhihu.com/p/26542790)
+* [0xA3 安全域划分和系统基本加固](https://zhuanlan.zhihu.com/p/26603906)
+* [0xB1 微观安全——一台服务器做安全](https://zhuanlan.zhihu.com/p/27363168)
+* [0xB2 事件应急——企业内网安全监控概览](https://zhuanlan.zhihu.com/p/29816766)
+* [0xB3 再谈应急响应Pt.1 unix主机应急响应
+  elknot](https://zhuanlan.zhihu.com/p/29958172)
+* [0xB4 企业安全建设中评估业务潜在风险的思路](https://zhuanlan.zhihu.com/p/31263844?group_id=916355317818970112)
+* [企业安全体系建设之路之系统安全篇](https://xianzhi.aliyun.com/forum/topic/1949)
+* [企业安全体系建设之路之网络安全篇](https://xianzhi.aliyun.com/forum/topic/1950)
+* [企业安全体系建设之路之产品安全篇](https://xianzhi.aliyun.com/forum/topic/1951)
+* [SOC异闻录](https://www.anquanke.com/post/id/95231)
+* [开源软件创建SOC的一份清单](http://www.freebuf.com/articles/network/169632.html)
+* [开源SOC的设计与实践](http://www.freebuf.com/articles/network/173282.html)
+* [F5 BIG-IP Security Cheatsheet](https://github.com/dnkolegov/bigipsecurity)
 
 
 ## How to contribute?
