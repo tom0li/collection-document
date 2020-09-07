@@ -61,7 +61,7 @@ Table of Contents
    * [内网](#内网)
       * [Exchange](#Exchange)
       * [hash ticket Credential](#hash-ticket-Credential)
-      * [代理转发](#代理转发)
+      * [代理转发与端口复用](#代理转发与端口复用)
       * [内网平台](#内网平台)
       * [内网收集](#内网收集)
       * [内网技巧](#内网技巧)
@@ -570,17 +570,15 @@ Table of Contents
 * [Redis on Windows 出网利用探索](https://xz.aliyun.com/t/8153) 太帅了
 
 ### 内网
-
+---
+之前给出的文章有些内容有错误,需要实践检查
 * [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
 * [uknowsec / Active-Directory-Pentest-Notes](https://github.com/uknowsec/Active-Directory-Pentest-Notes)
-* [内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
-* [DarthSidious-Chinese](https://github.com/crazywa1ker/DarthSidious-Chinese)
 * [Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)
 * [tom0li:内网备忘录](https://tom0li.github.io/%E5%86%85%E7%BD%91%E5%A4%87%E5%BF%98%E5%BD%95/)
 * [对国外某内网渗透的一次小结](https://forum.90sec.org/forum.php?mod=viewthread&tid=9264&highlight=%C4%DA%CD%F8) - 老文新手练手入门
 * [针对国内一大厂的后渗透 – 持续](https://wsygoogol.github.io/2018/01/11/%E9%92%88%E5%AF%B9%E5%9B%BD%E5%86%85%E4%B8%80%E5%A4%A7%E5%8E%82%E7%9A%84%E5%90%8E%E6%B8%97%E9%80%8F-%E2%80%93-%E6%8C%81%E7%BB%AD/) - 入门实战
-* [彻底理解Windows认证](https://www.secpulse.com/archives/94848.html)
 * [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
 * [kerberos](https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf)
 * [内网渗透记录](https://paper.seebug.org/1144) 关键词：委派、relay、bypassAV、webdev XXE -by A-TEAM
@@ -605,15 +603,13 @@ Table of Contents
 * [红队与理论：Credential Relay 与 EPA](https://paper.seebug.org/844/)
 * [高级域渗透技术之传递哈希已死-LocalAccountTokenFilterPolicy万岁](https://www.4hou.com/technology/17668.html)
 
-#### 代理转发
-* [代理转发工具汇总分析](https://mp.weixin.qq.com/s/gztsWf8JaugMY0zfuqQxCQ)
+#### 代理转发与端口复用
 * [渗透测试技巧之内网穿透方式与思路总结](https://xz.aliyun.com/t/1623)
-* [通过双重跳板漫游隔离内网](https://paper.tuisec.win/detail/60e44a10243185a)
-* [一款突破内网防火墙神器ngrok](https://paper.tuisec.win/detail/75e46a067d7b6f8)
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
-* [代理工具](https://github.com/Dliv3/Venom) 端口复用、游走内网
-* [win IIS端口复用](https://www.secrss.com/articles/12696)
 * [iptables端口复用](https://threathunter.org/topic/594545184ea5b2f5516e2033)
+* [驱动级端口复用]()
+* [Web服务中间件端口复用]()
+* [win IIS端口复用](https://www.secrss.com/articles/12696)
 
 #### 内网平台
 
@@ -669,7 +665,6 @@ Table of Contents
 * [动手打造Bypass UAC自动化测试小工具，可绕过最新版Win10](http://www.freebuf.com/sectool/114592.html)
 * [Metasploit – Sessions Command 使用技巧](https://www.secpulse.com/archives/72890.html)
 * [渗透技巧——利用图标文件获取连接文件服务器的NTLMv2 Hash](https://xz.aliyun.com/t/1977)
-* [在 Windows 环境中使用 Responder 窃取 NTLMv2 哈希并利用](https://xz.aliyun.com/t/3560)
 * [DoubleAgent](https://github.com/Cybellum/DoubleAgent) -后渗透对杀软进行注入
 * [Extracting NTLM Hashes from keytab files](https://paper.tuisec.win/detail/ceac9f167bf27de)
 * [离线导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E7%A6%BB%E7%BA%BF%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
@@ -678,7 +673,7 @@ Table of Contents
 * [老牌工具 PsExec 一个琐碎的细节](https://paper.seebug.org/503/)
 * [域渗透之使用CrackMapExec拿到我们想要的东西](https://www.anquanke.com/post/id/84980)
 * [Kerberos协议探索系列之委派篇](https://www.anquanke.com/post/id/173477)
-* [通过RDP反向攻击mstsc](https://paper.seebug.org/1074/)
+* [通过RDP反向攻击mstsc](https://paper.seebug.org/1074/) 监控剪切板
 * [远程提取凭证](https://beta.hackndo.com/remote-lsass-dump-passwords/)
 * [重新思考凭证盗窃](https://labs.f-secure.com/blog/rethinking-credential-theft)
 * [Ghost potato实际利用](https://www.lz1y.cn/2019/11/19/Ghost-potato%E5%AE%9E%E9%99%85%E5%88%A9%E7%94%A8/)
