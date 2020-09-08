@@ -684,6 +684,7 @@ Table of Contents
 * [Antimalware Scan Interface Provider for Persistence](https://b4rtik.github.io/posts/antimalware-scan-interface-provider-for-persistence/) 通过AMSI Provider Persistence 
 
 #### 提权
+* [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) linux kernel exploitation 必看
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
 * [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628)
 * [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
