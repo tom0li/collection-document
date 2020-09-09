@@ -18,6 +18,9 @@ Table of Contents
 =================
 
    * [Github-list](#Github-list)
+      * [Awesome-list](#Awesome-list)
+      * [开发](#开发)
+      * [其他](#其他)
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
       * [VPN](#VPN)
@@ -51,21 +54,22 @@ Table of Contents
          * [Webshell检测](#Webshell检测)
          * [域内恶意行为检测](#域内恶意行为检测)
          * [流量检测](#流量检测)
+      * [安全运营](#安全运营)
       * [数据安全](#数据安全)
    * [Bug_Bounty](#Bug_Bounty)
       * [总结](#总结)
       * [信息收集](#信息收集)
    * [渗透](#渗透)
       * [靶场](#靶场)
-      * [技巧](#技巧)
-   * [内网](#内网)
-      * [Exchange](#Exchange)
-      * [hash ticket Credential](#hash-ticket-Credential)
-      * [代理转发与端口复用](#代理转发与端口复用)
-      * [内网平台](#内网平台)
-      * [内网收集](#内网收集)
-      * [内网技巧](#内网技巧)
-      * [提权](#提权)
+      * [渗透技巧](#渗透技巧)
+      * [内网](#内网)
+         * [Exchange](#Exchange)
+         * [hash ticket Credential](#hash-ticket-Credential)
+         * [代理转发与端口复用](#代理转发与端口复用)
+         * [内网平台](#内网平台)
+         * [内网收集](#内网收集)
+         * [内网技巧](#内网技巧)
+         * [提权](#提权)
    * [APT](#apt)
       * [钓鱼](#钓鱼)
          * [邮件伪造](#邮件伪造)
@@ -98,7 +102,8 @@ Table of Contents
    * [Acknowledgments](#acknowledgments)
 
 ## Github-list
-----
+### Awesome-list
+---
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
@@ -122,31 +127,29 @@ Table of Contents
 * [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
 * [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
 * [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview)
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - good
-* [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
-* [CS基础](https://github.com/selfboot/CS_Offer/)
-* [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
-* [reverse-interview](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 
-----
-开发
-
+### 开发
+---
 * [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 * [Java学习+面试指南 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 * [Python Cheat Sheet ](https://github.com/crazyguitar/pysheeet)
 * [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
 * [web, 前端, javascript, nodejs, electron, babel, webpack, rollup, react, vue ...](https://github.com/senntyou/blogs)
 * [关于Python的面试题](https://github.com/taizilongxu/interview_python)
+* [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+* [python3-source-code-analysis](https://github.com/flaggo/python3-source-code-analysis)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - good
+* [面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+* [CS基础](https://github.com/selfboot/CS_Offer/)
+* [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [算法手记](https://github.com/labuladong/fucking-algorithm)
 * [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 * [interview_internal_reference](https://github.com/0voice/interview_internal_reference) 
-* [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-* [python3-source-code-analysis](https://github.com/flaggo/python3-source-code-analysis)
+* [reverse-interview](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 
-----
-其它
-
+### 其它
+---
 * [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
@@ -383,7 +386,12 @@ Table of Contents
 * [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
 
 #### 流量检测
+---
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
+
+### 安全运营
+---
+* [如何评价安全工作的好坏](https://zhuanlan.zhihu.com/p/226493047) 腾讯'职业欠钱'的向上管理的一些分享
 
 ### 数据安全
 ---
@@ -528,7 +536,7 @@ Table of Contents
 * [vulhub](https://github.com/vulhub/vulhub)
 * [vulfocus](https://github.com/fofapro/vulfocus)
 
-#### 技巧
+#### 渗透技巧
 
 * [https的app如何抓包](https://www.t00ls.net/thread-40042-1-1.html)
 * [如何使用Xposed+JustTrustMe来突破SSL Pinning](https://bbs.pediy.com/thread-226435.htm)
@@ -569,7 +577,7 @@ Table of Contents
 * [FB Django Debug Stacktrace RCE](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)
 * [Redis on Windows 出网利用探索](https://xz.aliyun.com/t/8153) 太帅了
 
-### 内网
+#### 内网
 ---
 之前给出的文章有些内容有错误,需要实践检查
 * [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
@@ -584,7 +592,7 @@ Table of Contents
 * [内网渗透记录](https://paper.seebug.org/1144) 关键词：委派、relay、bypassAV、webdev XXE -by A-TEAM
 * [Windows内网渗透入门](https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA) 
 
-#### Exchange
+##### Exchange
 * [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
 * [Exchange在渗透测试中的利用](https://evi1cg.me/archives/Exchange_Hack.html)
 * [Microsoft Exchange漏洞记录(撸向域控) - CVE-2018-8581](https://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581.html)
@@ -593,7 +601,7 @@ Table of Contents
 * [Microsoft Exchange 任意用户伪造漏洞（CVE-2018-8581）分析](https://paper.seebug.org/804/)
 * [Exchange服务器远程代码执行漏洞复现分析](https://xz.aliyun.com/t/7299)
 
-#### hash ticket Credential
+##### hash ticket Credential
 
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 * [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
@@ -603,7 +611,7 @@ Table of Contents
 * [红队与理论：Credential Relay 与 EPA](https://paper.seebug.org/844/)
 * [高级域渗透技术之传递哈希已死-LocalAccountTokenFilterPolicy万岁](https://www.4hou.com/technology/17668.html)
 
-#### 代理转发与端口复用
+##### 代理转发与端口复用
 * [渗透测试技巧之内网穿透方式与思路总结](https://xz.aliyun.com/t/1623)
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
 * [iptables端口复用](https://threathunter.org/topic/594545184ea5b2f5516e2033)
@@ -611,7 +619,7 @@ Table of Contents
 * [Web服务中间件端口复用]()
 * [win IIS端口复用](https://www.secrss.com/articles/12696)
 
-#### 内网平台
+##### 内网平台
 
 * [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
 * [渗透利器Cobalt Strike - 第2篇 APT级的全面免杀与企业纵深防御体系的对抗](https://xz.aliyun.com/t/4191)
@@ -625,7 +633,7 @@ Table of Contents
 * [nishang-ps](http://www.4hou.com/technology/5962.html)
 * [Empire实战域渗透](http://www.4hou.com/technology/4704.html)
 
-#### 内网技巧
+##### 内网技巧
 * [红队后渗透测试中的文件传输技巧](https://paper.seebug.org/834/)
 * [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
@@ -683,7 +691,7 @@ Table of Contents
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 * [Antimalware Scan Interface Provider for Persistence](https://b4rtik.github.io/posts/antimalware-scan-interface-provider-for-persistence/) 通过AMSI Provider Persistence 
 
-#### 提权
+##### 提权
 * [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) linux kernel exploitation 必看
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
 * [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628)
