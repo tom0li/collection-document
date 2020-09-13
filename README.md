@@ -73,7 +73,7 @@ Table of Contents
    * [APT](#apt)
       * [钓鱼](#钓鱼)
          * [邮件伪造](#邮件伪造)
-      * [远控](#远控)
+      * [C2](#C2)
    * [Web](#web)
       * [XXE](#xxe)
       * [XSS](#XSS)
@@ -187,6 +187,7 @@ Table of Contents
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
 * [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
 * [Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf) -Orange 打开的潘多拉魔盒
+* [hacked-Facebook](https://devco.re/blog/2020/09/12/how-I-hacked-Facebook-again-unauthenticated-RCE-on-MobileIron-MDM/)
 
 ### ImageMagick
 ---
@@ -635,8 +636,6 @@ Table of Contents
 * [Empire实战域渗透](http://www.4hou.com/technology/4704.html)
 
 ##### 内网技巧
-* [红队后渗透测试中的文件传输技巧](https://paper.seebug.org/834/)
-* [渗透经验 | Windows下载远程Payload并执行代码的各种技巧](http://www.freebuf.com/articles/system/155147.html)
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/tom0li/security_circle/blob/master/51122255581554.md)
 * [白名单下载恶意代码的一个技巧](https://github.com/tom0li/security_circle/blob/master/28511224554581.md)
@@ -651,29 +650,19 @@ Table of Contents
 * [渗透技巧——”隐藏”注册表的更多测试](http://www.4hou.com/penetration/9132.html)
 * [渗透技巧——Windows日志的删除与绕过](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E6%97%A5%E5%BF%97%E7%9A%84%E5%88%A0%E9%99%A4%E4%B8%8E%E7%BB%95%E8%BF%87/)
 * [渗透技巧——Token窃取与利用](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Token%E7%AA%83%E5%8F%96%E4%B8%8E%E5%88%A9%E7%94%A8/)
-* [域渗透——Pass The Hash的实现](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-Pass-The-Hash%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 * [域渗透——获得域控服务器的NTDS.dit文件](https://3gstudent.github.io/3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E8%8E%B7%E5%BE%97%E5%9F%9F%E6%8E%A7%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84NTDS.dit%E6%96%87%E4%BB%B6/)
 * [渗透技巧——获得Windows系统的远程桌面连接历史记录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E8%8E%B7%E5%BE%97Windows%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BF%9E%E6%8E%A5%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/)
-* [渗透技巧 | Windows上传并执行恶意代码的N种姿势](https://mp.weixin.qq.com/s?__biz=MzUxOTYzMzU0NQ==&mid=2247483675&idx=1&sn=13cc49242df2b8cd7d08d4084af9621b&chksm=f9f7eefdce8067eba45e9fd4090f34703c2e101be06ae83dc7db53f24f343ab907545ab9d423&scene=21#wechat_redirect)
 * [域渗透——利用SYSVOL还原组策略中保存的密码](https://xianzhi.aliyun.com/forum/topic/1653/)
 * [Windows 日志攻防之攻击篇](https://threathunter.org/topic/593eb1bbb33ad233198afcfa)
 * [针对 win 的入侵日志简单处理](https://klionsec.github.io/2017/05/19/wevtutil/)
 * [从活动目录中获取域管理员权限的6种方法](http://www.4hou.com/technology/4256.html)
-* [当服务器只开web服务并且防火墙不准服务器对外主动发起链接时](https://mp.weixin.qq.com/s/W5npN8YiqG-RBoq2mTv_2g)
 * [3gstudent/Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips)
 * [渗透测试中常见的小TIPS总结和整理](http://avfisher.win/archives/100)
-* [内网渗透思路整理与工具使用](https://www.anquanke.com/post/id/85827)
-* [windows内网渗透杂谈](https://bl4ck.in/penetration/2017/03/20/windows%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E6%9D%82%E8%B0%88.html)
 * [60字节 - 无文件渗透测试实验](https://www.n0tr00t.com/2017/03/09/penetration-test-without-file.html)
-* [关于windows的RDP连接记录](http://rcoil.me/2018/05/%E5%85%B3%E4%BA%8Ewindows%E7%9A%84RDP%E8%BF%9E%E6%8E%A5%E8%AE%B0%E5%BD%95/)
 * [3389user无法添加](http://www.91ri.org/5866.html)
 * [丢掉PSEXEC使用wmi来横向渗透](https://threathunter.org/topic/5940a6e59c58e020408a79ea)
 * [ms14-068域提权系列总结](https://www.t00ls.net/thread-43786-1-1.html)
-* [域渗透之Exchange Server](https://paper.tuisec.win/detail/203cfd7605f41af)
-* [域渗透——Skeleton Key](https://paper.tuisec.win/detail/ae1a9ecf9625209)
 * [动手打造Bypass UAC自动化测试小工具，可绕过最新版Win10](http://www.freebuf.com/sectool/114592.html)
-* [Metasploit – Sessions Command 使用技巧](https://www.secpulse.com/archives/72890.html)
-* [渗透技巧——利用图标文件获取连接文件服务器的NTLMv2 Hash](https://xz.aliyun.com/t/1977)
 * [DoubleAgent](https://github.com/Cybellum/DoubleAgent) -后渗透对杀软进行注入
 * [Extracting NTLM Hashes from keytab files](https://paper.tuisec.win/detail/ceac9f167bf27de)
 * [离线导出Chrome浏览器中保存的密码](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E7%A6%BB%E7%BA%BF%E5%AF%BC%E5%87%BAChrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BF%9D%E5%AD%98%E7%9A%84%E5%AF%86%E7%A0%81/)
@@ -766,10 +755,9 @@ AWVS钓鱼
 * [Cobalt Strike Spear Phish](https://evi1cg.me/archives/spear_phish.html)
 * [Gsuite SMTP inject](https://www.ehpus.com/post/smtp-injection-in-gsuite)
 
-### 远控
+### C2
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 * [QuasarRAT](https://github.com/quasar/QuasarRAT)
-* [Ping Power — ICMP Tunnel](https://medium.com/bugbountywriteup/ping-power-icmp-tunnel-31e2abb2aaea)
 * [CS]()
 
 ## Web
