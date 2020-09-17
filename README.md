@@ -56,6 +56,7 @@ Table of Contents
          * [流量检测](#流量检测)
       * [安全运营](#安全运营)
       * [数据安全](#数据安全)
+      * [个人安全](#个人安全)
    * [Bug_Bounty](#Bug_Bounty)
       * [总结](#总结)
       * [信息收集](#信息收集)
@@ -176,7 +177,7 @@ Table of Contents
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
 * [Top-10-web-hacking-techniques-of-2018](https://portswigger.net/research/top-10-web-hacking-techniques-of-2018)
-* [PPT大全](http://www.vipread.com/)
+* [安全PPT大全](http://www.vipread.com/)
 * [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
 * [us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA](https://i.blackhat.com/USA-19/Wednesday/us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf) -orange
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
@@ -357,7 +358,6 @@ Table of Contents
 * [分布式HIDS集群架构设计](https://www.cnxct.com/distributed-hids-cluster-architecture-design/) 美团技术团队
 
 #### WAF
----
 ##### WAF建设指南
 ---
 * [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651199346&idx=1&sn=99f470d46554149beebb8f89fbcb1578&chksm=bd2cf2d48a5b7bc2b3aecb501855cc2efedc60f6f01026543ac2df5fa138ab2bf424fc5ab2b0&scene=21#wechat_redirect)
@@ -399,6 +399,10 @@ Table of Contents
 ---
 * [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
 * [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
+
+### 个人安全
+---
+* [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
 
 ## Bug_Bounty
 ---
@@ -507,7 +511,6 @@ Table of Contents
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
 * [Micropoor](https://github.com/Micropoor/Micro8)
 * [渗透测试实战第三版](https://github.com/tom0li/collection-document/blob/master/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88).pdf)
-* [渗透测试工具备忘录](https://xz.aliyun.com/t/2482#toc-67)
 * [API 接口渗透测试](https://xz.aliyun.com/t/2412)
 * [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
 * [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
@@ -518,8 +521,6 @@ Table of Contents
 * [攻破黑市最流行的钓鱼网站](https://www.t00ls.net/articles-41342.html)
 * [攻破黑市最流行的网站2](https://forum.90sec.org/forum.php?mod=viewthread&tid=10676&extra=page%3D1)
 * [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
-* [渗透记录1](https://www.secquan.org/Discuss/543)
-* [渗透记录2](https://www.secquan.org/Discuss/588)
 * [Web黑盒渗透思路之猜想](http://www.freebuf.com/articles/web/161491.html)
 * [老文一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
 * [渗透Hacking Team过程](https://xz.aliyun.com/t/2146)
@@ -528,18 +529,18 @@ Table of Contents
 * [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
 * [渗透测试学习笔记之综合渗透案例一](https://www.secpulse.com/archives/72464.html)
 * [记一次对某企业的渗透测试实战](https://bbs.ichunqiu.com/thread-41946-1-1.html)
-* [Exploit Singapore Hotels: ezxcess.antlabs.com](https://paper.tuisec.win/detail/06b238bc27b9c90)
 * [ssrf内网漫游](https://github.com/r35tart/Penetration_Testing_Case/blob/master/%E4%BD%8E%E5%8D%B1SSRF%E6%8F%90%E6%9D%83%E8%BF%9B%E5%86%85%E7%BD%91.pdf)
 * [渗透记录1](https://www.freebuf.com/vuls/211842.html)
 * [渗透记录2](https://www.freebuf.com/vuls/211847.html)
 
 
 #### 靶场
+---
 * [vulhub](https://github.com/vulhub/vulhub)
 * [vulfocus](https://github.com/fofapro/vulfocus)
 
 #### 渗透技巧
-
+---
 * [https的app如何抓包](https://www.t00ls.net/thread-40042-1-1.html)
 * [如何使用Xposed+JustTrustMe来突破SSL Pinning](https://bbs.pediy.com/thread-226435.htm)
 * [BurpSuite多重代理](https://www.anquanke.com/post/id/85925)
@@ -604,7 +605,7 @@ Table of Contents
 * [Exchange服务器远程代码执行漏洞复现分析](https://xz.aliyun.com/t/7299)
 
 ##### hash ticket Credential
-
+---
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 * [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
 * [NTLM-Relay](https://mp.weixin.qq.com/s/1LpgGx3-YA5aR0Mx9iryCQ)
@@ -612,8 +613,10 @@ Table of Contents
 * [The worst of both worlds: Combining NTLM Relaying and Kerberos delegation](https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/)
 * [红队与理论：Credential Relay 与 EPA](https://paper.seebug.org/844/)
 * [高级域渗透技术之传递哈希已死-LocalAccountTokenFilterPolicy万岁](https://www.4hou.com/technology/17668.html)
+* [Windows内网协议学习NTLM篇之漏洞概述](https://www.anquanke.com/post/id/194514)
 
 ##### 代理转发与端口复用
+---
 * [渗透测试技巧之内网穿透方式与思路总结](https://xz.aliyun.com/t/1623)
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
 * [iptables端口复用](https://threathunter.org/topic/594545184ea5b2f5516e2033)
@@ -636,6 +639,7 @@ Table of Contents
 * [Empire实战域渗透](http://www.4hou.com/technology/4704.html)
 
 ##### 内网技巧
+---
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/tom0li/security_circle/blob/master/51122255581554.md)
 * [白名单下载恶意代码的一个技巧](https://github.com/tom0li/security_circle/blob/master/28511224554581.md)
