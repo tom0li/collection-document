@@ -403,6 +403,7 @@ Table of Contents
 ### 个人安全
 ---
 * [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
+* [lcamtuf灾难计划](https://lcamtuf.coredump.cx/prep/)
 
 ## Bug_Bounty
 ---
