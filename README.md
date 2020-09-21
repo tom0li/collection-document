@@ -57,12 +57,13 @@ Table of Contents
       * [安全运营](#安全运营)
       * [数据安全](#数据安全)
       * [个人安全](#个人安全)
-   * [Bug_Bounty](#Bug_Bounty)
    * [渗透](#渗透)
-      * [信息收集](#信息收集)
-      * [靶场](#靶场)
-      * [渗透技巧](#渗透技巧)
-      * [内网](#内网)
+      * [边界渗透](#边界渗透)
+         * [渗透记录和总结](#渗透记录和总结)
+         * [信息收集](#信息收集)
+         * [靶场](#靶场)
+         * [渗透技巧](#渗透技巧)
+      * [内网渗透](#内网渗透)
          * [Exchange](#Exchange)
          * [hash ticket Credential](#hash-ticket-Credential)
          * [代理转发与端口复用](#代理转发与端口复用)
@@ -74,6 +75,7 @@ Table of Contents
       * [钓鱼](#钓鱼)
          * [邮件伪造](#邮件伪造)
       * [C2](#C2)
+   * [Bug_Bounty](#Bug_Bounty)
    * [Web](#web)
       * [XXE](#xxe)
       * [XSS](#XSS)
@@ -395,18 +397,10 @@ Table of Contents
 * [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
 * [lcamtuf灾难计划](https://lcamtuf.coredump.cx/prep/)
 
-## Bug_Bounty
----
-* [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - 类似乌云漏洞库。
-* [hackone-hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&querystring=&page=1) 如果看完就不用看下面的Bug_Bounty
-* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-* [Recon](https://www.youtube.com/watch?v=p4JgIu1mceI&feature=youtu.be)
-* [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) 
-* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) 
-* [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
-
 ## 渗透
-
+### 边界渗透
+#### 渗透记录和总结
+---
 * [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
 * [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
@@ -415,56 +409,27 @@ Table of Contents
 * [pentest-wiki](https://github.com/nixawk/pentest-wiki/)
 * [Micropoor](https://github.com/Micropoor/Micro8)
 * [渗透测试实战第三版](https://github.com/tom0li/collection-document/blob/master/%5B%E8%AF%91%5D%20%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%E7%AC%AC%E4%B8%89%E7%89%88(%E7%BA%A2%E9%98%9F%E7%89%88).pdf)
-* [API 接口渗透测试](https://xz.aliyun.com/t/2412)
-* [黑盒渗透测试的一些姿势和个人总结](http://www.test404.com/post-1532.html)
-* [Web应用程序安全测试备忘录](https://www.secpulse.com/archives/66154.html)
-* [从目录信息泄露到渗透内网](http://blog.51cto.com/simeon/1928354)
-* [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
-* [渗透实战中的反取证](https://www.t00ls.net/articles-42351.html)
-* [陪妹子玩游戏引起的风波](https://www.t00ls.net/articles-42078.html)
-* [攻破黑市最流行的钓鱼网站](https://www.t00ls.net/articles-41342.html)
-* [攻破黑市最流行的网站2](https://forum.90sec.org/forum.php?mod=viewthread&tid=10676&extra=page%3D1)
-* [实战教你怎么拿到女神的手机号，渗透某偷红包app](https://www.t00ls.net/articles-39902.html)
-* [Web黑盒渗透思路之猜想](http://www.freebuf.com/articles/web/161491.html)
-* [老文一次艰难的渗透纪实](https://xianzhi.aliyun.com/forum/topic/2122#toc-3)
+* [Web Service 渗透测试从入门到精通](https://www.anquanke.com/post/id/85910)
+* [老文一次艰难的渗透纪实](https://xz.aliyun.com/t/2122)
 * [渗透Hacking Team过程](https://xz.aliyun.com/t/2146)
-* [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
-* [浅析反向代理](https://www.anquanke.com/post/id/150436)
-* [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
-* [渗透测试学习笔记之综合渗透案例一](https://www.secpulse.com/archives/72464.html)
-* [记一次对某企业的渗透测试实战](https://bbs.ichunqiu.com/thread-41946-1-1.html)
 * [ssrf内网漫游](https://github.com/r35tart/Penetration_Testing_Case/blob/master/%E4%BD%8E%E5%8D%B1SSRF%E6%8F%90%E6%9D%83%E8%BF%9B%E5%86%85%E7%BD%91.pdf)
 * [渗透记录1](https://www.freebuf.com/vuls/211842.html)
 * [渗透记录2](https://www.freebuf.com/vuls/211847.html)
 * [tom0li: 逻辑漏洞小结](https://tom0li.github.io/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%B0%8F%E7%BB%93/)
 * [Web中间件常见漏洞总结](https://www.t00ls.net/viewthread.php?tid=51654&highlight=%E4%B8%AD%E9%97%B4%E4%BB%B6)
-* [Tomcat安全测试概要](https://blog.formsec.cn/2018/02/23/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%89%E5%85%A8-TOMCAT%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E6%A6%82%E8%A6%81/)
-* [那些年让我们心惊胆战的IIS漏洞](https://www.secpulse.com/archives/82410.html)
 * [Mysql数据库渗透及漏洞利用总结simeon](https://xianzhi.aliyun.com/forum/topic/1491)
-* [攻击大数据应用：ZooKeeper](http://www.polaris-lab.com/index.php/archives/41/)
 * [林林总总的Host Header Attack](https://mp.weixin.qq.com/s?__biz=MzI2NjUwNjU4OA==&mid=2247483858&idx=1&sn=2170052e99a41de3f98a6f1729dba764&chksm=ea8c59e1ddfbd0f7267095ae6da027661993b9d98b06a7d3d1f4c5e11a42cfa741ed7b21826b&scene=0#rd)
-* [JBoss高危漏洞分析](https://mp.weixin.qq.com/s/Kjw_abH6a-ifXdQmbc5Pug)
-* [Redis未授权访问漏洞的重现与利用](http://www.freebuf.com/vuls/162035.html)
-* [Redis安全总结](https://bl4ck.in/categories/2015/11/17/Redis%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93.html)
-* [Redis在Windows环境下Getshell](https://uknowsec.cn/posts/notes/Redis%E5%9C%A8Windows%E7%8E%AF%E5%A2%83%E4%B8%8BGetshell.html)
-* [Redis未授权访问在windows下的利用](https://www.anquanke.com/post/id/170360#h3-4)
 * [Redis主从利用ppt](https://github.com/tom0li/collection-document/blob/master/15-redis-post-exploitation.pdf)
-* [常见Web源码泄露总结](http://www.mottoin.com/95749.html)
-* [未授权访问漏洞总结](https://www.secpulse.com/archives/61101.html)
-* [端口渗透总结](http://docs.ioin.in/writeup/blog.heysec.org/_archives_577/index.html)
 * [Web攻防之暴力破解 何足道版](https://mp.weixin.qq.com/s/_zzHPAeWvSp4ckDz0_PltQ)
-* [登录加密算法破解秘籍](http://liehu.tass.com.cn/archives/1016) 
-* [JAVASCRIPT安全性问题总结](https://www.t00ls.net/articles-42182.html)
 * [浅谈中间件漏洞与防护](https://thief.one/2017/05/25/1/)
 * [NFS的攻击与防御](http://www.4hou.com/system/8069.html)
 * [利用Web应用中隐藏的文件夹和文件获取敏感信息](https://xz.aliyun.com/t/3677)
-* [ActiveMQ任意文件写入漏洞（CVE-2016-3088）学习](http://www.ko0zh1.cc/2017/07/23/ActiveMQ%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-3088%EF%BC%89%E5%AD%A6%E4%B9%A0/)
 * [Whitepaper: Security Cookies](https://www.netsparker.com/security-cookies-whitepaper/)
 * [服务器开放debug安全内容](https://security.tencent.com/index.php/blog/msg/137)
 * [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
 * [OOB](https://www.freebuf.com/articles/web/201013.html)
 
-### 信息收集
+#### 信息收集
 ---
 * [Red Team 视角的信息收集技术](http://blkstone.github.io/2017/04/28/pentest-recon/)
 * [渗透神器系列 搜索引擎](https://thief.one/2017/05/19/1/)
@@ -485,46 +450,26 @@ Table of Contents
 
 #### 渗透技巧
 ---
-* [https的app如何抓包](https://www.t00ls.net/thread-40042-1-1.html)
-* [如何使用Xposed+JustTrustMe来突破SSL Pinning](https://bbs.pediy.com/thread-226435.htm)
 * [BurpSuite多重代理](https://www.anquanke.com/post/id/85925)
 * [Frida.Android.Practice (ssl unpinning)](https://github.com/WooyunDota/DroidDrops/blob/master/2018/Frida.Android.Practice.md)
-* [IIS7以上突破无脚本执行权限限制](https://forum.90sec.org/forum.php?mod=viewthread&tid=10562&extra=page%3D2)
-* [ACCESS无select SQL注射](https://forum.90sec.org/forum.php?mod=viewthread&tid=10663)
-* [SQL注入奇巧淫技——利用DNSLOG获取看不到的信息](http://foreversong.cn/archives/861)
-* [修改过狗菜刀](https://forum.90sec.org/forum.php?mod=viewthread&tid=10544&extra=page%3D2)
-* [Java版的中国菜刀修改](https://forum.90sec.com/t/topic/513)
-* [修改c刀](http://www.freebuf.com/articles/web/100432.html)
-* [菜刀HTTP流量中转代理过WAF](https://xz.aliyun.com/t/2739)
+* [IIS7以上突破无脚本执行权限限制](https://forum.90sec.org/forum.php?mod=viewthread&tid=10562&extra=page%3D2) 
 * [sql二次注入和截断联合使用](https://forum.90sec.org/forum.php?mod=viewthread&tid=10377&extra=page%3D3)
 * [sql二次注入和截断补充说明](https://forum.90sec.org/forum.php?mod=viewthread&tid=10383&extra=page%3D3)
-* [盘点那些渗透测试中的奇淫技巧](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=14031&ctid=34)
-* [利用Host header attack进行社交工程攻击手法]-文章在90论坛
-* [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -感觉默认没开,需用ROOT权限开启
+* [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -需用ROOT权限设置参数开启
 * [phpmyadmin4.8.1后台getshell](https://www.secpulse.com/archives/72817.html)
-* [CVE-2018-12613 PhpMyadmin后台文件包含分析](http://www.lsafe.org/?p=300)
-* [一个关于二次越权的漏洞分享](https://www.t00ls.net/thread-38883-1-1.html)
-* [利用redis写webshell](https://www.leavesongs.com/PENETRATION/write-webshell-via-redis-server.html)
-* [异地账号密码登陆qq邮箱(好像没检测是否异地](https://www.t00ls.net/viewthread.php?tid=42162&highlight=%E8%85%BE%E8%AE%AF)
-* [pentest-tips](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
-* [维持访问 WebShell](http://www.91ri.org/17340.html)
-* [linux远程执行win命令SMB-winexe](https://github.com/tom0li/security_circle/blob/master/51112814181184.md)
-* [换个思路，对某培训机构进行一次 YD 的社工检测](https://bobylive.com/static/1936996)
-* [渗透技巧--浅析web暴力猜解](https://mp.weixin.qq.com/s/dSIFoBdr44BLc7TrPR8u8Q)
-* [奇技淫巧 | 上传web.config文件获取远程代码执行权限](http://www.freebuf.com/articles/web/173831.html)
 * [无效HTTP请求绕过Lighttpd重写规则](https://www.anquanke.com/post/id/148328)
-* [相对持久的绕过方法和一点想法_已被杀](http://www.freebuf.com/articles/network/175097.html)
-* [渗透技巧之SSH篇](http://drops.xmd5.com/static/drops/tips-1951.html)
-* [无需sendmail：巧用LD_PRELOAD突破disable_functions](https://www.freebuf.com/articles/web/192052.html)
 * [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/)
 * [一次攻击内网rmi服务的深思](https://forum.90sec.com/t/topic/388/1)
 * [2个思路](https://xz.aliyun.com/t/6587) - 读取连接mysql客户端系统信息,上传
 * [JNI技术绕过rasp防护实现jsp webshell](https://mp.weixin.qq.com/s?__biz=MzA5Mzg3NTUwNQ==&mid=2447804425&idx=1&sn=91515259ee4d8a204d40e0aee8177f58)
+* [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
+* [浅析反向代理](https://www.anquanke.com/post/id/150436)
+* [iptable介绍](https://github.com/tom0li/security_circle/blob/master/15552854825122.md)
 * [结合直接系统调用和sRDI来绕过AV / EDR](https://bbs.pediy.com/thread-253564.htm)
 * [FB Django Debug Stacktrace RCE](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)
 * [Redis on Windows 出网利用探索](https://xz.aliyun.com/t/8153) 太帅了
 
-#### 内网
+### 内网渗透
 ---
 之前给出的文章有些内容有错误,需要实践检查
 * [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
@@ -534,11 +479,10 @@ Table of Contents
 * [对国外某内网渗透的一次小结](https://forum.90sec.org/forum.php?mod=viewthread&tid=9264&highlight=%C4%DA%CD%F8) - 老文新手练手入门
 * [针对国内一大厂的后渗透 – 持续](https://wsygoogol.github.io/2018/01/11/%E9%92%88%E5%AF%B9%E5%9B%BD%E5%86%85%E4%B8%80%E5%A4%A7%E5%8E%82%E7%9A%84%E5%90%8E%E6%B8%97%E9%80%8F-%E2%80%93-%E6%8C%81%E7%BB%AD/) - 入门实战
 * [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
-* [kerberos介绍](https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf)
 * [内网渗透记录](https://paper.seebug.org/1144) 关键词：委派、relay、bypassAV、webdev XXE -by A-TEAM
 * [Windows内网渗透入门](https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA) -by 腾讯安平部
 
-##### Exchange
+#### Exchange
 ---
 * [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
 * [Exchange在渗透测试中的利用](https://evi1cg.me/archives/Exchange_Hack.html)
@@ -548,7 +492,7 @@ Table of Contents
 * [Microsoft Exchange 任意用户伪造漏洞（CVE-2018-8581）分析](https://paper.seebug.org/804/)
 * [Exchange服务器远程代码执行漏洞复现分析](https://xz.aliyun.com/t/7299)
 
-##### hash ticket Credential
+#### hash ticket Credential
 ---
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 * [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
@@ -558,8 +502,9 @@ Table of Contents
 * [红队与理论：Credential Relay 与 EPA](https://paper.seebug.org/844/)
 * [高级域渗透技术之传递哈希已死-LocalAccountTokenFilterPolicy万岁](https://www.4hou.com/technology/17668.html)
 * [Windows内网协议学习NTLM篇之漏洞概述](https://www.anquanke.com/post/id/194514)
+* [kerberos介绍](https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf)
 
-##### 代理转发与端口复用
+#### 代理转发与端口复用
 ---
 * [渗透测试技巧之内网穿透方式与思路总结](https://xz.aliyun.com/t/1623)
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
@@ -568,7 +513,7 @@ Table of Contents
 * [Web服务中间件端口复用]()
 * [win IIS端口复用](https://www.secrss.com/articles/12696)
 
-##### 内网平台
+#### 内网平台
 ---
 推荐看官方手册
 * [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
@@ -583,7 +528,7 @@ Table of Contents
 * [nishang-ps](http://www.4hou.com/technology/5962.html)
 * [Empire实战域渗透](http://www.4hou.com/technology/4704.html)
 
-##### 内网技巧
+#### 内网技巧
 ---
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/tom0li/security_circle/blob/master/51122255581554.md)
@@ -630,7 +575,7 @@ Table of Contents
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 * [Antimalware Scan Interface Provider for Persistence](https://b4rtik.github.io/posts/antimalware-scan-interface-provider-for-persistence/) 通过AMSI Provider Persistence 
 
-##### 提权
+#### 提权
 * [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) linux kernel exploitation 必看
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
 * [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628)
@@ -708,6 +653,16 @@ AWVS钓鱼
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 * [QuasarRAT](https://github.com/quasar/QuasarRAT)
 * [CS]()
+
+## Bug_Bounty
+---
+* [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - 类似乌云漏洞库。
+* [hackone-hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&querystring=&page=1) 如果看完就不用看下面的Bug_Bounty
+* [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+* [Recon](https://www.youtube.com/watch?v=p4JgIu1mceI&feature=youtu.be)
+* [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) 
+* [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) 
+* [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
 
 ## Web
 ### XXE
@@ -949,6 +904,7 @@ AWVS钓鱼
 * [道哥的黑板报](https://zhuanlan.zhihu.com/taosay) - 思考很深的年轻人 真正的大牛 
 ---
 旧
+```
 ### 建设
 
 * [Enterprise_Security_Build--Open_Source](https://bloodzer0.github.io)
@@ -1070,7 +1026,7 @@ AWVS钓鱼
 * [开源SOC的设计与实践](http://www.freebuf.com/articles/network/173282.html)
 * [F5 BIG-IP Security Cheatsheet](https://github.com/dnkolegov/bigipsecurity)
 
-### 原bug bounty
+#### 原bug bounty
 * [SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
 * [面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
 * [漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/topic/1214/)
@@ -1125,7 +1081,7 @@ AWVS钓鱼
 * [Java反序列化漏洞学习实践一：从Serializbale接口开始，先弹个计算器](http://www.polaris-lab.com/index.php/archives/447/)
 * [Java反序列化漏洞学习实践二：Java的反射机制（Java Reflection）](http://www.polaris-lab.com/index.php/archives/450/)
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
-
+```
 
 ## How to contribute?
 ---
