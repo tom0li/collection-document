@@ -34,6 +34,9 @@ Table of Contents
       * [CAS](#CAS)
       * [Solr模版注入](#Solr模版注入)
       * [Spring](#Spring)
+         * [Spring-boot](#Spring-boot)
+         * [Spring-cloud](#Spring-cloud)
+         * [Spring-data](#Spring-data)
    * [安全](#安全)
       * [安全list](#安全list)
       * [云安全](#云安全)
@@ -179,17 +182,11 @@ Table of Contents
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
 * [Top-10-web-hacking-techniques-of-2018](https://portswigger.net/research/top-10-web-hacking-techniques-of-2018)
 * [安全PPT大全](http://www.vipread.com/)
-* [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
-* [us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA](https://i.blackhat.com/USA-19/Wednesday/us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf) -orange
+* [us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA](https://i.blackhat.com/USA-19/Wednesday/us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf) -Orange pwn vpn
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
-* [Webmin <=1.920 远程命令执行漏洞 -CVE-2019-15107](https://xz.aliyun.com/t/6040) - 精炼
-* [Webmin CVE-2019-15642](https://twitter.com/chybeta/status/1167617571287289856)
-* [从 0 开始入门 Chrome Ext 安全（一） -- 了解一个 Chrome Ext](https://paper.seebug.org/1082/)
-* [从 0 开始入门 Chrome Ext 安全（二） -- 安全的 Chrome Ext](https://paper.seebug.org/1092/)
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
-* [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
-* [Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf) -Orange 打开的潘多拉魔盒
-* [hacked-Facebook](https://devco.re/blog/2020/09/12/how-I-hacked-Facebook-again-unauthenticated-RCE-on-MobileIron-MDM/)
+
+
 
 ### ImageMagick
 ---
@@ -249,6 +246,7 @@ Table of Contents
 * [attacking-java-rmi-services-after-jep-290](https://mogwailabs.de/blog/2019/03/attacking-java-rmi-services-after-jep-290/)
 * [针对RMI服务的九重攻击 - 上](https://xz.aliyun.com/t/7930)
 * [针对RMI服务的九重攻击 - 下](https://xz.aliyun.com/t/7932)
+* [一次攻击内网rmi服务的深思](https://forum.90sec.com/t/topic/388/1) 解决REJECTED 报错
 
 ### Shiro
 ---
@@ -288,8 +286,15 @@ Table of Contents
 * [solr-injection](https://github.com/artsploit/solr-injection#introduction)
 
 ### Spring
----
+#### Spring-boot
 * [Spring Boot Vulnerability Exploit CheckList](https://github.com/LandGrey/SpringBootVulExploit)
+* [java 安全开发之 spring boot Thymeleaf 模板注入](https://paper.seebug.org/1332/)
+
+#### Spring-cloud
+* [Spring Cloud Config Server 路径穿越与任意文件读取漏洞分 CVE-2019-3799](https://xz.aliyun.com/t/4844)
+
+#### Spring-data
+* [Spring Data Redis <=2.1.0反序列化漏洞](https://xz.aliyun.com/t/2339)
 
 ## 安全
 ### 安全list
@@ -401,6 +406,8 @@ Table of Contents
 ### 边界渗透
 #### 渗透记录和总结
 ---
+* [hacked-Facebook](https://devco.re/blog/2020/09/12/how-I-hacked-Facebook-again-unauthenticated-RCE-on-MobileIron-MDM/) -by Orange
+* [Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf) -Orange 打开的潘多拉魔盒
 * [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
 * [pentest-bookmarks](https://github.com/riskawarrior/pentest-bookmarks)
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources.
@@ -458,8 +465,7 @@ Table of Contents
 * [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -需用ROOT权限设置参数开启
 * [phpmyadmin4.8.1后台getshell](https://www.secpulse.com/archives/72817.html)
 * [无效HTTP请求绕过Lighttpd重写规则](https://www.anquanke.com/post/id/148328)
-* [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/)
-* [一次攻击内网rmi服务的深思](https://forum.90sec.com/t/topic/388/1)
+* [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/) php文件包含 绕过allow_url_fopen allow_url_include = off
 * [2个思路](https://xz.aliyun.com/t/6587) - 读取连接mysql客户端系统信息,上传
 * [JNI技术绕过rasp防护实现jsp webshell](https://mp.weixin.qq.com/s?__biz=MzA5Mzg3NTUwNQ==&mid=2447804425&idx=1&sn=91515259ee4d8a204d40e0aee8177f58)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
@@ -663,6 +669,12 @@ AWVS钓鱼
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) 
 * [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) 
 * [Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
+* [Webmin <=1.920 远程命令执行漏洞 -CVE-2019-15107](https://xz.aliyun.com/t/6040) - 精炼
+* [Webmin CVE-2019-15642](https://twitter.com/chybeta/status/1167617571287289856)
+* [从 0 开始入门 Chrome Ext 安全（一） -- 了解一个 Chrome Ext](https://paper.seebug.org/1082/)
+* [从 0 开始入门 Chrome Ext 安全（二） -- 安全的 Chrome Ext](https://paper.seebug.org/1092/)
+* [从 CVE-2018-8495 看 PC 端 url scheme 的安全问题](https://paper.seebug.org/719/)
+* [短网址安全浅谈](https://mp.weixin.qq.com/s/4hGUZWXN6qzjMcbtZsYCSA)
 
 ## Web
 ### XXE
