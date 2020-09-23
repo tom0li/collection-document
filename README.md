@@ -24,7 +24,7 @@ Table of Contents
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
       * [VPN](#VPN)
-      * [AV&amp;EDR](#AVEDR)
+      * [AV](#AV)
    * [代码审计-JAVA](#代码审计-JAVA)
       * [反序列化-其他](#反序列化-其他)
       * [RMI](#RMI)
@@ -49,14 +49,18 @@ Table of Contents
          * [DevSecOps](#DevSecOps)
       * [安全检测](#安全检测)
          * [RASP](#RASP)
-         * [IDS](#IDS)
          * [HIDS](#HIDS)
          * [WAF](#WAF)
             * [WAF建设指南](#WAF建设指南)
             * [BypassWAF](#BypassWAF)
          * [Webshell检测](#Webshell检测)
-         * [域内恶意行为检测](#域内恶意行为检测)
-         * [流量检测](#流量检测)
+         * [EDR](#EDR)
+         * [横向移动检测-蜜罐思路](#横向移动检测-蜜罐思路)
+         * [恶意DNS流量检测](#恶意DNS流量检测)
+         * [恶意ICMP流量检测](#恶意ICMP流量检测)
+         * [恶意URL检测](#恶意URL检测)
+         * [IDS](#IDS)
+         * [文本检测](#文本检测)
       * [安全运营](#安全运营)
       * [数据安全](#数据安全)
       * [个人安全](#个人安全)
@@ -108,8 +112,8 @@ Table of Contents
 ## Github-list
 ### Awesome-list
 ---
-* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - list sec 集合
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星 list 
+* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) 
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星list 
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 * [Android Security](https://github.com/ashishb/android-security-awesome) - Collection of Android security related resources.
 * [Security](https://github.com/sbilly/awesome-security) - Software, libraries, documents, and other resources.
@@ -164,7 +168,6 @@ Table of Contents
 * [安全思维导图集合](https://github.com/SecWiki/sec-chart) -by SecWiki
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) - HackerOne Reports
 * [AppSec](https://github.com/paragonie/awesome-appsec) - Resources for learning about application security.
-* [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
 * [Infosec](https://github.com/onlurking/awesome-infosec) - Information security resources for pentesting, forensics, and more.
 * [YARA](https://github.com/InQuest/awesome-yara) - YARA rules, tools, and people.
 * [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
@@ -211,7 +214,7 @@ Table of Contents
 #### Citrix Gateway/ADC
 * [Citrix Gateway/ADC 远程代码执行漏洞分析](https://blog.riskivy.com/citrix-gateway-adc-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 
-### AV&EDR
+### AV
 ---
 * [exploiting-almost-every-antivirus-software](https://www.rack911labs.com/research/exploiting-almost-every-antivirus-software/) 反制av，使用链接方式借av高权限达到任意文件删除
 * [Bypassing Windows Defender Runtime Scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/)
@@ -219,7 +222,6 @@ Table of Contents
 * [Bypass Windows DefenderAttack Surface Reduction](https://data.hackinn.com/ppt/OffensiveCon2019/Bypass%20Windows%20Exploit%20Guard%20ASR.pdf)
 * [Defender 扫描文件名问题](http://2016.eicar.org/85-0-Download.html)
 * [Vulnserver Exploit vs Windows Defender Exploit Guard](https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html)
-* [Lets-create-an-edr-and-bypass](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
 
 ## 代码审计-JAVA
 ---
@@ -318,6 +320,7 @@ Table of Contents
 
 #### 云上攻防
 ---
+* [Awesome-serverless](https://github.com/puresec/awesome-serverless-security/)
 * [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
 * [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
 
@@ -334,18 +337,13 @@ Table of Contents
 #### DevSecOps
 ---
 * [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
+* [Awesome-DevSecOps](https://github.com/devsecops/awesome-devsecops)
 
 ### 安全检测
 #### RASP
 ---
 * [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
 * [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
-
-#### IDS
----
-* [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
-* [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
-* [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
 
 #### HIDS
 ---
@@ -377,14 +375,32 @@ Table of Contents
 * [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
 * [杂谈Java内存Webshell的攻与防](https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ)
 
-#### 域内恶意行为检测
+#### EDR
 ---
+* [Lets-create-an-edr-and-bypass](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
+
+
+#### 横向移动检测-蜜罐思路
+---
+* [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
 * [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
 * [创建蜜罐账户检测Kerberoast](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
 
-#### 流量检测
+#### 恶意DNS流量检测
 ---
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
+
+#### 恶意ICMP流量检测
+
+#### 恶意URL检测
+
+#### IDS
+---
+* [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
+* [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
+* [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
+
+#### 文本检测
 
 ### 安全运营
 ---
