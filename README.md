@@ -84,7 +84,6 @@ Table of Contents
       * [XSS](#XSS)
       * [Jsonp](#Jsonp)
       * [CORS](#cors)
-      * [tools](#tools)
       * [CSRF](#CSRF)
       * [SSRF](#SSRF)
       * [SQL](#SQL)
@@ -185,8 +184,6 @@ Table of Contents
 * [us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA](https://i.blackhat.com/USA-19/Wednesday/us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf) -Orange pwn vpn
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
-
-
 
 ### ImageMagick
 ---
@@ -383,6 +380,7 @@ Table of Contents
 #### 域内恶意行为检测
 ---
 * [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
+* [创建蜜罐账户检测Kerberoast](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
 
 #### 流量检测
 ---
@@ -465,8 +463,9 @@ Table of Contents
 * [phpMyAdmin新姿势getshell](http://www.91ri.org/17525.html) -需用ROOT权限设置参数开启
 * [phpmyadmin4.8.1后台getshell](https://www.secpulse.com/archives/72817.html)
 * [无效HTTP请求绕过Lighttpd重写规则](https://www.anquanke.com/post/id/148328)
-* [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/) php文件包含 绕过allow_url_fopen allow_url_include = off
+* [RFI 绕过 URL 包含限制 getshell](https://paper.seebug.org/923/) win服务器 php文件包含 绕过allow_url_fopen allow_url_include = off
 * [2个思路](https://xz.aliyun.com/t/6587) - 读取连接mysql客户端系统信息,上传
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads 大全
 * [JNI技术绕过rasp防护实现jsp webshell](https://mp.weixin.qq.com/s?__biz=MzA5Mzg3NTUwNQ==&mid=2447804425&idx=1&sn=91515259ee4d8a204d40e0aee8177f58)
 * [代理不当日进内网](https://mp.weixin.qq.com/s/EtUmfMxxJjYNl7nIOKkRmA)
 * [浅析反向代理](https://www.anquanke.com/post/id/150436)
@@ -474,6 +473,21 @@ Table of Contents
 * [结合直接系统调用和sRDI来绕过AV / EDR](https://bbs.pediy.com/thread-253564.htm)
 * [FB Django Debug Stacktrace RCE](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)
 * [Redis on Windows 出网利用探索](https://xz.aliyun.com/t/8153) 太帅了
+* [工具| sqlmap payload修改之路](http://www.freebuf.com/column/161535.html)
+* [工具| sqlmap payload修改之路（下）](https://mp.weixin.qq.com/s/ZBJ2ZvXv1n4BcvhZFPRqRA)
+* [sqlmap源码分析](https://www.t00ls.net/viewthread.php?tid=41863&extra=page%3D1%26amp%3Borderby%3Drecommends%26amp%3Bfilter%3Drecommend)
+* [sqlmap源码分析一](https://lorexxar.cn/2016/08/09/sqlmap-source1/)
+* [sqlmap源码分析二](https://lorexxar.cn/2016/08/11/sqlmap-source2/)
+* [sqlmap源码分析三](https://lorexxar.cn/2016/08/16/sqlmap-source3/)
+* [sqlmap源码分析四](https://lorexxar.cn/2016/08/18/sqlmap-source4/)
+* [诸神之眼nmap定制化之初识NSE](http://www.freebuf.com/column/164388.html)
+* [诸神之眼nmap定制化之NSE进阶](http://www.freebuf.com/column/165252.html)
+* [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
+* [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions)
+* [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
+* [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
+* [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
+
 
 ### 内网渗透
 ---
@@ -739,25 +753,6 @@ AWVS钓鱼
 * [浅谈CORS可能产生的漏洞](https://pediy.com/thread-225058.htm)
 * [cors安全完全指南](https://xz.aliyun.com/t/2745#toc-4)
 
-### tools
-
-* [工具| sqlmap payload修改之路](http://www.freebuf.com/column/161535.html)
-* [工具| sqlmap payload修改之路（下）](https://mp.weixin.qq.com/s/ZBJ2ZvXv1n4BcvhZFPRqRA)
-* [sqlmap源码分析](https://www.t00ls.net/viewthread.php?tid=41863&extra=page%3D1%26amp%3Borderby%3Drecommends%26amp%3Bfilter%3Drecommend)
-* [sqlmap源码分析一](https://lorexxar.cn/2016/08/09/sqlmap-source1/)
-* [sqlmap源码分析二](https://lorexxar.cn/2016/08/11/sqlmap-source2/)
-* [sqlmap源码分析三](https://lorexxar.cn/2016/08/16/sqlmap-source3/)
-* [sqlmap源码分析四](https://lorexxar.cn/2016/08/18/sqlmap-source4/)
-* [诸神之眼nmap定制化之初识NSE](http://www.freebuf.com/column/164388.html)
-* [诸神之眼nmap定制化之NSE进阶](http://www.freebuf.com/column/165252.html)
-* [Burpsuite你可能不知道的技巧](http://www.freebuf.com/articles/rookie/156928.html)
-* [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions)
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Payloads 大全
-* [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
-* [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
-* [nmap](http://www.polaris-lab.com/index.php/archives/390/)
-* [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
-
 ### CSRF
 
 * [关于JSON CSRF的一些思考](https://mp.weixin.qq.com/s/kLRxHfzikhmV7NjpRJH6SA)
@@ -837,7 +832,6 @@ AWVS钓鱼
 * [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
 * [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
 * [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/)
-* [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?p=15613)
 * [我的Web应用安全模糊测试之路](https://gh0st.cn/archives/2018-07-25/1)
 * [Wfuzz初上手](https://www.secpulse.com/archives/78638.html)
 * [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
@@ -907,6 +901,7 @@ AWVS钓鱼
 * [RemTeam攻击技巧和安全防御](https://xz.aliyun.com/t/4602)
 * [Web-Security-Note](https://github.com/Smi1eSEC/Web-Security-Note)
 * [Web安全中比较好的文章](https://github.com/spoock1024/web-security) - 主要是新人入门方向
+* [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?p=15613)
 * [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
 * [一次红队之旅](https://xz.aliyun.com/t/2389) 入门
 * [linux-suid-privilege-escalation](https://www.leavesongs.com/PENETRATION/linux-suid-privilege-escalation.html)
