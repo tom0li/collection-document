@@ -298,7 +298,7 @@ Table of Contents
 ## 安全
 ### 安全list
 ---
-* [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) 数据安全 - by 404notf0und
+* [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
 * [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
 * [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
 * [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
@@ -391,8 +391,10 @@ Table of Contents
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
 
 #### 恶意ICMP流量检测
+---
 
 #### 恶意URL检测
+---
 
 #### IDS
 ---
@@ -401,6 +403,7 @@ Table of Contents
 * [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
 
 #### 文本检测
+---
 
 ### 安全运营
 ---
@@ -622,9 +625,11 @@ Table of Contents
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [论高级威胁的本质和攻击力量化研究](http://www.vxjump.net/files/aptr/aptr.txt)
 * [APT 分析及 TTPs 提取](https://paper.seebug.org/1132/)
-* [MITRE | ATT&CK 中文站](https://huntingday.github.io) 不再更新
 * [OffensiveCon会议](https://www.offensivecon.org/) 不再一一展示
 * [ATT&CK](https://attack.mitre.org/matrices/enterprise/)
+* [分析APT报告](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 比较多
+* [Red Team从0到1的实践与思考](https://mp.weixin.qq.com/s/cyxC4Of4Ic9c_vujQayTLg) 介绍Red Team是什么
+* [MITRE | ATT&CK 中文站](https://huntingday.github.io) 不再更新
 
 ### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html) - 用于获取用户字典
