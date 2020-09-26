@@ -298,11 +298,12 @@ Table of Contents
 ## 安全
 ### 安全list
 ---
+* [arxiv.org](https://arxiv.org/) 论文库
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
 * [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
 * [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
 * [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
-* [cdxy-Blog](https://www.cdxy.me/) 太帅了
+* [cdxy](https://www.cdxy.me/) 太帅了
 * [zuozuovera-Blog](https://www.zuozuovera.com/)
 
 ### 云安全
