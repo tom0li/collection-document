@@ -54,6 +54,7 @@ Table of Contents
             * [WAF建设指南](#WAF建设指南)
             * [BypassWAF](#BypassWAF)
          * [Webshell检测](#Webshell检测)
+         * [反弹Shell检测](#反弹Shell检测)
          * [EDR](#EDR)
          * [横向移动检测-蜜罐思路](#横向移动检测-蜜罐思路)
          * [恶意DNS流量检测](#恶意DNS流量检测)
@@ -377,6 +378,10 @@ Table of Contents
 * [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
 * [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
 * [杂谈Java内存Webshell的攻与防](https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ)
+
+#### 反弹Shell检测
+---
+* [反弹Shell原理及检测技术研究](https://www.cnblogs.com/LittleHann/p/12038070.html) -by LittleHann tql
 
 #### EDR
 ---
