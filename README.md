@@ -135,6 +135,8 @@ Table of Contents
 * [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) - notes
 * [resource collection of python security and code review](https://github.com/bit4woo/python_sec)
 * [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview)
+* [tanjiti 信息源](https://github.com/tanjiti/sec_profile) -百度tanjiti 每天更新安全信息源
+* [CVE-Flow](https://github.com/404notf0und/CVE-Flow) 1999-2020年存量CVE数据分析、监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送
 
 ### 开发
 ---
