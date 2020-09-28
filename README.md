@@ -381,7 +381,8 @@ Table of Contents
 
 #### 反弹Shell检测
 ---
-* [反弹Shell原理及检测技术研究](https://www.cnblogs.com/LittleHann/p/12038070.html) -by LittleHann tql
+* [反弹Shell原理及检测技术研究](https://www.cnblogs.com/LittleHann/p/12038070.html) -by LittleHann
+* [反弹Shell剖析](https://cloud.tencent.com/developer/article/1645464)
 
 #### EDR
 ---
