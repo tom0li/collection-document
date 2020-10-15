@@ -344,6 +344,8 @@ Table of Contents
 * [Awesome-DevSecOps](https://github.com/devsecops/awesome-devsecops)
 
 ### 安全检测
+* [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
+
 #### RASP
 ---
 * [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
@@ -369,15 +371,17 @@ Table of Contents
 * [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
 * [对过WAF的一些认知](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
 * [WAF Bypass之webshell上传jsp与tomcat](https://www.anquanke.com/post/id/210630#)
-* [JSP Webshell那些事 -- 攻击篇](https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w)
 * [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
 
 #### Webshell检测
 ---
-* [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
 * [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
+* [Filter/Servlet型内存马的扫描抓捕与查杀](https://gv7.me/articles/2020/filter-servlet-type-memshell-scan-capture-and-kill/)
+* [杂谈Java内存Webshell的攻与防](https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ) chaitin
+* [JSP Webshell那些事 -- 攻击篇](https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w)
+* [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
 * [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
-* [杂谈Java内存Webshell的攻与防](https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ)
+
 
 #### 反弹Shell检测
 ---
@@ -398,6 +402,8 @@ Table of Contents
 #### 恶意DNS流量检测
 ---
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
+* [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测
+](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
 
 #### 恶意ICMP流量检测
 ---
@@ -427,6 +433,7 @@ Table of Contents
 ---
 * [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
 * [lcamtuf灾难计划](https://lcamtuf.coredump.cx/prep/)
+* [个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/)
 
 ## 渗透
 ### 边界渗透
