@@ -252,7 +252,7 @@ Table of Contents
 
 ### Shiro
 ---
-* [apache-shiro-java反序列化漏洞分析](https://blog.knownsec.com/2016/08/apache-shiro-java/)
+* [Shiro RememberMe 漏洞检测的探索之路](https://blog.xray.cool/post/how-to-find-shiro-rememberme-deserialization-vulnerability/)
 * [从一次开发漏洞看shiro的正确使用](https://xz.aliyun.com/t/5287)
 * [Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞](https://paper.seebug.org/shiro-rememberme-1-2-4/)
 * [强网杯“彩蛋”——Shiro 1.2.4(SHIRO-550)漏洞之发散性思考](https://blog.zsxsoft.com/post/35)
@@ -381,7 +381,7 @@ Table of Contents
 * [JSP Webshell那些事 -- 攻击篇](https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w)
 * [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
 * [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
-
+* [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
 
 #### 反弹Shell检测
 ---
@@ -419,6 +419,7 @@ Table of Contents
 
 #### 文本检测
 ---
+* [机器学习在二进制代码相似性分析中的应用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458303210&idx=1&sn=345f8cec156ada8fa9bf6a6d6de83906&chksm=b1818a6086f60376e766baf472171d8e2c780b2913568b46b683e3112fcc5f86c9bf4c19e38b&mpshare=1&scene=1&srcid=&sharer_sharetime=1580984631757&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&exportkey=A0qHBeUryuXO6zhGWt5OJNw%3D&pass_ticket=gjTFXl4hPMTBWzlKpWZWqK8HivXQ8q7ChNndmw4I8JrdAK0jWWFvKIq7OMnO3BhL#rd)
 
 ### 安全运营
 ---
