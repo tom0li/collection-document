@@ -190,6 +190,7 @@ Table of Contents
 * [us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA](https://i.blackhat.com/USA-19/Wednesday/us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf) -Orange pwn vpn
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) 
 
 ### ImageMagick
 ---
@@ -252,7 +253,7 @@ Table of Contents
 
 ### Shiro
 ---
-* [Shiro RememberMe 漏洞检测的探索之路](https://blog.xray.cool/post/how-to-find-shiro-rememberme-deserialization-vulnerability/)
+* [Shiro RememberMe 漏洞检测的探索之路](https://blog.xray.cool/post/how-to-find-shiro-rememberme-deserialization-vulnerability/) 从使用空SimplePrincipalCollection检测key到Tomcat通用回显到检测过程会碰到的种种困难
 * [从一次开发漏洞看shiro的正确使用](https://xz.aliyun.com/t/5287)
 * [Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞](https://paper.seebug.org/shiro-rememberme-1-2-4/)
 * [强网杯“彩蛋”——Shiro 1.2.4(SHIRO-550)漏洞之发散性思考](https://blog.zsxsoft.com/post/35)
@@ -305,6 +306,7 @@ Table of Contents
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
 * [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
 * [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
+* [0xMJ:AI-Security-Learning](https://github.com/0xMJ/AI-Security-Learning#webshell%E6%A3%80%E6%B5%8B)
 * [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
 * [cdxy](https://www.cdxy.me/) 太帅了
 * [zuozuovera-Blog](https://www.zuozuovera.com/)
