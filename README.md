@@ -180,7 +180,6 @@ Table of Contents
 * [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - mac软件
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) - mac软件
-* [保护隐私](https://github.com/No-Github/Digital-Privacy)
 * [ruanyf](https://github.com/ruanyf/weekly) - 科技爱好者周刊
 
 ## 预警&研究
@@ -217,6 +216,10 @@ Table of Contents
  
 #### Citrix Gateway/ADC
 * [Citrix Gateway/ADC 远程代码执行漏洞分析](https://blog.riskivy.com/citrix-gateway-adc-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
+
+### Tomcat
+---
+* [Apache Tomcat 8.x vulnerabilities](https://tomcat.apache.org/security-8.html)
 
 ### AV
 ---
@@ -437,6 +440,7 @@ Table of Contents
 * [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
 * [lcamtuf灾难计划](https://lcamtuf.coredump.cx/prep/)
 * [个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/)
+* [保护隐私](https://github.com/No-Github/Digital-Privacy)
 
 ## 渗透
 ### 边界渗透
@@ -1140,3 +1144,8 @@ We welcome everyone to contribute,you can open an issue for this if you have som
 * @[tom0li](https://github.com/tom0li)
 * @[neargle](https://github.com/neargle)
 * @[r4v3zn](https://github.com/0nise)
+
+## Star
+感谢Star
+
+[![Stargazers over time](https://starchart.cc/tom0li/collection-document.svg)](https://starchart.cc/tom0li/collection-document)
