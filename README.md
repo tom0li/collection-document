@@ -21,29 +21,13 @@ Table of Contents
       * [Awesome-list](#Awesome-list)
       * [开发](#开发)
       * [其他](#其他)
-   * [预警&amp;研究](#预警研究)
-      * [ImageMagick](#imagemagick)
-      * [Privilege-Escalation](#Privilege-Escalation)
-      * [VPN](#VPN)
-      * [AV](#AV)
-   * [代码审计-JAVA](#代码审计-JAVA)
-      * [反序列化-其他](#反序列化-其他)
-      * [RMI](#RMI)
-      * [Shiro](#Shiro)
-      * [Fastjson](#Fastjson)
-      * [Dubbo](#Dubbo)
-      * [CAS](#CAS)
-      * [Solr模版注入](#Solr模版注入)
-      * [Spring](#Spring)
-         * [Spring-boot](#Spring-boot)
-         * [Spring-cloud](#Spring-cloud)
-         * [Spring-data](#Spring-data)
    * [安全](#安全)
       * [安全list](#安全list)
       * [云安全](#云安全)
          * [云基础知识](#云基础知识)
          * [云原生安全](#云原生安全)
          * [云上攻防](#云上攻防)
+      * [AI安全](#AI安全)
       * [新安全方案](#新安全方案)
          * [构建下一代安全](#构建下一代安全)
          * [零信任](#零信任)
@@ -66,6 +50,23 @@ Table of Contents
       * [安全运营](#安全运营)
       * [数据安全](#数据安全)
       * [个人安全](#个人安全)
+   * [预警&amp;研究](#预警研究)
+      * [ImageMagick](#imagemagick)
+      * [Privilege-Escalation](#Privilege-Escalation)
+      * [VPN](#VPN)
+      * [AV](#AV)
+   * [代码审计-JAVA](#代码审计-JAVA)
+      * [反序列化-其他](#反序列化-其他)
+      * [RMI](#RMI)
+      * [Shiro](#Shiro)
+      * [Fastjson](#Fastjson)
+      * [Dubbo](#Dubbo)
+      * [CAS](#CAS)
+      * [Solr模版注入](#Solr模版注入)
+      * [Spring](#Spring)
+         * [Spring-boot](#Spring-boot)
+         * [Spring-cloud](#Spring-cloud)
+         * [Spring-data](#Spring-data)
    * [渗透](#渗透)
       * [边界渗透](#边界渗透)
          * [渗透记录和总结](#渗透记录和总结)
@@ -182,6 +183,150 @@ Table of Contents
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - mac软件
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) - mac软件
 * [ruanyf](https://github.com/ruanyf/weekly) - 科技爱好者周刊
+
+## 安全
+### 安全list
+---
+* [arxiv.org](https://arxiv.org/) 论文库
+* [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
+* [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
+* [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
+* [cdxy](https://www.cdxy.me/) 太帅了
+* [zuozuovera-Blog](https://www.zuozuovera.com/)
+
+### 云安全
+#### 云基础知识
+---
+* [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
+
+#### 云原生安全
+---
+* [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
+* [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
+* [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
+* [云原生带来的云安全机遇](https://www.freebuf.com/articles/network/242950.html) 云原生安全市场概况(非技术)
+* [阿里云安全白皮书](https://github.com/tom0li/collection-document/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+
+#### 云上攻防
+---
+* [Awesome-serverless](https://github.com/puresec/awesome-serverless-security/)
+* [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
+* [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
+
+### AI安全
+* [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
+* [0xMJ:AI-Security-Learning](https://github.com/0xMJ/AI-Security-Learning#webshell%E6%A3%80%E6%B5%8B)
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) 
+* [AI安全的威胁风险矩阵](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)
+
+### 新安全方案
+#### 构建下一代安全
+---
+* [弹性安全网络 - 构建下一代安全的互联网](https://mp.weixin.qq.com/s/epFSC88J7LF3BGwQdoZ-Rg)
+
+#### 零信任
+---
+* [张欧：数字银行可信网络实践](https://mp.weixin.qq.com/s/VRG9LEbGTxhpMmCUTUSA8w) 零信任理念
+* [零信任下代理工具](https://github.com/mandatoryprogrammer/CursedChrome/blob/master/README.md) 把chrome作为代理，可以通过chrome访问受害者可以访问web服务
+
+#### DevSecOps
+---
+* [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
+* [Awesome-DevSecOps](https://github.com/devsecops/awesome-devsecops)
+
+### 安全检测
+* [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
+
+#### RASP
+---
+* [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
+* [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
+
+#### HIDS
+---
+* [分布式HIDS集群架构设计](https://www.cnxct.com/distributed-hids-cluster-architecture-design/) 美团技术团队
+
+#### WAF
+##### WAF建设指南
+---
+* [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651199346&idx=1&sn=99f470d46554149beebb8f89fbcb1578&chksm=bd2cf2d48a5b7bc2b3aecb501855cc2efedc60f6f01026543ac2df5fa138ab2bf424fc5ab2b0&scene=21#wechat_redirect)
+
+##### BypassWAF
+---
+* [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
+* [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
+* [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
+* [SQL注入ByPass的一些小技巧](https://mp.weixin.qq.com/s/fSBZPkO0-HNYfLgmYWJKCg)
+* [在HTTP协议层面绕过WAF](https://www.freebuf.com/news/193659.html)
+* [利用分块传输吊打所有WAF](https://www.anquanke.com/post/id/169738)
+* [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
+* [对过WAF的一些认知](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
+* [WAF Bypass之webshell上传jsp与tomcat](https://www.anquanke.com/post/id/210630#)
+* [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
+
+#### Webshell检测
+---
+* [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
+* [Filter/Servlet型内存马的扫描抓捕与查杀](https://gv7.me/articles/2020/filter-servlet-type-memshell-scan-capture-and-kill/)
+* [杂谈Java内存Webshell的攻与防](https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ) 
+* [JSP Webshell那些事 -- 攻击篇](https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w)
+* [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
+* [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
+* [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
+
+#### 反弹Shell检测
+---
+* [反弹Shell原理及检测技术研究](https://www.cnblogs.com/LittleHann/p/12038070.html) -by LittleHann
+* [反弹Shell剖析](https://cloud.tencent.com/developer/article/1645464)
+
+#### EDR
+---
+* [Lets-create-an-edr-and-bypass](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
+
+
+#### 横向移动检测-蜜罐思路
+---
+* [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
+* [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
+* [创建蜜罐账户检测Kerberoast](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
+
+#### 恶意DNS流量检测
+---
+* [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
+* [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测
+](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
+
+#### 恶意ICMP流量检测
+---
+
+#### 恶意URL检测
+---
+
+#### IDS
+---
+* [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
+* [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
+* [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
+
+#### 文本检测
+---
+* [机器学习在二进制代码相似性分析中的应用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458303210&idx=1&sn=345f8cec156ada8fa9bf6a6d6de83906&chksm=b1818a6086f60376e766baf472171d8e2c780b2913568b46b683e3112fcc5f86c9bf4c19e38b&mpshare=1&scene=1&srcid=&sharer_sharetime=1580984631757&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&exportkey=A0qHBeUryuXO6zhGWt5OJNw%3D&pass_ticket=gjTFXl4hPMTBWzlKpWZWqK8HivXQ8q7ChNndmw4I8JrdAK0jWWFvKIq7OMnO3BhL#rd)
+
+### 安全运营
+---
+* [如何评价安全工作的好坏](https://zhuanlan.zhihu.com/p/226493047) 腾讯'职业欠钱'的向上管理的一些分享
+
+### 数据安全
+---
+* [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
+* [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
+
+### 个人安全
+---
+* [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
+* [lcamtuf灾难计划](https://lcamtuf.coredump.cx/prep/)
+* [个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/)
+* [保护隐私](https://github.com/No-Github/Digital-Privacy)
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
@@ -304,148 +449,6 @@ Table of Contents
 
 #### Spring-data
 * [Spring Data Redis <=2.1.0反序列化漏洞](https://xz.aliyun.com/t/2339)
-
-## 安全
-### 安全list
----
-* [arxiv.org](https://arxiv.org/) 论文库
-* [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
-* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) 
-* [AI安全的威胁风险矩阵](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)
-* [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
-* [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
-* [0xMJ:AI-Security-Learning](https://github.com/0xMJ/AI-Security-Learning#webshell%E6%A3%80%E6%B5%8B)
-* [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
-* [cdxy](https://www.cdxy.me/) 太帅了
-* [zuozuovera-Blog](https://www.zuozuovera.com/)
-
-### 云安全
-#### 云基础知识
----
-* [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
-
-#### 云原生安全
----
-* [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
-* [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
-* [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
-* [云原生带来的云安全机遇](https://www.freebuf.com/articles/network/242950.html) 云原生安全市场概况(非技术)
-* [阿里云安全白皮书](https://github.com/tom0li/collection-document/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
-
-#### 云上攻防
----
-* [Awesome-serverless](https://github.com/puresec/awesome-serverless-security/)
-* [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
-* [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
-
-### 新安全方案
-#### 构建下一代安全
----
-* [弹性安全网络 - 构建下一代安全的互联网](https://mp.weixin.qq.com/s/epFSC88J7LF3BGwQdoZ-Rg)
-
-#### 零信任
----
-* [张欧：数字银行可信网络实践](https://mp.weixin.qq.com/s/VRG9LEbGTxhpMmCUTUSA8w) 零信任理念
-* [零信任下代理工具](https://github.com/mandatoryprogrammer/CursedChrome/blob/master/README.md) 把chrome作为代理，可以通过chrome访问受害者可以访问web服务
-
-#### DevSecOps
----
-* [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
-* [Awesome-DevSecOps](https://github.com/devsecops/awesome-devsecops)
-
-### 安全检测
-* [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
-
-#### RASP
----
-* [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
-* [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
-
-#### HIDS
----
-* [分布式HIDS集群架构设计](https://www.cnxct.com/distributed-hids-cluster-architecture-design/) 美团技术团队
-
-#### WAF
-##### WAF建设指南
----
-* [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651199346&idx=1&sn=99f470d46554149beebb8f89fbcb1578&chksm=bd2cf2d48a5b7bc2b3aecb501855cc2efedc60f6f01026543ac2df5fa138ab2bf424fc5ab2b0&scene=21#wechat_redirect)
-
-##### BypassWAF
----
-* [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
-* [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
-* [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
-* [SQL注入ByPass的一些小技巧](https://mp.weixin.qq.com/s/fSBZPkO0-HNYfLgmYWJKCg)
-* [在HTTP协议层面绕过WAF](https://www.freebuf.com/news/193659.html)
-* [利用分块传输吊打所有WAF](https://www.anquanke.com/post/id/169738)
-* [WAF绕过的捷径与方法](https://www.qiaoyue.net/2019/WAF%E7%BB%95%E8%BF%87%E7%9A%84%E6%8D%B7%E5%BE%84%E4%B8%8E%E6%96%B9%E6%B3%95/)
-* [对过WAF的一些认知](http://static.anquanke.com/download/b/security-geek-2019-q2/article-18.html)
-* [WAF Bypass之webshell上传jsp与tomcat](https://www.anquanke.com/post/id/210630#)
-* [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
-
-#### Webshell检测
----
-* [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
-* [Filter/Servlet型内存马的扫描抓捕与查杀](https://gv7.me/articles/2020/filter-servlet-type-memshell-scan-capture-and-kill/)
-* [杂谈Java内存Webshell的攻与防](https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ) 
-* [JSP Webshell那些事 -- 攻击篇](https://mp.weixin.qq.com/s/YhiOHWnqXVqvLNH7XSxC9w)
-* [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
-* [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
-* [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
-
-#### 反弹Shell检测
----
-* [反弹Shell原理及检测技术研究](https://www.cnblogs.com/LittleHann/p/12038070.html) -by LittleHann
-* [反弹Shell剖析](https://cloud.tencent.com/developer/article/1645464)
-
-#### EDR
----
-* [Lets-create-an-edr-and-bypass](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
-
-
-#### 横向移动检测-蜜罐思路
----
-* [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
-* [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
-* [创建蜜罐账户检测Kerberoast](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
-
-#### 恶意DNS流量检测
----
-* [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
-* [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测
-](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
-
-#### 恶意ICMP流量检测
----
-
-#### 恶意URL检测
----
-
-#### IDS
----
-* [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
-* [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
-* [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
-
-#### 文本检测
----
-* [机器学习在二进制代码相似性分析中的应用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458303210&idx=1&sn=345f8cec156ada8fa9bf6a6d6de83906&chksm=b1818a6086f60376e766baf472171d8e2c780b2913568b46b683e3112fcc5f86c9bf4c19e38b&mpshare=1&scene=1&srcid=&sharer_sharetime=1580984631757&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&exportkey=A0qHBeUryuXO6zhGWt5OJNw%3D&pass_ticket=gjTFXl4hPMTBWzlKpWZWqK8HivXQ8q7ChNndmw4I8JrdAK0jWWFvKIq7OMnO3BhL#rd)
-
-### 安全运营
----
-* [如何评价安全工作的好坏](https://zhuanlan.zhihu.com/p/226493047) 腾讯'职业欠钱'的向上管理的一些分享
-
-### 数据安全
----
-* [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
-* [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
-
-### 个人安全
----
-* [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
-* [lcamtuf灾难计划](https://lcamtuf.coredump.cx/prep/)
-* [个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/)
-* [保护隐私](https://github.com/No-Github/Digital-Privacy)
 
 ## 渗透
 ### 边界渗透
