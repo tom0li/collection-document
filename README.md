@@ -23,6 +23,7 @@ Table of Contents
       * [其他](#其他)
    * [预警&amp;研究](#预警研究)
       * [ImageMagick](#imagemagick)
+      * [Privilege-Escalation](#Privilege-Escalation)
       * [VPN](#VPN)
       * [AV](#AV)
    * [代码审计-JAVA](#代码审计-JAVA)
@@ -78,7 +79,7 @@ Table of Contents
          * [内网平台](#内网平台)
          * [内网收集](#内网收集)
          * [内网技巧](#内网技巧)
-         * [提权](#提权)
+         * [提权利用](#提权利用)
    * [APT](#apt)
       * [钓鱼](#钓鱼)
          * [邮件伪造](#邮件伪造)
@@ -197,6 +198,9 @@ Table of Contents
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
 * [Imagemagick 邂逅 getimagesize 的那点事儿](https://paper.seebug.org/969/)
+
+### Privilege-Escalation
+* [Ubuntu-gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
 
 ### VPN
 ---
@@ -637,12 +641,12 @@ Table of Contents
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 * [Antimalware Scan Interface Provider for Persistence](https://b4rtik.github.io/posts/antimalware-scan-interface-provider-for-persistence/) 通过AMSI Provider Persistence 
 
-#### 提权
+#### 提权利用
 * [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) linux kernel exploitation 必看
 * [win提权辅助tool](https://github.com/GDSSecurity/Windows-Exploit-Suggester/)
-* [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628)
 * [windows-kernel-exploits Windows平台提权漏洞集合](https://github.com/SecWiki/windows-kernel-exploits)
 * [linux-kernel-exploits Linux平台提权漏洞集合](https://github.com/SecWiki/linux-kernel-exploits)
+* [详解Linux权限提升的攻击与防护](https://www.anquanke.com/post/id/98628) 利用入门
 
 ## APT
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
@@ -1134,13 +1138,11 @@ AWVS钓鱼
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
 ```
 
-## How to contribute?
----
+## How to contribute
 We welcome everyone to contribute,you can open an issue for this if you have some new idea about this project or you have found some quality safety articles,and then I will add your name to Acknowledgments.
 
 
 ## Acknowledgments
----
 * @[tom0li](https://github.com/tom0li)
 * @[neargle](https://github.com/neargle)
 * @[r4v3zn](https://github.com/0nise)
