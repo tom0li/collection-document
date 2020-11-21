@@ -377,6 +377,7 @@ Table of Contents
 * [Bypass Windows DefenderAttack Surface Reduction](https://data.hackinn.com/ppt/OffensiveCon2019/Bypass%20Windows%20Exploit%20Guard%20ASR.pdf)
 * [Defender 扫描文件名问题](http://2016.eicar.org/85-0-Download.html)
 * [Vulnserver Exploit vs Windows Defender Exploit Guard](https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html)
+* [herpaderping](https://github.com/jxy-s/herpaderping) 一种新型 bypass defender 
 
 ## 代码审计-JAVA
 ---
