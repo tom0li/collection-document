@@ -55,6 +55,7 @@ Table of Contents
       * [Privilege-Escalation](#Privilege-Escalation)
       * [VPN](#VPN)
       * [AV](#AV)
+      * [FUZZING](#FUZZING)
    * [代码审计-JAVA](#代码审计-JAVA)
       * [反序列化-其他](#反序列化-其他)
       * [RMI](#RMI)
@@ -104,7 +105,6 @@ Table of Contents
       * [JS](#js)
       * [DNS](#dns)
 
-   * [FUZZ](#fuzz)
    * [其他](#其他)
       * [Git](#git)
       * [二维码](#二维码)
@@ -130,7 +130,6 @@ Table of Contents
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists.
 * [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - 安全相关的内容
-* [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 * [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - by CHYbeta
 * [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - by CHYbeta
 * [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) - by JnuSimba notes 
@@ -193,6 +192,7 @@ Table of Contents
 * [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
 * [cdxy](https://www.cdxy.me/) 太帅了
 * [zuozuovera-Blog](https://www.zuozuovera.com/)
+* [安全学术圈2018年度总结](https://mp.weixin.qq.com/s/eQ5os0Fdb498BoQLKUDmrA) - 微信号安全学术圈
 
 ### 云安全
 #### 云基础知识
@@ -381,6 +381,11 @@ Table of Contents
 * [Vulnserver Exploit vs Windows Defender Exploit Guard](https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html)
 * [herpaderping](https://github.com/jxy-s/herpaderping) 一种新型 bypass defender 
 
+### FUZZING
+* [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
+* [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/)
+* [探索先进自动化漏洞挖掘技术中的不足](https://mp.weixin.qq.com/s/1q_YCJoyCREtgU3X2_0uqQ)
+
 ## 代码审计-JAVA
 ---
 * [javasec.org](https://javasec.org/) -by 园长
@@ -540,6 +545,11 @@ Table of Contents
 * [对AWVS一次简单分析](http://blog.wils0n.cn/archives/145/)
 * [擦除AWVS一些标志](http://0cx.cc/replace_wvs_by_wyproxy.jspx)
 * [nmap谈谈端口探测的经验与原理](http://www.freebuf.com/articles/network/146087.html)
+* [我的Web应用安全模糊测试之路](https://gh0st.cn/archives/2018-07-25/1)
+* [Wfuzz初上手](https://www.secpulse.com/archives/78638.html)
+* [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
+* [Wfuzz高阶功法1](https://gh0st.cn/archives/2018-10-28/3)
+* [Wfuzz高阶功法2](https://www.secpulse.com/archives/83173.html)
 
 
 ### 内网渗透
@@ -883,18 +893,7 @@ AWVS钓鱼
 * [DNS 域传送tools](http://www.freebuf.com/sectool/79315.html)
 * [Dnslog在SQL注入中的实战](https://www.anquanke.com/post/id/98096)
 
-## FUZZ
-* [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html)
-* [Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
-* [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/)
-* [我的Web应用安全模糊测试之路](https://gh0st.cn/archives/2018-07-25/1)
-* [Wfuzz初上手](https://www.secpulse.com/archives/78638.html)
-* [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
-* [Wfuzz高阶功法1](https://gh0st.cn/archives/2018-10-28/3)
-* [Wfuzz高阶功法2](https://www.secpulse.com/archives/83173.html)
-
 ## 其他
-
 #### Git
 
 * [Git各种错误操作撤销的方法](http://www.bugcode.cn/git_undo.html)
@@ -912,10 +911,6 @@ AWVS钓鱼
 * [浅谈动态爬虫与去重](https://www.anquanke.com/post/id/85298)
 * [浅谈动态爬虫与去重(续)](https://www.anquanke.com/post/id/95294#h2-1)
 * [爬虫基础篇[Web 漏洞扫描器]](http://blog.fatezero.org/2018/03/05/web-scanner-crawler-01/)
-
-#### 学术
-
-* [安全学术圈2018年度总结](https://mp.weixin.qq.com/s/eQ5os0Fdb498BoQLKUDmrA) - 微信号安全学术圈
 
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
