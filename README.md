@@ -193,6 +193,7 @@ Table of Contents
 * [cdxy](https://www.cdxy.me/) 太帅了
 * [zuozuovera-Blog](https://www.zuozuovera.com/)
 * [安全学术圈2018年度总结](https://mp.weixin.qq.com/s/eQ5os0Fdb498BoQLKUDmrA) - 微信号安全学术圈
+* [security-hardening](https://github.com/decalage2/awesome-security-hardening) 安全加固大全
 
 ### 云安全
 #### 云基础知识
@@ -384,7 +385,7 @@ Table of Contents
 ### FUZZING
 * [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 * [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/)
-* [探索先进自动化漏洞挖掘技术中的不足](https://mp.weixin.qq.com/s/1q_YCJoyCREtgU3X2_0uqQ)
+* [探索先进自动化漏洞挖掘技术中的不足](https://mp.weixin.qq.com/s/1q_YCJoyCREtgU3X2_0uqQ) 覆盖度问题
 
 ## 代码审计-JAVA
 ---
