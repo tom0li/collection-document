@@ -336,6 +336,7 @@ Table of Contents
 * [us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA](https://i.blackhat.com/USA-19/Wednesday/us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf) -Orange pwn vpn
 * [bypass沙箱](https://yuange1975.blogspot.com/2019/08/bypass.html) -yuange
 * [编译原理在安全领域的应用](https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog)
+* [软件无线电和开源基站在漏洞挖掘中的应用 PART 4：基带安全的一些探索和学习资源整合](https://cn0xroot.com/2020/11/21/part-4/) by 雪碧 0xroot
 
 ### ImageMagick
 ---
