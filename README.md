@@ -23,6 +23,7 @@ Table of Contents
       * [其他](#其他)
    * [安全](#安全)
       * [安全list](#安全list)
+      * [安全市场洞察](#安全市场洞察)
       * [云安全](#云安全)
          * [云基础知识](#云基础知识)
          * [云原生安全](#云原生安全)
@@ -189,11 +190,14 @@ Table of Contents
 * [arxiv.org](https://arxiv.org/) 论文库
 * [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
 * [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
-* [郑瀚Blog](https://www.cnblogs.com/littlehann/) 遍历看
-* [cdxy](https://www.cdxy.me/) 太帅了
-* [zuozuovera-Blog](https://www.zuozuovera.com/)
+* [郑瀚-Blog](https://www.cnblogs.com/littlehann/) 遍历看
+* [cdxy-Blog](https://www.cdxy.me/) 太帅
+* [zuozuovera-Blog](https://www.zuozuovera.com/) 心灵手巧
 * [安全学术圈2018年度总结](https://mp.weixin.qq.com/s/eQ5os0Fdb498BoQLKUDmrA) - 微信号安全学术圈
 * [security-hardening](https://github.com/decalage2/awesome-security-hardening) 安全加固大全
+
+### 安全市场洞察
+介绍安全市场概况、趋势、规律。国内外有安全业务厂商
 
 ### 云安全
 #### 云基础知识
