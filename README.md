@@ -362,6 +362,7 @@ Table of Contents
 #### Pulse
 * [Pulse-secure-read-passwd-to-rce](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html)  -by orange
 * [Pulse Connect Secure RCE CVE-2020-8218](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/) 
+* [Pulse Connect Secure – RCE via Template Injection (CVE-2020-8243)](https://research.nccgroup.com/2020/10/06/technical-advisory-pulse-connect-secure-rce-via-template-injection-cve-2020-8243/)
 
 #### Palo
 * [Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!](https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html)
