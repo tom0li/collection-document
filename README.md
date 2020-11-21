@@ -273,6 +273,7 @@ Table of Contents
 * [Webshell攻与防PHP](https://github.com/qiyeboy/kill_webshell_detect/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-webshell%E6%94%BB%E4%B8%8E%E9%98%B2.pdf) 
 * [污点传递理论在Webshell检测中的应用 - PHP篇](https://mp.weixin.qq.com/s/MFmSliCQaaVEQ0E66vN5Xg)
 * [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
+* [利用 intercetor 注入 spring 内存 webshell](https://github.com/LandGrey/webshell-detect-bypass/blob/master/docs/inject-interceptor-hide-webshell/inject-interceptor-hide-webshell.md) 文章是攻击利用角度
 
 #### 反弹Shell检测
 ---
@@ -282,7 +283,7 @@ Table of Contents
 #### EDR
 ---
 * [Lets-create-an-edr-and-bypass](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
-
+* [openedr](https://github.com/ComodoSecurity/openedr) 开源产品edr
 
 #### 横向移动检测-蜜罐思路
 ---
@@ -293,8 +294,8 @@ Table of Contents
 #### 恶意DNS流量检测
 ---
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
-* [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测
-](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
+* [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
+* [maltrail](https://github.com/stamparm/maltrail#introduction) 开源流量检测产品
 
 #### 恶意ICMP流量检测
 ---
