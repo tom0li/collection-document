@@ -43,9 +43,7 @@ Table of Contents
          * [反弹Shell检测](#反弹Shell检测)
          * [EDR](#EDR)
          * [横向移动检测-蜜罐思路](#横向移动检测-蜜罐思路)
-         * [恶意DNS流量检测](#恶意DNS流量检测)
-         * [恶意ICMP流量检测](#恶意ICMP流量检测)
-         * [恶意URL检测](#恶意URL检测)
+         * [恶意流量检测](#恶意流量检测)
          * [IDS](#IDS)
          * [文本检测](#文本检测)
       * [安全运营](#安全运营)
@@ -296,17 +294,13 @@ Table of Contents
 * [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
 * [创建蜜罐账户检测Kerberoast](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
 
-#### 恶意DNS流量检测
+#### 恶意流量检测
 ---
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
 * [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
 * [maltrail](https://github.com/stamparm/maltrail#introduction) 开源流量检测产品
+* [cobalt-strike-named-pipe检测](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/)
 
-#### 恶意ICMP流量检测
----
-
-#### 恶意URL检测
----
 
 #### IDS
 ---
