@@ -299,7 +299,8 @@ Table of Contents
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
 * [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
 * [maltrail](https://github.com/stamparm/maltrail#introduction) 开源流量检测产品
-* [cobalt-strike-named-pipe检测](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/)
+* [cobalt-strike-default-modules-via-named-pipe检测](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/) 检测CS上线后执行默认模块的内存pipe
+* [evading-sysmon-dns-monitoring](https://blog.xpnsec.com/evading-sysmon-dns-monitoring/)
 
 
 #### IDS
