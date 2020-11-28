@@ -300,7 +300,9 @@ Table of Contents
 * [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
 * [maltrail](https://github.com/stamparm/maltrail#introduction) 开源流量检测产品
 * [cobalt-strike-default-modules-via-named-pipe检测](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/) 检测CS上线后执行默认模块的内存pipe
+* [用DNS数据进行威胁发现](https://mp.weixin.qq.com/s/6CtRd7o4IjreLaU-hFt9vQ) 介绍360DNSMON 使用DNS监控发现skidmap后门，一些分析手法
 * [evading-sysmon-dns-monitoring](https://blog.xpnsec.com/evading-sysmon-dns-monitoring/)
+
 
 
 #### IDS
