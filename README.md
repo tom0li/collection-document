@@ -958,11 +958,13 @@ AWVS钓鱼
 * [Fuzz自动化Bypass软WAF姿势](https://4hou.win/wordpress/?p=15613)
 * [灰袍2017](https://github.com/ChrisLinn/greyhame-2017)
 * [一次红队之旅](https://xz.aliyun.com/t/2389) 入门
+* [非正经硬盘脱密方式](https://mp.weixin.qq.com/s/yaWCeemFXA3DkJNR22Nbig)
 * [linux-suid-privilege-escalation](https://www.leavesongs.com/PENETRATION/linux-suid-privilege-escalation.html)
 * [Hard_winGuide.md](https://github.com/CHEF-KOCH/HWAB/blob/master/Guide.md)
 * [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
 * [red-team-and-the-next](https://devco.re/blog/2019/10/24/evolution-of-DEVCORE-red-team-and-the-next/) -by DEVCORE
 * [道哥的黑板报](https://zhuanlan.zhihu.com/taosay) - 思考很深的年轻人 真正的大牛 
+
 ---
 旧
 ```
