@@ -377,12 +377,13 @@ Table of Contents
 ### AV
 ---
 * [exploiting-almost-every-antivirus-software](https://www.rack911labs.com/research/exploiting-almost-every-antivirus-software/) 反制av，使用链接方式借av高权限达到任意文件删除
-* [Bypassing Windows Defender Runtime Scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/)
+* [Bypassing Windows Defender Runtime Scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/) 枚举测试调用哪些api会触发Defender检测，发现创建CreateProcess和CreateRemoteThread时触发Defender，提出三种解决方案，重写api调用、添加修改指令动态解密加载、使Defender不扫描该区域，作者针对Defender扫描机制(虚拟内存比较大，只扫描MEM_PRIVATE或RWX页权限)，当可疑的API被调用时动态设置PAGE_NOACCESS内存权限Defender不会对其安全扫描
 * [Engineering antivirus evasion](https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/)
 * [Bypass Windows DefenderAttack Surface Reduction](https://data.hackinn.com/ppt/OffensiveCon2019/Bypass%20Windows%20Exploit%20Guard%20ASR.pdf)
 * [Defender 扫描文件名问题](http://2016.eicar.org/85-0-Download.html)
-* [Vulnserver Exploit vs Windows Defender Exploit Guard](https://chadduffey.com/2020/06/27/VulnServerVSExploitGuard.html)
 * [herpaderping](https://github.com/jxy-s/herpaderping) 一种新型 bypass defender 
+* [实现一款 shellcodeLoader](https://paper.seebug.org/1413/) 介绍一些shellcode执行方法,bypass sandbox方法
+* [Malware_development_part](https://0xpat.github.io/Malware_development_part_5/) 恶意软件系列教程
 
 ### FUZZING
 * [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
