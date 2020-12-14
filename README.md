@@ -680,6 +680,7 @@ Table of Contents
 * [分析APT报告](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 比较多
 * [Red Team从0到1的实践与思考](https://mp.weixin.qq.com/s/cyxC4Of4Ic9c_vujQayTLg) 介绍Red Team是什么
 * [MITRE | ATT&CK 中文站](https://huntingday.github.io) 不再更新
+* [fireeye 威胁研究](https://www.fireeye.com/blog/threat-research.html)
 
 ### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html) - 用于获取用户字典
@@ -795,7 +796,6 @@ AWVS钓鱼
 * [前端防御从入门到弃坑--CSP变迁](https://paper.seebug.org/423/)
 * [XSS测试备忘录](http://momomoxiaoxi.com/2017/10/10/XSS/)
 * [浅谈跨站脚本攻击与防御](https://thief.one/2017/05/31/1/)
-* [XSS常见利用代码及原理](http://wps2015.org/2016/12/12/usually-used-xss-code/)
 * [跨站的艺术：XSS Fuzzing 的技巧](https://cloud.tencent.com/developer/article/1004753)
 * [从瑞士军刀到变形金刚--XSS攻击面扩展](https://xianzhi.aliyun.com/forum/topic/96)
 * [渗透测试技巧之一个XSS引发的漏洞利用与思考](https://xianzhi.aliyun.com/forum/topic/1967)
