@@ -20,7 +20,7 @@ Table of Contents
    * [Github-list](#Github-list)
       * [Awesome-list](#Awesome-list)
       * [开发](#开发)
-      * [其他](#其他)
+      * [其它](#其它)
    * [安全](#安全)
       * [安全list](#安全list)
       * [安全市场洞察](#安全市场洞察)
@@ -108,6 +108,7 @@ Table of Contents
       * [Git](#git)
       * [二维码](#二维码)
       * [爬虫](#爬虫)
+      * [效率](#效率)
       * [科普](#科普)
    * [Acknowledgments](#acknowledgments)
 
@@ -917,6 +918,12 @@ AWVS钓鱼
 * [浅谈动态爬虫与去重](https://www.anquanke.com/post/id/85298)
 * [浅谈动态爬虫与去重(续)](https://www.anquanke.com/post/id/95294#h2-1)
 * [爬虫基础篇[Web 漏洞扫描器]](http://blog.fatezero.org/2018/03/05/web-scanner-crawler-01/)
+
+#### 效率
+之前的想起来补上
+---
+* [chrome-is-bad](https://chromeisbad.com/) chrome带慢mac原因
+* [zsh 和 oh my zsh冷启动速度优化](https://blog.skk.moe/post/make-oh-my-zsh-fly/)
 
 #### 科普
 * [10大深网搜索引擎](http://www.freebuf.com/news/137844.html)
