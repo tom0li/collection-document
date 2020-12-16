@@ -329,21 +329,28 @@ Table of Contents
 * [机器学习在二进制代码相似性分析中的应用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458303210&idx=1&sn=345f8cec156ada8fa9bf6a6d6de83906&chksm=b1818a6086f60376e766baf472171d8e2c780b2913568b46b683e3112fcc5f86c9bf4c19e38b&mpshare=1&scene=1&srcid=&sharer_sharetime=1580984631757&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&exportkey=A0qHBeUryuXO6zhGWt5OJNw%3D&pass_ticket=gjTFXl4hPMTBWzlKpWZWqK8HivXQ8q7ChNndmw4I8JrdAK0jWWFvKIq7OMnO3BhL#rd)
 
 ### APT研究
-可能前期大部分是攻击的内容，包含apt跟踪报告等。
+前期列出的大部分是攻击的内容，包含apt跟踪报告等。
 
 #### 高级威胁-list
 ---
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+* [分析APT报告](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 强推
 * [论高级威胁的本质和攻击力量化研究](http://www.vxjump.net/files/aptr/aptr.txt)
-* [APT 分析及 TTPs 提取](https://paper.seebug.org/1132/)
 * [OffensiveCon会议](https://www.offensivecon.org/) 不再一一展示
 * [ATT&CK](https://attack.mitre.org/matrices/enterprise/)
-* [分析APT报告](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 强推
-* [Red Team从0到1的实践与思考](https://mp.weixin.qq.com/s/cyxC4Of4Ic9c_vujQayTLg) 介绍Red Team是什么
-* [MITRE | ATT&CK 中文站](https://huntingday.github.io) 不再更新
-* [fireeye 威胁研究](https://www.fireeye.com/blog/threat-research.html)
+* [Red Team从0到1的实践与思考](https://mp.weixin.qq.com/s/cyxC4Of4Ic9c_vujQayTLg) 介绍Red Team是什么，适合团队内部red建设
+* [MITRE | ATT&CK 中文站](https://huntingday.github.io) 知识导图，已不再更新
+* [fireeye 威胁研究](https://www.fireeye.com/blog/threat-research.html) 知名威胁分析公司
+
+redrain及其团队的Anti Threat文章
 * [Noah blog](http://noahblog.360.cn/)  Anti Threat and Threat Actors through Noah Lab Analysts
 * [烽火实验室 blog](https://blogs.360.cn/)
+* [APT 分析及 TTPs 提取](https://paper.seebug.org/1132/)
+* [关于ATT＆CK/APT/归因的讨论](https://weibo.com/ttarticle/p/show?id=2309404450471736639616)
+* [Legends Always Die -- FireEye Summit中英雄联盟供应链攻击简述](https://card.weibo.com/article/m/show/id/2309404426957856047151)
+* [XShellGhost事件技术回顾报告](https://cert.360.cn/static/files/XShellGhost%E4%BA%8B%E4%BB%B6%E6%8A%80%E6%9C%AF%E5%9B%9E%E9%A1%BE%E6%8A%A5%E5%91%8A.pdf)
+* [Kingslayer A supply chain attack](http://www.hackdog.me/article/Kingslayer-A_supply_chain_attack--Part_1.html)
+
 
 #### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html) - 用于获取用户字典
