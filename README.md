@@ -300,6 +300,7 @@ Table of Contents
 * [herpaderping](https://github.com/jxy-s/herpaderping) 一种新型 bypass defender 
 * [实现一款 shellcodeLoader](https://paper.seebug.org/1413/) 介绍一些shellcode执行方法,bypass sandbox方法
 * [Malware_development_part](https://0xpat.github.io/Malware_development_part_5/) 恶意软件系列教程
+* [杀软检测及其Hook点list](https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/ANTIVURUS_ARTIFACTS.pdf)
 
 #### 横向移动检测-蜜罐思路
 ---
