@@ -111,7 +111,7 @@ Table of Contents
       * [爬虫](#爬虫)
       * [效率](#效率)
       * [科普](#科普)
-   * [How to contribute](#How to contribute)
+   * [How to contribute](#Contribute)
    * [Acknowledgments](#acknowledgments)
 
 ## Github-list
@@ -1176,7 +1176,7 @@ AWVS钓鱼
 * [Java反序列化漏洞学习实践三：理解Java的动态代理机制](http://www.polaris-lab.com/index.php/archives/453/)
 ```
 
-## How to contribute
+## Contribute
 We welcome everyone to contribute,you can open an issue for this if you have some new idea about this project or you have found some quality safety articles,and then I will add your name to Acknowledgments.
 
 
