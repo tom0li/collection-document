@@ -111,6 +111,7 @@ Table of Contents
       * [爬虫](#爬虫)
       * [效率](#效率)
       * [科普](#科普)
+   * [How to contribute](#How to contribute)
    * [Acknowledgments](#acknowledgments)
 
 ## Github-list
@@ -342,6 +343,7 @@ Table of Contents
 * [Red Team从0到1的实践与思考](https://mp.weixin.qq.com/s/cyxC4Of4Ic9c_vujQayTLg) 介绍Red Team是什么，适合团队内部red建设
 * [MITRE | ATT&CK 中文站](https://huntingday.github.io) 知识导图，已不再更新
 * [fireeye 威胁研究](https://www.fireeye.com/blog/threat-research.html) 知名威胁分析公司
+* [从Solarwinds供应链攻击（金链熊）看APT行动中的隐蔽作战](https://mp.weixin.qq.com/s/UqXC1vovKUu97569LkYm2Q) 代表qianxin分析Solarwinds攻击行为
 
 redrain及其团队的Anti Threat文章
 * [Noah blog](http://noahblog.360.cn/)  Anti Threat and Threat Actors through Noah Lab Analysts
