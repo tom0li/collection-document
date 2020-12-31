@@ -317,8 +317,10 @@ Table of Contents
 * [maltrail](https://github.com/stamparm/maltrail#introduction) 开源流量检测产品
 * [cobalt-strike-default-modules-via-named-pipe检测](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/) 检测CS上线后执行默认模块的内存pipe
 * [用DNS数据进行威胁发现](https://mp.weixin.qq.com/s/6CtRd7o4IjreLaU-hFt9vQ) 介绍360DNSMON 使用DNS监控发现skidmap后门，一些分析手法
+* [DNSMon: 用DNS数据进行威胁发现](https://blog.netlab.360.com/use-dns-data-produce-threat-intelligence-2/) 通过DNSMON监控到事件，关联分析事件
 * [evading-sysmon-dns-monitoring](https://blog.xpnsec.com/evading-sysmon-dns-monitoring/)
 * [use-dns-data-produce-threat-intelligence](https://blog.netlab.360.com/use-dns-data-produce-threat-intelligence/)
+
 
 
 #### IDS
@@ -537,6 +539,7 @@ AWVS钓鱼
 ### Dubbo
 ---
 * [Dubbo2.7.7反序列化漏洞绕过分析](https://mp.weixin.qq.com/s/jKM-Z2BTFfk_Ro1rJAxg5w) 云鼎实验室
+* [Dubbo 2.7.8多个远程代码执行漏洞](https://xz.aliyun.com/t/8917)
 
 ### CAS
 ---
@@ -653,6 +656,7 @@ AWVS钓鱼
 * [Wfuzz基本功](https://www.secpulse.com/archives/81560.html)
 * [Wfuzz高阶功法1](https://gh0st.cn/archives/2018-10-28/3)
 * [Wfuzz高阶功法2](https://www.secpulse.com/archives/83173.html)
+* [xray高级版破解](https://lgf.im/posts/security/reverse/xray-cracker/)
 
 
 ### 内网渗透
