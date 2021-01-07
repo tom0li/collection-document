@@ -58,8 +58,9 @@ Table of Contents
       * [ImageMagick](#imagemagick)
       * [Privilege-Escalation](#Privilege-Escalation)
       * [VPN](#VPN)
-      * [tomcat](#tomcat)
+      * [Tomcat](#Tomcat)
       * [FUZZING](#FUZZING)
+      * [通信安全](#通信安全)
    * [代码审计-JAVA](#代码审计-JAVA)
       * [反序列化-其他](#反序列化-其他)
       * [RMI](#RMI)
@@ -491,6 +492,14 @@ AWVS钓鱼
 * [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/)
 * [探索先进自动化漏洞挖掘技术中的不足](https://mp.weixin.qq.com/s/1q_YCJoyCREtgU3X2_0uqQ) 覆盖度问题
 
+### 通信安全
+涉及端对端通信(初版)
+---
+* [史上最全的zoom漏洞和修复方案介绍](https://mp.weixin.qq.com/s/a7mN0lTeXxA3YmZZxIGNRg)
+* [对安全即时通讯软件的流量分析攻击](https://www.anquanke.com/post/id/208678#)
+* [Shadowsocks基于二次混淆加密传输的数据保密性原理分析](https://www.secrss.com/articles/18469)
+
+
 ## 代码审计-JAVA
 ---
 * [javasec.org](https://javasec.org/) -by 园长
@@ -541,6 +550,7 @@ AWVS钓鱼
 ---
 * [Dubbo2.7.7反序列化漏洞绕过分析](https://mp.weixin.qq.com/s/jKM-Z2BTFfk_Ro1rJAxg5w) 云鼎实验室
 * [Dubbo 2.7.8多个远程代码执行漏洞](https://xz.aliyun.com/t/8917)
+* [如何绕过高版本JDK的限制进行JNDI注入利用](https://kingx.me/Restrictions-and-Bypass-of-JNDI-Manipulations-RCE.html) 绕过高版本JDK限制：利用LDAP返回序列化数据，触发本地Gadget。为什么放到Dubbo下面，因为在Dubbo碰到的问题。
 
 ### CAS
 ---
