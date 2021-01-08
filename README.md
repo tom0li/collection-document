@@ -143,6 +143,7 @@ Table of Contents
 * [Pentest_Interview](https://github.com/Leezj9671/Pentest_Interview)
 * [tanjiti 信息源](https://github.com/tanjiti/sec_profile) - by 百度tanjiti 每天爬取的安全信息源
 * [CVE-Flow](https://github.com/404notf0und/CVE-Flow) - by 404notfound 监控CVE增量更新、基于深度学习的CVE EXP预测和自动化推送
+* [security_w1k1](https://github.com/euphrat1ca/security_w1k1/) euphrat1ca师傅时时刻刻更新和安全相关的仓库
 
 ### 开发
 ---
@@ -207,6 +208,7 @@ Table of Contents
 ---
 * [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
 * [kvm](https://github.com/yifengyou/learn-kvm) yifengyou师傅 kvm笔记
+
 #### 云原生安全
 ---
 * [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
