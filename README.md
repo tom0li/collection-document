@@ -351,6 +351,7 @@ Table of Contents
 * [MITRE | ATT&CK 中文站](https://huntingday.github.io) 知识导图，已不再更新
 * [fireeye 威胁研究](https://www.fireeye.com/blog/threat-research.html) 知名威胁分析公司
 * [从Solarwinds供应链攻击（金链熊）看APT行动中的隐蔽作战](https://mp.weixin.qq.com/s/UqXC1vovKUu97569LkYm2Q) 代表qianxin分析Solarwinds攻击行为
+* [red-team-and-the-next](https://devco.re/blog/2019/10/24/evolution-of-DEVCORE-red-team-and-the-next/) -by DEVCORE
 
 redrain及其团队的Anti Threat文章
 * [Noah blog](http://noahblog.360.cn/)  Anti Threat and Threat Actors through Noah Lab Analysts
@@ -973,6 +974,7 @@ AWVS钓鱼
 * [编程的重要性之 sqlmap 源码](https://github.com/tom0li/security_circle/blob/master/88511152424522.md)
 * [资讯400多个流行站点记录用户键击 或导致个人敏感信息泄露](http://bobao.360.cn/news/detail/4389.html)
 * [https劫持理解](https://forum.90sec.org/forum.php?mod=viewthread&tid=10378&extra=page%3D3)
+* [TCP 常见故障排查](https://ms2008.github.io/2018/06/01/tcp-troubleshooting/)
 * [银行卡quickpass闪付芯片通过EVM/PBOC读取隐私信息](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25955&ctid=48)
 * [txt文本文件去重及导入数据库处理](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=25725&ctid=48)
 * [解析U盘病毒传播之文件欺骗](http://www.freebuf.com/articles/terminal/155063.html)
@@ -982,7 +984,6 @@ AWVS钓鱼
 * [Word文件加密之后](https://www.secpulse.com/archives/67398.html)
 * [腾讯2017年度网络黑产威胁源研究报告](https://book.yunzhan365.com/odqt/yzzl/mobile/index.html)
 * [洗钱工具“手机充值卡”卡号卡密灰色行业套现洗白链](http://www.freebuf.com/column/163232.html)
-* [kali安装后](http://metaphors.name/coding/2018/03/10/Kali.html)
 * [请求方法问题](http://www.freebuf.com/articles/web/172695.html)
 * [Python工具分析风险数据](https://www.secpulse.com/archives/66377.html)
 * [技术讨论 | 构建一个小巧的来电显示迷惑工具](http://www.freebuf.com/sectool/173730.html)
@@ -990,8 +991,6 @@ AWVS钓鱼
 * [远程定位追踪联网车辆以及利用思路分析](http://www.freebuf.com/vuls/178604.html)
 * [智能锁具攻防系列一初探](https://future-sec.com/intelligent-lock-attack-and-defense-1.html)
 * [我的世界观](https://mp.weixin.qq.com/s?__biz=MzA3NTEzMTUwNA==&mid=200044901&idx=1&sn=2a40b65874b54f7d2c80303ee6558d9b#rd)
-* [ivideo](https://github.com/phobal/ivideo)
-* [baidu云盘](https://github.com/cool2528/baiduCDP)
 * [偷U盘文件的神器](https://github.com/kenvix/USBCopyer)
 * [内网安全检查/渗透总结](https://xz.aliyun.com/t/2354)
 * [Linux内网渗透](https://thief.one/2017/08/09/2/)
@@ -1010,7 +1009,6 @@ AWVS钓鱼
 * [linux-suid-privilege-escalation](https://www.leavesongs.com/PENETRATION/linux-suid-privilege-escalation.html)
 * [Hard_winGuide.md](https://github.com/CHEF-KOCH/HWAB/blob/master/Guide.md)
 * [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
-* [red-team-and-the-next](https://devco.re/blog/2019/10/24/evolution-of-DEVCORE-red-team-and-the-next/) -by DEVCORE
 * [道哥的黑板报](https://zhuanlan.zhihu.com/taosay) - 思考很深的年轻人 真正的大牛 
 
 ---
