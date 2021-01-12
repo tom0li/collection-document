@@ -344,14 +344,13 @@ Table of Contents
 #### 高级威胁-list
 ---
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
-* [分析APT报告](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 强推
+* [分析APT报告集合](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 强推
 * [论高级威胁的本质和攻击力量化研究](http://www.vxjump.net/files/aptr/aptr.txt)
 * [OffensiveCon会议](https://www.offensivecon.org/) 不再一一展示
 * [ATT&CK](https://attack.mitre.org/matrices/enterprise/)
 * [Red Team从0到1的实践与思考](https://mp.weixin.qq.com/s/cyxC4Of4Ic9c_vujQayTLg) 介绍Red Team是什么，适合团队内部red建设
 * [MITRE | ATT&CK 中文站](https://huntingday.github.io) 知识导图，已不再更新
 * [fireeye 威胁研究](https://www.fireeye.com/blog/threat-research.html) 知名威胁分析公司
-* [从Solarwinds供应链攻击（金链熊）看APT行动中的隐蔽作战](https://mp.weixin.qq.com/s/UqXC1vovKUu97569LkYm2Q) 代表qianxin分析Solarwinds攻击行为
 * [red-team-and-the-next](https://devco.re/blog/2019/10/24/evolution-of-DEVCORE-red-team-and-the-next/) -by DEVCORE
 
 redrain及其团队的Anti Threat文章
@@ -363,6 +362,11 @@ redrain及其团队的Anti Threat文章
 * [XShellGhost事件技术回顾报告](https://cert.360.cn/static/files/XShellGhost%E4%BA%8B%E4%BB%B6%E6%8A%80%E6%9C%AF%E5%9B%9E%E9%A1%BE%E6%8A%A5%E5%91%8A.pdf)
 * [Kingslayer A supply chain attack](http://www.hackdog.me/article/Kingslayer-A_supply_chain_attack--Part_1.html)
 
+Solarwinds供应链分析
+* [从Solarwinds供应链攻击（金链熊）看APT行动中的隐蔽作战](https://mp.weixin.qq.com/s/UqXC1vovKUu97569LkYm2Q) 代表qianxin分析Solarwinds攻击行为
+* [Solarwinds分析](https://go.recordedfuture.com/hubfs/reports/pov-2020-1230.pdf) 
+* [Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+* [SUNBURST分析其他细节](https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html)
 
 #### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html) - 用于获取用户字典
