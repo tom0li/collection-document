@@ -511,8 +511,8 @@ AWVS钓鱼
 ## 代码审计-JAVA
 ---
 * [javasec.org](https://javasec.org/) -by 园长
-* [JAVA代码审计的一些Tips(附脚本)](https://xianzhi.aliyun.com/forum/topic/1633)
-* [敏信Java代码审计-层层推进](https://xianzhi.aliyun.com/forum/topic/2074)
+* [JAVA代码审计的一些Tips(附脚本)](https://xz.aliyun.com/t/1633)
+* [敏信Java代码审计-层层推进](https://xz.aliyun.com/t/2074)
 * [Java漏洞代码](https://github.com/JoyChou93/java-sec-code)
 * [代码审计知识星球精选](https://tricking.io)
 
