@@ -184,6 +184,10 @@ Table of Contents
 * [2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization) - by 404notf0und
 * [996.Leave](https://github.com/623637646/996.Leave)
 * [租房要点，适用于北上广深杭](https://github.com/soulteary/tenant-point)
+* [北京买房](https://github.com/facert/beijing_house_knowledge)
+* [北京买房图鉴](https://github.com/yangyiRunning/Beijing-House)
+* [上海买房](https://github.com/ayuer/shanghai_house_knowledge)
+* [杭州买房](https://github.com/houshanren/hangzhou_house_knowledge)
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - mac软件
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7) - mac软件
 * [ruanyf](https://github.com/ruanyf/weekly) - 科技爱好者周刊
