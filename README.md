@@ -1,7 +1,5 @@
 # Project Description
----
-### Collection of quality safety articles(To be rebuilt)
-
+Collection of quality safety articles(To be rebuilt)
 ```
 Some are inconvenient to release.  
 Some forget update,can see me star.  
@@ -12,113 +10,114 @@ collection-document awesome
 Author: [tom0li]  
 Blog: https://tom0li.github.io
 ```
----
-
-Table of Contents
-=================
-
-   * [Github-list](#Github-list)
-      * [Awesome-list](#Awesome-list)
-      * [开发](#开发)
-      * [其它](#其它)
-   * [安全](#安全)
-      * [安全list](#安全list)
-      * [安全市场洞察](#安全市场洞察)
-      * [云安全](#云安全)
-         * [云基础知识](#云基础知识)
-         * [云原生安全](#云原生安全)
-         * [云上攻防](#云上攻防)
-      * [AI安全](#AI安全)
-      * [新安全方案](#新安全方案)
-         * [构建下一代安全](#构建下一代安全)
-         * [零信任](#零信任)
-         * [DevSecOps](#DevSecOps)
-      * [安全检测](#安全检测)
-         * [RASP](#RASP)
-         * [HIDS](#HIDS)
-         * [WAF](#WAF)
-            * [WAF建设指南](#WAF建设指南)
-            * [BypassWAF](#BypassWAF)
-         * [Webshell检测](#Webshell检测)
-         * [反弹Shell检测](#反弹Shell检测)
-         * [EDR](#EDR)
-         * [AV](#AV)
-         * [横向移动检测-蜜罐思路](#横向移动检测-蜜罐思路)
-         * [恶意流量检测](#恶意流量检测)
-         * [IDS](#IDS)
-         * [文本检测](#文本检测)
-      * [APT研究](#APT研究)
-         * [高级威胁-list](#高级威胁-list)
-         * [钓鱼](#钓鱼)
-         * [C2-RAT](#C2-RAT)
-      * [安全运营](#安全运营)
-      * [数据安全](#数据安全)
-      * [个人安全](#个人安全)
-   * [预警&amp;研究](#预警研究)
-      * [ImageMagick](#imagemagick)
-      * [Privilege-Escalation](#Privilege-Escalation)
-      * [VPN](#VPN)
-      * [Tomcat](#Tomcat)
-      * [FUZZING](#FUZZING)
-      * [通信安全](#通信安全)
-   * [代码审计-JAVA](#代码审计-JAVA)
-      * [反序列化-其他](#反序列化-其他)
-      * [RMI](#RMI)
-      * [Shiro](#Shiro)
-      * [Fastjson](#Fastjson)
-      * [Dubbo](#Dubbo)
-      * [CAS](#CAS)
-      * [Solr模版注入](#Solr模版注入)
-      * [Spring](#Spring)
-         * [Spring-boot](#Spring-boot)
-         * [Spring-cloud](#Spring-cloud)
-         * [Spring-data](#Spring-data)
-   * [渗透](#渗透)
-      * [边界渗透](#边界渗透)
-         * [渗透记录和总结](#渗透记录和总结)
-         * [信息收集](#信息收集)
-         * [靶场](#靶场)
-         * [渗透技巧](#渗透技巧)
-      * [内网渗透](#内网渗透)
-         * [Exchange](#Exchange)
-         * [hash ticket Credential](#hash-ticket-Credential)
-         * [代理转发与端口复用](#代理转发与端口复用)
-         * [内网平台](#内网平台)
-         * [内网收集](#内网收集)
-         * [内网技巧](#内网技巧)
-         * [提权利用](#提权利用)
-   * [Bug_Bounty](#Bug_Bounty)
-   * [Web](#web)
-      * [XXE](#xxe)
-      * [XSS](#XSS)
-      * [Jsonp](#Jsonp)
-      * [CORS](#cors)
-      * [CSRF](#CSRF)
-      * [SSRF](#SSRF)
-      * [SQL](#SQL)
-      * [文件包含](#文件包含)
-      * [上传](#上传)
-      * [任意文件读取](#任意文件读取)
-      * [Web缓存欺骗](#Web缓存欺骗)
-      * [Web缓存投毒](#Web缓存投毒)
-      * [SSI](#SSI)
-      * [SSTI](#SSTI)
-      * [JS](#js)
-      * [DNS](#dns)
-
-   * [其他](#其他)
-      * [Git](#git)
-      * [二维码](#二维码)
-      * [爬虫](#爬虫)
-      * [效率](#效率)
-      * [科普](#科普)
-   * [How to contribute](#Contribute)
-   * [Acknowledgments](#acknowledgments)
-   * [Star](#Star)
+- [Project Description](#project-description)
+  - [Github-list](#github-list)
+    - [Awesome-list](#awesome-list)
+    - [开发](#开发)
+    - [其它](#其它)
+  - [安全](#安全)
+    - [安全list](#安全list)
+    - [安全市场洞察](#安全市场洞察)
+    - [云安全](#云安全)
+      - [云基础知识](#云基础知识)
+      - [云原生安全](#云原生安全)
+      - [云上攻防](#云上攻防)
+    - [AI安全](#ai安全)
+    - [新安全方案](#新安全方案)
+      - [构建下一代安全](#构建下一代安全)
+      - [零信任](#零信任)
+      - [DevSecOps](#devsecops)
+    - [安全检测](#安全检测)
+      - [RASP](#rasp)
+      - [HIDS](#hids)
+      - [WAF](#waf)
+        - [WAF建设指南](#waf建设指南)
+        - [BypassWAF](#bypasswaf)
+      - [Webshell检测](#webshell检测)
+      - [反弹Shell检测](#反弹shell检测)
+      - [EDR](#edr)
+      - [AV](#av)
+      - [横向移动检测-蜜罐思路](#横向移动检测-蜜罐思路)
+      - [恶意流量检测](#恶意流量检测)
+      - [IDS](#ids)
+      - [文本检测](#文本检测)
+    - [APT研究](#apt研究)
+      - [高级威胁-list](#高级威胁-list)
+      - [钓鱼](#钓鱼)
+      - [C2-RAT](#c2-rat)
+    - [安全运营](#安全运营)
+    - [数据安全](#数据安全)
+    - [个人安全](#个人安全)
+  - [预警&研究](#预警研究)
+    - [ImageMagick](#imagemagick)
+    - [Privilege-Escalation](#privilege-escalation)
+    - [VPN](#vpn)
+      - [Sangfor](#sangfor)
+      - [Pulse](#pulse)
+      - [Palo](#palo)
+      - [Fortigate](#fortigate)
+      - [Citrix Gateway/ADC](#citrix-gatewayadc)
+    - [Tomcat](#tomcat)
+    - [FUZZING](#fuzzing)
+    - [通信安全](#通信安全)
+      - [端对端通信(初版)](#端对端通信初版)
+      - [SNI](#sni)
+  - [代码审计-JAVA](#代码审计-java)
+    - [反序列化-其他](#反序列化-其他)
+    - [RMI](#rmi)
+    - [Shiro](#shiro)
+    - [Fastjson](#fastjson)
+    - [Dubbo](#dubbo)
+    - [CAS](#cas)
+    - [Solr模版注入](#solr模版注入)
+    - [Spring](#spring)
+      - [Spring-boot](#spring-boot)
+      - [Spring-cloud](#spring-cloud)
+      - [Spring-data](#spring-data)
+  - [渗透](#渗透)
+    - [边界渗透](#边界渗透)
+      - [渗透记录和总结](#渗透记录和总结)
+      - [信息收集](#信息收集)
+      - [靶场](#靶场)
+      - [渗透技巧](#渗透技巧)
+    - [内网渗透](#内网渗透)
+      - [Exchange](#exchange)
+      - [hash ticket Credential](#hash-ticket-credential)
+      - [代理转发与端口复用](#代理转发与端口复用)
+      - [内网平台](#内网平台)
+      - [内网技巧](#内网技巧)
+      - [提权利用](#提权利用)
+  - [Bug_Bounty](#bug_bounty)
+  - [Web](#web)
+    - [XXE](#xxe)
+    - [XSS](#xss)
+    - [Jsonp](#jsonp)
+    - [CORS](#cors)
+    - [CSRF](#csrf)
+    - [SSRF](#ssrf)
+    - [SQL](#sql)
+    - [文件包含](#文件包含)
+    - [上传](#上传)
+    - [任意文件读取](#任意文件读取)
+    - [Web缓存欺骗](#web缓存欺骗)
+    - [Web缓存投毒](#web缓存投毒)
+    - [SSI](#ssi)
+    - [SSTI](#ssti)
+    - [JS](#js)
+    - [DNS](#dns)
+  - [其他](#其他)
+      - [Git](#git)
+      - [二维码](#二维码)
+      - [爬虫](#爬虫)
+      - [效率](#效率)
+      - [科普](#科普)
+  - [Contribute](#contribute)
+  - [Acknowledgments](#acknowledgments)
+  - [Star](#star)
 
 ## Github-list
 ### Awesome-list
----
+
 * [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) 
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 万星list 
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
@@ -146,7 +145,7 @@ Table of Contents
 * [security_w1k1](https://github.com/euphrat1ca/security_w1k1/) euphrat1ca师傅时时刻刻更新和安全相关的仓库
 
 ### 开发
----
+
 * [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 * [Java学习+面试指南 一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 * [Python Cheat Sheet ](https://github.com/crazyguitar/pysheeet)
@@ -166,7 +165,7 @@ Table of Contents
 * [reverse-interview](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 
 ### 其它
----
+
 * [信息安全从业者书单推荐](https://github.com/riusksk/secbook)
 * [专为程序员编写的英语学习指南 v1.2](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
@@ -194,7 +193,7 @@ Table of Contents
 
 ## 安全
 ### 安全list
----
+
 * [arxiv.org](https://arxiv.org/) 论文库
 * [404notf0und学习记录](https://github.com/404notf0und/Always-Learning#APT%E6%A3%80%E6%B5%8B) 关注安全检测部分
 * [Donot师傅收集的入侵检测相关的内容](https://github.com/donot-wong/SecAcademic)
@@ -209,12 +208,12 @@ Table of Contents
 
 ### 云安全
 #### 云基础知识
----
+
 * [虚拟化简介](https://yuvaly0.github.io/2020/06/19/introduction-to-virtualization.html)
 * [kvm](https://github.com/yifengyou/learn-kvm) yifengyou师傅 kvm笔记
 
 #### 云原生安全
----
+
 * [Google:BeyondProd模型](https://cloud.google.com/security/beyondprod?hl=zh-cn)
 * [美团云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html) 
 * [云原生入侵检测趋势观察](https://xz.aliyun.com/t/7841)
@@ -222,7 +221,7 @@ Table of Contents
 * [阿里云安全白皮书](https://github.com/tom0li/collection-document/blob/master/%E9%98%BF%E9%87%8C%E4%BA%91%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 #### 云上攻防
----
+
 * [Awesome-serverless](https://github.com/puresec/awesome-serverless-security/)
 * [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
 * [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
@@ -237,16 +236,16 @@ Table of Contents
 
 ### 新安全方案
 #### 构建下一代安全
----
+
 * [弹性安全网络 - 构建下一代安全的互联网](https://mp.weixin.qq.com/s/epFSC88J7LF3BGwQdoZ-Rg)
 
 #### 零信任
----
+
 * [张欧：数字银行可信网络实践](https://mp.weixin.qq.com/s/VRG9LEbGTxhpMmCUTUSA8w) 零信任理念
 * [零信任下代理工具](https://github.com/mandatoryprogrammer/CursedChrome/blob/master/README.md) 把chrome作为代理，可以通过chrome访问受害者可以访问web服务
 
 #### DevSecOps
----
+
 * [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
 * [Awesome-DevSecOps](https://github.com/devsecops/awesome-devsecops)
 
@@ -254,21 +253,21 @@ Table of Contents
 * [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
 
 #### RASP
----
+
 * [浅谈RASP](https://lucifaer.com/2019/09/25/%E6%B5%85%E8%B0%88RASP/)
 * [以OpenRASP为基础-展开来港港RASP的类加载](https://xz.aliyun.com/t/8148)
 
 #### HIDS
----
+
 * [分布式HIDS集群架构设计](https://www.cnxct.com/distributed-hids-cluster-architecture-design/) 美团技术团队
 
 #### WAF
 ##### WAF建设指南
----
+
 * [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651199346&idx=1&sn=99f470d46554149beebb8f89fbcb1578&chksm=bd2cf2d48a5b7bc2b3aecb501855cc2efedc60f6f01026543ac2df5fa138ab2bf424fc5ab2b0&scene=21#wechat_redirect)
 
 ##### BypassWAF
----
+
 * [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
 * [个人总结的waf绕过注入思路（附带6种常见waf的绕过方法）](https://www.t00ls.net/viewthread.php?tid=43687&extra=&page=1)
 * [老司机带你过常规WAF](https://www.secpulse.com/archives/69983.html)
@@ -281,7 +280,7 @@ Table of Contents
 * [各种姿势jsp webshell](https://xz.aliyun.com/t/7798)
 
 #### Webshell检测
----
+
 * [查杀Java web filter型内存马](http://gv7.me/articles/2020/kill-java-web-filter-memshell/)
 * [Filter/Servlet型内存马的扫描抓捕与查杀](https://gv7.me/articles/2020/filter-servlet-type-memshell-scan-capture-and-kill/)
 * [杂谈Java内存Webshell的攻与防](https://mp.weixin.qq.com/s/DRbGeVOcJ8m9xo7Gin45kQ) 
@@ -292,17 +291,17 @@ Table of Contents
 * [利用 intercetor 注入 spring 内存 webshell](https://github.com/LandGrey/webshell-detect-bypass/blob/master/docs/inject-interceptor-hide-webshell/inject-interceptor-hide-webshell.md) 文章是攻击利用角度
 
 #### 反弹Shell检测
----
+
 * [反弹Shell原理及检测技术研究](https://www.cnblogs.com/LittleHann/p/12038070.html) -by LittleHann
 * [反弹Shell剖析](https://cloud.tencent.com/developer/article/1645464)
 
 #### EDR
----
+
 * [Lets-create-an-edr-and-bypass](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
 * [openedr](https://github.com/ComodoSecurity/openedr) 开源产品edr
 
 #### AV
----
+
 * [exploiting-almost-every-antivirus-software](https://www.rack911labs.com/research/exploiting-almost-every-antivirus-software/) 反制av，使用链接方式借av高权限达到任意文件删除
 * [Bypassing Windows Defender Runtime Scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/) 枚举测试调用哪些api会触发Defender检测，发现创建CreateProcess和CreateRemoteThread时触发Defender，提出三种解决方案，重写api调用、添加修改指令动态解密加载、使Defender不扫描该区域，作者针对Defender扫描机制(虚拟内存比较大，只扫描MEM_PRIVATE或RWX页权限)，当可疑的API被调用时动态设置PAGE_NOACCESS内存权限Defender不会对其安全扫描
 * [Engineering antivirus evasion](https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/)
@@ -314,13 +313,13 @@ Table of Contents
 * [杀软检测及其Hook点list](https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/ANTIVURUS_ARTIFACTS.pdf)
 
 #### 横向移动检测-蜜罐思路
----
+
 * [Honeypots](https://github.com/paralax/awesome-honeypots) - Honeypots, tools, components, and more.
 * [Hunting for Skeleton Key Implants](https://riccardoancarani.github.io/2020-08-08-hunting-for-skeleton-keys/) 检测Skeleton Key 持久化
 * [创建蜜罐账户检测Kerberoast](https://www.pentestpartners.com/security-blog/honeyroasting-how-to-detect-kerberoast-breaches-with-honeypots/)
 
 #### 恶意流量检测
----
+
 * [DataCon2020题解:通过蜜罐与DNS流量追踪Botnet](https://www.cdxy.me/?p=829)
 * [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html#_label0)
 * [maltrail](https://github.com/stamparm/maltrail#introduction) 开源流量检测产品
@@ -333,20 +332,20 @@ Table of Contents
 
 
 #### IDS
----
+
 * [我们来谈一谈IDS签名](https://www.anquanke.com/post/id/102948#h2-0)
 * [不按顺序来的 TCP 包](https://strcpy.me/index.php/archives/789/)
 * [网络层绕过 IDS/IPS 的一些探索](https://paper.seebug.org/1173/)
 
 #### 文本检测
----
+
 * [机器学习在二进制代码相似性分析中的应用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458303210&idx=1&sn=345f8cec156ada8fa9bf6a6d6de83906&chksm=b1818a6086f60376e766baf472171d8e2c780b2913568b46b683e3112fcc5f86c9bf4c19e38b&mpshare=1&scene=1&srcid=&sharer_sharetime=1580984631757&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&exportkey=A0qHBeUryuXO6zhGWt5OJNw%3D&pass_ticket=gjTFXl4hPMTBWzlKpWZWqK8HivXQ8q7ChNndmw4I8JrdAK0jWWFvKIq7OMnO3BhL#rd)
 
 ### APT研究
 前期列出的大部分是攻击的内容，包含apt跟踪报告等。
 
 #### 高级威胁-list
----
+
 * [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [分析APT报告集合](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) 强推
 * [论高级威胁的本质和攻击力量化研究](http://www.vxjump.net/files/aptr/aptr.txt)
@@ -420,7 +419,7 @@ AWVS钓鱼
 ```
 * [..etc]()
 
----
+
 
 邮件伪造
 * [一封伪造邮件引发的“探索”（涉及钓鱼邮件、SPF和DKIM等）](http://www.freebuf.com/articles/web/138764.html)
@@ -433,23 +432,23 @@ AWVS钓鱼
 * [Gsuite SMTP inject](https://www.ehpus.com/post/smtp-injection-in-gsuite)
 
 #### C2-RAT
----
+
 目前只是简单列一下
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 * [QuasarRAT](https://github.com/quasar/QuasarRAT)
 * [CS]()
 
 ### 安全运营
----
+
 * [如何评价安全工作的好坏](https://zhuanlan.zhihu.com/p/226493047) 腾讯'职业欠钱'的向上管理的一些分享
 
 ### 数据安全
----
+
 * [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
 * [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
 
 ### 个人安全
----
+
 * [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
 * [lcamtuf灾难计划](https://lcamtuf.coredump.cx/prep/)
 * [个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/)
@@ -466,7 +465,7 @@ AWVS钓鱼
 * [recovering-passwords-from-pixelized-screenshots-sipke-mellema](https://www.linkedin.com/pulse/recovering-passwords-from-pixelized-screenshots-sipke-mellema) 去除文本马赛克,测试限制条件过多,需要同一截图软件、xy坐标、字体、颜色
 
 ### ImageMagick
----
+
 * [ImageMagick漏洞凑热闹手札](https://d0n9.github.io/2018/08/22/ImageMagick%20%E6%BC%8F%E6%B4%9E%E5%87%91%E7%83%AD%E9%97%B9%E6%89%8B%E6%9C%AD/#)
 * [如何使用Fuzzing挖掘ImageMagick的漏洞](https://github.com/lcatro/Fuzzing-ImageMagick/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Fuzzing%E6%8C%96%E6%8E%98ImageMagick%E7%9A%84%E6%BC%8F%E6%B4%9E.md)
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
@@ -476,7 +475,7 @@ AWVS钓鱼
 * [Ubuntu-gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
 
 ### VPN
----
+
 #### Sangfor
 * [深信服后台RCE](https://www.cnblogs.com/potatsoSec/p/12326356.html)
 * [深信服前台RCE由于没公开不附链接]()
@@ -496,7 +495,7 @@ AWVS钓鱼
 * [Citrix Gateway/ADC 远程代码执行漏洞分析](https://blog.riskivy.com/citrix-gateway-adc-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/)
 
 ### Tomcat
----
+
 * [Apache Tomcat 8.x vulnerabilities](https://tomcat.apache.org/security-8.html)
 
 ### FUZZING
@@ -505,15 +504,19 @@ AWVS钓鱼
 * [探索先进自动化漏洞挖掘技术中的不足](https://mp.weixin.qq.com/s/1q_YCJoyCREtgU3X2_0uqQ) 覆盖度问题
 
 ### 通信安全
-涉及端对端通信(初版)
----
+#### 端对端通信(初版)
 * [史上最全的zoom漏洞和修复方案介绍](https://mp.weixin.qq.com/s/a7mN0lTeXxA3YmZZxIGNRg)
 * [对安全即时通讯软件的流量分析攻击](https://www.anquanke.com/post/id/208678#)
 * [Shadowsocks基于二次混淆加密传输的数据保密性原理分析](https://www.secrss.com/articles/18469)
 
+#### SNI
+* [ESNI](https://www.cloudflare.com/zh-cn/learning/ssl/what-is-encrypted-sni/)  what-is-encrypted-sni
+* [encrypted-client-hello-the-future-of-esni-in-firefox](https://blog.mozilla.org/security/2021/01/07/encrypted-client-hello-the-future-of-esni-in-firefox/)
+* [encrypted-client-hello](https://blog.cloudflare.com/encrypted-client-hello/)
+
 
 ## 代码审计-JAVA
----
+
 * [javasec.org](https://javasec.org/) -by 园长
 * [JAVA代码审计的一些Tips(附脚本)](https://xz.aliyun.com/t/1633)
 * [敏信Java代码审计-层层推进](https://xz.aliyun.com/t/2074)
@@ -521,7 +524,7 @@ AWVS钓鱼
 * [代码审计知识星球精选](https://tricking.io)
 
 ### 反序列化-其他
----
+
 * [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet#java-native-serialization-binary)
 * [tomcat不出网回显](https://xz.aliyun.com/t/7535)
 * [Java 反序列化回显的多种姿势](https://xz.aliyun.com/t/7740)
@@ -530,7 +533,7 @@ AWVS钓鱼
 * [URL ECCENTRICITIES IN JAVA](https://blog.pwnl0rd.me/post/lfi-netdoc-file-java/) java url类请求导致的ssrf lfi 泄漏java版本
 
 ### RMI
----
+
 * [Java RMI入门](http://scz.617.cn/network/202003121717.txt)
 * [attacking-java-rmi-services-after-jep-290](https://mogwailabs.de/blog/2019/03/attacking-java-rmi-services-after-jep-290/)
 * [针对RMI服务的九重攻击 - 上](https://xz.aliyun.com/t/7930)
@@ -538,7 +541,7 @@ AWVS钓鱼
 * [一次攻击内网rmi服务的深思](https://forum.90sec.com/t/topic/388/1) 解决REJECTED 报错
 
 ### Shiro
----
+
 * [Shiro RememberMe 漏洞检测的探索之路](https://blog.xray.cool/post/how-to-find-shiro-rememberme-deserialization-vulnerability/) 从使用空SimplePrincipalCollection检测key到Tomcat通用回显到检测过程会碰到的种种困难
 * [从一次开发漏洞看shiro的正确使用](https://xz.aliyun.com/t/5287)
 * [Shiro RememberMe 1.2.4 反序列化导致的命令执行漏洞](https://paper.seebug.org/shiro-rememberme-1-2-4/)
@@ -548,7 +551,7 @@ AWVS钓鱼
 * [Java代码执行漏洞中类动态加载的应用](https://mp.weixin.qq.com/s?__biz=MzAwNzk0NTkxNw==&mid=2247484622&idx=1&sn=8ec625711dcf87f0b6abe67483f0534d) 不出网注册filter reGeorg代理
 
 ### Fastjson
----
+
 * [fastjson反序列化利用](https://lazydog.me/post/fastjson-JdbcRowSetImpl-rce-exploit.html)
 * [FastJson =< 1.2.47 反序列化漏洞浅析](https://bithack.io/forum/393)
 * [FASTJSON反序列化之基于JNDI利用方式](https://manning23.github.io/2018/03/01/Fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96jndi%E5%88%A9%E7%94%A8%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/)
@@ -559,18 +562,18 @@ AWVS钓鱼
 * [fastjson 1.2.68 autotype bypass gadget 的一种挖掘思路](https://hackcrowd.com/forum_detail/828)
 
 ### Dubbo
----
+
 * [Dubbo2.7.7反序列化漏洞绕过分析](https://mp.weixin.qq.com/s/jKM-Z2BTFfk_Ro1rJAxg5w) 云鼎实验室
 * [Dubbo 2.7.8多个远程代码执行漏洞](https://xz.aliyun.com/t/8917)
 * [如何绕过高版本JDK的限制进行JNDI注入利用](https://kingx.me/Restrictions-and-Bypass-of-JNDI-Manipulations-RCE.html) 绕过高版本JDK限制：利用LDAP返回序列化数据，触发本地Gadget。为什么放到Dubbo下面，因为在Dubbo碰到的问题。
 
 ### CAS
----
+
 * [Apereo CAS 4.X execution参数反序列化漏洞分析](https://xz.aliyun.com/t/7032)
 * [Apereo CAS 反序列化漏洞分析及回显利用](https://www.anquanke.com/post/id/197086)
 
 ### Solr模版注入
----
+
 * [Apache Solr Injection Research](https://github.com/veracode-research/solr-injection#introduction)
 * [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
 * [Apache solr Velocity模版远程命令执行漏洞分析](http://gv7.me/articles/2019/apache-solr-velocity-rce-20191031/)
@@ -590,7 +593,7 @@ AWVS钓鱼
 ## 渗透
 ### 边界渗透
 #### 渗透记录和总结
----
+
 * [hacked-Facebook](https://devco.re/blog/2020/09/12/how-I-hacked-Facebook-again-unauthenticated-RCE-on-MobileIron-MDM/) -by Orange
 * [Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out](https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf) -Orange 打开的潘多拉魔盒
 * [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
@@ -622,7 +625,7 @@ AWVS钓鱼
 * [OOB](https://www.freebuf.com/articles/web/201013.html)
 
 #### 信息收集
----
+
 * [Red Team 视角的信息收集技术](http://blkstone.github.io/2017/04/28/pentest-recon/)
 * [渗透神器系列 搜索引擎](https://thief.one/2017/05/19/1/)
 * [Google Hacking Database](https://github.com/K0rz3n/GoogleHacking-Page/blob/master/Google%20Hacking%20Database.md)
@@ -636,12 +639,12 @@ AWVS钓鱼
 
 
 #### 靶场
----
+
 * [vulhub](https://github.com/vulhub/vulhub)
 * [vulfocus](https://github.com/fofapro/vulfocus)
 
 #### 渗透技巧
----
+
 * [BurpSuite多重代理](https://www.anquanke.com/post/id/85925)
 * [Frida.Android.Practice (ssl unpinning)](https://github.com/WooyunDota/DroidDrops/blob/master/2018/Frida.Android.Practice.md)
 * [IIS7以上突破无脚本执行权限限制](https://forum.90sec.org/forum.php?mod=viewthread&tid=10562&extra=page%3D2) 
@@ -683,7 +686,7 @@ AWVS钓鱼
 
 
 ### 内网渗透
----
+
 之前给出的文章有些内容有错误,需要实践检查
 * [AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 * [l3m0n:从零开始内网渗透学习](https://github.com/l3m0n/pentest_study)
@@ -696,7 +699,7 @@ AWVS钓鱼
 * [Windows内网渗透入门](https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA) -by 腾讯安平部
 
 #### Exchange
----
+
 * [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
 * [Exchange在渗透测试中的利用](https://evi1cg.me/archives/Exchange_Hack.html)
 * [Microsoft Exchange漏洞记录(撸向域控) - CVE-2018-8581](https://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581.html)
@@ -706,7 +709,7 @@ AWVS钓鱼
 * [Exchange服务器远程代码执行漏洞复现分析](https://xz.aliyun.com/t/7299)
 
 #### hash ticket Credential
----
+
 * [花式窃取NetNTLM哈希的方法](https://paper.seebug.org/474/)
 * [敞开的地狱之门：Kerberos协议的滥用](http://www.freebuf.com/articles/system/45631.html)
 * [NTLM-Relay](https://mp.weixin.qq.com/s/1LpgGx3-YA5aR0Mx9iryCQ)
@@ -718,7 +721,7 @@ AWVS钓鱼
 * [kerberos介绍](https://shenaniganslabs.io/media/Constructing%20Kerberos%20Attacks%20with%20Delegation%20Primitives.pdf)
 
 #### 代理转发与端口复用
----
+
 * [渗透测试技巧之内网穿透方式与思路总结](https://xz.aliyun.com/t/1623)
 * [内网漫游之SOCKS代理大结局](https://paper.tuisec.win/detail/fc04d85ab57c8bf)
 * [iptables端口复用](https://threathunter.org/topic/594545184ea5b2f5516e2033)
@@ -727,7 +730,7 @@ AWVS钓鱼
 * [win IIS端口复用](https://www.secrss.com/articles/12696)
 
 #### 内网平台
----
+
 推荐看官方手册
 * [内网剑客三结义](https://paper.tuisec.win/detail/4f04eff9c0f5b82)
 * [渗透利器Cobalt Strike - 第2篇 APT级的全面免杀与企业纵深防御体系的对抗](https://xz.aliyun.com/t/4191)
@@ -742,7 +745,7 @@ AWVS钓鱼
 * [Empire实战域渗透](http://www.4hou.com/technology/4704.html)
 
 #### 内网技巧
----
+
 * [渗透技巧——Windows系统远程桌面的多用户登录](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-Windows%E7%B3%BB%E7%BB%9F%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E7%9A%84%E5%A4%9A%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95/)
 * [渗透技巧之隐藏自己的工具](https://github.com/tom0li/security_circle/blob/master/51122255581554.md)
 * [白名单下载恶意代码的一个技巧](https://github.com/tom0li/security_circle/blob/master/28511224554581.md)
@@ -797,7 +800,7 @@ AWVS钓鱼
 
 
 ## Bug_Bounty
----
+
 * [bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - 类似乌云漏洞库。
 * [hackone-hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&querystring=&page=1) 如果看完就不用看下面的Bug_Bounty
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
@@ -970,7 +973,7 @@ AWVS钓鱼
 
 #### 效率
 之前的想起来补上
----
+
 * [chrome-is-bad](https://chromeisbad.com/) chrome带慢mac原因
 * [zsh 和 oh my zsh冷启动速度优化](https://blog.skk.moe/post/make-oh-my-zsh-fly/)
 
@@ -1020,7 +1023,7 @@ AWVS钓鱼
 * [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
 * [道哥的黑板报](https://zhuanlan.zhihu.com/taosay) - 思考很深的年轻人 真正的大牛 
 
----
+
 旧
 ```
 ### 建设
