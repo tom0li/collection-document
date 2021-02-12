@@ -531,6 +531,7 @@ AWVS钓鱼
 * [半自动化挖掘request实现多种中间件回显](http://gv7.me/articles/2020/semi-automatic-mining-request-implements-multiple-middleware-echo/)
 * [Java 后反序列化漏洞利用思路](http://rui0.cn/archives/1338)
 * [URL ECCENTRICITIES IN JAVA](https://blog.pwnl0rd.me/post/lfi-netdoc-file-java/) java url类请求导致的ssrf lfi 泄漏java版本
+* [HSQLDB 安全测试指南](https://xz.aliyun.com/t/9162#) HSQLDB(HyperSQL DataBase) 是一个完全由Java编写的小型嵌入式数据库
 
 ### RMI
 
