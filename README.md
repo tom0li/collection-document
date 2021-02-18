@@ -226,7 +226,16 @@ Blog: https://tom0li.github.io
 * [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
 * [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
 * [Kubernetes security](https://github.com/kabachook/k8s-security) This repo is a collection of kubernetes security stuff and research.
-* [Azure pwn](https://dirkjanm.io/talks/) Dirk-jan师傅的Azure议题
+* [serverless functions攻防初探](https://www.cdxy.me/?p=836) 介绍serverless functions攻击路径和防御检测手法
+* [RDS数据库攻防](https://xz.aliyun.com/t/8451)
+* [容器与云的碰撞——一次对 MinIO 的测试](https://mp.weixin.qq.com/s/X04IhY9Oau-kDOVbok8wEw)
+* [Kubernetes中使用Helm2的安全风险](http://rui0.cn/archives/1573)
+* [K8s 6443批量入侵调查](https://www.cdxy.me/?p=833)
+* [K8s渗透测试之kube-apiserver利用](https://www.cdxy.me/?p=839)
+* [K8s渗透测试etcd的利用](https://www.cdxy.me/?p=827)
+* [K8s数据安全之Secrets防护方案](https://www.cdxy.me/?p=832)
+* [Fantastic Conditional Access Policies and how to bypass them](https://dirkjanm.io/assets/raw/fantastic_policies_cloud_roundup.pdf) Dirk-jan师傅的Azure议题
+* [I’m in your cloud: A year of hacking Azure AD](https://dirkjanm.io/assets/raw/Im%20in%20your%20cloud%20bluehat-v1.0.pdf) Dirk-jan师傅的Azure议题
 
 ### AI安全
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
@@ -624,6 +633,7 @@ AWVS钓鱼
 * [服务器开放debug安全内容](https://security.tencent.com/index.php/blog/msg/137)
 * [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
 * [OOB](https://www.freebuf.com/articles/web/201013.html)
+* [H2 database渗透总结](https://www.sec-in.com/article/827)
 
 #### 信息收集
 
