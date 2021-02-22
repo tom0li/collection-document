@@ -70,6 +70,7 @@ Blog: https://tom0li.github.io
     - [Dubbo](#dubbo)
     - [CAS](#cas)
     - [Solr模版注入](#solr模版注入)
+    - [Apache Skywalking](#apache-skywalking)
     - [Spring](#spring)
       - [Spring-boot](#spring-boot)
       - [Spring-cloud](#spring-cloud)
@@ -510,8 +511,11 @@ AWVS钓鱼
 
 ### FUZZING
 * [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
-* [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/)
+* [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/) by 泉哥
 * [探索先进自动化漏洞挖掘技术中的不足](https://mp.weixin.qq.com/s/1q_YCJoyCREtgU3X2_0uqQ) 覆盖度问题
+* [Fuzzing战争: 从刀剑弓斧到星球大战](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247483742&idx=1&sn=55414da793fdf882cd6a0e396857678a&scene=21#wechat_redirect) Flanker 讲解Fuzzing历史趋势
+* [Fuzzing战争系列之二：不畏浮云遮望眼](https://mp.weixin.qq.com/s/G26MJOH4VPene1Sd_zjEQw) Coverage-Guided Fuzzing 实战
+* []()
 
 ### 通信安全
 #### 端对端通信(初版)
@@ -589,6 +593,9 @@ AWVS钓鱼
 * [Apache Solr Velocity 模板注入漏洞深度分析](https://paper.seebug.org/1107/)
 * [Apache solr Velocity模版远程命令执行漏洞分析](http://gv7.me/articles/2019/apache-solr-velocity-rce-20191031/)
 * [solr-injection](https://github.com/artsploit/solr-injection#introduction)
+
+### Apache Skywalking
+* [Apache Skywalking远程代码执行漏洞分析](https://nosec.org/home/detail/4682.html)
 
 ### Spring
 #### Spring-boot
@@ -802,6 +809,7 @@ AWVS钓鱼
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 * [BloodHound官方使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
 * [Antimalware Scan Interface Provider for Persistence](https://b4rtik.github.io/posts/antimalware-scan-interface-provider-for-persistence/) 通过AMSI Provider Persistence 
+* [Task Scheduler Lateral Movement](https://riccardoancarani.github.io/2021-01-25-random-notes-on-task-scheduler-lateral-movement/) 介绍以更小的动作利用计划任务
 
 #### 提权利用
 * [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) linux kernel exploitation 必看
