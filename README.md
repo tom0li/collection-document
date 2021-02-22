@@ -514,7 +514,7 @@ AWVS钓鱼
 * [Fuzzing平台建设的研究与设计](http://riusksk.me/2020/01/21/Fuzzing%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BE%E8%AE%A1-paper/) by 泉哥
 * [探索先进自动化漏洞挖掘技术中的不足](https://mp.weixin.qq.com/s/1q_YCJoyCREtgU3X2_0uqQ) 覆盖度问题
 * [Fuzzing战争: 从刀剑弓斧到星球大战](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247483742&idx=1&sn=55414da793fdf882cd6a0e396857678a&scene=21#wechat_redirect) Flanker 讲解Fuzzing历史趋势
-* [Fuzzing战争系列之二：不畏浮云遮望眼](https://mp.weixin.qq.com/s/G26MJOH4VPene1Sd_zjEQw) Coverage-Guided Fuzzing 实战
+* [Fuzzing战争系列之二：不畏浮云遮望眼](https://mp.weixin.qq.com/s/G26MJOH4VPene1Sd_zjEQw) Coverage-Guided Fuzzing 解决闭源思路 Static or Dynamic & Dynamic Tracing
 * []()
 
 ### 通信安全
