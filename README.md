@@ -224,13 +224,13 @@ Blog: https://tom0li.github.io
 #### 云上攻防
 
 * [Awesome-serverless](https://github.com/puresec/awesome-serverless-security/)
-* [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw)
-* [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/)
+* [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw) 清晰的阐述什么是red team, 部分典型cloud pentest路径
+* [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/) 以攻击角度介绍docker逃逸3类方法，介绍一些逃逸实际场景以及针对工程师攻击方法
 * [Kubernetes security](https://github.com/kabachook/k8s-security) This repo is a collection of kubernetes security stuff and research.
 * [serverless functions攻防初探](https://www.cdxy.me/?p=836) 介绍serverless functions攻击路径和防御检测手法
 * [RDS数据库攻防](https://xz.aliyun.com/t/8451) 通过信息泄漏的非子ACCESSKEY，配置后可外网连接RDS
 * [容器与云的碰撞——一次对 MinIO 的测试](https://mp.weixin.qq.com/s/X04IhY9Oau-kDOVbok8wEw) 主要是MinIO对象存储的SSRF漏洞，POST SSRF 307跳转构造利用
-* [Kubernetes中使用Helm2的安全风险](http://rui0.cn/archives/1573)
+* [Kubernetes中使用Helm2的安全风险](http://rui0.cn/archives/1573) 阐述针对Helm2获取secrets具体操作
 * [K8s 6443批量入侵调查](https://www.cdxy.me/?p=833) 鉴权配置不当,允许匿名用户以特权请求k8s api，请求pod创建docker，在docker执行创建特权docker并执行恶意命令，删除创建pod
 * [K8s渗透测试之kube-apiserver利用](https://www.cdxy.me/?p=839) 介绍了经典攻击路径，获取的pod中寻找高权限service acount
 * [K8s渗透测试etcd的利用](https://www.cdxy.me/?p=827) 介绍未授权etcd和攻击者有cert时渗透命令，读取service account token命令、接管集群命令
