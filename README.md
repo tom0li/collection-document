@@ -51,6 +51,7 @@ Blog: https://tom0li.github.io
   - [预警&研究](#预警研究)
     - [ImageMagick](#imagemagick)
     - [Privilege-Escalation](#privilege-escalation)
+    - [vCenter](#vcenter)
     - [VPN](#vpn)
       - [Sangfor](#sangfor)
       - [Pulse](#pulse)
@@ -237,6 +238,9 @@ Blog: https://tom0li.github.io
 * [K8s数据安全之Secrets防护方案](https://www.cdxy.me/?p=832)
 * [Fantastic Conditional Access Policies and how to bypass them](https://dirkjanm.io/assets/raw/fantastic_policies_cloud_roundup.pdf) Dirk-jan师傅的Azure议题
 * [I’m in your cloud: A year of hacking Azure AD](https://dirkjanm.io/assets/raw/Im%20in%20your%20cloud%20bluehat-v1.0.pdf) Dirk-jan师傅的Azure议题
+* [Istio访问授权再曝高危漏洞CVE-2020-8595](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487481&idx=1&sn=02a38db691331634fe41a413beb58694&chksm=e84fa926df382030ac57be9c1ee9cb8836ec37fc79e3a2cef68acb6945a51f0ed94882e39611) Istio 完全匹配模式exact匹配不当未授权访问
+
+
 
 ### AI安全
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
@@ -484,6 +488,9 @@ AWVS钓鱼
 
 ### Privilege-Escalation
 * [Ubuntu-gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
+
+### vCenter
+* [CVE-2021-21972 vCenter 6.5-7.0 RCE 漏洞分析](http://noahblog.360.cn/vcenter-6-5-7-0-rce-lou-dong-fen-xi/)
 
 ### VPN
 
