@@ -225,6 +225,7 @@ Blog: https://tom0li.github.io
 #### 云上攻防
 
 * [Awesome-serverless](https://github.com/puresec/awesome-serverless-security/)
+* [云原生渗透](https://mp.weixin.qq.com/s/Aq8RrH34PTkmF8lKzdY38g)  neargle师傅的关于云原生渗透记录，介绍云原生渗透可能碰到的服务及对应的测试思路，目前是国内公开的介绍渗透云原生概论最全的
 * [Red Teaming for Cloud](https://mp.weixin.qq.com/s/lUHd6lmFl3m9BMdSC2wwcw) 清晰的阐述什么是red team, 部分典型cloud pentest路径
 * [tom0li: docker逃逸小结](https://tom0li.github.io/Docker%E9%80%83%E9%80%B8%E5%B0%8F%E7%BB%93%E7%AC%AC%E4%B8%80%E7%89%88/) 以攻击角度介绍docker逃逸3类方法，介绍一些逃逸实际场景以及针对工程师攻击方法
 * [Kubernetes security](https://github.com/kabachook/k8s-security) This repo is a collection of kubernetes security stuff and research.
@@ -1049,6 +1050,7 @@ AWVS钓鱼
 * [Hard_winGuide.md](https://github.com/CHEF-KOCH/HWAB/blob/master/Guide.md)
 * [Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
 * [道哥的黑板报](https://zhuanlan.zhihu.com/taosay) - 思考很深的年轻人 真正的大牛 
+* [Why ping uses UDP port 1025](http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2021/02/19/ping-1025) exists just socket/connect/getsockname/close,目的是获取source ip
 
 
 旧
