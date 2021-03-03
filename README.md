@@ -469,7 +469,7 @@ AWVS钓鱼
 * [lcamtuf:灾难计划](https://lcamtuf.coredump.cx/prep/)
 * [tom0li:个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/) 普通人隐私保护思路
 * [保护隐私](https://github.com/No-Github/Digital-Privacy) 关于数字隐私搜集方法list
-* [Supercookie浏览器访问指纹](https://supercookie.me/workwise) Supercookie uses favicons to assign a unique identifier to website visitors. 使用多个访问url区别用户
+* [Supercookie浏览器访问指纹识别](https://supercookie.me/workwise) Supercookie uses favicons to assign a unique identifier to website visitors. 使用多个访问url区别用户
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
