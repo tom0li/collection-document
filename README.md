@@ -43,6 +43,7 @@ Blog: https://tom0li.github.io
       - [文本检测](#文本检测)
     - [APT研究](#apt研究)
       - [高级威胁-list](#高级威胁-list)
+      - [威胁情报](#威胁情报)
       - [钓鱼](#钓鱼)
       - [C2-RAT](#c2-rat)
     - [安全运营](#安全运营)
@@ -387,6 +388,12 @@ Solarwinds供应链分析
 * [Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
 * [SUNBURST分析其他细节](https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html)
 
+#### 威胁情报
+* [对朝鲜指控书](https://www.justice.gov/opa/press-release/file/1092091/download) 花费十年时间的归类过程
+* [浅谈网络攻击的“归因”](https://www.secrss.com/articles/14864) 介绍一些APT归类的指标、方法(参考Cyber Attribution文档) 以及一些归类文档
+* [什么是威胁情报](https://www.secrss.com/articles/16577) 介绍什么是威胁情报定义、分类、有哪些指标，通过一些案例介绍溯源归类过程
+
+
 #### 钓鱼
 * [SMTP用户枚举原理简介及相关工具](http://www.freebuf.com/articles/web/182746.html) - 用于获取用户字典
 * [鱼叉攻击](https://payloads.online/archivers/2020-02-05/1)
@@ -651,7 +658,7 @@ AWVS钓鱼
 * [Kubernetes安全入门](https://xz.aliyun.com/t/4276)
 * [OOB](https://www.freebuf.com/articles/web/201013.html)
 * [H2 database渗透总结](https://www.sec-in.com/article/827)
-
+* [Atlassian产品漏洞整理](https://www.anquanke.com/post/id/197665)
 #### 信息收集
 
 * [Red Team 视角的信息收集技术](http://blkstone.github.io/2017/04/28/pentest-recon/)
@@ -1145,10 +1152,6 @@ AWVS钓鱼
 * [IP 定位逆向追踪溯源访客真实身份调查取证](https://lcx.cc/post/4595/)
 * [域名背后的真相，一个黑产团伙的沦陷](https://www.freebuf.com/articles/terminal/127228.html)
 * [看我如何从54G日志中溯源web应用攻击路径](https://paper.tuisec.win/detail/a56f79f0d7126f5)
-
-#### 威胁情报
-* [威胁情报简介及市场浅析](http://www.freebuf.com/column/136763.html)
-* [ClickHouse与威胁日志分析](http://www.freebuf.com/column/164671.html)
 
 #### 综合
 
