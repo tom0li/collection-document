@@ -52,7 +52,7 @@ Blog: https://tom0li.github.io
   - [预警&研究](#预警研究)
     - [ImageMagick](#imagemagick)
     - [Privilege-Escalation](#privilege-escalation)
-    - [vCenter](#vcenter)
+    - [VM vCenter](#vm-vcenter)
     - [VPN](#vpn)
       - [Sangfor](#sangfor)
       - [Pulse](#pulse)
@@ -498,8 +498,9 @@ AWVS钓鱼
 ### Privilege-Escalation
 * [Ubuntu-gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
 
-### vCenter
+### VM vCenter
 * [CVE-2021-21972 vCenter 6.5-7.0 RCE 漏洞分析](http://noahblog.360.cn/vcenter-6-5-7-0-rce-lou-dong-fen-xi/)
+* [VMware vCenter RCE 漏洞踩坑实录——一个简单的RCE漏洞到底能挖出什么知识 ](https://mp.weixin.qq.com/s/eamNsLY0uKHXtUw_fiUYxQ) 介绍为什么不能在burp修改数据包来上传文件
 
 ### VPN
 
