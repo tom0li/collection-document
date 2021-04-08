@@ -247,8 +247,9 @@ Blog: https://tom0li.github.io
 ### AI安全
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
 * [0xMJ:AI-Security-Learning](https://github.com/0xMJ/AI-Security-Learning#webshell%E6%A3%80%E6%B5%8B)
-* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) 
+* [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)  针对Machine Learning系统的对抗
 * [AI安全的威胁风险矩阵](https://ai.tencent.com/ailab/media/AI%E5%AE%89%E5%85%A8%E7%9A%84%E5%A8%81%E8%83%81%E9%A3%8E%E9%99%A9%E7%9F%A9%E9%98%B5.pdf)
+* [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176) 介绍腾讯内部流量系统后台识别模块设计概况
 
 ### 新安全方案
 #### 构建下一代安全
