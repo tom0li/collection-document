@@ -80,6 +80,7 @@ Blog: https://tom0li.github.io
       - [Spring-boot](#spring-boot)
       - [Spring-cloud](#spring-cloud)
       - [Spring-data](#spring-data)
+  - [区块链](#区块链)
   - [渗透](#渗透)
     - [边界渗透](#边界渗透)
       - [渗透记录和总结](#渗透记录和总结)
@@ -635,6 +636,10 @@ AWVS钓鱼
 
 #### Spring-data
 * [Spring Data Redis <=2.1.0反序列化漏洞](https://xz.aliyun.com/t/2339)
+
+## 区块链
+* [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
+* [慢雾安全团队github](https://github.com/slowmist/)
 
 ## 渗透
 ### 边界渗透
