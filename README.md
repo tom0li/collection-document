@@ -22,12 +22,15 @@ Blog: https://tom0li.github.io
       - [云基础知识](#云基础知识)
       - [云原生安全](#云原生安全)
       - [云上攻防](#云上攻防)
+      - [VM](#vm)
+        - [vCenter](#vcenter)
+        - [SLP](#slp)
     - [AI安全](#ai安全)
     - [新安全方案](#新安全方案)
       - [构建下一代安全](#构建下一代安全)
       - [零信任](#零信任)
       - [DevSecOps](#devsecops)
-    - [安全检测](#安全检测)
+    - [威胁检测](#威胁检测)
       - [RASP](#rasp)
       - [HIDS](#hids)
       - [WAF](#waf)
@@ -41,18 +44,21 @@ Blog: https://tom0li.github.io
       - [恶意流量检测](#恶意流量检测)
       - [IDS](#ids)
       - [文本检测](#文本检测)
+    - [安全运营](#安全运营)
+    - [数据安全](#数据安全)
+      - [网络测绘](#网络测绘)
+    - [通信安全](#通信安全)
+      - [端对端通信(初版)](#端对端通信初版)
+      - [SNI](#sni)
+    - [个人安全](#个人安全)
     - [APT研究](#apt研究)
       - [高级威胁-list](#高级威胁-list)
       - [威胁情报](#威胁情报)
       - [钓鱼](#钓鱼)
       - [C2-RAT](#c2-rat)
-    - [安全运营](#安全运营)
-    - [数据安全](#数据安全)
-    - [个人安全](#个人安全)
   - [预警&研究](#预警研究)
     - [ImageMagick](#imagemagick)
     - [Privilege-Escalation](#privilege-escalation)
-    - [VM vCenter](#vm-vcenter)
     - [VPN](#vpn)
       - [Sangfor](#sangfor)
       - [Pulse](#pulse)
@@ -61,9 +67,6 @@ Blog: https://tom0li.github.io
       - [Citrix Gateway/ADC](#citrix-gatewayadc)
     - [Tomcat](#tomcat)
     - [FUZZING](#fuzzing)
-    - [通信安全](#通信安全)
-      - [端对端通信(初版)](#端对端通信初版)
-      - [SNI](#sni)
   - [代码审计-JAVA](#代码审计-java)
     - [反序列化-其他](#反序列化-其他)
     - [RMI](#rmi)
@@ -242,7 +245,13 @@ Blog: https://tom0li.github.io
 * [I’m in your cloud: A year of hacking Azure AD](https://dirkjanm.io/assets/raw/Im%20in%20your%20cloud%20bluehat-v1.0.pdf) Dirk-jan师傅的Azure议题
 * [Istio访问授权再曝高危漏洞CVE-2020-8595](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247487481&idx=1&sn=02a38db691331634fe41a413beb58694&chksm=e84fa926df382030ac57be9c1ee9cb8836ec37fc79e3a2cef68acb6945a51f0ed94882e39611) Istio 完全匹配模式exact匹配不当未授权访问
 
+#### VM 
+##### vCenter
+* [CVE-2021-21972 vCenter 6.5-7.0 RCE 漏洞分析](http://noahblog.360.cn/vcenter-6-5-7-0-rce-lou-dong-fen-xi/)
+* [VMware vCenter RCE 漏洞踩坑实录——一个简单的RCE漏洞到底能挖出什么知识 ](https://mp.weixin.qq.com/s/eamNsLY0uKHXtUw_fiUYxQ) 介绍为什么不能在burp修改数据包来上传文件
 
+##### SLP
+* [CVE-2020-3992 & CVE-2021-21974: Pre-Auth Remote Code Execution in VMware ESXi ](https://www.zerodayinitiative.com/blog/2021/3/1/cve-2020-3992-amp-cve-2021-21974-pre-auth-remote-code-execution-in-vmware-esxi) 介绍两个cve,VM官方在openSLP基础上维护的SLP有UAF漏洞且可绕过补丁
 
 ### AI安全
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) AI的力量 - by 404notf0und
@@ -266,7 +275,7 @@ Blog: https://tom0li.github.io
 * [DevSecOps理念及思考](https://mp.weixin.qq.com/s/_jBmFdtyXY5D_YrrTUP1iQ) 腾讯安全应急响应中心
 * [Awesome-DevSecOps](https://github.com/devsecops/awesome-devsecops)
 
-### 安全检测
+### 威胁检测
 * [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
 
 #### RASP
@@ -359,6 +368,41 @@ Blog: https://tom0li.github.io
 
 * [机器学习在二进制代码相似性分析中的应用](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458303210&idx=1&sn=345f8cec156ada8fa9bf6a6d6de83906&chksm=b1818a6086f60376e766baf472171d8e2c780b2913568b46b683e3112fcc5f86c9bf4c19e38b&mpshare=1&scene=1&srcid=&sharer_sharetime=1580984631757&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&exportkey=A0qHBeUryuXO6zhGWt5OJNw%3D&pass_ticket=gjTFXl4hPMTBWzlKpWZWqK8HivXQ8q7ChNndmw4I8JrdAK0jWWFvKIq7OMnO3BhL#rd)
 
+
+
+### 安全运营
+
+* [如何评价安全工作的好坏](https://zhuanlan.zhihu.com/p/226493047) 腾讯'职业欠钱'的向上管理的一些分享
+
+### 数据安全
+
+* [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
+* [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
+
+#### 网络测绘
+* [简单聊聊网络空间测绘纵横之道](https://www.anquanke.com/post/id/226007)
+* [让网络空间测绘技术不再那么飘忽不定](https://mp.weixin.qq.com/s/lr39F9kNOfHlMimgymzVwg) by 赵武 网络测绘关注点
+* [记录一些网络空间测绘/搜索引擎相关的资料](https://github.com/EXHades/CyberSpaceSearchEngine-Research)
+
+### 通信安全
+#### 端对端通信(初版)
+* [史上最全的zoom漏洞和修复方案介绍](https://mp.weixin.qq.com/s/a7mN0lTeXxA3YmZZxIGNRg)
+* [对安全即时通讯软件的流量分析攻击](https://www.anquanke.com/post/id/208678#)
+* [Shadowsocks基于二次混淆加密传输的数据保密性原理分析](https://www.secrss.com/articles/18469)
+
+#### SNI
+* [ESNI](https://www.cloudflare.com/zh-cn/learning/ssl/what-is-encrypted-sni/)  what-is-encrypted-sni
+* [encrypted-client-hello-the-future-of-esni-in-firefox](https://blog.mozilla.org/security/2021/01/07/encrypted-client-hello-the-future-of-esni-in-firefox/)
+* [encrypted-client-hello](https://blog.cloudflare.com/encrypted-client-hello/)
+
+### 个人安全
+
+* [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
+* [lcamtuf:灾难计划](https://lcamtuf.coredump.cx/prep/)
+* [tom0li:个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/) 普通人隐私保护思路
+* [保护隐私](https://github.com/No-Github/Digital-Privacy) 关于数字隐私搜集方法list
+* [Supercookie浏览器访问指纹识别](https://supercookie.me/workwise) Supercookie uses favicons to assign a unique identifier to website visitors. 使用多个访问url区别用户
+
 ### APT研究
 前期列出的大部分是攻击的内容，包含apt跟踪报告等。
 
@@ -444,7 +488,6 @@ AWVS钓鱼
 * [..etc]()
 
 
-
 邮件伪造
 * [一封伪造邮件引发的“探索”（涉及钓鱼邮件、SPF和DKIM等）](http://www.freebuf.com/articles/web/138764.html)
 * [SPF 记录：原理、语法及配置方法简介](https://www.renfei.org/blog/introduction-to-spf.html)
@@ -461,23 +504,6 @@ AWVS钓鱼
 * [Koadic C3 COM Command & Control - JScript RAT](https://github.com/zerosum0x0/koadic)
 * [QuasarRAT](https://github.com/quasar/QuasarRAT)
 * [CS]()
-
-### 安全运营
-
-* [如何评价安全工作的好坏](https://zhuanlan.zhihu.com/p/226493047) 腾讯'职业欠钱'的向上管理的一些分享
-
-### 数据安全
-
-* [互联网企业数据安全体系建设](https://tech.meituan.com/2018/05/24/data-security-system-construction.html)
-* [浅谈数据安全](https://iami.xyz/Talk-about-data-security/)
-
-### 个人安全
-
-* [Tor-0day-Finding-IP-Addresses](https://www.hackerfactor.com/blog/index.php?/archives/896-Tor-0day-Finding-IP-Addresses.html)
-* [lcamtuf:灾难计划](https://lcamtuf.coredump.cx/prep/)
-* [tom0li:个人隐私保护](https://tom0li.github.io/%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/) 普通人隐私保护思路
-* [保护隐私](https://github.com/No-Github/Digital-Privacy) 关于数字隐私搜集方法list
-* [Supercookie浏览器访问指纹识别](https://supercookie.me/workwise) Supercookie uses favicons to assign a unique identifier to website visitors. 使用多个访问url区别用户
 
 ## 预警&研究
 * [Top 10 Web Hacking Techniques of 2017](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) - 一个nb的网站
@@ -498,10 +524,6 @@ AWVS钓鱼
 
 ### Privilege-Escalation
 * [Ubuntu-gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
-
-### VM vCenter
-* [CVE-2021-21972 vCenter 6.5-7.0 RCE 漏洞分析](http://noahblog.360.cn/vcenter-6-5-7-0-rce-lou-dong-fen-xi/)
-* [VMware vCenter RCE 漏洞踩坑实录——一个简单的RCE漏洞到底能挖出什么知识 ](https://mp.weixin.qq.com/s/eamNsLY0uKHXtUw_fiUYxQ) 介绍为什么不能在burp修改数据包来上传文件
 
 ### VPN
 
@@ -534,18 +556,6 @@ AWVS钓鱼
 * [Fuzzing战争: 从刀剑弓斧到星球大战](https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247483742&idx=1&sn=55414da793fdf882cd6a0e396857678a&scene=21#wechat_redirect) Flanker 讲解Fuzzing历史趋势
 * [Fuzzing战争系列之二：不畏浮云遮望眼](https://mp.weixin.qq.com/s/G26MJOH4VPene1Sd_zjEQw) Coverage-Guided Fuzzing 解决闭源思路 Static or Dynamic & Dynamic Tracing
 * []()
-
-### 通信安全
-#### 端对端通信(初版)
-* [史上最全的zoom漏洞和修复方案介绍](https://mp.weixin.qq.com/s/a7mN0lTeXxA3YmZZxIGNRg)
-* [对安全即时通讯软件的流量分析攻击](https://www.anquanke.com/post/id/208678#)
-* [Shadowsocks基于二次混淆加密传输的数据保密性原理分析](https://www.secrss.com/articles/18469)
-
-#### SNI
-* [ESNI](https://www.cloudflare.com/zh-cn/learning/ssl/what-is-encrypted-sni/)  what-is-encrypted-sni
-* [encrypted-client-hello-the-future-of-esni-in-firefox](https://blog.mozilla.org/security/2021/01/07/encrypted-client-hello-the-future-of-esni-in-firefox/)
-* [encrypted-client-hello](https://blog.cloudflare.com/encrypted-client-hello/)
-
 
 ## 代码审计-JAVA
 
