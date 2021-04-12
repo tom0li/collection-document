@@ -58,6 +58,7 @@ Blog: https://tom0li.github.io
       - [C2-RAT](#c2-rat)
   - [预警&研究](#预警研究)
     - [ImageMagick](#imagemagick)
+    - [Exchange](#exchange)
     - [Privilege-Escalation](#privilege-escalation)
     - [VPN](#vpn)
       - [Sangfor](#sangfor)
@@ -88,7 +89,7 @@ Blog: https://tom0li.github.io
       - [靶场](#靶场)
       - [渗透技巧](#渗透技巧)
     - [内网渗透](#内网渗透)
-      - [Exchange](#exchange)
+      - [Exchange利用(旧)](#exchange利用旧)
       - [hash ticket Credential](#hash-ticket-credential)
       - [代理转发与端口复用](#代理转发与端口复用)
       - [内网平台](#内网平台)
@@ -523,6 +524,15 @@ AWVS钓鱼
 * [ImageMagick-CVE-2016-3714 命令执行分析](http://www.zerokeeper.com/vul-analysis/ImageMagick-CVE-2016-3714.html)
 * [Imagemagick 邂逅 getimagesize 的那点事儿](https://paper.seebug.org/969/)
 
+### Exchange
+
+* [Microsoft Exchange漏洞记录(撸向域控) - CVE-2018-8581](https://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581.html)
+* [利用 Exchange SSRF 漏洞和 NTLM 中继沦陷域控](https://xax007.github.io/2019-01-26-pwn-domain-admin-via-exchange-ssrf/)
+* [Microsoft Exchange漏洞分析 CVE-2018-8581](http://www.cnblogs.com/iamstudy/articles/Microsoft_Exchange_CVE-2018-8581_2.html)
+* [Microsoft Exchange 任意用户伪造漏洞（CVE-2018-8581）分析](https://paper.seebug.org/804/)
+* [.Net 反序列化之 ViewState 利用](https://paper.seebug.org/1386/)
+* [proxylogon](https://www.praetorian.com/blog/reproducing-proxylogon-exploit/)
+
 ### Privilege-Escalation
 * [Ubuntu-gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
 
@@ -750,7 +760,7 @@ AWVS钓鱼
 * [内网渗透记录](https://paper.seebug.org/1144) 关键词：委派、relay、bypassAV、webdev XXE -by A-TEAM
 * [Windows内网渗透入门](https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA) -by 腾讯安平部
 
-#### Exchange
+#### Exchange利用(旧)
 
 * [深入 Exchange Server 在网络渗透下的利用方法](https://paper.seebug.org/775/)
 * [Exchange在渗透测试中的利用](https://evi1cg.me/archives/Exchange_Hack.html)
