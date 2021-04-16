@@ -532,6 +532,7 @@ AWVS钓鱼
 * [Microsoft Exchange 任意用户伪造漏洞（CVE-2018-8581）分析](https://paper.seebug.org/804/)
 * [.Net 反序列化之 ViewState 利用](https://paper.seebug.org/1386/)
 * [proxylogon](https://www.praetorian.com/blog/reproducing-proxylogon-exploit/)
+* [生成ViewState的程序实现](https://mp.weixin.qq.com/s/n5UNEc_1-nqMROQg31W_WA)
 
 ### Privilege-Escalation
 * [Ubuntu-gdm3-accountsservice-LPE](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
