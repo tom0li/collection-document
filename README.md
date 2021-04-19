@@ -214,6 +214,8 @@ Blog: https://tom0li.github.io
 ### 安全市场洞察
 介绍安全市场概况、趋势、规律。国内外有安全业务厂商
 
+* [XDef安全峰会2021](https://mp.weixin.qq.com/s/RlEu_qVaj1rIhBuf0vQp8g)
+
 ### 云安全
 #### 云基础知识
 
@@ -425,7 +427,7 @@ redrain及其团队的Anti Threat文章
 * [烽火实验室 blog](https://blogs.360.cn/)
 * [APT 分析及 TTPs 提取](https://paper.seebug.org/1132/)
 * [关于ATT＆CK/APT/归因的讨论](https://weibo.com/ttarticle/p/show?id=2309404450471736639616)
-* [Legends Always Die -- FireEye Summit中英雄联盟供应链攻击简述](https://card.weibo.com/article/m/show/id/2309404426957856047151)
+* [Legends Always Die -- FireEye Summit中英雄联盟供应链攻击简述](https://card.weibo.com/article/m/show/id/2309404426957856047151) 对一起供应链攻击溯源，基础信息比如域名/ip/email，联系历史apt活动
 * [XShellGhost事件技术回顾报告](https://cert.360.cn/static/files/XShellGhost%E4%BA%8B%E4%BB%B6%E6%8A%80%E6%9C%AF%E5%9B%9E%E9%A1%BE%E6%8A%A5%E5%91%8A.pdf)
 * [Kingslayer A supply chain attack](http://www.hackdog.me/article/Kingslayer-A_supply_chain_attack--Part_1.html)
 
@@ -760,6 +762,7 @@ AWVS钓鱼
 * [记一次横向渗透](https://www.lz1y.cn/2018/12/26/%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%A8%AA%E5%90%91%E6%B8%97%E9%80%8F/)
 * [内网渗透记录](https://paper.seebug.org/1144) 关键词：委派、relay、bypassAV、webdev XXE -by A-TEAM
 * [Windows内网渗透入门](https://mp.weixin.qq.com/s/OGiDm3IHBP3_g0AOIHGCKA) -by 腾讯安平部
+* [NTLM-Relay](https://mp.weixin.qq.com/s/aemG5XwVdyzNbOBXztDUbA)
 
 #### Exchange利用(旧)
 
